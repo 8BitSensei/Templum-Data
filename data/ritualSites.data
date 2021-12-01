@@ -1,6 +1,6 @@
 ---
 category: data
-filename: ritualSites.csv
+filename: ritualSites.json
 weight: 1
 title: Ritual Sites
 description: Contains data related to sites of interest

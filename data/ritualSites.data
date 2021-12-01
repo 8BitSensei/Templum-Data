@@ -1,8 +1,0 @@
----
-category: data
-filename: ritualSites.json
-weight: 1
-title: Ritual Sites
-description: Contains data related to sites of interest
-type: application/json
----

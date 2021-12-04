@@ -343,12 +343,13 @@
     },
     {
       "index": 17,
-      "site": "Nettleton Shrub",
+      "site": "Nettleton Scrub",
       "start": "69",
       "end": "late 4th CE",
       "location": "England, wiltshire",
       "bibliography": [
-        "Wedlake, (1982), The shrine of Apollo at Nettleon",
+        "(2000), Romano-British temple, Iron Age ditches, earthwork enclosure and associated buildings 240m and 370m north of Fosse Barn, available at: https://historicengland.org.uk/listing/the-list/list-entry/1019637",
+        "Wedlake, W., (1982), The Excavation of the Shrine of Apollo at Nettleton, Wiltshire, 1956–1971, Reports of the Research Committee of the Society of Antiquaries of London, 40",
         "Lewis, (1966), Temples in Roman Britain",
         "Wright, R., (1962), Roman Britain in 1961: I. Sites Explored: II. Inscriptions, Journal of Roman Studies, 52, pg. 191",
         "Rivet, A., (1958), in Town and Country in Roman Britain, pg. 141",
@@ -357,7 +358,9 @@
         "Haverfield, F., (1914), Roman Britain in 1913, British Academy Supplemental Papers, 2, pg. 49",
         "Haverfield, F., (1912), Roman Sculpture at Nettleton Scrub, near Castle Combe, Proceedings of the Bath & District Branch of Somerset Archaeology Society, pg. 177"
       ],
-      "status": "Certain"
+      "status": "Certain",
+      "description": "A site excavated in 1982 that showed a large and popular site centered around an Octagonal temple which started out as a smaller circular shrine. Wedlake suggests that the initial shrine was constructed soon after 69 CE and no later than 210 CE, the site was built up over time and possibly re-used as a church and homestead while a small part of it was used for worship until around 370 CE.",
+      "tags": "octagonal"
     },
     {
       "index": 19,

@@ -4,9 +4,9 @@ description: Sites and associated data, such as chronology, address, lat, long, 
 publisher_text: Templum Project
 publisher_url: https://8bitsensei.github.io/Templum/
 
-license_text: 
-license_url: 
+license_text: Temple and Shrine sites from Britian & Ireland 100 BCE to 100 CE
+license_url: https://certificates.theodi.org/en/datasets/223823/certificate
 
 frequency: Intermittent
 
-certificate_embed: 
+certificate_embed: <script src='https://certificates.theodi.org/en/datasets/223823/certificate/badge.js'></script>

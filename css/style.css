@@ -106,3 +106,16 @@ footer {
 	position: relative;
 	padding: 10px 20px 10px;
 }
+
+.open-data-certificate {
+    position: relative;
+    text-align: left;
+}
+
+.open-data-certificate p {
+    font-family: 'Helvetica Neue',Helvetica,sans-serif;
+    text-align: left;
+    font-size: 12px;
+    line-height: 18px;
+    height: 18px;
+}

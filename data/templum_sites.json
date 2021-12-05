@@ -1668,6 +1668,20 @@
         "Merrifieild, R., (1995), Roman Metalwork from the Walbrook – Rubbish, Ritual or Redundancy?, Transactions of the London & Middlesex Archaeological Society, 46",
         "Wilmott, T., (1991), Excavations at Bucklesbury House (1954-5) and Temple Court (1922 & 1960), in Excavations in the middle Walbrook Valley, City of London, 1927-1960, 13"
       ]
+    },
+    {
+      "site": "A27 Westhampnett Bypass",
+      "status": "Possible",
+      "start": "late 1st BCE",
+      "end": "unknown",
+      "description": "An exceptional cremation ground found just outside of Chichester along the route of the A27 Westhampnett Bypass in 1992 by Wessex Archaeology. The site contained burials from the Late Iron Age, Roman, and early Anglo-Saxon periods together with a probable Bronze Age ring ditch. The excavators identified four rectangular or square trench-built timber structures (20277, 20657, 20761, and 20562) to the north-east of a circular burial space as shrines.",
+      "tags": "cremation, pre-roman, roman, early medieval, funerary, cremation, shrine",
+      "index": 102,
+      "location": "England, Sussex, Chichester, A27 Westhampnett Bypass",
+      "bibliography": [
+        "Rudling, D., (2008), Roman-Period temples, shrines and religion in sussex, in Ritual Landscapes of Roman South-East Britain, pg. 95, 97",
+        "Fitzpatrick, A., (1997), Archaeological Excavations on the Route of the A27 Westhampnett Bypass, West Sussex, 1992, pg. 15 - 18"
+      ]
     }
   ],
   "dates": {

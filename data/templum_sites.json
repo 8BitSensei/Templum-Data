@@ -1774,6 +1774,20 @@
       ],
       "latitude": "50.840482",
       "longitude": "-0.85041271"
+    },
+    {
+      "site": "Badbury Rings",
+      "index": 105,
+      "location": "England, Dorset Blandford Forum",
+      "bibliography": [
+        "Earthworks of Romano-British Temple SW of Badbury Rings, Kingston Lacy Estate, available at: https://heritagerecords.nationaltrust.org.uk/HBSMR/MonRecord.aspx?uid=MNA138090",
+        "(01/12/2013), An interesting site, available at: https://archaeologynationaltrustsw.wordpress.com/2013/07/06/camping-at-badbury-temple/"
+      ],
+      "description": "An apparent Romano-British Temple",
+      "status": "Certain",
+      "latitude": "50.82647545696212",
+      "longitude": "-2.056940541740413",
+      "tags": "roman, romano-celtic, square"
     }
   ],
   "dates": {

@@ -1788,6 +1788,16 @@
       "latitude": "50.82647545696212",
       "longitude": "-2.056940541740413",
       "tags": "roman, romano-celtic, square"
+    },
+    {
+      "site": "Norden Hill",
+      "status": "Possible",
+      "description": "Apparently, there is a Roman temple site just above the National Trust Corfe Castle visitor centre, which was identified by geophys.",
+      "index": 106,
+      "location": "Wareham, England, Dorset",
+      "bibliography": [
+        "(28/03/2019), Norden the Roman Corfe Castle, available at: https://archaeologynationaltrustsw.wordpress.com/2019/03/28/a-hole-in-the-isle-of-purbeck/"
+      ]
     }
   ],
   "dates": {

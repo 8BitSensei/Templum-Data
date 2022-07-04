@@ -14,11 +14,16 @@
         "McBurney, J., (2016), The Cult of Sulis-Minerva at Bath: The Religious Ritual of the Patron Goddess at Bath., Victoria University of Wellington, available at: https://www.exams.cambridgescp.com/files/l2romanbritain.pdf",
         "Cleary, S., (2015), The 'end of the gods' in late Roman Britain, Gallia",
         "Southern, P., (2015), The Story of Roman Bath, Amberley Publishing",
+        "et al, Martyn, Blick, Brindle, (2015), Bath, The Temple of Sulis Minerva (precinct), available at: https://doi.org/10.5284/1030449",
+        "et al, Martyn, Blick, Brindle, (2015), Bath, Arlington Court (Bath and Northeast Somerset), available at: https://doi.org/10.5284/1030449",
+        "et al, Martyn, Blick, Brindle, (2015), Bath, Hot Bath Spring (Bath and Northeast Somerset), available at: https://doi.org/10.5284/1030449",
         "Cunliffe, B., (2009), Roman Bath Discovered, The History Press",
         "Gerrard, J., (2007), The Temple of Sulis Minerva, Bath and the end of Roman Britain, The Antiquaries Journal, 87",
+        "Davenport, (1999), Archaeology in Bath excavations 1984-1989, Oxford Archaeology Monogaph, 3",
         "Cunliffe, B., Tomlin, R., Walker, D., Allason-Jones, L., (1988), The Temple of Sulis Minerva at Bath: Vol.2 (II): The finds from the sacred spring",
         "Cunliffe, B., Davenport, P., (1985), The Temple Of Sulis Minerva At Bath: Volume 1 (I): The Site, Oxford University School of Archaeology",
         "Stewart, R., (1981), Waters of the Gap: Mythology of Aquae Sulis, Humanities Press Intl",
+        "Wedlake, Cunliffe, (1979), Excavation in Bath, 1950-1975 Bristol",
         "Lewis, (1966), Temples in Roman Britain",
         "Toynbee, J., Richmond, I., (1955), The Temple of Sulis-Minerva at Bath, Journal of Roman Studies, 45, pg. 97 ff",
         "Collingwood, R., Taylor, M., (1921), Roman Britain in 1921 and 1922, Journal of Roman Studies, 11, pg. 233",
@@ -26,8 +31,8 @@
         "Toynbee, J., (1909), Art in Roman Britain, 25",
         "Downes, R., (1909), The Goddess Sul and Heathen Rites near Bath",
         "(1906), Somerset, in Victoria County History, 1, pg. 229 ff",
-        "(1903), Ephemis Epigraphica, 9, pg. 994-5",
-        "(1873), in Corpus Inscriptionum Latinarum, 3, pg. 36-47, 53, 1351",
+        "(1903), Ephemis Epigraphica, Ephemis Epigraphica, 9, pg. 994-5",
+        "(1873), Corpus Inscriptionum Latinarum, in Corpus Inscriptionum Latinarum, 3, pg. 36-47, 53, 1351",
         "Irvine, J., (1873), Notes on the Remains of the Roman Temple and Entrance Hall to Roman Baths Found at Bath in 1790, Journal of the British Archaeological Association, 29, pg. 379",
         "Lysons, S., (1808), Reliquiae Britannico-Romanae, 1",
         "Bart, H., (1792), Account of Antiquities discovered at Bath 1790. By Sir Henry Charles Englefield, Archaeologia, 10, pg. 325"
@@ -61,12 +66,14 @@
       "location": "England, Hetfordshire, Ashwell",
       "bibliography": [
         "Jackson, R., Burleigh, G., (2018), Dea Senuna: Treasure, Cult and Ritual at Ashwell, Hertfordshire, British Museum",
-        "Richardson, I., (2012), PAS-9708E3: A ROMAN HOARD, available at: https://finds.org.uk/database/artefacts/record/id/509533#1"
+        "et al, Martyn, Blick, Brindle, (2015), Ashwell, near Baldock (Hertfordshire), available at: https://doi.org/10.5284/1030449",
+        "Richardson, I., (2012), PAS-9708E3: A ROMAN HOARD, available at: https://finds.org.uk/database/artefacts/record/id/509533#1",
+        "Jackson, R., Burleigh, G., (2007), The Senuna treasure and shrine at Ashwell (Herts), in Continuity and Innovation in Religion in the Roman West, 1, pg. 37-54"
       ],
       "description": "Largely known for the Ashwell hoard, the site is a complex not only including a temple, but also a shrine enclosing a springhead, accommodation, and workshops. There are other nearby temple sites at Barkway and Aston.",
       "tags": "roman, shrine, spring",
-      "latitude": "52.04698887461549",
-      "longitude": "-0.16893667320889388"
+      "latitude": "52.047260822235685",
+      "longitude": "-0.16376602135542567"
     },
     {
       "index": 3,
@@ -101,7 +108,9 @@
       "location": "England, Somerset, Brean Down",
       "description": "A particularly short-lived square temple on the rocky peninsula south  of Weston-super-Mare. Lewis (1966) suggests it may have been converted for use in smelting.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Brean Down (Somerset), available at: https://doi.org/10.5284/1030449",
         "Lewis, (1966), Temples in Roman Britain",
+        "Apsimon, (1965), The Roman temple on Brean Down, Somerset, Proc University of Bristol Spelaeology Society, 10(3)",
         "ApSimon, (1964)",
         "ApSimon, (1961), Numinastic Chronicle, 1, pg. 191 ff",
         "ApSimon, (1959), Journal of Roman Studies, 49, pg. 129",
@@ -110,8 +119,8 @@
       ],
       "tags": "roman, romano-celtic",
       "status": "Certain",
-      "latitude": "51.323888708989294",
-      "longitude": "-3.016008597758739"
+      "latitude": "51.324208532208445",
+      "longitude": "-3.0155116379408646"
     },
     {
       "index": 5,
@@ -120,17 +129,19 @@
       "end": "early 5th CE",
       "location": "England, Northamptonshire, Brigstock",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Brigstock (Northamptonshire), available at: https://doi.org/10.5284/1030449",
         "Cleary, S., (2015), The ‘end of the gods' in late Roman Britain",
         "Green, (1976)",
         "Lewis, (1966), Temples in Roman Britain",
         "Greenfield, E., (1963), The Romano-British Shrines at Brigstock, Northants, Antiquaries Journal, 43, pg. 228 ff",
+        "Greenfield, (1963), Statuettes of Horsemen and Horses and other Votive Objects from Brigstock, The Antiquaries Journal, 43, pg. 264 ff",
         "Wright, R., (1962), Roman Britain in 1961: I. Sites Explored: II. Inscriptions, Journal of Roman Studies, 52, pg. 173 ff",
         "Taylor, M., (1957), A Roman bronze statuette from Northamptonshire, Antiquaries Journal, 37, pg. 71"
       ],
       "description": "Two circular temples set about 20ft apart.",
       "tags": "circular",
-      "latitude": "52.461700",
-      "longitude": "-0.58699208"
+      "latitude": "52.462798161534735",
+      "longitude": "-0.584101338675327"
     },
     {
       "index": 6,
@@ -140,11 +151,14 @@
       "location": "England, Essex",
       "description": "The earliest ritual activity recorded at Chelmsford begins in 60 AD and shows continuous activity until the early 5th. The latest coin issue found on the site dates from 388 - 402 AD with the distinct possibility of later activity. The sites demise is likely connected to the end of the Roman town in which it sat to the east. Wickenden suggests a dedication to Mars.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Chelmsford, NE (Essex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
-        "Wickenden, (1992)",
+        "Wickenden, N., (1992), The Temple and Other sites in the north-eastern sector of Caesaromagus, CBA Research Report, 75, available at: https://doi.org/10.5284/1000332",
         "Drury, (1988)"
       ],
-      "tags": "roman, mars"
+      "tags": "roman, mars",
+      "latitude": "51.72955568242917",
+      "longitude": "0.4753403426763637"
     },
     {
       "index": 7,
@@ -155,7 +169,8 @@
       "description": "A square temple in Albury, Surrey. Lewis (1966) suggest a start date of the later 1st CE but some earlier use seems likely. He also suggest that it was destroyed by fire at some point in the early or mid 5th CE.",
       "bibliography": [
         "Esposito, A., (2016), A Context for Roman Priestly Regalia: Depositional Practices and Spatial Distribution of Assemblages from Roman Britain, in TRAC 2015: Proceedings of the 25th annual Theoretical Roman Archaeology Conference",
-        "Poulton, R., (2007), Farley Heath Roman temple, Surrey Archaeological Collections",
+        "et al, Martyn, Blick, Brindle, (2015), Farley Heath (Surrey), available at: https://doi.org/10.5284/1030449",
+        "Bird, J., Poulton, R., (2007), Farley Heath Roman temple, Surrey Archaeological Collections, 92, available at: http://dx.doi.org/10.5284/1000221",
         "Bird, (2007), Discussion of the Iron Age and Romano-British artefacts and their significance",
         "Bird, (1996), A Romano-British priestly head-dress from Farley Heath",
         "Bird, J., O'Connell, (1994), The Roman Temple at Wanborough, Excavation 1985–1986",
@@ -173,8 +188,8 @@
         "Aubrey, (1710), Natural History and Antiquities of Surrey"
       ],
       "tags": "roman, romano-celtic",
-      "latitude": "51.193122150606946",
-      "longitude": "-0.4967434728893423",
+      "latitude": "51.19389328834252",
+      "longitude": "-0.49751160972152864",
       "status": "Certain"
     },
     {
@@ -185,18 +200,22 @@
       "location": "England, Berkshire, Frilford",
       "description": "A site with two temples, the earlier is described as a circular shrine, the later is a square temple. Located on the edge of a ridge beside the river Ock. For the later square temple (Frilford 2), Lewis (1966) suggests a chronology beginning in the later 1st CE, annexes were added in the late 3rd CE and early 4th CE, and fell into 'decay' at some point in the 5th CE.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Marcham/Frilford (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Friendship-Taylor, (2013)",
-        "Gosden, C., Kamash, Z., Lock, G., (2010), Continuity and Religious Practices in Roman Britain: The Case of the Rural Religious Complex at Marcham/Frilford, Oxfordshire",
+        "Gosden, C., Kamash, Z., Lock, G., (2010), Continuity and Religious Practices in Roman Britain: The Case of the Rural Religious Complex at Marcham/Frilford, Oxfordshire, Britannia, 41",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
-        "Harding, (1987)",
+        "Harding, D., (1987), Excavations in Oxfordshire 1964-6, Univ Edinburgh Dept Archaeol Occas Pap, 15",
         "Lewis, (1966), Temples in Roman Britain",
         "Copley, G., (1958), in Archaeology of SE England, pg. 99",
         "Stevens, C., (1940), The Frilford Site-a Postscript, Oxoniensia, 5, pg. 166 ff",
-        "Goodchild, R., Bradford, J., (1939), Excavations at Frilford, Berks, 1937-8, Oxoniensia, 4, pg. 1 ff"
+        "Goodchild, R., Bradford, J., (1939), Excavations at Frilford, Berks, 1937-8, Oxoniensia, 4, pg. 1 ff",
+        "Goodchild, Bradford, (1939), Excavation at Frilford, Berks, Oxoniensia, 4",
+        "Dudley Buxton, (1921), Excavations at Frilford, The Antiquaries Journal, 1"
       ],
       "tags": "roman, circular, romano-celtic",
-      "latitude": "51.66381334007689",
-      "longitude": "-1.3681082586040232"
+      "latitude": "51.66329644422302",
+      "longitude": "-1.366780826764033",
+      "status": "Certain"
     },
     {
       "index": 9,
@@ -206,7 +225,11 @@
       "location": "England, Essex",
       "description": "A square temple in a temenos located 3 miles south of Colchester, on a plateau.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Gosbecks, Colchester (Essex), available at: https://doi.org/10.5284/1030449",
+        "Benfield, (2008), Excavations of Late Iron Age and Roman features and a Roman road north of Gosbecks Archaeological Park, 1995-96, available at: https://doi.org/10.5284/1030493",
+        "Austin, (1999), Excavation at Gosbecks Archaeological Park: July-August 1999, available at: https://doi.org/10.5284/1023601",
         "(1989), CUCAP CRF72, Cambridge University Collection of Aerial Photographs",
+        "Dunnett, (1971), The excavation of the Roman theatre at Gosbecks, Britannia, 2",
         "Lewis, (1966), Temples in Roman Britain",
         "(1959), CUCAP YG22, Cambridge University Collection of Aerial Photographs",
         "Hull, M., (1958), in Roman Colchester, Society of Antiquaries, pg. 259 ff",
@@ -216,8 +239,9 @@
         "(1847), Journal of the British Archaeological Association, 2, pg. 45 ff"
       ],
       "tags": "roman, romano-celtic",
-      "latitude": "51.86715478196359",
-      "longitude": "0.8568075481287101"
+      "latitude": "51.86581735242562",
+      "longitude": "0.8569018554223327",
+      "status": "Certain"
     },
     {
       "index": 10,
@@ -225,9 +249,11 @@
       "start": "early 1st CE",
       "end": "early 5th CE",
       "location": "England, Essex, Uttlesford",
-      "description": "A substantial Romano-Celtic temple set within an extensive temenos, 1km east of the Roman town. The site shows some evidence of pre-invasion use in the early 1st century and shows continued ritual activity up to the the late 4th or early 5th century.",
+      "description": "A substantial Romano-Celtic temple set within an extensive temenos, 1km east of the Roman town. The site shows some evidence of pre-invasion use in the early 1st century as a possible late Iron Age shrine and shows continued ritual activity up to the the late 4th or early 5th century.",
       "bibliography": [
         "Alaimo, K., (2016), An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain",
+        "et al, Martyn, Blick, Brindle, (2015), Great Chesterford Temple (Essex), available at: https://doi.org/10.5284/1030449",
+        "Medlycott, (2011), The Roman Town of Great Chesterford, East Anglian Archaeology, 137",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
         "Kemble, (2001)",
         "Miller, (1995)",
@@ -239,9 +265,10 @@
         "Nash-Williams, A., Nash-Williams, V., (1935), Essex, in Catalogue of the Roman Inscribed and Sculptured Stones found at Caerleon, Royal Commission on Historical Monuments, 23",
         "Neville, R., (1848), in Sepulchra Exposita, pg. 89"
       ],
-      "tags": "roman, romano-celtic",
-      "latitude": "52.0701066919667",
-      "longitude": "0.20748587499274526"
+      "tags": "roman, romano-celtic, iron age",
+      "latitude": "52.070481270895975",
+      "longitude": "0.2080520834686537",
+      "status": "Certain"
     },
     {
       "index": 11,
@@ -258,6 +285,7 @@
         "Webster, J., (2015), Understanding Celtic Religion",
         "Méniel, P., (2015), Killing and Preparing Animals, in A COMPANION TO THE ARCHAEOLOGY OF RELIGION IN THE ANCIENT WORLD",
         "Cleary, S., (2015), The ‘end of the gods' in late Roman Britain",
+        "et al, Martyn, Blick, Brindle, (2015), Hayling Island temple (Hampshire), available at: https://doi.org/10.5284/1030449",
         "King, A., (2014), The Pre-Roman Cult Site at Hayling Island, Hampshire, GB: The Problem of Characterizing an Anonymous Deity",
         "King, A., Soffe, G., (2013), A Sacred Island Iron Age, Roman and Saxon Temples and Ritual on Hayling Island",
         "(2012), Religion and Ritual pre-AD 410, April",
@@ -270,9 +298,12 @@
         "Caesar, Hammond, C., (2008), Caesar: The Gallic War, Oxford World's Classics",
         "Haeussler, R., (2008), How to identify Celtic religion(s) in Roman Britain and Gaul",
         "Scheid, J., (2007), Sacrifices for gods and ancestors, in A Companion to Roman Religion, pg. 263",
+        "Godden, D., (2006), Land at Northney Road, Hayling lsland, Hampshire: report on archaeological watching brief, available at: https://doi.org/10.5284/1027328",
+        "King, A., Reilly, K., (2005), Animal bones from temples in Roman Britain, Britannia, 36, pg. 32-370",
         "Henig, M., (2003), Religion in Roman Britain",
         "Pitts, M., (2001), Hayling Island, The Iron Age and Roman temple site on the Hampshire coast continues to surprise",
         "Creighton, J., (2000), Coins and Power in Late Iron Age Britain",
+        "McConnell, R., Turner, A., (1999), Geophys. Survey report: Northney Farm, Hayling Island, Unpublished report to King Alfreds College, Winchester",
         "Watts, D., (1998), Religion in late Roman Britain",
         "King, A., Soffe, G., (1998), Internal organisation and deposition at the Iron Age temple on Hayling Island",
         "King, A., Soffe, G., (1994), The Iron Age and Roman Temple on Hayling Island, Hampshire, in The Iron Age in Wessex: recent work",
@@ -283,8 +314,11 @@
         "King, A., (1979), The Hayling Island temple: third interim report on the excavation of the Iron Age and Roman temple 1976-78",
         "King, A., Downey, R., Soffe, G., (1978), The Roman temple on Hayling Island"
       ],
-      "description": "pre-roman, roman, romano-celtic, circular",
-      "status": "Certain"
+      "description": "A late Iron Age religious site which seems to have smoothly developed into a circular Romano-Celtic temple.",
+      "status": "Certain",
+      "latitude": "50.82192686798294",
+      "longitude": "-0.9725367249546447",
+      "tags": "pre-roman, roman, romano-celtic, circular"
     },
     {
       "index": 12,
@@ -299,7 +333,8 @@
       ],
       "tags": "roman, romano-celtic",
       "latitude": "52.471066979862044",
-      "longitude": "0.48222286925998553"
+      "longitude": "0.48222286925998553",
+      "status": "Possible"
     },
     {
       "index": 13,
@@ -308,17 +343,20 @@
       "end": "late 4th CE",
       "location": "England, Dorset, Weymouth, Bowleaze Coveway",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Jordan Hill (Dorset), available at: https://doi.org/10.5284/1030449",
         "Lewis, M., (1966), Temples in Roman Britain",
         "O'Neil, B., (1936), Coins from the Jordan Hill Roman Temple, Transactions of the Dorset Natural History and Archaeological Society, 57, pg. 140",
         "Drew, C., (1933), The Excavations at Jordan Hill and Preston, 1932, Transactions of the Dorset Natural History and Archaeological Society, 54, pg. 15 ff",
         "Drew, C., (1932), The Excavations at Jordan Hill, 1931, Transactions of the Dorset Natural History and Archaeological Society, 53, pg. 265 ff",
+        "Salisbury, (1929), A hoard of Roman coins from Jordan Hill, Weymouth (1929), Proceedings of the Dorset Natural History and Archaeological Society, 51",
         "Oliver, V., (1923), The Pre-Roman and Roman Occupation of the Weymouth District, Transactions of the Dorset Natural History and Archaeological Society, 44, pg. 48",
         "Warne, C., (1872), in Ancient Dorset, pg. 225 ff",
         "(1844), Roman ruins near Weymouth, Gentleman's Magazine, 22, pg. 635"
       ],
       "latitude": "50.63754149244569",
       "longitude": "-2.4271030418213715",
-      "status": "Certain"
+      "status": "Certain",
+      "tags": "roman, romano-celtic"
     },
     {
       "index": 14,
@@ -326,46 +364,65 @@
       "start": "early 3rd CE",
       "end": "early 5th CE",
       "location": "England, Somerset, Mendip, Lamyatt",
-      "bibliography": []
+      "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Lamyatt Beacon (Somerset), available at: https://doi.org/10.5284/1030449",
+        "Leech, (1986), The Excavation of a Romano-Celtic temple and a later cemetery on Lamyatt Beacon, Somerset, Britannia, 17"
+      ],
+      "latitude": "51.12394174206933",
+      "longitude": "-2.473626891701024",
+      "tags": "roman, romano-celtic",
+      "status": "Probable"
     },
     {
       "index": 15,
       "site": "Lowbury Hill",
-      "start": "45",
-      "end": "65",
+      "start": "late 1st CE",
+      "end": "unknown",
       "location": "England, Oxfordshire, Wallingford",
       "bibliography": [
-        "Atkinson",
+        "et al, Martyn, Blick, Brindle, (2015), Lowbury Hill (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
-        "Fulford, M., Rippon, S., Allen, D., Allen, J., Allen, S., Firth, J., Gaffney, C., Gater, J., Hamilton-Dyer, S., Härke, H., Kaminski, J., Richards, D., Somerville, E., Timby, J., Tingle, M., (01/1994), Lowbury Hill, Oxon: a Re-Assessment of the Probable Romano-Celtic Temple and the Anglo-Saxon Barrow, Archaeological Journal, 151, 1, pg. 158-211, available at: http://www.tandfonline.com/doi/abs/10.1080/00665983.1994.11078122"
-      ]
+        "Fulford, M., Rippon, S., Allen, D., Allen, J., Allen, S., Firth, J., Gaffney, C., Gater, J., Hamilton-Dyer, S., Härke, H., Kaminski, J., Richards, D., Somerville, E., Timby, J., Tingle, M., (1994), Lowbury Hill, Oxon: a Re-Assessment of the Probable Romano-Celtic Temple and the Anglo-Saxon Barrow, Archaeological Journal, 151, 1, pg. 158-211, available at: http://www.tandfonline.com/doi/abs/10.1080/00665983.1994.11078122",
+        "Atkinson, D., (1916), The Romano-British site on Lowbury Hill in Berkshire"
+      ],
+      "latitude": "51.53612896369298",
+      "longitude": "-1.2228399553747231",
+      "status": "Possible",
+      "tags": "roman",
+      "description": "A possible Romano-British religious site, first excavated in 1913-14."
     },
     {
       "index": 16,
       "site": "Lydney Temple",
-      "start": "364",
-      "end": "unknown",
+      "start": "late 2nd CE",
+      "end": "early 5th CE",
       "location": "England, Gloucstershire, Lydney Park",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Lydney Park (Gloucestershire), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
+        "Casey, Hoffmann, (1999), Excavations at the Roman temple at Lydney Park, Gloucestershire in 1980 and 1981, Antiquaries Journal, 79",
         "Rahtz, Watts, (1989)",
+        "Scott-Garrett, (1959), Roman Iron Mine in Lydney Park (1959), Trans Bristol and Gloucestershire Archaeological Society, 78",
         "Richmond, I., (1955), in Roman Britain, pg. 139",
         "Wheeler, R., (1932), Report on the Excavations ... in Lydney Park",
-        "Wheeler, Wheeler, (1932)",
+        "Wheeler, R., Wheeler, T., (1932), Report on the excavation of the prehistoric, Roman and post-Roman site at Lydney Park, Gloucestershire (1932), Society of Antiquaries Rep, IX",
         "Ward, J., (1911), Roman Era in Britain",
         "Bathurst, W., King, C., (1879), Roman Antiquities at Lydney Park"
       ],
-      "latitude": "51.72093735841136",
-      "longitude": "-2.5580382419021066",
-      "status": "Certain"
+      "latitude": "51.72146470303315",
+      "longitude": "-2.557441681619759",
+      "status": "Certain",
+      "description": "A major Romano-British religious complex on a promontory overlooking the River Severn. Coin evidence apparently suggests that the cult continued into the early 5th CE, even though the temple superstructure seems to have collapsed by 370 CE.",
+      "tags": "roman"
     },
     {
       "index": 17,
       "site": "Nettleton Scrub",
-      "start": "69",
+      "start": "mid 1st CE",
       "end": "late 4th CE",
       "location": "England, wiltshire",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Nettleton (Wiltshire), available at: https://doi.org/10.5284/1030449",
         "(2000), Romano-British temple, Iron Age ditches, earthwork enclosure and associated buildings 240m and 370m north of Fosse Barn, available at: https://historicengland.org.uk/listing/the-list/list-entry/1019637",
         "Wedlake, W., (1982), The Excavation of the Shrine of Apollo at Nettleton, Wiltshire, 1956–1971, Reports of the Research Committee of the Society of Antiquaries of London, 40",
         "Lewis, (1966), Temples in Roman Britain",
@@ -380,8 +437,8 @@
       "status": "Certain",
       "description": "A site excavated in 1982 that showed a large and popular site centered around an Octagonal temple which started out as a smaller circular shrine. Wedlake suggests that the initial shrine was constructed soon after 69 CE and no later than 210 CE, the site was built up over time and possibly re-used as a church and homestead while a small part of it was used for worship until around 370 CE.",
       "tags": "octagonal",
-      "latitude": "51.49092396134007",
-      "longitude": "-2.2593262718041753"
+      "latitude": "51.490762522112846",
+      "longitude": "-2.257769642658732"
     },
     {
       "index": 19,
@@ -400,13 +457,16 @@
       "bibliography": [
         "McCarty, M., (2015), Chapter 4.2, Religious dedications, in The Oxford Handbook of Roman Sculpture",
         "Cleary, S., (2015), The ‘end of the gods' in late Roman Britain",
+        "et al, Martyn, Blick, Brindle, (2015), Uley (Gloucestershire), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
-        "Woodward, Leach, (1993), The Uley Shrines: Excavation of a Ritual Complex on West Hill, Uley, Gloucestershire",
+        "Woodward, Leach, (1993), The Uley Shrines: Excavation of a Ritual Complex on West Hill, Uley, Gloucestershire, English Heritage, available at: http://dx.doi.org/10.5284/1028203",
         "Sparey-Green, (1987), pg. 69"
       ],
-      "latitude": "51.69667714806776",
-      "longitude": "-2.3059451288058503",
-      "status": "Certain"
+      "latitude": "51.695647494511284",
+      "longitude": "-2.3066782805117216",
+      "status": "Certain",
+      "tags": "roman, iron age, romano-celtic",
+      "description": "A major late Iron Age and Roman religious complex overlooking the River Severn. Cult figures and curse tablets indicate that the primary deity worshipped here was Mercury."
     },
     {
       "index": 21,
@@ -419,20 +479,25 @@
         "Esposito, A., (2019), Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain, Archaeopress Publishing Ltd",
         "Alaimo, K., (2016), An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain",
         "Esposito, A., (2015), A Context for Roman Priestly Regalia: Depositional Practices and Spatial Distribution of Assemblages from Roman Britain, in TRAC 2015: Proceedings of the 25th annual Theoretical Roman Archaeology Conference",
+        "et al, Martyn, Blick, Brindle, (2015), Wanborough Roman Temple (Surrey), available at: https://doi.org/10.5284/1030449",
         "Rudd, C., (2014), Horned god or druid priest?, available at: http://www.celticcoins.com/wp-content/uploads/2014/12/Horned-god.pdf",
         "Thomas, S., (2009), Wanborough Revisited: The Rights and Wrongs of Treasure Trove Law in England and Wales, in Metal Detecting & Archaeology",
         "King, A., (2008), Coins and coin hoards from Romano-Celtic temples in Britain",
         "Williams, D., (2008), The Wanborough Temple Site, in Ritual Landscapes of Roman South-East Britain",
-        "Williams, (2007), Green Lane, Wanborough: excavations at the Roman religious site 1999, Surrey Archaeological Collections",
+        "Williams, (2007), Green Lane, Wanborough: excavations at the Roman religious site 1999, Surrey Archaeological Collections, 93, available at: http://dx.doi.org/10.5284/1000221",
         "Bird, J., Williams, Poulton, R., (2007), Farley Heath and Wanborough Roman Temples, 93",
         "King, A., (2005), Animal Remains from Temples in Roman Britain, Britannia, 36",
         "Bird, D., (2004)",
         "Graham, D., (2002)",
         "Williams, (2000)",
-        "Bird, (1996), Roman objects from Wanborough: a supplementary note, Surrey Archaeological Collections",
-        "Bird, O'Connell, (1994), The Roman Temple at Wanborough, Excavation 1985–1986"
+        "Bird, J., (1996), Roman objects from Wanborough: a supplementary note, Surrey Archaeological Collections, 83, available at: http://dx.doi.org/10.5284/1000221",
+        "Bird, O'Connell, (1994), The Roman Temple at Wanborough, Excavation 1985–1986, available at: http://dx.doi.org/10.5284/1000221",
+        "O'Connell, (1984), Green Lane, Wanborough, 1979 (SU 920 495), Surrey Archaeological Collections, 73, available at: http://dx.doi.org/10.5284/1000221"
       ],
-      "status": "Certain"
+      "status": "Certain",
+      "latitude": "51.237943727829844",
+      "longitude": "-0.6830911890906545",
+      "tags": "iron age, roman"
     },
     {
       "index": 23,
@@ -442,9 +507,14 @@
       "location": "England, Essex",
       "description": "An unusually late constructed shrine of timber and turf. The shrine had a period of reconstruction in 390 - 400 CE involving the laying of a flint and tile platform.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Great Dunmow (Essex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
         "Wickenden, (1988)"
-      ]
+      ],
+      "latitude": "51.872032087418994",
+      "longitude": "0.36025374576608715",
+      "tags": "roman",
+      "status": "Probable"
     },
     {
       "index": 24,
@@ -452,8 +522,15 @@
       "start": "117",
       "end": "378",
       "location": "England, Dorset, South Perrot, Picket Lane, Picket Farm",
-      "description": "A Neolithic oval barrow which shows evidence for Roman period ritual activuty. Dating is primarily through coin depositons, the bulk dating from 260 to 378 but the earliest is from 117. Some Roman roof tiles were found, the excavator suggested the possibility of a Roman shrine but this was not discovered.",
-      "bibliography": []
+      "description": "A Neolithic oval barrow which shows evidence for Roman period ritual activuty. Dating is primarily through coin depositons, the bulk dating from 260 to 378 but the earliest is from 117. Some Roman roof tiles were found, the excavator suggested the possibility of a Roman shrine but this was not discovered. This entry is very tentative, and may be removed based on further research.",
+      "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Picket Lane, South Perrot (Dorset), available at: https://doi.org/10.5284/1030449",
+        "Cooke, (2005), Picket Farm, Picket Lane, South Perrot. report on an archaeological fieldwalking exercise and evaluation, and an assessment of the results., available at: https://doi.org/10.5284/1028790"
+      ],
+      "status": "Possible",
+      "latitude": "50.84478890169648",
+      "longitude": "-2.753160888619277",
+      "tags": "roman"
     },
     {
       "index": 25,
@@ -463,10 +540,15 @@
       "location": "England, Essex, Witham, Ivy Chimneys",
       "description": "The site is suggested to have activity beginning in the Late Iron Age with a timber-framed wattle and daub temple built in the later 3rd Century. There are several periods of activity and reconstruction lasting into the early 5th Century. Turner suggested that one of these phases was a church.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Ivy Chimneys (Essex), available at: https://doi.org/10.5284/1030449",
         "Green, (1999)",
-        "Turner, (1999)",
+        "Turner, R., (1999), Excavations of an Iron Age Settlement and Roman religious Complex at Ivy Chimneys, Witham, Essex 1978-83, East Anglian Archaeology, 88",
         "Rodwell, (1993)"
-      ]
+      ],
+      "latitude": "51.792412045694896",
+      "longitude": "0.6251698972508485",
+      "tags": "iron age, roman",
+      "status": "Probable"
     },
     {
       "index": 26,
@@ -476,8 +558,11 @@
       "location": "England, Somerset, Bristol, Chewstoke, Pagans Hill",
       "description": "A double octagonal temple built in the late 3rd Century CE, the original building, and a second collapsed before the final structure was built in the late 4th century CE. The last building collapsed some time in the 5th century CE. There is pre-roman use noted and post-roman material from the 7th century was found in the adjacent well.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Pagans Hill, Chew Stoke (Somerset), available at: https://doi.org/10.5284/1030449",
         "Cleary, S., (2014), The 'End of the Gods' in Late Roman Britain.",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
+        "Rahtz, Watts, (1991), Pagans Hill Revisited, Archaeological Journal, 146",
+        "Rahtz, Harris, (1989), The temple Well and other buildings at Pagans Hill, Chew Stoke, North Somerset, omerset Archaeology and Natural History, 101/2",
         "Lewis, (1966), Temples in Roman Britain",
         "Rahtz, P., Harris, L., Ap Simon, A., (1957), The Iron Age A Ditch and Pottery at Pagan's Hill, Chew Stoke, Proceedings of the University of Bristol Spelæological Society, 8, 2",
         "Rahtz, P., Rahtz, M., Harris, L., (1956), The Temple Well and Other Buildings at Pagans Hill, Chew Stoke, North Somerset, Proceedings of the Somerset Archaeological and Natural History Society, 101 - 102, pg. 15 ff",
@@ -486,8 +571,8 @@
       ],
       "status": "Certain",
       "tags": "octagonal, roman",
-      "latitude": "51.360730",
-      "longitude": "-2.6376452"
+      "latitude": "51.36073182699915",
+      "longitude": "-2.637358018699924"
     },
     {
       "index": 27,
@@ -497,12 +582,17 @@
       "location": "England, Sussex",
       "description": "A probable Romano-British temple of uncertain date, the site has been known since the 50s when it was observed as a cropmark (King, Soffe, 1983). The site consists of two concentric masonry foundations (17.5m x 16m) and (8.5, x 7.5m) enclosing a slightly off-centre rectangle which has been interpreted as a possible foundation of a plinth, altar, statue, or else a pool or well. The entrance is more than likely on the east side, though this is not clear from aerial photography.\n\nThe site (SU 8090 0644) overlooks a nearby stream at the bottom of a gentle slope to the east. Just outside the temple between itself and the river is a large circular structure with a large central depression 21m in diameter and an encircling ditch of 31m in diameter. Rudling postulates an earlier shrine or location for depositions.\n\nNo excavation has been carried out so the date can only be suggested from surface level finds. The earliest finds are Late iron age pottery and coins (Rudling, 2008). The bulk of pottery is late first and second centuries, but one sherd may be third or fourth century (King, Soffe, 1983).",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Ratham Mill, Funtington (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
         "Mountstephen, S., (2007)",
         "Allison, (2006)",
-        "King, A., Soffe, G., (1983), A Romano-Celtic Temple at Ratham Mill, Funtington, West Sussex",
+        "King, A., Soffe, G., (1983), A Romano-Celtic Temple at Ratham Mill, Funtington, West Sussex, Britannia, 14",
         "(1963), Joint Arch. Comm. Bull, xiii, 1"
-      ]
+      ],
+      "latitude": "50.85182993179614",
+      "longitude": "-0.8521226906063549",
+      "tags": "roman, romano-celtic",
+      "status": "Possible"
     },
     {
       "index": 28,
@@ -513,6 +603,7 @@
       "description": "Richborough Castle began as a temporary millitary camp for Plautius' invasion force in 43 AD, the only settlement prior to this was an Iron Agen farmstead that was abandoned around 100 BC. At the end of the first century AD timber structures were cleared away and the site became a more permanent civilian settlement with an associated port. In the late third century AD the site again became a millitary establishment, the central part of the town was leveled and the monument constructed to celebrate the conquest of Britain was converted into a signal station, this signal station was eventually leveled to construct a shore fort. Around this time, it is suggested that the two Roman-Celtic temples to the south were constructed. By the end of the fourth century the fort was no longer garrisoned by regular troops, though the fort continued to be used as a settlement into the fifth century where it is noted in the Notitia Dignitatum. Around this time the temples would have already collapsed but continued to be used as two deposits were found inserted into the wall, it is around this same time that the proposed church associated with the baptismal font was constructed. It is unsure when these structures stopped being used but the fort was abandoned during the later fifth and sixth centures.",
       "bibliography": [
         "Wilmott, T., Philip, S., (2020), The Plan of the Saxon Shore Fort at Richborough, Britannia, 51, pg. 147 - 174, available at: https://www.cambridge.org/core/journals/britannia/article/abs/plan-of-the-saxon-shore-fort-at-richborough/143A1A7FB4B77240E900867A6A828A0F",
+        "et al, Martyn, Blick, Brindle, (2015), Richborough temples (Kent), available at: https://doi.org/10.5284/1030449",
         "Wilmott, T., Tibber, J., (2009), Richborough, a Roman and medieval port!, Research News, 12, pg. 20 - 22, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3107745&recordType=Journal",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
         "Wilmott, T., (2002), Richborough, Kent Archaeological Society Newsletter, 53, pg. 12 - 13, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3091230&recordType=Journal",
@@ -540,18 +631,28 @@
       "description": "A possible Late Iron Age and Roman temple, interpreted entirely through aerial photogrophy of crop-markings. There appear to be too overlapping features, a circular enclosure and a square enclosure enclosing a smaller square. It's possible the circular enclosure is a Late Iron Age shrine and the square one a Romano-Celtic temple.",
       "bibliography": [
         "MONUMENT NO. 1410831, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=461397fb-d9f1-4bc7-a875-ee502e9e859a&resourceID=19191"
-      ]
+      ],
+      "status": "Possible",
+      "latitude": "52.224669",
+      "longitude": "52.224669 , -0.51839668",
+      "tags": "iron age, roman"
     },
     {
       "index": 30,
       "site": "Gill Mill",
       "start": "unknown",
       "end": "unknown",
-      "location": "England, Oxfordshire",
+      "location": "England, Oxfordshire, Ducklington",
       "description": "A possible temple site, where sample trenching in 1989 uncovered numerous 3rd to 4th century coins and stone relief of a Genius, broken in antiquity. The Genius reportedly stood in an aedicula. A relief of a rider-god was re-used and set into the mill in 1853, judging by the inscription.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Gill Mill, Ducklington (Oxfordshire), available at: https://doi.org/10.5284/1030449",
+        "Booth, Simmonds, (2011), Gill Mill, Ducklington and South Leigh, Oxfordshire. Post-excavation assessment and project design, available at: https://doi.org/10.5284/1023379",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire"
-      ]
+      ],
+      "latitude": "51.764783292481546",
+      "longitude": "-1.4630716565940145",
+      "status": "Possible",
+      "tags": "iron age, roman"
     },
     {
       "index": 31,
@@ -561,6 +662,7 @@
       "location": "England, Oxfordshire",
       "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Lee's Rest, Charlbury (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire"
       ]
     },
@@ -572,8 +674,10 @@
       "location": "England, Oxfordshire",
       "description": "A square Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Woodeaton (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
+        "Harding, (1987), The Iron Age and Romano-British site at Woodeaton",
         "Lewis, (1966), Temples in Roman Britain",
         "Rivet, A., (1958), in Town and Country in Roman Britain, pg. 146",
         "Richmond, I., (1955), in Roman Britain, pg. 137",
@@ -864,11 +968,12 @@
         "MONUMENT NO. 343002, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=acbc6ab0-40c9-4fdf-99ca-057c1af56918&resourceID=19191",
         "(2020), Monument record 0078400000 - BOURTON GROUNDS, available at: https://heritageportal.buckinghamshire.gov.uk/Monument/MBC2497",
         "Wilson, N., (2017), The Thornborough Romano-British Temple: a Reappraisal",
+        "et al, Martyn, Blick, Brindle, (2015), Bourton Grounds temple (Buckinghamshire), available at: https://doi.org/10.5284/1030449",
         "Green, M., (1983), ISIS AT THORNBOROUGH",
         "Green, (1976), The Religions of Civilian Roman Britain",
         "Johnson, A., (1975), Excavations at Bourton Grounds, Thornborough 1972-3",
         "Lewis, (1966), Temples in Roman Britain",
-        "Green, C., (1965), A ROMANO-CELTIC TEMPLE AT BOURTON GROUNDS, BUCKINGHAM",
+        "Green, C., (1966), A Romano-Celtic temple at Bourton Grounds, Buckingham, Records of Buckinghamshire, 17",
         "Green, (1962), Wolverton and Dist. Arch. Soc. Newsletter, 7, pg. 8 ff"
       ],
       "status": "Certain",
@@ -948,17 +1053,18 @@
       "index": 59,
       "location": "England, Sussex, Chanctonbury Hill",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Chanctonbury Ring (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
         "Rudling, D., (2008), Roman-period Temples, Shrines, and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
         "King, (2005)",
         "Rudling, D., (2003)",
-        "Rudling, D., (2001)",
+        "Rudling, D., (2001), Chanctonbury Ring revisited: the excavations of 1988-91, Sussex Archaeological Collections, 139, pg. 75-121, available at: http://dx.doi.org/10.5284/1000334",
         "Woodward, (1992)",
         "Green, (1986)",
-        "Bedwin, (1980)",
+        "Bedwin, O., (1980), Excavations at Chanctonbury Ring, Wiston, West Sussex, 1977, Britannia, 11, pg. 173-222",
         "Ross, A., (1974)",
         "Lewis, (1966), Temples in Roman Britain",
-        "Mitchell, G., (1910), Excavations at Chanctonbury Ring, 1909, Sussex Archaeological Collections, 53, pg. 131 ff"
+        "Mitchell, G., (1909), Excavations at Chanctonbury Ring, 1909, Sussex Archaeological Collections, 53, pg. 131 ff"
       ],
       "status": "Certain",
       "latitude": "50.89715556641169",
@@ -972,7 +1078,11 @@
       "index": 60,
       "location": "England, Gloucstershire, Cheltenham, Yanworth",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Chedworth temple (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+        "et al, Martyn, Blick, Brindle, (2015), Chedworth (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+        "Esmonde Cleary, (2013), Chedworth. Life in a Roman villa",
         "Lewis, (1966), Temples in Roman Britain",
+        "Richmond, (1959), The Roman Villa at Chedworth, 1958-59, Trans Bristol and Gloucestershire Archaeological Society, 78",
         "(1935), Guide to Chedworth",
         "Baddeley, W., (1930), The Roman-British Temple, Chedworth, Transactions of the Bristol and Gloucster Archaeological Society, 52, pg. 255 ff",
         "(1924), Roman Britain in 1924, Journal of Roman Studies, 14, pg. 231",
@@ -1054,7 +1164,9 @@
       "index": 65,
       "location": "England, Norfolk, Crownthorpe",
       "bibliography": [
+        "NHER  8897, available at: https://www.heritage.norfolk.gov.uk/record-details?MNF8897-Crownthorpe-Roman-temple-and-settlementandIndex=2andRecordCount=7andSessionID=29a840ab-1119-4b61-b897-4bbe22f65a76",
         "(2021), EAA 175: Crownthorpe: A Boudican Hoard of Bronze Vessels from Early Roman Norfolk",
+        "et al, Martyn, Blick, Brindle, (2015), Crownthorpe, Wicklewood (Norfolk), available at: https://doi.org/10.5284/1030449",
         "Lewis, (1966), Temples in Roman Britain",
         "Clarke, R., (1960), Roman Britain in 1959, Journal of Roman Studies, 50, pg. 228"
       ],
@@ -1070,9 +1182,10 @@
       "end": "early 5th CE",
       "location": "England, Essex, Old Harlow",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Harlow (Essex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
         "Bartlett, (1987)",
-        "France, Gobel, (1985)",
+        "France, N., Gobel, B., (1985), The Romano-British Temple at Harlow",
         "Lewis, (1966), Temples in Roman Britain",
         "(1963), Essex, in Victoria County History, 3, pg. 139 ff",
         "(1937), Journal of Roman Studies, 27, pg. 241",
@@ -1091,6 +1204,8 @@
       "index": 67,
       "location": "England, Northamptonshire",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Irchester, Chester Farm (Northamptonshire), available at: https://doi.org/10.5284/1030449",
+        "Meadows, (2012), Targeted Archaeological Excavations at Chester Farm Irchester, Northamptonshire, available at: https://doi.org/10.5284/1031129",
         "Lewis, (1966), Temples in Roman Britain",
         "(1959), ZE7, Cambridge University Collection of Aerial Photographs",
         "(1959), YP6, Cambridge University Collection of Aerial Photographs",
@@ -1123,11 +1238,12 @@
       "index": 69,
       "location": "England, Sussex, Lancing Ring",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Lancing Down (East Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
         "Bean, (2004)",
         "Bean, (2000)",
         "Black, (1986)",
-        "Bedwin, O., (1981)",
+        "Bedwin, O., (1981), Excavations at Lancing Down, West Sussex, 1980, Sussex Archaeological Collections, 119, pg. 37 - 56",
         "Bedwin, (1981)",
         "Lewis, (1966), Temples in Roman Britain",
         "Frere, S., (1940), Sussex Archaeological Collections, 81, pg. 145 ff",
@@ -1169,6 +1285,8 @@
       "bibliography": [
         "Russell, M., (2019), Mythmakers of Maiden Castle: Breaking the Siege Mentality of an Iron Age Hillfort, Oxford Journal of Archaeology, 38, 3, available at: https://onlinelibrary.wiley.com/doi/10.1111/ojoa.12172",
         "Booth, T., Madgwick, R., (2016), New evidence for diverse secondary burial practices in Iron Age Britain: A histological case study, Journal of Archaeological Science, 67, pg. 14–24, available at: http://dx.doi.org/10.1016/j.jas.2016.01.010",
+        "et al, Martyn, Blick, Brindle, (2015), Maiden Castle (Dorset), available at: https://doi.org/10.5284/1030449",
+        "Sharples, (1991), Maiden Castle: excavations and field survey 1985-6 (1991), nglish Heritage Archaeological Report, no. 19",
         "Lewis, (1966), Temples in Roman Britain",
         "Wheeler, R., (1943), Maiden Castle",
         "Toynbee, J., (1909), in Art in Roman Britain"
@@ -1221,11 +1339,12 @@
       "index": 74,
       "location": "England, Surrey, Titsey",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Church Field, Titsey (Surrey), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., Bird, D., (2008), Roman-Period temples and Religion in Roman Surrey, in Ritual Landscapes of Roman South-East Britain",
         "Bird, D., (2002)",
         "Lewis, (1966), Temples in Roman Britain",
         "Rivet, A., (1958), in Town and Country in Roman Britain, pg. 145",
-        "Graham, J., (1936), A Romano-Celtic Temple at Titsey, and the Roman Road, Surrey Archaeological Collections, 44, pg. 84 ff",
+        "Graham, J., (1936), A Romano-Celtic Temple at Titsey, and the Roman Road, Surrey Archaeological Collections, 44, pg. 84 ff, available at: http://dx.doi.org/10.5284/1000221",
         "(1936), Roman Britain in 1935, Journal of Roman Studies, 26, pg. 262",
         "(1881), Thursday, December 11th, 1879., Proceedings of the Society of Antiquaries of London, 8, pg. 213 ff"
       ],
@@ -1258,8 +1377,10 @@
       "index": 76,
       "location": "England, Oxfordshire",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Woodeaton (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
+        "Harding, (1987), The Iron Age and Romano-British site at Woodeaton",
         "Lewis, (1966), Temples in Roman Britain",
         "Rivet, A., (1958), in Town and Country in Roman Britain, pg. 146",
         "Richmond, I., (1955), in Roman Britain, pg. 137",
@@ -1284,6 +1405,7 @@
       "index": 77,
       "location": "England, Kent, Sandwich",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Castle Field, Worth (Kent), available at: https://doi.org/10.5284/1030449",
         "Lewis, (1966), Temples in Roman Britain",
         "Hawkes, C., (1940), The Marnian pottery and La Tène I brooch from Worth, Kent, Antiquaries Journal, 20, pg. 115",
         "Stebbing, W., (1937), Pre-Roman, Roman, and post-Roman pottery from burials at Worth, East Kent, Antiquaries Journal, 17, pg. 310",
@@ -1316,6 +1438,8 @@
       "index": 79,
       "location": "England, Gloucstershire, Cheltenham",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Wycomb (Syreford Mill), available at: https://doi.org/10.5284/1030449",
+        "Timby, (1998), Excavations at Kingscote and Wycomb, Gloucestershire, Cotswold Archaeology Monograph",
         "Lewis, (1966), Temples in Roman Britain",
         "Tsontchef, (1957), Notes sur quelques témoins matériels de la culture romaine en Bulgarie, Latomus, 28, pg. 465",
         "(1864), Thursday, 9th June, 1864, Proceedings of the Society of Antiquaries of London, 2, pg. 422",
@@ -1351,8 +1475,10 @@
       "index": 81,
       "location": "England, Berkshire, Reading",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Weycock Hill (Berkshire), available at: https://doi.org/10.5284/1030449",
         "Lewis, (1966), Temples in Roman Britain",
         "Cotton, A., (1961), Robin Hood's Arbour and rectilinear enclosures in Berkshire, Berkshire Archaeological Journal, 59, pg. 30",
+        "Cotton, (1957), Weycock Hill, 1953, available at: http://dx.doi.org/10.5284/1000017",
         "Cotton, A., (1956), Weycock Hill, 1953, Berkshire Archaeological Journal, 55, pg. 48 ff",
         "(1906), Berkshire, in Victoria County Histories, 1, pg. 216",
         "Neville, R., (1849), On Roman Remains at Weycock, Berks, Archaeological Journal, 6, pg. 114"
@@ -1449,7 +1575,9 @@
       "location": "England, Kent",
       "bibliography": [
         "Alaimo, K., (2016), An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain",
+        "et al, Martyn, Blick, Brindle, (2015), Springhead, sanctuary complex (Kent), available at: https://doi.org/10.5284/1030449",
         "Andrews, P., (2008), Springhead, Kent - Old Temples and New Discoveries, in Ritual Landscapes of Roman South-East Britain",
+        "(1997), Archaeological Evaluation at Springhead (ARC SPH95), Gravesend, Kent, Environmental Statement Route Window, 13, available at: https://doi.org/10.5284/1000448",
         "Lewis, (1966), Temples in Roman Britain",
         "Penn, W., (1962), Springhead: Temples II and V, Archaeologia Cantiana, 77, pg. 110 ff",
         "Wright, R., (1961), Roman Britain in 1960: I. Sites Explored: II. Inscriptions, Journal of Roman Studies, 51, pg. 190",
@@ -1730,8 +1858,11 @@
       "index": 102,
       "location": "England, Sussex, Chichester, A27 Westhampnett Bypass",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Westhampnett, Area 2 (West Sussex), available at: https://doi.org/10.5284/1030449",
+        "et al, Martyn, Blick, Brindle, (2015), Westhampnett, Area 3 (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period temples, shrines and religion in sussex, in Ritual Landscapes of Roman South-East Britain, pg. 95, 97",
-        "Fitzpatrick, A., (1997), Archaeological Excavations on the Route of the A27 Westhampnett Bypass, West Sussex, 1992, pg. 15 - 18"
+        "Fitzpatrick, A., Powell, A., Allen, M., (2008), Archaeological Excavations on the Route of the A27 Westhampnett Bypass, West Sussex, 1992, pg. 15 - 18",
+        "Fitzpatrick, (1997), Archaeological excavations on the route of the A27 Westhampnett Bypass, West Sussex, 1992, 2"
       ],
       "latitude": "50.852893",
       "longitude": "-0.72906801"
@@ -1746,6 +1877,7 @@
       "index": 103,
       "location": "England, Sussex",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Preston Court Farm, Beddingham (East Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
         "Black, E., (2008), Pagan Religion in Rural South-East Britain: Contexts, Deities and Belief, in Ritual Landscapes of Roman South-East Britain",
         "Rudling, D., (2003), A tale of two villas: Beddingham and Barcombe, Bulletin of the Association for Roman Archaeology, 15",
@@ -1767,7 +1899,9 @@
       "location": "England, Sussex, Bosham, Broadbridge",
       "bibliography": [
         "Monument Number 245725, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=b8a0c0f5-1b91-4032-9648-21c87ae715ce&resourceID=19191",
+        "et al, Martyn, Blick, Brindle, (2015), Broadbridge, Bosham (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
+        "Hunter, (1998), An Archaeological Investigation at Broadbridge, Bosham, West Sussex, available at: https://doi.org/10.5284/1027493",
         "Black, E., (1985), The Roman Buildings at Bosham, Sussex Archaeological Collections, 123, pg. 255-6",
         "Pitts, (1979), A Gazetteer of the Roman Sites and Finds on the West Sussex Coastal Plain, Sussex Archaeological Collections, 117, pg. 63-83",
         "Mitchell, H., (1866), On the Early Traditions at Bosham, Sussex Archaeological Collections, 11, pg. 127-46"
@@ -1781,7 +1915,10 @@
       "location": "England, Dorset Blandford Forum",
       "bibliography": [
         "Earthworks of Romano-British Temple SW of Badbury Rings, Kingston Lacy Estate, available at: https://heritagerecords.nationaltrust.org.uk/HBSMR/MonRecord.aspx?uid=MNA138090",
-        "(01/12/2013), An interesting site, available at: https://archaeologynationaltrustsw.wordpress.com/2013/07/06/camping-at-badbury-temple/"
+        "et al, Martyn, Blick, Brindle, (2015), Badbury Romano-Celtic temple (Dorset), available at: https://doi.org/10.5284/1030449",
+        "(2014), The Romano-Celtic Temple at Badbury Rings, Dorset, 135, pg. 242-71",
+        "Papworth, (2000), Evaluation excavation, Badbury Romano-Celtic temple: interim report, Poceedings of the Dorset Natural History and Archaeological Society, 122",
+        "Papworth, (01/12/2013), An interesting site, available at: https://archaeologynationaltrustsw.wordpress.com/2013/07/06/camping-at-badbury-temple/"
       ],
       "description": "An apparent Romano-British Temple",
       "status": "Certain",

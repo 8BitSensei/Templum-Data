@@ -660,17 +660,21 @@
       "start": "unknown",
       "end": "unknown",
       "location": "England, Oxfordshire",
-      "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance.",
+      "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance, suggested to be a religious enclosure but this is not certain. This site's entry here is very tentative, and may be removed based on further research.",
       "bibliography": [
         "et al, Martyn, Blick, Brindle, (2015), Lee's Rest, Charlbury (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire"
-      ]
+      ],
+      "latitude": "51.87108869293265",
+      "longitude": "-1.4522355589280544",
+      "status": "Possible",
+      "tags": "roman"
     },
     {
       "index": 32,
       "site": "Woodeaton Temple",
       "start": "early 1st CE",
-      "end": "unknown",
+      "end": "early 5th CE",
       "location": "England, Oxfordshire",
       "description": "A square Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
       "bibliography": [
@@ -690,7 +694,10 @@
         "Taylor, M., (1917), Wood Eaton, Journal of Roman Studies, 7, pg. 98 ff",
         "Hussey, (1841)"
       ],
-      "status": "Certain"
+      "status": "Certain",
+      "latitude": "51.80893314719676",
+      "longitude": "-1.2236703271759788",
+      "tags": "roman, romano-celtic"
     },
     {
       "index": 33,
@@ -703,7 +710,8 @@
         "MONUMENT NO. 346415, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=f741d33a-d480-4d31-98e9-67a093d1c076&resourceID=19191",
         "(1993), A gazetteer of Roman villas in Britain, 1, pg. 91",
         "(1938), Roman Britain in 1937, 28, pg. 185"
-      ]
+      ],
+      "tags": "roman"
     },
     {
       "index": 34,
@@ -977,8 +985,9 @@
         "Green, (1962), Wolverton and Dist. Arch. Soc. Newsletter, 7, pg. 8 ff"
       ],
       "status": "Certain",
-      "latitude": "51.99157320582569",
-      "longitude": "-0.9397211319054278"
+      "latitude": "51.9915801838185",
+      "longitude": "-0.9392164735205445",
+      "tags": "roman"
     },
     {
       "site": "Bruton",
@@ -1067,12 +1076,13 @@
         "Mitchell, G., (1909), Excavations at Chanctonbury Ring, 1909, Sussex Archaeological Collections, 53, pg. 131 ff"
       ],
       "status": "Certain",
-      "latitude": "50.89715556641169",
-      "longitude": "-0.38174827098437625"
+      "latitude": "50.896817061309875",
+      "longitude": "-0.38122759190954836",
+      "tags": "roman, romano-celtic"
     },
     {
       "site": "Chedworth Villa and Temple",
-      "description": "A square temple located 700 yards south-east of the villa beside the river Coln. The cella has been robbed away, but its existence was recorded in 1866. Lewis (1966) suggest a chronology beginning in the early to mid 2nd CE and ending in the late 4th CE.",
+      "description": "A square temple located 700 yards south-east of the villa beside the river Coln. The cella has been robbed away, but its existence was recorded in 1866. Lewis (1966) suggest a chronology beginning in the early to mid 2nd CE and ending in the late 4th CE. The Villa itself contains an octagonal nymphaeum which has Chi-Rho symbols inscribed into it, suggesting later Christian use. ",
       "start": "early 2nd CE",
       "end": "late 4th CE",
       "index": 60,
@@ -1089,8 +1099,9 @@
         "Toynbee, J., (1909), in Art in Roman Britain, pg. 21"
       ],
       "status": "Certain",
-      "latitude": "51.81841437699259",
-      "longitude": "-1.9129071686473764"
+      "latitude": "51.81811487010576",
+      "longitude": "-1.912618549894069",
+      "tags": "roman, romano-celtic, nymphaeum, octagonal, christian "
     },
     {
       "site": "Colchester 2",
@@ -1158,7 +1169,7 @@
     },
     {
       "site": "Crownthorpe",
-      "description": "Located near Wymondham, Norfolk on undulating ground. I am unsure of the chronology.",
+      "description": "Substantial Romano-Celtic temple located near Wymondham, Norfolk on undulating ground. Chronology is uncertain.",
       "start": "unknown",
       "end": "unknown",
       "index": 65,
@@ -1171,14 +1182,15 @@
         "Clarke, R., (1960), Roman Britain in 1959, Journal of Roman Studies, 50, pg. 228"
       ],
       "status": "Probable",
-      "latitude": "52.58381411592738",
-      "longitude": "1.080599125432653"
+      "latitude": "52.58351577758771",
+      "longitude": "1.080879368351829",
+      "tags": "roman, romano-celtic"
     },
     {
       "index": 66,
       "site": "Old Harlow Temple",
-      "description": "A square temple in a temenos located on a low hill beside the river Stort. Lewis (1966) suggests a chronology ranging from the mid to late 3rd CE and ending in the late 4th or early 5th CE. ",
-      "start": "mid 3rd CE",
+      "description": "A square temple in a temenos located on a low hill beside the river Stort. Lewis (1966) suggests a chronology ranging from the mid to late 3rd CE and ending in the late 4th or early 5th CE, but it now seems that it was a late Iron Age shrine succeeded by a masonry temple in the 80s CE. ",
+      "start": "early 1st CE",
       "end": "early 5th CE",
       "location": "England, Essex, Old Harlow",
       "bibliography": [
@@ -1192,13 +1204,14 @@
         "(1928), Antiquaries Journal, 8, pg. 300",
         "(1821), Archaeologia, 19, pg. 410"
       ],
-      "status": "Certain",
-      "latitude": "51.79013114767822",
-      "longitude": "0.1272244991824505"
+      "status": "Probable",
+      "latitude": "51.79013481776638",
+      "longitude": "0.1270764841132437",
+      "tags": "iron age, roman"
     },
     {
       "site": "Irchester",
-      "description": "A square temple located in a temenos, inside the Roman town. Lewis (1966) suggests that it was constructed in the early 2nd CE but possibly destroyed in the late 2nd or early 3rd CD as we see smashed statues.",
+      "description": "A square temple located in a temenos, inside the Roman town. Lewis (1966) suggests that it was constructed in the early 2nd CE but possibly destroyed in the late 2nd or early 3rd CE as we see smashed statues. It now seems that dating evidence for this site is even more tentative than first thought.",
       "start": "early 2nd CE",
       "end": "early 3rd CE",
       "index": 67,
@@ -1213,8 +1226,9 @@
         "(1879), Plan in Northampton Museum, Rep. Associated Archit. Socs, 15, pg. 49 ff"
       ],
       "status": "Certain",
-      "latitude": "52.29075495588707",
-      "longitude": "-0.6554995732948904"
+      "latitude": "52.291657065588254",
+      "longitude": "-0.6554995732948904",
+      "tags": "roman"
     },
     {
       "site": "Kenchester",
@@ -1232,9 +1246,9 @@
     },
     {
       "site": "Lancing Down",
-      "description": "A square temple located c. 200 yards north west of Lancing Ring. The chronology is suggested by Lewis (1966).",
-      "start": "mid 1st CE",
-      "end": "mid 3rd CE",
+      "description": "A square temple located c. 200 yards north west of Lancing Ring. Martyn et al suggest that the temple is very likely late Iron Age in date but was probably out of use by the late 3rd CE or early 4th CE.",
+      "start": "early 1st CE",
+      "end": "early 4th CE",
       "index": 69,
       "location": "England, Sussex, Lancing Ring",
       "bibliography": [
@@ -1256,24 +1270,32 @@
         "(1828), The Gentleman's Magazine, 2, pg. 631"
       ],
       "status": "Certain",
-      "latitude": "50.84785931238545",
-      "longitude": "-0.32805700130274695"
+      "latitude": "50.848070215821295",
+      "longitude": "-0.3280106806137186"
     },
     {
-      "site": "Lullingstone Mausoleum",
-      "description": "A square mausoleum located behind Lullingstone Villa, in plan and architecture appears identical to a temple, but focused on the dead. Lewis (1966) suggest a chronology between 300 and 400 and identifies 'decay, collapse, rifling' at the end of it's use.",
-      "start": "300",
-      "end": "400",
+      "site": "Lullingstone Villa",
+      "description": "Early Roman villa, likely constructed around 100 CE. A square temple/mausoleum was constructed in the early 4th CE just to the north of the villa. One of the rooms of the villa was converted into a house chapel after 360 CE, but it is suggested that 'pagan' worship continued in a room below this one. It now seems that the villa was abandoned after a fire, probably around 420.",
+      "start": "100",
+      "end": "420",
       "index": 70,
       "location": "England, Kent",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Lullingstone (Kent), available at: https://doi.org/10.5284/1030449",
+        "Sparey-Green, (2009), Lullingstone Roman Villa, Eynsford, Kent, Watching brief during improvement of visitor facilities, Report No: 2009/1, available at: https://doi.org/10.5284/1027410",
+        "(2007), An Archaeological Desk-Based Assessment of land at Lullingstone Roman Villa, Eynsford, Kent, available at: https://doi.org/10.5284/1027409",
+        "Archer, Donaldson, Sabin, (2007), Multi-technique Geophysical Survey at Lullingstone Roman Villa in Kent, available at: https://doi.org/10.5284/1027408",
+        "Ward, (2006), An archaeological watching brief at Lullingstone Roman Villa, Lullingstone, Kent, Canterbury Archaeological Trust, available at: https://doi.org/10.5284/1027402",
+        "Meates, (1979), The Roman villa site at Lullingstone, Kent, Monograph Series of the Kent Archaeological Society, 2",
+        "Meates, (1979), The Roman villa site at Lullingstone, Kent, Monograph Series of the Kent Archaeological Society, 1",
         "Lewis, (1966), Temples in Roman Britain",
         "(1959), Journal of Roman Studies, 49, pg. 132",
         "(1958), Archaeologia Cantiana, 72, pg. 48, 63"
       ],
       "status": "Probable",
       "latitude": "51.364350478621255",
-      "longitude": "0.19634436932541782"
+      "longitude": "0.19634436932541782",
+      "tags": "villa, roman, romano-celtic, mausoleum, christian, chapel"
     },
     {
       "site": "Maiden Castle 1 & 2",
@@ -1349,8 +1371,9 @@
         "(1881), Thursday, December 11th, 1879., Proceedings of the Society of Antiquaries of London, 8, pg. 213 ff"
       ],
       "status": "Certain",
-      "latitude": "51.276433",
-      "longitude": "0.035871756"
+      "latitude": "51.27624298026205",
+      "longitude": "0.035920718523974944",
+      "tags": "roman, romano-celtic"
     },
     {
       "site": "Verulamium 1",
@@ -1394,8 +1417,9 @@
         "Hussey, (1841)"
       ],
       "status": "Certain",
-      "latitude": "51.806806",
-      "longitude": "-1.2283482"
+      "latitude": "51.80893314719676",
+      "longitude": "-1.2236703271759788",
+      "tags": "roman, romano-celtic"
     },
     {
       "site": "Worth",
@@ -1412,8 +1436,9 @@
         "Klein, W., (1928), Roman Temple at Worth, Kent, Antiquaries Journal, 8, pg. 76 ff"
       ],
       "status": "Probable",
-      "latitude": "51.253529",
-      "longitude": "1.3448484"
+      "latitude": "51.2501704095186",
+      "longitude": "1.3458944998753828",
+      "tags": "roman, romano-celtic"
     },
     {
       "site": "Wroxeter 2",
@@ -1449,8 +1474,8 @@
         "(1863), Excavations at Wycomb, Gloucstershire, Gentlemen's Magazine, 2, pg. 627"
       ],
       "status": "Certain",
-      "latitude": "51.878560",
-      "longitude": "-1.9621835"
+      "latitude": "51.880088243946126",
+      "longitude": "-1.961020060320524"
     },
     {
       "site": "Caerwent 2",
@@ -1485,8 +1510,8 @@
       ],
       "tags": "roman, octagonal",
       "status": "Certain",
-      "latitude": "51.493194",
-      "longitude": "-0.81880398"
+      "latitude": "51.4934505746401",
+      "longitude": "-0.8175441282232297"
     },
     {
       "site": "Yorkshire Wolds Shrine",
@@ -1509,11 +1534,13 @@
       "bibliography": [
         "Sherwood, H., (29/10/2021), ‘Astounding’ Roman statues unearthed at Norman church ruins on route of HS2, available at: https://www.theguardian.com/science/2021/oct/29/astounding-roman-statues-unearthed-at-norman-church-ruins-on-route-of-hs2?CMP=Share_iOSApp_Other"
       ],
-      "status": "Probable",
+      "status": "Possible",
       "start": "unknown",
       "end": "unknown",
-      "description": "A Roman period mausoleum with a Norman church built on top of it, now abandoned.",
-      "tags": "mausoleum"
+      "description": "A Roman period mausoleum with a Norman church built on top of it, now abandoned. This entry is only here due to possibility it may have been a temple-mausoleum, like those at Lullingstone. With further research this entry may be removed",
+      "tags": "mausoleum",
+      "latitude": "51.77723208309282",
+      "longitude": "-0.7865416380750562"
     },
     {
       "site": "Temple of Claudius",
@@ -1541,8 +1568,8 @@
     {
       "site": "Muntham Court",
       "status": "Probable",
-      "latitude": "50.873470",
-      "longitude": "-0.42520222",
+      "latitude": "50.873469915502326",
+      "longitude": "-0.42520222547438075",
       "description": "Muntham Court is a circular temple or shrine located in what was an Iron Age settlement. Lewis gives it a chronology of mid 1st CE to early 4th CE, but an earlier pre-roman history seems likely though much of the evidence has been destroyed by later Roman work on the site.",
       "tags": "circular, pre-roman, roman",
       "start": "mid 1st CE",
@@ -1550,6 +1577,7 @@
       "index": 85,
       "location": "England, West Sussex, Findon",
       "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Muntham Court, Findon (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
         "Bird, J., (1994)",
         "Bedwin, (1980)",
@@ -1567,8 +1595,8 @@
     {
       "site": "Springhead",
       "status": "Certain",
-      "latitude": "51.428409",
-      "longitude": "0.32602352",
+      "latitude": "51.430655291544774",
+      "longitude": "0.3261376098823852",
       "start": "pre 1st BCE",
       "description": "A large complex at the 'springhead' of the former river Ebbsfleet. The site held a whole series of temples, shrines, sanctuaries, enclosures through the Late Iron Age and Roman period. It is suggested the complex may have lasted into the 4th CE but the bulk of activity is confined to the 2nd CE.",
       "index": 86,
@@ -1886,8 +1914,8 @@
         "Rudling, D., (1997), Round ‘house’to villa: the Beddingham and Watergate villas, RM and DE Friendship-Taylor (eds.), From Round House to Villa. Fascicule, 3",
         "Keulmans, M., (1963), New Light on the Roman Bath Building and Villa at Beddington, Surrey Archaeological Collections, 60"
       ],
-      "latitude": "50.847198",
-      "longitude": "0.070683735"
+      "latitude": "50.84719801783784",
+      "longitude": "07068373218402618"
     },
     {
       "site": "Bosham temple",
@@ -1906,8 +1934,8 @@
         "Pitts, (1979), A Gazetteer of the Roman Sites and Finds on the West Sussex Coastal Plain, Sussex Archaeological Collections, 117, pg. 63-83",
         "Mitchell, H., (1866), On the Early Traditions at Bosham, Sussex Archaeological Collections, 11, pg. 127-46"
       ],
-      "latitude": "50.840482",
-      "longitude": "-0.85041271"
+      "latitude": "50.8398262696129",
+      "longitude": "-0.8523035548230259"
     },
     {
       "site": "Badbury Rings",
@@ -1920,11 +1948,13 @@
         "Papworth, (2000), Evaluation excavation, Badbury Romano-Celtic temple: interim report, Poceedings of the Dorset Natural History and Archaeological Society, 122",
         "Papworth, (01/12/2013), An interesting site, available at: https://archaeologynationaltrustsw.wordpress.com/2013/07/06/camping-at-badbury-temple/"
       ],
-      "description": "An apparent Romano-British Temple",
-      "status": "Certain",
+      "description": "A suspected Romano-British temple located besides Badbury Rings. Dating is suggested by coin evidence found in the temple.",
+      "status": "Possible",
       "latitude": "50.82647545696212",
       "longitude": "-2.056940541740413",
-      "tags": "roman, romano-celtic, square"
+      "tags": "roman, romano-celtic, square",
+      "start": "late 1st CE",
+      "end": "early 5th CE"
     },
     {
       "site": "Norden Hill",

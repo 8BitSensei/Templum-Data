@@ -990,22 +990,6 @@
       "tags": "roman"
     },
     {
-      "site": "Bruton",
-      "description": "A square temple on the summit of Lamyatt Beacon, a mile north-west of the town. Lewis (1966) suggests a mid 3rd CE to late 4th CE chronology.",
-      "start": "mid 3rd CE",
-      "end": "late 4th CE",
-      "index": 55,
-      "location": "England, Somerset, Lamyatt Beacon",
-      "bibliography": [
-        "Lewis, (1966), Temples in Roman Britain",
-        "Bennett, (1961), Journal of Roman Studies, 51, pg. 187",
-        "Toynbee, J., (1909), in Art in Roman Britain, pg. 15, 17, 22-3, 26, 50"
-      ],
-      "status": "Certain",
-      "latitude": "51.12412272693426",
-      "longitude": "-2.474348798649159"
-    },
-    {
       "site": "Caerwent 1",
       "description": "A square temple located in Caerwent in a temenos beside the forum. It is considered unique because it incorporates an apse and pilasters into its architecture. Lewis (1966) suggest an earlier phase in the mid 3rd CE as a shrine before the temple was built after 265, it's end is uncertain.",
       "start": "mid 3rd CE",
@@ -1391,35 +1375,6 @@
       "status": "Certain",
       "latitude": "51.753822",
       "longitude": "-0.35854962"
-    },
-    {
-      "site": "Woodeaton Temple",
-      "description": "A square temple in a temenos on top of a hilltop just off the Dorchester-Alchester road. Lewis (1966) suggests a cronstruction date of c. 65, and an end date of the early or mid 5th CE.",
-      "start": "65",
-      "end": "mid 5th CE",
-      "index": 76,
-      "location": "England, Oxfordshire",
-      "bibliography": [
-        "et al, Martyn, Blick, Brindle, (2015), Woodeaton (Oxfordshire), available at: https://doi.org/10.5284/1030449",
-        "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
-        "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
-        "Harding, (1987), The Iron Age and Romano-British site at Woodeaton",
-        "Lewis, (1966), Temples in Roman Britain",
-        "Rivet, A., (1958), in Town and Country in Roman Britain, pg. 146",
-        "Richmond, I., (1955), in Roman Britain, pg. 137",
-        "Frere, S., (1954), Reports of the excavations by Mr. Sheppard Frere issued by the Canterbury Excavations, Journal of Roman Studies, 44, pg. 103",
-        "Goodchild, R., Kirk, J., (1954), The Romano-Celtic Temple at Woodeaton, Oxoniensia, 19, pg. 15 ff",
-        "Kirk, J., (1949), Bronzes from Woodeaton, Oxon, Oxoniensia, 14, pg. 1 ff",
-        "Milne, J., (1933), A Few Notes on the Currency of Britain, 23, 2, pg. 221 ff",
-        "Milne, J., (1931), Woodeaton Coins, Journal of Roman Studies, 21, pg. 101 ff",
-        "(1921), Excavations at Wood Eaton, Antiquaries Journal, 1, pg. 339",
-        "Taylor, M., (1917), Wood Eaton, Journal of Roman Studies, 7, pg. 98 ff",
-        "Hussey, (1841)"
-      ],
-      "status": "Certain",
-      "latitude": "51.80893314719676",
-      "longitude": "-1.2236703271759788",
-      "tags": "roman, romano-celtic"
     },
     {
       "site": "Worth",

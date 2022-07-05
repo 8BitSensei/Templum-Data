@@ -366,7 +366,10 @@
       "location": "England, Somerset, Mendip, Lamyatt",
       "bibliography": [
         "et al, Martyn, Blick, Brindle, (2015), Lamyatt Beacon (Somerset), available at: https://doi.org/10.5284/1030449",
-        "Leech, (1986), The Excavation of a Romano-Celtic temple and a later cemetery on Lamyatt Beacon, Somerset, Britannia, 17"
+        "Leech, (1986), The Excavation of a Romano-Celtic temple and a later cemetery on Lamyatt Beacon, Somerset, Britannia, 17",
+        "Lewis, (1966), Temples in Roman Britain",
+        "Bennett, (1961), Journal of Roman Studies, 51, pg. 187",
+        "Toynbee, J., (1909), in Art in Roman Britain, pg. 15, 17, 22-3, 26, 50"
       ],
       "latitude": "51.12394174206933",
       "longitude": "-2.473626891701024",
@@ -1919,6 +1922,22 @@
       "location": "Wareham, England, Dorset",
       "bibliography": [
         "(28/03/2019), Norden the Roman Corfe Castle, available at: https://archaeologynationaltrustsw.wordpress.com/2019/03/28/a-hole-in-the-isle-of-purbeck/"
+      ]
+    },
+    {
+      "site": "Gallows Hill",
+      "status": "Probable",
+      "start": "early 1st CE",
+      "end": "6th CE",
+      "tags": "late iron age, roman, romano-celtic, anglo-saxon",
+      "description": "A site located south east of a Roman Villa, on a chalk hill overlooking fenland, lying on the boundary between Catevellauni and Iceni territory. The site is also north of, and uphill from a series of undated ring ditches. A trackway connectes the site with a nearby Iron Age settlement and burials, and later forms a direct link to the nearby villa.\n\nThe site is surrounded by a square enclosure, possibly of late iron age date, along with pottery (which Malim characterised as Late Iron Age and Belgic in nature) and other morphological similarities to LIA sites, Malim deems it reasonable to suggest a late prehistoric date for it's construction. But, the bulk of development appears to be late 1st or 2nd CE in date based on artifactual finds. A square double walled structure with circular foundations at the centre has been identified as a Romano-Celtic temple, though it is also suggested that the circular foundation shows similarities with sites of prehistoric date.  At some point a small structure was built within the main enclosure, and contained an inhumation burial, this was interpreted as a mausoleum of Roman date. A similar structure exists inside the circular foundations of the temple, though this was not fully excavated, it may be another mausoleum.\n\nThere is a lack of evidence for use of the site in the later 2nd - 4th century, but during the Anglo-Saxon period the site seems to have become used as a limited burial ground, with a number of burials and a post-hole structure being created in the main enclosure. These burials seem to have respected the temple, which Malim takes to indicate some continuity of belief, if not ritual activity.\n",
+      "index": 107,
+      "latitude": "52.25424501525176",
+      "longitude": "0.31038528999348003",
+      "location": "England, Cambridgeshire, Swaffham Prior, Gallows Hill",
+      "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Gallows Hill, Swaffham Prior (Cambridgeshire), available at: https://doi.org/10.5284/1030449",
+        "Malim, T., (2006), A Romano-British temple complex and Anglo-Saxon burials at Gallows Hill, Swaffham Prior, The Proceedings of the Cambridge Antiquarian Society, 95, pg. 91 - 114"
       ]
     }
   ],

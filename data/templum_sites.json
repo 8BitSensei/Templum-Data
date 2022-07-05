@@ -1939,6 +1939,26 @@
         "et al, Martyn, Blick, Brindle, (2015), Gallows Hill, Swaffham Prior (Cambridgeshire), available at: https://doi.org/10.5284/1030449",
         "Malim, T., (2006), A Romano-British temple complex and Anglo-Saxon burials at Gallows Hill, Swaffham Prior, The Proceedings of the Cambridge Antiquarian Society, 95, pg. 91 - 114"
       ]
+    },
+    {
+      "site": "Castor",
+      "status": "Probable",
+      "latitude": "52.57265573734387",
+      "longitude": "-0.34117033778066924",
+      "start": "mid 3rd CE",
+      "end": "unknown",
+      "tags": "roman, classical",
+      "index": 108,
+      "description": "A classical podium style temple first excavated by Artis in the 1820s. The temple is surrounded by a series of houses which appear to have been constructed in the mid 3rd CE, which appear to be associated with the pottery industry. Thompson goes as far as suggesting that the settlement was created by a potter's guild using profits from the industry. Very little seems to be known about the chronology of the temple, but it seems likely the temple was constructed along with/for the settlement, which would suggest it was constructed some time in the mid 3rd CE. ",
+      "location": "England, Cambridgeshire",
+      "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Castor (Castor Barns, The Cedars and Time Team), available at: https://doi.org/10.5284/1030449",
+        "Thompson, S., (2011), Castor, Peterborough, Cambridgeshire, Archaeological Evaluation and Assessment of Results, Wessex Archaeology, Report reference: 74155.01, available at: https://doi.org/10.5284/1023496",
+        "Cope-Faulkner, P., (2010), Archaeological Investigations at Castor Barns, Peterborough Road, Castor, Peterborough (CPR 09), Archaeological Project Services, APS Report No. 58/10, available at: https://doi.org/10.5284/1021745",
+        "Lucas, G., (1998), From Roman Villa to Saxo-Norman Village: An Arcaheological Evaluation at The Cedars, Castor, Cambridge Archaeological Unit, Report No. 260, available at: https://doi.org/10.5284/1021756",
+        "Lewis, (1966), Temples in Roman Britain",
+        "Artis, E., (1828), The Durobrivae of Antonius"
+      ]
     }
   ],
   "dates": {

@@ -1959,6 +1959,24 @@
         "Lewis, (1966), Temples in Roman Britain",
         "Artis, E., (1828), The Durobrivae of Antonius"
       ]
+    },
+    {
+      "site": "Baldock",
+      "description": "A flourishing late Iron Age settlement possible in an oppidum which became a major roadside settlement peaking in size during the 2nd CE. A Romano-Celtic temple has been identified by aerial photography, but, the unusual thing is that excavation in the late 60s and early 70s produced evidence of ritual activity (miniature votive axes, a spear, an iron rattle, fragments of a statue) about 250 metres north east of the temple. This led Stead and Rigby to suggest the presence of a second temple, though they did not identify a structure. Martyn et al seem to propose 'Building V' in the area of the votive finds as the second temple. This building seems to have been formed by a ring of upright timbers and appears to be surrounded by an enclosure (ditches 54, 56, 89). There are three internal pits in the structure but no dating evidence was found, the votive material and statue however, appear to range from the late 2nd to late 4th CE. ",
+      "tags": "roman, romano-celtic, circular",
+      "latitude": "51.98985410908123",
+      "longitude": "-0.1832765359973946",
+      "end": "late 4th CE",
+      "start": "unknown",
+      "status": "Probable",
+      "index": 109,
+      "location": "England, Hertfordshire",
+      "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Baldock (Hertfordshire), available at: https://doi.org/10.5284/1030449",
+        "Ashworth, H., (2004), Baldock, Herts. Archaeological Fieldwork, Heritage Network, Report No. 237, available at: https://doi.org/10.5284/1021911",
+        "Stead, I., Rigby, V., (1986), The excavation of a Roman and pre-Roman settlement, 1968-72, Britannia Monograph, 7, available at: https://archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1080742&recordType=MonographSeries",
+        "Westell, W., (1931), A Romano-British cemetery at Baldock, Archaeological Journal, 88, pg. 24 - 301"
+      ]
     }
   ],
   "dates": {

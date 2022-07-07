@@ -1977,6 +1977,26 @@
         "Stead, I., Rigby, V., (1986), The excavation of a Roman and pre-Roman settlement, 1968-72, Britannia Monograph, 7, available at: https://archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1080742&recordType=MonographSeries",
         "Westell, W., (1931), A Romano-British cemetery at Baldock, Archaeological Journal, 88, pg. 24 - 301"
       ]
+    },
+    {
+      "site": "Angmering villa",
+      "description": "A square building (G) just to the east of the villa - on the highest part of the site. First identified during excavations in 1940, the large structure seems to have been of abnormal height, having a vaulted basement and a floor above that. The structure had a 'burial pit' 14ft deep in one corner, and while it did not have a temenos, it did have a cobbled courtyard containing the bones of young oxen. The structure appears to have had a black and white tessellated pavement and marble architectural features, such as architraves. It is suggested that the structure was a temple/mausoleum, based on comparisons with the Jordan Hill temple and the Temple of Janus in Autun, France. Scott suggests that the structure was used for grain storage at a later date, and was eventually demolished to provide building material for the nearby building (E) and other structures in the villa.\n\nNote that Martyn et al suggest the temple is building F, this appears to be a mistake, Scott identifies building G as a temple.",
+      "tags": "roman, romano-celtic, mausoleum",
+      "start": "unknown",
+      "end": "unknown",
+      "latitude": "50.83055620358022",
+      "longitude": "-0.506025453515754",
+      "status": "Possible",
+      "index": 110,
+      "location": "England, Sussex",
+      "bibliography": [
+        "et al, Martyn, Blick, Brindle, (2015), Angmering villa (West Sussex), available at: https://doi.org/10.5284/1030449",
+        "Gilkes, (1999), The bathhouse of Angmering Roman villa, Sussex Archaeological Collections, 137, available at: https://archaeologydataservice.ac.uk/archives/view/sac/contents.cfm?vol=137",
+        "Wilson, A., (1947), Angmering Roman villa, Sussex Archaeological Collections, 86, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3241846",
+        "Keef, P., (1945), Angmering Roman villa site: interim report on excavations 1941, Sussex Archaeological Collections, 84, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3241837",
+        "Scott, L., (1939), Angmering Roman villa, Sussex Archaeological Collections, 80, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3241785",
+        "Scott, L., (1938), The Roman villa at Angmering, Sussex Archaeological Collections, 79, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3241772"
+      ]
     }
   ],
   "dates": {

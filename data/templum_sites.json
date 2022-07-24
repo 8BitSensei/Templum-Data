@@ -2025,6 +2025,43 @@
         "St. Joseph, J., (1969), ‘Air Reconnaissance in Britain 1965–1968, Jnl. Roman Studies, 59, pg. 104-129",
         "O'Neil, H., O'Neil, B., (1952), The Roman Conquest of the Cotswolds, Archaeol. Jnl, 109, pg. 23-38"
       ]
+    },
+    {
+      "site": "Portway",
+      "status": "Possible",
+      "description": "A system of Romano-British enclosures between the Cotswold escarpment and Robinswood Hill. At least one of these enclosures has been interpreted as a polygonal wayside shrine.",
+      "start": "early 2nd CE",
+      "end": "early 4th CE",
+      "tags": "roman",
+      "index": 113,
+      "latitude": "51.83432978279831",
+      "longitude": "-2.2060318770187815",
+      "location": "England, Gloucestershire",
+      "bibliography": [
+        "Martyn, Blick, Brindle, et al, (2015), Portway (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+        "Rawes, (1984), The Romano-British Site on the Portway, near Gloucester, Trans Bristol and Gloucestershire Archaeological Society, 102"
+      ]
+    },
+    {
+      "site": "Blaise Castle",
+      "status": "Probable",
+      "description": "A rectangular masonry building and graves at the peak of Blaise Hill, an Iron Age Hillfort. The masonry building is believed to be of Roman date and interpreted as a temple, but a medieval chapel is also possible. The hillfort appears to have been intensively occupied during the Iron Age and into the Roman period, at the north-west foot of the hill there is evidence of small-scale Iron Age quarrying. In the 3rd century CE the remains of neonatal infants were interred in this quarry, before larger scale quarrying began later that century. A road was constructed that seems to connect the Hill Fort directly to the quarry.",
+      "start": "unkown",
+      "end": "unknown",
+      "tags": "roman, iron age, hillfort, burials",
+      "latitude": "51.50262329671635",
+      "longitude": "-2.63688705070917",
+      "index": 114,
+      "location": "England, Gloucestershire, Lawrence Weston, Bristol",
+      "bibliography": [
+        "Martyn, Blick, Brindle, et al, (2015), Long Cross, Lawrence Weston, Bristol (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+        "Martyn, Blick, Brindle, et al, (2015), Blaise Castle (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+        "Boore, (1999), A Romano-British site at Lawrence Weston, Bristol, 1995, Bristol & Avon Archaeology, 16",
+        "Russell, J., Williams, R., (1984), Romano-British Sites in the City of Bristol - A Review and Gazetteer, Bristol & Avon Archaeology, 3, pg. 18-26",
+        "Boon, (1963), Roman coins from Blaise Castle, Proc Univ Bristol Spelaeol Soc, 10",
+        "Rahtz, Clevedon-Brown, (1959), Blaise Castle Hill, Bristol (1959), Proc Univ Bristol Spelaeol Soc, 8",
+        "Bartlett, J., (1918-19), Report on a Search for the Site of the Chapel of St Blasius, Henbury, Trans. Bristol and Gloucestershire Archaeological Soc, 41, pg. 163-169"
+      ]
     }
   ],
   "dates": {

@@ -1,6 +1,6 @@
 {
-  "description": "This is a file containing data on ritual sites of Britain & Ireland, currently holding dummy data.",
-  "name": "Ritual Sites of Britain & Ireland",
+  "description": "This is a file containing data on ritual sites of Britain \u0026 Ireland, currently holding dummy data.",
+  "name": "Ritual Sites of Britain \u0026 Ireland",
   "sites": [
     {
       "index": 0,
@@ -9,11 +9,15 @@
       "end": "early 5th CE",
       "location": "England, Somerset, Bath, Abbey Churchyard",
       "description": "An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.",
+      "status": "Certain",
+      "latitude": "51.381808583925626",
+      "longitude": "-2.360005238066774",
+      "tags": "pre-roman, roman, sulis minerva, spring, classical",
       "bibliography": [
         "Davenport, P., (2021), Roman Bath: A New History and Archaeology of Aquae Sulis, The History Press",
         "McBurney, J., (2016), The Cult of Sulis-Minerva at Bath: The Religious Ritual of the Patron Goddess at Bath., Victoria University of Wellington, available at: https://www.exams.cambridgescp.com/files/l2romanbritain.pdf",
         "Southern, P., (2015), The Story of Roman Bath, Amberley Publishing",
-        "Cleary, S., (2015), The 'end of the gods' in late Roman Britain, Gallia",
+        "Cleary, S., (2015), The \u0027end of the gods\u0027 in late Roman Britain, Gallia",
         "Martyn, Blick, Brindle, et al, (2015), Bath, Arlington Court (Bath and Northeast Somerset), available at: https://doi.org/10.5284/1030449",
         "Martyn, Blick, Brindle, et al, (2015), Bath, The Temple of Sulis Minerva (precinct), available at: https://doi.org/10.5284/1030449",
         "Martyn, Blick, Brindle, et al, (2015), Bath, Hot Bath Spring (Bath and Northeast Somerset), available at: https://doi.org/10.5284/1030449",
@@ -27,7 +31,7 @@
         "Lewis, (1966), Temples in Roman Britain",
         "Richmond, I., Toynbee, J., (1955), The Temple of Sulis-Minerva at Bath, Journal of Roman Studies, 45, pg. 97 ff",
         "Taylor, M., Collingwood, R., (1921), Roman Britain in 1921 and 1922, Journal of Roman Studies, 11, pg. 233",
-        "Ward, J., (1911), Roman Era in Britain, Methuen & Co. Ltd",
+        "Ward, J., (1911), Roman Era in Britain, Methuen \u0026 Co. Ltd",
         "Downes, R., (1909), The Goddess Sul and Heathen Rites near Bath",
         "Toynbee, J., (1909), Art in Roman Britain, 25",
         "(1906), Somerset, in Victoria County History, 1, pg. 229 ff",
@@ -36,27 +40,25 @@
         "(1873), Corpus Inscriptionum Latinarum, in Corpus Inscriptionum Latinarum, 3, pg. 36-47, 53, 1351",
         "Lysons, S., (1808), Reliquiae Britannico-Romanae, 1",
         "Bart, H., (1792), Account of Antiquities discovered at Bath 1790. By Sir Henry Charles Englefield, Archaeologia, 10, pg. 325"
-      ],
-      "status": "Certain",
-      "latitude": "51.381808583925626",
-      "longitude": "-2.360005238066774",
-      "tags": "pre-roman, roman, sulis minerva, spring, classical"
+      ]
     },
     {
       "index": 1,
-      "site": "Arthur's O'on",
+      "site": "Arthur\u0027s O\u0027on",
       "start": "83",
       "end": "early 5th CE",
       "location": "Scotland, Stirlingshire, Stenhousemuir",
-      "description": "A beehive like Roman structure throught possibly to be a shrine to victory built in the wake of Agrocola's campaigns in Scotland. Nothing now stands of the structure as it was demolished in 1743.",
-      "bibliography": [
-        "Tatton-Brown, T., (1980), Camelon, Arthur's O'on and the Main Supply Base for the Antonine Wall, Britannia, 11",
-        "Steer, K., (1976), MORE LIGHT ON ARTHUR'S O'ON, STUDIES IN ROMAN ARCHAEOLOGY FOR ANNE S. ROBERTSON, 4",
-        "Lewis, (1966), Temples in Roman Britain",
-        "Steer, K., (1958), Arthur’s O’On: A Lost Shrine of Roman Britain, Archaeological Journal, 115, pg. 99 ff"
-      ],
+      "description": "A beehive like Roman structure throught possibly to be a shrine to victory built in the wake of Agrocola\u0027s campaigns in Scotland. Nothing now stands of the structure as it was demolished in 1743.",
+      "status": "Possible",
+      "latitude": null,
+      "longitude": null,
       "tags": "roman, victory",
-      "status": "Possible"
+      "bibliography": [
+        "Tatton-Brown, T., (1980), Camelon, Arthur\u0027s O\u0027on and the Main Supply Base for the Antonine Wall, Britannia, 11",
+        "Steer, K., (1976), MORE LIGHT ON ARTHUR\u0027S O\u0027ON, STUDIES IN ROMAN ARCHAEOLOGY FOR ANNE S. ROBERTSON, 4",
+        "Lewis, (1966), Temples in Roman Britain",
+        "Steer, K., (1958), Arthur\u2019s O\u2019On: A Lost Shrine of Roman Britain, Archaeological Journal, 115, pg. 99 ff"
+      ]
     },
     {
       "index": 2,
@@ -64,16 +66,17 @@
       "start": "mid 1st CE",
       "end": "early 5th CE",
       "location": "England, Hetfordshire, Ashwell",
+      "description": "Largely known for the Ashwell hoard, the site is a complex not only including a temple, but also a shrine enclosing a springhead, accommodation, and workshops. There are other nearby temple sites at Barkway and Aston.",
+      "status": null,
+      "latitude": "52.047260822235685",
+      "longitude": "-0.16376602135542567",
+      "tags": "roman, shrine, spring",
       "bibliography": [
         "Jackson, R., Burleigh, G., (2018), Dea Senuna: Treasure, Cult and Ritual at Ashwell, Hertfordshire, British Museum",
         "Martyn, Blick, Brindle, et al, (2015), Ashwell, near Baldock (Hertfordshire), available at: https://doi.org/10.5284/1030449",
         "Richardson, I., (2012), PAS-9708E3: A ROMAN HOARD, available at: https://finds.org.uk/database/artefacts/record/id/509533#1",
         "Jackson, R., Burleigh, G., (2007), The Senuna treasure and shrine at Ashwell (Herts), in Continuity and Innovation in Religion in the Roman West, 1, pg. 37-54"
-      ],
-      "description": "Largely known for the Ashwell hoard, the site is a complex not only including a temple, but also a shrine enclosing a springhead, accommodation, and workshops. There are other nearby temple sites at Barkway and Aston.",
-      "tags": "roman, shrine, spring",
-      "latitude": "52.047260822235685",
-      "longitude": "-0.16376602135542567"
+      ]
     },
     {
       "index": 3,
@@ -81,24 +84,24 @@
       "start": "early 2nd CE",
       "end": "post 6th CE",
       "location": "England, Tyne and Wear, Newcastle-upon-Tyne, Broomridge Avenue",
-      "description": "We know the temple was destroyed sometime in the 2nd Century. The latest coin issue was dated to 161 - 180 and there is evidence of burnt roof tiles and timbers, however, there is evidence of continued use as a burial ground. If the suspected burial just to the west is to be included we can push it's use to the 6th or 7th Century.",
+      "description": "We know the temple was destroyed sometime in the 2nd Century. The latest coin issue was dated to 161 - 180 and there is evidence of burnt roof tiles and timbers, however, there is evidence of continued use as a burial ground. If the suspected burial just to the west is to be included we can push it\u0027s use to the 6th or 7th Century.",
+      "status": "Probable",
+      "latitude": "54.97622861192919",
+      "longitude": "-1.6623470700911875",
+      "tags": "roman",
       "bibliography": [
         "Bidwell, P., HISTORY OF BENWELL ROMAN TEMPLE, available at: https://www.english-heritage.org.uk/visit/places/benwell-roman-temple-hadrians-wall/history/",
-        "Philips, E., (1977), fascicule 1: Corbridge, Hadrian’s Wall East of the North Tyne, in Corpus Signorum Imperii Romani, vol 1",
+        "Philips, E., (1977), fascicule 1: Corbridge, Hadrian\u2019s Wall East of the North Tyne, in Corpus Signorum Imperii Romani, vol 1",
         "Lewis, (1966), Temples in Roman Britain",
         "Collingwood, R., Wright, R., (1965), RIB no. 1329, in The Roman Inscriptions of Britain, vol 1: Inscriptions on Stone",
         "Jobey, G., Maxwell, D., (1957), A square-headed brooch from Benwell, Archaeologia Aeliana, 35",
-        "Richmond, I., Simpson, F., (1941), The Roman fort on Hadrian’s Wall at Benwell, Archaeologia Aeliana, 19, pg. 37 ff",
+        "Richmond, I., Simpson, F., (1941), The Roman fort on Hadrian\u2019s Wall at Benwell, Archaeologia Aeliana, 19, pg. 37 ff",
         "Brewis, P., (1936), A cruciform brooch from Benwell, Newcastle upon Tyne, Archaeologia Aeliana, 13, pg. 117 - 21",
         "(1935-7), Donations and Exhibitions, Proceedings of the Society of Antiquaries of Newcastle upon Tyne 4, 7, pg. 182-3",
         "(1930), in Northumberland County History, 13, pg. 553",
         "(1903), in Ephemis Epigraphica, 9, pg. 1164",
         "(1873), in Corpus Inscriptionum Latinarium, 3, pg. 503-4"
-      ],
-      "tags": "roman",
-      "status": "Probable",
-      "latitude": "54.97622861192919",
-      "longitude": "-1.6623470700911875"
+      ]
     },
     {
       "index": 4,
@@ -107,6 +110,10 @@
       "end": "367",
       "location": "England, Somerset, Brean Down",
       "description": "A particularly short-lived square temple on the rocky peninsula south  of Weston-super-Mare. Lewis (1966) suggests it may have been converted for use in smelting.",
+      "status": "Certain",
+      "latitude": "51.324208532208445",
+      "longitude": "-3.0155116379408646",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Brean Down (Somerset), available at: https://doi.org/10.5284/1030449",
         "Lewis, (1966), Temples in Roman Britain",
@@ -116,11 +123,7 @@
         "ApSimon, (1959), Journal of Roman Studies, 49, pg. 129",
         "ApSimon, (1958), Proceedings of the Spelaeological Society, 8, pg. 106 ff",
         "ApSimon, (1958), Journal of Roman Studies, 48, pg. 146"
-      ],
-      "tags": "roman, romano-celtic",
-      "status": "Certain",
-      "latitude": "51.324208532208445",
-      "longitude": "-3.0155116379408646"
+      ]
     },
     {
       "index": 5,
@@ -128,8 +131,13 @@
       "start": "early 1st CE",
       "end": "early 5th CE",
       "location": "England, Northamptonshire, Brigstock",
+      "description": "Two circular temples set about 20ft apart.",
+      "status": null,
+      "latitude": "52.462798161534735",
+      "longitude": "-0.584101338675327",
+      "tags": "circular",
       "bibliography": [
-        "Cleary, S., (2015), The ‘end of the gods' in late Roman Britain",
+        "Cleary, S., (2015), The \u2018end of the gods\u0027 in late Roman Britain",
         "Martyn, Blick, Brindle, et al, (2015), Brigstock (Northamptonshire), available at: https://doi.org/10.5284/1030449",
         "Green, (1976)",
         "Lewis, (1966), Temples in Roman Britain",
@@ -137,11 +145,7 @@
         "Greenfield, E., (1963), The Romano-British Shrines at Brigstock, Northants, Antiquaries Journal, 43, pg. 228 ff",
         "Wright, R., (1962), Roman Britain in 1961: I. Sites Explored: II. Inscriptions, Journal of Roman Studies, 52, pg. 173 ff",
         "Taylor, M., (1957), A Roman bronze statuette from Northamptonshire, Antiquaries Journal, 37, pg. 71"
-      ],
-      "description": "Two circular temples set about 20ft apart.",
-      "tags": "circular",
-      "latitude": "52.462798161534735",
-      "longitude": "-0.584101338675327"
+      ]
     },
     {
       "index": 6,
@@ -150,15 +154,16 @@
       "end": "402",
       "location": "England, Essex",
       "description": "The earliest ritual activity recorded at Chelmsford begins in 60 AD and shows continuous activity until the early 5th. The latest coin issue found on the site dates from 388 - 402 AD with the distinct possibility of later activity. The sites demise is likely connected to the end of the Roman town in which it sat to the east. Wickenden suggests a dedication to Mars.",
+      "status": null,
+      "latitude": "51.72955568242917",
+      "longitude": "0.4753403426763637",
+      "tags": "roman, mars",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Chelmsford, NE (Essex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
         "Wickenden, N., (1992), The Temple and Other sites in the north-eastern sector of Caesaromagus, CBA Research Report, 75, available at: https://doi.org/10.5284/1000332",
         "Drury, (1988)"
-      ],
-      "tags": "roman, mars",
-      "latitude": "51.72955568242917",
-      "longitude": "0.4753403426763637"
+      ]
     },
     {
       "index": 7,
@@ -167,30 +172,30 @@
       "end": "mid 5th CE",
       "location": "England, Surrey, Farley Heath",
       "description": "A square temple in Albury, Surrey. Lewis (1966) suggest a start date of the later 1st CE but some earlier use seems likely. He also suggest that it was destroyed by fire at some point in the early or mid 5th CE.",
+      "status": "Certain",
+      "latitude": "51.19389328834252",
+      "longitude": "-0.49751160972152864",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Esposito, A., (2016), A Context for Roman Priestly Regalia: Depositional Practices and Spatial Distribution of Assemblages from Roman Britain, in TRAC 2015: Proceedings of the 25th annual Theoretical Roman Archaeology Conference",
         "Martyn, Blick, Brindle, et al, (2015), Farley Heath (Surrey), available at: https://doi.org/10.5284/1030449",
         "Poulton, R., Bird, J., (2007), Farley Heath Roman temple, Surrey Archaeological Collections, 92, available at: http://dx.doi.org/10.5284/1000221",
         "Bird, (2007), Discussion of the Iron Age and Romano-British artefacts and their significance",
         "Bird, (1996), A Romano-British priestly head-dress from Farley Heath",
-        "Bird, J., O'Connell, (1994), The Roman Temple at Wanborough, Excavation 1985–1986",
+        "Bird, J., O\u0027Connell, (1994), The Roman Temple at Wanborough, Excavation 1985\u20131986",
         "Hanworth, R., (1968), The Roman Villa at Rapsley, Ewhurst, Surrey Archaeological Society, 65",
         "Lewis, (1966), Temples in Roman Britain",
         "(1958), Guide to the Antiquities",
         "Goodchild, R., (1947), The Farley Heath sceptre, Antiquaries Journal, 27, pg. 83 ff",
         "Goodchild, R., Lowther, A., (1943), Excavations at Farley Heath, Albury, during 1939, Surrey Archaeological Collections, pg. 31 ff",
         "Goodchild, R., (1938), Martin Tupper and Farley Heath, Surrey Archaeological Collections, 46, pg. 10 ff",
-        "Goodchild, R., (1938), A Priest's Sceptre from the Romano-Celtic Temple at Farley Heath, Surrey, The Antiquaries Journal, 18, pg. 391 ff",
+        "Goodchild, R., (1938), A Priest\u0027s Sceptre from the Romano-Celtic Temple at Farley Heath, Surrey, The Antiquaries Journal, 18, pg. 391 ff",
         "Winbolt, S., (1926), Excavations at Farley Heath, Albury, 1926, Surrey Archaeological Collections, pg. 180 ff",
         "(1912), Parishes: Albury, in Victoria County History, Surrey, 3, pg. 72 - 77",
         "Tupper, M., (1850), Records of Farley Heath",
         "Prawdzic-Golemberski, E., Metcalf, D., (1841), THE CIRCULATION OF BYZANTINE COINS ON THE SOUTH-EASTERN FRONTIERS OF THE EMPIRE, Numinastic Chronicle, 3, pg. 83 ff",
         "Aubrey, (1710), Natural History and Antiquities of Surrey"
-      ],
-      "tags": "roman, romano-celtic",
-      "latitude": "51.19389328834252",
-      "longitude": "-0.49751160972152864",
-      "status": "Certain"
+      ]
     },
     {
       "index": 8,
@@ -198,7 +203,11 @@
       "start": "70",
       "end": "late 5th CE",
       "location": "England, Berkshire, Frilford",
-      "description": "A site with two temples, the earlier is described as a circular shrine, the later is a square temple. Located on the edge of a ridge beside the river Ock. For the later square temple (Frilford 2), Lewis (1966) suggests a chronology beginning in the later 1st CE, annexes were added in the late 3rd CE and early 4th CE, and fell into 'decay' at some point in the 5th CE.",
+      "description": "A site with two temples, the earlier is described as a circular shrine, the later is a square temple. Located on the edge of a ridge beside the river Ock. For the later square temple (Frilford 2), Lewis (1966) suggests a chronology beginning in the later 1st CE, annexes were added in the late 3rd CE and early 4th CE, and fell into \u0027decay\u0027 at some point in the 5th CE.",
+      "status": "Certain",
+      "latitude": "51.66329644422302",
+      "longitude": "-1.366780826764033",
+      "tags": "roman, circular, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Marcham/Frilford (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Friendship-Taylor, (2013)",
@@ -211,11 +220,7 @@
         "Goodchild, R., Bradford, J., (1939), Excavations at Frilford, Berks, 1937-8, Oxoniensia, 4, pg. 1 ff",
         "Goodchild, Bradford, (1939), Excavation at Frilford, Berks, Oxoniensia, 4",
         "Dudley Buxton, (1921), Excavations at Frilford, The Antiquaries Journal, 1"
-      ],
-      "tags": "roman, circular, romano-celtic",
-      "latitude": "51.66329644422302",
-      "longitude": "-1.366780826764033",
-      "status": "Certain"
+      ]
     },
     {
       "index": 9,
@@ -224,6 +229,10 @@
       "end": "mid 4th CE",
       "location": "England, Essex",
       "description": "A square temple in a temenos located 3 miles south of Colchester, on a plateau.",
+      "status": "Certain",
+      "latitude": "51.86581735242562",
+      "longitude": "0.8569018554223327",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Gosbecks, Colchester (Essex), available at: https://doi.org/10.5284/1030449",
         "Benfield, (2008), Excavations of Late Iron Age and Roman features and a Roman road north of Gosbecks Archaeological Park, 1995-96, available at: https://doi.org/10.5284/1030493",
@@ -237,11 +246,7 @@
         "(1951), Transactions of the Essex Archaeological Society, 24, pg. 43 ff",
         "Toynbee, J., (1909), in Art in Roman Britain, pg. 21",
         "(1847), Journal of the British Archaeological Association, 2, pg. 45 ff"
-      ],
-      "tags": "roman, romano-celtic",
-      "latitude": "51.86581735242562",
-      "longitude": "0.8569018554223327",
-      "status": "Certain"
+      ]
     },
     {
       "index": 10,
@@ -250,6 +255,10 @@
       "end": "early 5th CE",
       "location": "England, Essex, Uttlesford",
       "description": "A substantial Romano-Celtic temple set within an extensive temenos, 1km east of the Roman town. The site shows some evidence of pre-invasion use in the early 1st century as a possible late Iron Age shrine and shows continued ritual activity up to the the late 4th or early 5th century.",
+      "status": "Certain",
+      "latitude": "52.070481270895975",
+      "longitude": "0.2080520834686537",
+      "tags": "roman, romano-celtic, iron age",
       "bibliography": [
         "Alaimo, K., (2016), An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain",
         "Martyn, Blick, Brindle, et al, (2015), Great Chesterford Temple (Essex), available at: https://doi.org/10.5284/1030449",
@@ -264,11 +273,7 @@
         "(1963), Essex, in Victoria County History, 3, pg. 82",
         "Nash-Williams, A., Nash-Williams, V., (1935), Essex, in Catalogue of the Roman Inscribed and Sculptured Stones found at Caerleon, Royal Commission on Historical Monuments, 23",
         "Neville, R., (1848), in Sepulchra Exposita, pg. 89"
-      ],
-      "tags": "roman, romano-celtic, iron age",
-      "latitude": "52.070481270895975",
-      "longitude": "0.2080520834686537",
-      "status": "Certain"
+      ]
     },
     {
       "index": 11,
@@ -276,27 +281,32 @@
       "start": "mid 1st BCE",
       "end": "late 1st CE",
       "location": "England, Hampshire, Hayling Island",
+      "description": "A late Iron Age religious site which seems to have smoothly developed into a circular Romano-Celtic temple.",
+      "status": "Certain",
+      "latitude": "50.82192686798294",
+      "longitude": "-0.9725367249546447",
+      "tags": "pre-roman, roman, romano-celtic, circular",
       "bibliography": [
         "(2020), Sacred Landscapes in Antiquity: Creation, Manipulation, Transformation",
-        "Raaflaub, K., Ramsey, J., (2017), Reconstructing the Chronology of Caesar's Gallic Wars, 11, April, pg. 1–74",
+        "Raaflaub, K., Ramsey, J., (2017), Reconstructing the Chronology of Caesar\u0027s Gallic Wars, 11, April, pg. 1\u201374",
         "Forcey, C., (2017), Whatever Happened to the Heroes? Ancestral Cults and the Enigma of Romano-Celtic Temples, Theoretical Roman Archaeology Journal, 1997, pg. 87",
         "Katrina-Kay Sepulveda, A., (2016), An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain",
-        "Cleary, S., (2015), The ‘end of the gods' in late Roman Britain",
+        "Cleary, S., (2015), The \u2018end of the gods\u0027 in late Roman Britain",
         "Webster, J., (2015), Understanding Celtic Religion",
         "Crease, S., (2015), Re-Thinking Ritual Traditions : Interpreting Structured Deposition in Watery Contexts in Late Pre-Roman Iron Age and Roman Britain By Susheela Marie Elizabeth Crease Submitted for the degree of PhD UCL",
-        "Méniel, P., (2015), Killing and Preparing Animals, in A COMPANION TO THE ARCHAEOLOGY OF RELIGION IN THE ANCIENT WORLD",
+        "M\u00E9niel, P., (2015), Killing and Preparing Animals, in A COMPANION TO THE ARCHAEOLOGY OF RELIGION IN THE ANCIENT WORLD",
         "Martyn, Blick, Brindle, et al, (2015), Hayling Island temple (Hampshire), available at: https://doi.org/10.5284/1030449",
         "King, A., (2014), The Pre-Roman Cult Site at Hayling Island, Hampshire, GB: The Problem of Characterizing an Anonymous Deity",
         "King, A., Soffe, G., (2013), A Sacred Island Iron Age, Roman and Saxon Temples and Ritual on Hayling Island",
         "(2012), Religion and Ritual pre-AD 410, April",
         "Allen, M., (2011), ANIMALSCAPES AND EMPIRE : NEW PERSPECTIVES ON THE IRON AGE / ROMANO-BRITISH TRANSITION, July",
-        "Haeussler, R., (2010), From tomb to temple: on the rôle of hero cults in local religions in Gaul and Britain in the Iron Age and the Roman period",
+        "Haeussler, R., (2010), From tomb to temple: on the r\u00F4le of hero cults in local religions in Gaul and Britain in the Iron Age and the Roman period",
         "Henig, M., (2010), Attitudes to the Art of Roman Britain, in THE Art of ROMAN BRITAIN",
         "King, A., Soffe, G., (2008), Hayling Island: a Gallo-Roman temple in Britain, in Ritual Landscapes of Roman South-East Britain",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
         "Haeussler, R., (2008), How to identify Celtic religion(s) in Roman Britain and Gaul",
         "King, A., Soffe, G., (2008), A bibliograohy of the Iron Age and Roman temple on Hayling Island",
-        "Caesar, Hammond, C., (2008), Caesar: The Gallic War, Oxford World's Classics",
+        "Caesar, Hammond, C., (2008), Caesar: The Gallic War, Oxford World\u0027s Classics",
         "Scheid, J., (2007), Sacrifices for gods and ancestors, in A Companion to Roman Religion, pg. 263",
         "Godden, D., (2006), Land at Northney Road, Hayling lsland, Hampshire: report on archaeological watching brief, available at: https://doi.org/10.5284/1027328",
         "King, A., Reilly, K., (2005), Animal bones from temples in Roman Britain, Britannia, 36, pg. 32-370",
@@ -307,18 +317,13 @@
         "King, A., Soffe, G., (1998), Internal organisation and deposition at the Iron Age temple on Hayling Island",
         "Watts, D., (1998), Religion in late Roman Britain",
         "King, A., Soffe, G., (1994), The Iron Age and Roman Temple on Hayling Island, Hampshire, in The Iron Age in Wessex: recent work",
-        "Briggs, D., Haselgrove, C., King, C., (1993), Iron Age and Roman coins from Hayling Island temple, British Numismatic Journal, 62, pg. 1–62, available at: http://www.britnumsoc.org/publications/Digital BNJ/pdfs/1992_BNJ_62_3.pdf",
+        "Briggs, D., Haselgrove, C., King, C., (1993), Iron Age and Roman coins from Hayling Island temple, British Numismatic Journal, 62, pg. 1\u201362, available at: http://www.britnumsoc.org/publications/Digital BNJ/pdfs/1992_BNJ_62_3.pdf",
         "King, A., Soffe, G., (1991), Hayling Island, in Britain in the Roman Period: recent trends",
         "Palk, B., (1984), Iron Age Bridle Bits from Britain",
         "Soffe, G., Downey, R., King, A., (1980), The Hayling island temple and religious connections accross the Channel, in Temples, Churches, and Religion: Recent Research in Roman Britain: with a Gazetteer of Romano-Celtic Temples in Continental Europe",
         "King, A., (1979), The Hayling Island temple: third interim report on the excavation of the Iron Age and Roman temple 1976-78",
         "King, A., Soffe, G., Downey, R., (1978), The Roman temple on Hayling Island"
-      ],
-      "description": "A late Iron Age religious site which seems to have smoothly developed into a circular Romano-Celtic temple.",
-      "status": "Certain",
-      "latitude": "50.82192686798294",
-      "longitude": "-0.9725367249546447",
-      "tags": "pre-roman, roman, romano-celtic, circular"
+      ]
     },
     {
       "index": 12,
@@ -327,14 +332,14 @@
       "end": "early 5th CE",
       "location": "England, Norfolk, the Fens",
       "description": "A square temple located on the edge of the Fens. It is suggested that the site began in the early or mid 2nd CE, experienced a fire at some point in the early 4th CE and came out of use in the late 4th CE (unrelated to the fire as a new fire was fitted afterwards). ",
+      "status": "Possible",
+      "latitude": "52.471066979862044",
+      "longitude": "0.48222286925998553",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "(1963), Journal of Roman Studies, 53, pg. 138 and 160"
-      ],
-      "tags": "roman, romano-celtic",
-      "latitude": "52.471066979862044",
-      "longitude": "0.48222286925998553",
-      "status": "Possible"
+      ]
     },
     {
       "index": 13,
@@ -342,21 +347,22 @@
       "start": "early 4th CE",
       "end": "late 4th CE",
       "location": "England, Dorset, Weymouth, Bowleaze Coveway",
+      "description": null,
+      "status": "Certain",
+      "latitude": "50.63754149244569",
+      "longitude": "-2.4271030418213715",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Jordan Hill (Dorset), available at: https://doi.org/10.5284/1030449",
         "Lewis, M., (1966), Temples in Roman Britain",
-        "O'Neil, B., (1936), Coins from the Jordan Hill Roman Temple, Transactions of the Dorset Natural History and Archaeological Society, 57, pg. 140",
+        "O\u0027Neil, B., (1936), Coins from the Jordan Hill Roman Temple, Transactions of the Dorset Natural History and Archaeological Society, 57, pg. 140",
         "Drew, C., (1933), The Excavations at Jordan Hill and Preston, 1932, Transactions of the Dorset Natural History and Archaeological Society, 54, pg. 15 ff",
         "Drew, C., (1932), The Excavations at Jordan Hill, 1931, Transactions of the Dorset Natural History and Archaeological Society, 53, pg. 265 ff",
         "Salisbury, (1929), A hoard of Roman coins from Jordan Hill, Weymouth (1929), Proceedings of the Dorset Natural History and Archaeological Society, 51",
         "Oliver, V., (1923), The Pre-Roman and Roman Occupation of the Weymouth District, Transactions of the Dorset Natural History and Archaeological Society, 44, pg. 48",
         "Warne, C., (1872), in Ancient Dorset, pg. 225 ff",
-        "(1844), Roman ruins near Weymouth, Gentleman's Magazine, 22, pg. 635"
-      ],
-      "latitude": "50.63754149244569",
-      "longitude": "-2.4271030418213715",
-      "status": "Certain",
-      "tags": "roman, romano-celtic"
+        "(1844), Roman ruins near Weymouth, Gentleman\u0027s Magazine, 22, pg. 635"
+      ]
     },
     {
       "index": 14,
@@ -364,17 +370,18 @@
       "start": "early 3rd CE",
       "end": "early 5th CE",
       "location": "England, Somerset, Mendip, Lamyatt",
+      "description": null,
+      "status": "Probable",
+      "latitude": "51.12394174206933",
+      "longitude": "-2.473626891701024",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Lamyatt Beacon (Somerset), available at: https://doi.org/10.5284/1030449",
         "Leech, (1986), The Excavation of a Romano-Celtic temple and a later cemetery on Lamyatt Beacon, Somerset, Britannia, 17",
         "Lewis, (1966), Temples in Roman Britain",
         "Bennett, (1961), Journal of Roman Studies, 51, pg. 187",
         "Toynbee, J., (1909), in Art in Roman Britain, pg. 15, 17, 22-3, 26, 50"
-      ],
-      "latitude": "51.12394174206933",
-      "longitude": "-2.473626891701024",
-      "tags": "roman, romano-celtic",
-      "status": "Probable"
+      ]
     },
     {
       "index": 15,
@@ -382,17 +389,17 @@
       "start": "late 1st CE",
       "end": "unknown",
       "location": "England, Oxfordshire, Wallingford",
+      "description": "A possible Romano-British religious site, first excavated in 1913-14.",
+      "status": "Possible",
+      "latitude": "51.53612896369298",
+      "longitude": "-1.2228399553747231",
+      "tags": "roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Lowbury Hill (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
-        "Fulford, M., Rippon, S., Allen, D., Allen, J., Allen, S., Firth, J., Gaffney, C., Gater, J., Hamilton-Dyer, S., Härke, H., Kaminski, J., Richards, D., Somerville, E., Timby, J., Tingle, M., (1994), Lowbury Hill, Oxon: a Re-Assessment of the Probable Romano-Celtic Temple and the Anglo-Saxon Barrow, Archaeological Journal, 151, 1, pg. 158-211, available at: http://www.tandfonline.com/doi/abs/10.1080/00665983.1994.11078122",
+        "Fulford, M., Rippon, S., Allen, D., Allen, J., Allen, S., Firth, J., Gaffney, C., Gater, J., Hamilton-Dyer, S., H\u00E4rke, H., Kaminski, J., Richards, D., Somerville, E., Timby, J., Tingle, M., (1994), Lowbury Hill, Oxon: a Re-Assessment of the Probable Romano-Celtic Temple and the Anglo-Saxon Barrow, Archaeological Journal, 151, 1, pg. 158-211, available at: http://www.tandfonline.com/doi/abs/10.1080/00665983.1994.11078122",
         "Atkinson, D., (1916), The Romano-British site on Lowbury Hill in Berkshire"
-      ],
-      "latitude": "51.53612896369298",
-      "longitude": "-1.2228399553747231",
-      "status": "Possible",
-      "tags": "roman",
-      "description": "A possible Romano-British religious site, first excavated in 1913-14."
+      ]
     },
     {
       "index": 16,
@@ -400,6 +407,11 @@
       "start": "late 2nd CE",
       "end": "early 5th CE",
       "location": "England, Gloucstershire, Lydney Park",
+      "description": "A major Romano-British religious complex on a promontory overlooking the River Severn. Coin evidence apparently suggests that the cult continued into the early 5th CE, even though the temple superstructure seems to have collapsed by 370 CE.",
+      "status": "Certain",
+      "latitude": "51.72146470303315",
+      "longitude": "-2.557441681619759",
+      "tags": "roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Lydney Park (Gloucestershire), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
@@ -411,12 +423,7 @@
         "Wheeler, R., (1932), Report on the Excavations ... in Lydney Park",
         "Ward, J., (1911), Roman Era in Britain",
         "Bathurst, W., King, C., (1879), Roman Antiquities at Lydney Park"
-      ],
-      "latitude": "51.72146470303315",
-      "longitude": "-2.557441681619759",
-      "status": "Certain",
-      "description": "A major Romano-British religious complex on a promontory overlooking the River Severn. Coin evidence apparently suggests that the cult continued into the early 5th CE, even though the temple superstructure seems to have collapsed by 370 CE.",
-      "tags": "roman"
+      ]
     },
     {
       "index": 17,
@@ -424,10 +431,15 @@
       "start": "mid 1st CE",
       "end": "late 4th CE",
       "location": "England, wiltshire",
+      "description": "A site excavated in 1982 that showed a large and popular site centered around an Octagonal temple which started out as a smaller circular shrine. Wedlake suggests that the initial shrine was constructed soon after 69 CE and no later than 210 CE, the site was built up over time and possibly re-used as a church and homestead while a small part of it was used for worship until around 370 CE.",
+      "status": "Certain",
+      "latitude": "51.490762522112846",
+      "longitude": "-2.257769642658732",
+      "tags": "octagonal",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Nettleton (Wiltshire), available at: https://doi.org/10.5284/1030449",
         "(2000), Romano-British temple, Iron Age ditches, earthwork enclosure and associated buildings 240m and 370m north of Fosse Barn, available at: https://historicengland.org.uk/listing/the-list/list-entry/1019637",
-        "Wedlake, W., (1982), The Excavation of the Shrine of Apollo at Nettleton, Wiltshire, 1956–1971, Reports of the Research Committee of the Society of Antiquaries of London, 40",
+        "Wedlake, W., (1982), The Excavation of the Shrine of Apollo at Nettleton, Wiltshire, 1956\u20131971, Reports of the Research Committee of the Society of Antiquaries of London, 40",
         "Lewis, (1966), Temples in Roman Britain",
         "Wright, R., (1962), Roman Britain in 1961: I. Sites Explored: II. Inscriptions, Journal of Roman Studies, 52, pg. 191",
         "Grinsell, L., (1958), in Archaeology of Wessex, pg. 233",
@@ -435,13 +447,8 @@
         "(1957), Wiltshire, in Victoria County Histor, 1, pg. 91",
         "(1939), Roman Britain in 1938, Journal of Roman Studies, 29, pg. 220",
         "Haverfield, F., (1914), Roman Britain in 1913, British Academy Supplemental Papers, 2, pg. 49",
-        "Haverfield, F., (1912), Roman Sculpture at Nettleton Scrub, near Castle Combe, Proceedings of the Bath & District Branch of Somerset Archaeology Society, pg. 177"
-      ],
-      "status": "Certain",
-      "description": "A site excavated in 1982 that showed a large and popular site centered around an Octagonal temple which started out as a smaller circular shrine. Wedlake suggests that the initial shrine was constructed soon after 69 CE and no later than 210 CE, the site was built up over time and possibly re-used as a church and homestead while a small part of it was used for worship until around 370 CE.",
-      "tags": "octagonal",
-      "latitude": "51.490762522112846",
-      "longitude": "-2.257769642658732"
+        "Haverfield, F., (1912), Roman Sculpture at Nettleton Scrub, near Castle Combe, Proceedings of the Bath \u0026 District Branch of Somerset Archaeology Society, pg. 177"
+      ]
     },
     {
       "index": 19,
@@ -449,6 +456,11 @@
       "start": "early 3rd CE",
       "end": "early 4th CE",
       "location": "England, Somerset",
+      "description": null,
+      "status": null,
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": []
     },
     {
@@ -457,19 +469,19 @@
       "start": "pre 1st BCE",
       "end": "post 6th CE",
       "location": "England, Gloucestershire, Uley",
+      "description": "A major late Iron Age and Roman religious complex overlooking the River Severn. Cult figures and curse tablets indicate that the primary deity worshipped here was Mercury.",
+      "status": "Certain",
+      "latitude": "51.695647494511284",
+      "longitude": "-2.3066782805117216",
+      "tags": "roman, iron age, romano-celtic",
       "bibliography": [
-        "Cleary, S., (2015), The ‘end of the gods' in late Roman Britain",
+        "Cleary, S., (2015), The \u2018end of the gods\u0027 in late Roman Britain",
         "Martyn, Blick, Brindle, et al, (2015), Uley (Gloucestershire), available at: https://doi.org/10.5284/1030449",
         "McCarty, M., (2015), Chapter 4.2, Religious dedications, in The Oxford Handbook of Roman Sculpture",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
         "Woodward, Leach, (1993), The Uley Shrines: Excavation of a Ritual Complex on West Hill, Uley, Gloucestershire, English Heritage, available at: http://dx.doi.org/10.5284/1028203",
         "Sparey-Green, (1987), pg. 69"
-      ],
-      "latitude": "51.695647494511284",
-      "longitude": "-2.3066782805117216",
-      "status": "Certain",
-      "tags": "roman, iron age, romano-celtic",
-      "description": "A major late Iron Age and Roman religious complex overlooking the River Severn. Cult figures and curse tablets indicate that the primary deity worshipped here was Mercury."
+      ]
     },
     {
       "index": 21,
@@ -478,13 +490,17 @@
       "end": "late 4th CE",
       "location": "England, Surrey, Guildford, Wanborough",
       "description": "A ritual site showing activity from the mid 1st to the late 4th CE. Earliest phases show little evidence for structure, but a later circular temple was built before it collapsed and a Romano-British temple was constructed just to the South. It is notable for the priestly regalia found associated with the site.",
+      "status": "Certain",
+      "latitude": "51.237943727829844",
+      "longitude": "-0.6830911890906545",
+      "tags": "iron age, roman",
       "bibliography": [
         "Esposito, A., (2019), Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain, Archaeopress Publishing Ltd",
         "Alaimo, K., (2016), An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain",
         "Esposito, A., (2015), A Context for Roman Priestly Regalia: Depositional Practices and Spatial Distribution of Assemblages from Roman Britain, in TRAC 2015: Proceedings of the 25th annual Theoretical Roman Archaeology Conference",
         "Martyn, Blick, Brindle, et al, (2015), Wanborough Roman Temple (Surrey), available at: https://doi.org/10.5284/1030449",
         "Rudd, C., (2014), Horned god or druid priest?, available at: http://www.celticcoins.com/wp-content/uploads/2014/12/Horned-god.pdf",
-        "Thomas, S., (2009), Wanborough Revisited: The Rights and Wrongs of Treasure Trove Law in England and Wales, in Metal Detecting & Archaeology",
+        "Thomas, S., (2009), Wanborough Revisited: The Rights and Wrongs of Treasure Trove Law in England and Wales, in Metal Detecting \u0026 Archaeology",
         "Williams, D., (2008), The Wanborough Temple Site, in Ritual Landscapes of Roman South-East Britain",
         "King, A., (2008), Coins and coin hoards from Romano-Celtic temples in Britain",
         "Poulton, R., Bird, J., Williams, (2007), Farley Heath and Wanborough Roman Temples, 93",
@@ -494,13 +510,9 @@
         "Graham, D., (2002)",
         "Williams, (2000)",
         "Bird, J., (1996), Roman objects from Wanborough: a supplementary note, Surrey Archaeological Collections, 83, available at: http://dx.doi.org/10.5284/1000221",
-        "O'Connell, Bird, (1994), The Roman Temple at Wanborough, Excavation 1985–1986, available at: http://dx.doi.org/10.5284/1000221",
-        "O'Connell, (1984), Green Lane, Wanborough, 1979 (SU 920 495), Surrey Archaeological Collections, 73, available at: http://dx.doi.org/10.5284/1000221"
-      ],
-      "status": "Certain",
-      "latitude": "51.237943727829844",
-      "longitude": "-0.6830911890906545",
-      "tags": "iron age, roman"
+        "O\u0027Connell, Bird, (1994), The Roman Temple at Wanborough, Excavation 1985\u20131986, available at: http://dx.doi.org/10.5284/1000221",
+        "O\u0027Connell, (1984), Green Lane, Wanborough, 1979 (SU 920 495), Surrey Archaeological Collections, 73, available at: http://dx.doi.org/10.5284/1000221"
+      ]
     },
     {
       "index": 23,
@@ -509,15 +521,15 @@
       "end": "early 5th CE",
       "location": "England, Essex",
       "description": "An unusually late constructed shrine of timber and turf. The shrine had a period of reconstruction in 390 - 400 CE involving the laying of a flint and tile platform.",
+      "status": "Probable",
+      "latitude": "51.872032087418994",
+      "longitude": "0.36025374576608715",
+      "tags": "roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Great Dunmow (Essex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
         "Wickenden, (1988)"
-      ],
-      "latitude": "51.872032087418994",
-      "longitude": "0.36025374576608715",
-      "tags": "roman",
-      "status": "Probable"
+      ]
     },
     {
       "index": 24,
@@ -526,14 +538,14 @@
       "end": "378",
       "location": "England, Dorset, South Perrot, Picket Lane, Picket Farm",
       "description": "A Neolithic oval barrow which shows evidence for Roman period ritual activuty. Dating is primarily through coin depositons, the bulk dating from 260 to 378 but the earliest is from 117. Some Roman roof tiles were found, the excavator suggested the possibility of a Roman shrine but this was not discovered. This entry is very tentative, and may be removed based on further research.",
-      "bibliography": [
-        "Martyn, Blick, Brindle, et al, (2015), Picket Lane, South Perrot (Dorset), available at: https://doi.org/10.5284/1030449",
-        "Cooke, (2005), Picket Farm, Picket Lane, South Perrot. report on an archaeological fieldwalking exercise and evaluation, and an assessment of the results., available at: https://doi.org/10.5284/1028790"
-      ],
       "status": "Possible",
       "latitude": "50.84478890169648",
       "longitude": "-2.753160888619277",
-      "tags": "roman"
+      "tags": "roman",
+      "bibliography": [
+        "Martyn, Blick, Brindle, et al, (2015), Picket Lane, South Perrot (Dorset), available at: https://doi.org/10.5284/1030449",
+        "Cooke, (2005), Picket Farm, Picket Lane, South Perrot. report on an archaeological fieldwalking exercise and evaluation, and an assessment of the results., available at: https://doi.org/10.5284/1028790"
+      ]
     },
     {
       "index": 25,
@@ -542,16 +554,16 @@
       "end": "early 5th CE",
       "location": "England, Essex, Witham, Ivy Chimneys",
       "description": "The site is suggested to have activity beginning in the Late Iron Age with a timber-framed wattle and daub temple built in the later 3rd Century. There are several periods of activity and reconstruction lasting into the early 5th Century. Turner suggested that one of these phases was a church.",
+      "status": "Probable",
+      "latitude": "51.792412045694896",
+      "longitude": "0.6251698972508485",
+      "tags": "iron age, roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Ivy Chimneys (Essex), available at: https://doi.org/10.5284/1030449",
         "Green, (1999)",
         "Turner, R., (1999), Excavations of an Iron Age Settlement and Roman religious Complex at Ivy Chimneys, Witham, Essex 1978-83, East Anglian Archaeology, 88",
         "Rodwell, (1993)"
-      ],
-      "latitude": "51.792412045694896",
-      "longitude": "0.6251698972508485",
-      "tags": "iron age, roman",
-      "status": "Probable"
+      ]
     },
     {
       "index": 26,
@@ -560,22 +572,22 @@
       "end": "early 5th CE",
       "location": "England, Somerset, Bristol, Chewstoke, Pagans Hill",
       "description": "A double octagonal temple built in the late 3rd Century CE, the original building, and a second collapsed before the final structure was built in the late 4th century CE. The last building collapsed some time in the 5th century CE. There is pre-roman use noted and post-roman material from the 7th century was found in the adjacent well.",
+      "status": "Certain",
+      "latitude": "51.36073182699915",
+      "longitude": "-2.637358018699924",
+      "tags": "octagonal, roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Pagans Hill, Chew Stoke (Somerset), available at: https://doi.org/10.5284/1030449",
-        "Cleary, S., (2014), The 'End of the Gods' in Late Roman Britain.",
+        "Cleary, S., (2014), The \u0027End of the Gods\u0027 in Late Roman Britain.",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
         "Rahtz, Watts, (1991), Pagans Hill Revisited, Archaeological Journal, 146",
         "Rahtz, Harris, (1989), The temple Well and other buildings at Pagans Hill, Chew Stoke, North Somerset, omerset Archaeology and Natural History, 101/2",
         "Lewis, (1966), Temples in Roman Britain",
-        "Rahtz, P., Ap Simon, A., Harris, L., (1957), The Iron Age A Ditch and Pottery at Pagan's Hill, Chew Stoke, Proceedings of the University of Bristol Spelæological Society, 8, 2",
+        "Rahtz, P., Ap Simon, A., Harris, L., (1957), The Iron Age A Ditch and Pottery at Pagan\u0027s Hill, Chew Stoke, Proceedings of the University of Bristol Spel\u00E6ological Society, 8, 2",
         "Rahtz, P., Harris, L., Rahtz, M., (1956), The Temple Well and Other Buildings at Pagans Hill, Chew Stoke, North Somerset, Proceedings of the Somerset Archaeological and Natural History Society, 101 - 102, pg. 15 ff",
-        "Rahtz, P., (1952), The Roman Temple at Pagan's Hill, Chew Stoke, N Somerset, Proceedings of the Somerset Archaeological and Natural History Society, 96, pg. 112 ff",
-        "Rahtz, P., (1949), Excavations at Pagan's Hil, Chew Stoke. Interim note, Archaeological Newsletter, 2, 6"
-      ],
-      "status": "Certain",
-      "tags": "octagonal, roman",
-      "latitude": "51.36073182699915",
-      "longitude": "-2.637358018699924"
+        "Rahtz, P., (1952), The Roman Temple at Pagan\u0027s Hill, Chew Stoke, N Somerset, Proceedings of the Somerset Archaeological and Natural History Society, 96, pg. 112 ff",
+        "Rahtz, P., (1949), Excavations at Pagan\u0027s Hil, Chew Stoke. Interim note, Archaeological Newsletter, 2, 6"
+      ]
     },
     {
       "index": 27,
@@ -584,6 +596,10 @@
       "end": "early 4th CE",
       "location": "England, Sussex",
       "description": "A probable Romano-British temple of uncertain date, the site has been known since the 50s when it was observed as a cropmark (King, Soffe, 1983). The site consists of two concentric masonry foundations (17.5m x 16m) and (8.5, x 7.5m) enclosing a slightly off-centre rectangle which has been interpreted as a possible foundation of a plinth, altar, statue, or else a pool or well. The entrance is more than likely on the east side, though this is not clear from aerial photography.\n\nThe site (SU 8090 0644) overlooks a nearby stream at the bottom of a gentle slope to the east. Just outside the temple between itself and the river is a large circular structure with a large central depression 21m in diameter and an encircling ditch of 31m in diameter. Rudling postulates an earlier shrine or location for depositions.\n\nNo excavation has been carried out so the date can only be suggested from surface level finds. The earliest finds are Late iron age pottery and coins (Rudling, 2008). The bulk of pottery is late first and second centuries, but one sherd may be third or fourth century (King, Soffe, 1983).",
+      "status": "Possible",
+      "latitude": "50.85182993179614",
+      "longitude": "-0.8521226906063549",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Ratham Mill, Funtington (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
@@ -591,11 +607,7 @@
         "Allison, (2006)",
         "King, A., Soffe, G., (1983), A Romano-Celtic Temple at Ratham Mill, Funtington, West Sussex, Britannia, 14",
         "(1963), Joint Arch. Comm. Bull, xiii, 1"
-      ],
-      "latitude": "50.85182993179614",
-      "longitude": "-0.8521226906063549",
-      "tags": "roman, romano-celtic",
-      "status": "Possible"
+      ]
     },
     {
       "index": 28,
@@ -603,13 +615,17 @@
       "start": "late 3rd CE",
       "end": "late 6th CE",
       "location": "England, Kent, Richborough",
-      "description": "Richborough Castle began as a temporary millitary camp for Plautius' invasion force in 43 AD, the only settlement prior to this was an Iron Agen farmstead that was abandoned around 100 BC. At the end of the first century AD timber structures were cleared away and the site became a more permanent civilian settlement with an associated port. In the late third century AD the site again became a millitary establishment, the central part of the town was leveled and the monument constructed to celebrate the conquest of Britain was converted into a signal station, this signal station was eventually leveled to construct a shore fort. Around this time, it is suggested that the two Roman-Celtic temples to the south were constructed. By the end of the fourth century the fort was no longer garrisoned by regular troops, though the fort continued to be used as a settlement into the fifth century where it is noted in the Notitia Dignitatum. Around this time the temples would have already collapsed but continued to be used as two deposits were found inserted into the wall, it is around this same time that the proposed church associated with the baptismal font was constructed. It is unsure when these structures stopped being used but the fort was abandoned during the later fifth and sixth centures.",
+      "description": "Richborough Castle began as a temporary millitary camp for Plautius\u0027 invasion force in 43 AD, the only settlement prior to this was an Iron Agen farmstead that was abandoned around 100 BC. At the end of the first century AD timber structures were cleared away and the site became a more permanent civilian settlement with an associated port. In the late third century AD the site again became a millitary establishment, the central part of the town was leveled and the monument constructed to celebrate the conquest of Britain was converted into a signal station, this signal station was eventually leveled to construct a shore fort. Around this time, it is suggested that the two Roman-Celtic temples to the south were constructed. By the end of the fourth century the fort was no longer garrisoned by regular troops, though the fort continued to be used as a settlement into the fifth century where it is noted in the Notitia Dignitatum. Around this time the temples would have already collapsed but continued to be used as two deposits were found inserted into the wall, it is around this same time that the proposed church associated with the baptismal font was constructed. It is unsure when these structures stopped being used but the fort was abandoned during the later fifth and sixth centures.",
+      "status": "Certain",
+      "latitude": "51.29300675512052",
+      "longitude": "1.3316829321464367",
+      "tags": "roman, romano-celtic, church",
       "bibliography": [
         "Wilmott, T., Philip, S., (2020), The Plan of the Saxon Shore Fort at Richborough, Britannia, 51, pg. 147 - 174, available at: https://www.cambridge.org/core/journals/britannia/article/abs/plan-of-the-saxon-shore-fort-at-richborough/143A1A7FB4B77240E900867A6A828A0F",
         "Martyn, Blick, Brindle, et al, (2015), Richborough temples (Kent), available at: https://doi.org/10.5284/1030449",
-        "Wilmott, T., Tibber, J., (2009), Richborough, a Roman and medieval port!, Research News, 12, pg. 20 - 22, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3107745&recordType=Journal",
+        "Wilmott, T., Tibber, J., (2009), Richborough, a Roman and medieval port!, Research News, 12, pg. 20 - 22, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3107745\u0026recordType=Journal",
         "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
-        "Wilmott, T., (2002), Richborough, Kent Archaeological Society Newsletter, 53, pg. 12 - 13, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3091230&recordType=Journal",
+        "Wilmott, T., (2002), Richborough, Kent Archaeological Society Newsletter, 53, pg. 12 - 13, available at: https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3091230\u0026recordType=Journal",
         "(1981), A Saxon Shore fort, Roman port and associated remains at Richborough, available at: https://historicengland.org.uk/listing/the-list/list-entry/1014642",
         "Brown, P., (1971), The church at Richborough, Britannia, 2, pg. 225 - 231, available at: https://www.jstor.org/stable/525812",
         "Bushe-Fox, (1968), Fifth report on the excavations of the Roman fort at Richborough, Kent",
@@ -619,11 +635,7 @@
         "Bushe-Fox, (1932), Third report on the excavations of the Roman fort at Richborough, Kent, pg. 7 ff, 34 ff, available at: https://archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1171922",
         "Bushe-Fox, (1932), Some Notes on Roman Coast Defences, available at: https://www.jstor.org/stable/297088",
         "Bushe-Fox, (1928), Second report on the excavations of the Roman fort at Richborough, Kent, available at: https://archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1171920"
-      ],
-      "latitude": "51.29300675512052",
-      "longitude": "1.3316829321464367",
-      "tags": "roman, romano-celtic, church",
-      "status": "Certain"
+      ]
     },
     {
       "index": 29,
@@ -631,14 +643,14 @@
       "start": "early 1st BCE",
       "end": "unknown",
       "location": "England, Bedfordshire, Sharnbrook",
-      "description": "A possible Late Iron Age and Roman temple, interpreted entirely through aerial photogrophy of crop-markings. There appear to be too overlapping features, a circular enclosure and a square enclosure enclosing a smaller square. It's possible the circular enclosure is a Late Iron Age shrine and the square one a Romano-Celtic temple.",
-      "bibliography": [
-        "MONUMENT NO. 1410831, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=461397fb-d9f1-4bc7-a875-ee502e9e859a&resourceID=19191"
-      ],
+      "description": "A possible Late Iron Age and Roman temple, interpreted entirely through aerial photogrophy of crop-markings. There appear to be too overlapping features, a circular enclosure and a square enclosure enclosing a smaller square. It\u0027s possible the circular enclosure is a Late Iron Age shrine and the square one a Romano-Celtic temple.",
       "status": "Possible",
       "latitude": "52.224669",
       "longitude": "-0.51839668",
-      "tags": "iron age, roman"
+      "tags": "iron age, roman",
+      "bibliography": [
+        "MONUMENT NO. 1410831, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=461397fb-d9f1-4bc7-a875-ee502e9e859a\u0026resourceID=19191"
+      ]
     },
     {
       "index": 30,
@@ -647,15 +659,15 @@
       "end": "unknown",
       "location": "England, Oxfordshire, Ducklington",
       "description": "A possible temple site, where sample trenching in 1989 uncovered numerous 3rd to 4th century coins and stone relief of a Genius, broken in antiquity. The Genius reportedly stood in an aedicula. A relief of a rider-god was re-used and set into the mill in 1853, judging by the inscription.",
+      "status": "Possible",
+      "latitude": "51.764783292481546",
+      "longitude": "-1.4630716565940145",
+      "tags": "iron age, roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Gill Mill, Ducklington (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Booth, Simmonds, (2011), Gill Mill, Ducklington and South Leigh, Oxfordshire. Post-excavation assessment and project design, available at: https://doi.org/10.5284/1023379",
         "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire"
-      ],
-      "latitude": "51.764783292481546",
-      "longitude": "-1.4630716565940145",
-      "status": "Possible",
-      "tags": "iron age, roman"
+      ]
     },
     {
       "index": 31,
@@ -663,15 +675,15 @@
       "start": "unknown",
       "end": "unknown",
       "location": "England, Oxfordshire",
-      "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance, suggested to be a religious enclosure but this is not certain. This site's entry here is very tentative, and may be removed based on further research.",
-      "bibliography": [
-        "Martyn, Blick, Brindle, et al, (2015), Lee's Rest, Charlbury (Oxfordshire), available at: https://doi.org/10.5284/1030449",
-        "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire"
-      ],
+      "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance, suggested to be a religious enclosure but this is not certain. This site\u0027s entry here is very tentative, and may be removed based on further research.",
+      "status": "Possible",
       "latitude": "51.87108869293265",
       "longitude": "-1.4522355589280544",
-      "status": "Possible",
-      "tags": "roman"
+      "tags": "roman",
+      "bibliography": [
+        "Martyn, Blick, Brindle, et al, (2015), Lee\u0027s Rest, Charlbury (Oxfordshire), available at: https://doi.org/10.5284/1030449",
+        "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire"
+      ]
     },
     {
       "index": 32,
@@ -680,6 +692,10 @@
       "end": "early 5th CE",
       "location": "England, Oxfordshire",
       "description": "A square Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
+      "status": "Certain",
+      "latitude": "51.80893314719676",
+      "longitude": "-1.2236703271759788",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Woodeaton (Oxfordshire), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
@@ -696,11 +712,7 @@
         "(1921), Excavations at Wood Eaton, Antiquaries Journal, 1, pg. 339",
         "Taylor, M., (1917), Wood Eaton, Journal of Roman Studies, 7, pg. 98 ff",
         "Hussey, (1841)"
-      ],
-      "status": "Certain",
-      "latitude": "51.80893314719676",
-      "longitude": "-1.2236703271759788",
-      "tags": "roman, romano-celtic"
+      ]
     },
     {
       "index": 33,
@@ -709,12 +721,15 @@
       "end": "unknown",
       "location": "England, Buckinghamshire, Aylesbury Vale, Pitstone",
       "description": "Site of a Roman building uncovered in the 1930s, a wall foundation, tiles and tesserae were uncovered with coins dated from Hadrian to Allectus. Interpreted as a possible villa or temple owing to the presence of a nearby villa and its prominent position.",
+      "status": null,
+      "latitude": null,
+      "longitude": null,
+      "tags": "roman",
       "bibliography": [
-        "MONUMENT NO. 346415, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=f741d33a-d480-4d31-98e9-67a093d1c076&resourceID=19191",
+        "MONUMENT NO. 346415, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=f741d33a-d480-4d31-98e9-67a093d1c076\u0026resourceID=19191",
         "(1993), A gazetteer of Roman villas in Britain, 1, pg. 91",
         "(1938), Roman Britain in 1937, 28, pg. 185"
-      ],
-      "tags": "roman"
+      ]
     },
     {
       "index": 34,
@@ -722,153 +737,162 @@
       "start": "unknown",
       "end": "unknown",
       "location": "England, Kent, Newington",
-      "description": "A Romano-British temple discovered back in 2018 as part of a new housing development in Newington, North Kent, is about to go on display. The temple, informally dubbed 'Warling Temple', which would have been situated near to the Roman period Watling Street which runs through the modern town of Newington, has been carefully moved by a conservation group to a nearby location and recreated, to go on permanent public display.",
+      "description": "A Romano-British temple discovered back in 2018 as part of a new housing development in Newington, North Kent, is about to go on display. The temple, informally dubbed \u0027Warling Temple\u0027, which would have been situated near to the Roman period Watling Street which runs through the modern town of Newington, has been carefully moved by a conservation group to a nearby location and recreated, to go on permanent public display.",
+      "status": "Certain",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": [
         "Stephenson, E., (2021), Remains of 2,000-year-old Roman temple discovered on Newington building site near Sittingbourne set to be unveiled, available at: https://www.kentonline.co.uk/sittingbourne/news/remains-of-2-000-year-old-roman-temple-to-be-unveiled-251866/",
         "Holmwood, C., (2019), Roman remains discovered near A2 in Newington, near Sittingbourne, available at: https://www.kentonline.co.uk/sittingbourne/news/forgotten-roman-village-found-on-building-site-205217/"
-      ],
-      "status": "Certain"
+      ]
     },
     {
+      "index": 35,
       "site": "Kirkmadrine",
-      "location": "Scotland, Dumfries 7 Galloway, Stranraer, Sandhead",
       "start": "early 6th CE",
       "end": "unknown",
-      "bibliography": [
-        "Edmonds, F., (2009), Whithorn's renown in the early medieval period: Whithorn, Futerna and magnum monasterium, Friends of the Whithorn Trust, Stranraer",
-        "CSCS, (03/14/2013), ‘A magnum monasterium in SW Scotland? New work on Kirkmadrine and its stones’, available at: http://cscs.academicblogs.co.uk/a-magnum-monasterium-in-sw-scotland-new-work-on-kirkmadrine-and-its-stones/"
-      ],
-      "description": "An early Scottish ecclesiastical site. Contains Latin stone inscriptions from the 6th CE, one of which reads: 'Here lie the holy and outstanding sacredotes (priests/bishops), that is to say Viventius and Movorious'.",
-      "index": 35,
+      "location": "Scotland, Dumfries 7 Galloway, Stranraer, Sandhead",
+      "description": "An early Scottish ecclesiastical site. Contains Latin stone inscriptions from the 6th CE, one of which reads: \u0027Here lie the holy and outstanding sacredotes (priests/bishops), that is to say Viventius and Movorious\u0027.",
+      "status": "Probable",
       "latitude": "54.793464669572415",
       "longitude": "-4.9878977135104945",
       "tags": "church",
-      "status": "Probable"
+      "bibliography": [
+        "Edmonds, F., (2009), Whithorn\u0027s renown in the early medieval period: Whithorn, Futerna and magnum monasterium, Friends of the Whithorn Trust, Stranraer",
+        "CSCS, (03/14/2013), \u2018A magnum monasterium in SW Scotland? New work on Kirkmadrine and its stones\u2019, available at: http://cscs.academicblogs.co.uk/a-magnum-monasterium-in-sw-scotland-new-work-on-kirkmadrine-and-its-stones/"
+      ]
     },
     {
+      "index": 36,
       "site": "Whithorn",
+      "start": "397",
+      "end": "post 6th CE",
+      "location": "Scotland, Dumfries \u0026 Galloway",
+      "description": "An early if not the earliest ecclesiastical site in Scotland. The site was purportedly founded by St.Ninian in 397 CE when he constructed a church known as the Candida Casa (\u0027The white hut\u0027 in Latin).",
+      "status": "Certain",
+      "latitude": "54.7337122576634",
+      "longitude": "-4.417369348481349",
+      "tags": "church",
       "bibliography": [
-        "Edmonds, F., (2009), Whithorn's renown in the early medieval period: Whithorn, Futerna and magnum monasterium, Friends of the Whithorn Trust, Stranraer",
+        "Edmonds, F., (2009), Whithorn\u0027s renown in the early medieval period: Whithorn, Futerna and magnum monasterium, Friends of the Whithorn Trust, Stranraer",
         "Venerabilis, B., (2008), in The Ecclesiastical History of the English People, Oxford University Press, pg. 114-5",
         "Chadwick, N., (1959), in Studies in Early British History, pg. 182",
         "(1953), in Guide to Whithorn, Ministry of Works, pg. 6, 34",
         "(1948-9), Transactions of the Dumfriesshire and Galloway Natural History and Antiquarian Society, 27, pg. passim"
-      ],
-      "location": "Scotland, Dumfries & Galloway",
-      "start": "397",
-      "end": "post 6th CE",
-      "description": "An early if not the earliest ecclesiastical site in Scotland. The site was purportedly founded by St.Ninian in 397 CE when he constructed a church known as the Candida Casa ('The white hut' in Latin).",
-      "index": 36,
-      "status": "Certain",
-      "latitude": "54.7337122576634",
-      "longitude": "-4.417369348481349",
-      "tags": "church"
+      ]
     },
     {
+      "index": 37,
       "site": "Ardstraw",
-      "location": "Ireland, County Tyrone, Strabane",
       "start": "late 6th CE",
       "end": "post 6th CE",
-      "description": "An early Irish ecclesiastical site, purportedly founded by St.Éogan in the late 6th CE. According to his Vita Éogan studied at Clones and Whithorn, before founding Ardstraw in his later life.",
-      "index": 37,
-      "bibliography": [],
+      "location": "Ireland, County Tyrone, Strabane",
+      "description": "An early Irish ecclesiastical site, purportedly founded by St.\u00C9ogan in the late 6th CE. According to his Vita \u00C9ogan studied at Clones and Whithorn, before founding Ardstraw in his later life.",
       "status": "Possible",
-      "tags": "church"
+      "latitude": null,
+      "longitude": null,
+      "tags": "church",
+      "bibliography": []
     },
     {
+      "index": 38,
       "site": "Clones Abbey",
-      "location": "Ireland, County Monaghan",
       "start": "early 6th CE",
       "end": "post 6th CE",
+      "location": "Ireland, County Monaghan",
       "description": "An early 6th CE monastic site in Ireland, county Monaghan. Purportedly founded by St.Tigernach mac Coirpri who is reported to have died of the plague in the mid 6th CE. The site was dedicated to the Apostles Peter and Paul.",
-      "index": 38,
-      "bibliography": [],
       "status": "Possible",
-      "tags": "church",
       "latitude": "54.18293626291205",
-      "longitude": "-7.233540709698592"
+      "longitude": "-7.233540709698592",
+      "tags": "church",
+      "bibliography": []
     },
     {
-      "description": "A monastic settlement founded by St.Comgall where he died in the late 6th CE or early 7th CE.",
+      "index": 39,
       "site": "Bangor Abbey",
-      "location": "Ireland, County Down, Bangor, Belfast Lough, opposite Carrickfergus",
       "start": "mid 6th CE",
       "end": "post 6th CE",
-      "index": 39,
-      "bibliography": [],
+      "location": "Ireland, County Down, Bangor, Belfast Lough, opposite Carrickfergus",
+      "description": "A monastic settlement founded by St.Comgall where he died in the late 6th CE or early 7th CE.",
       "status": "Possible",
-      "tags": "church",
       "latitude": "54.656238097566764",
-      "longitude": "-5.674360006155962"
+      "longitude": "-5.674360006155962",
+      "tags": "church",
+      "bibliography": []
     },
     {
+      "index": 40,
       "site": "Armoy Monastery",
       "start": "late 5th CE",
       "end": "post 6th CE",
       "location": "Ireland, County Antrim, Armoy",
-      "description": "A monastic site associated with St.Olcán (fl. 5th CE), presumably founded in the later 5th CE. Tírechán records that the lands attached were later seized and regranted to St.Mac Nisse (died 514) and a Senán.",
-      "index": 40,
+      "description": "A monastic site associated with St.Olc\u00E1n (fl. 5th CE), presumably founded in the later 5th CE. T\u00EDrech\u00E1n records that the lands attached were later seized and regranted to St.Mac Nisse (died 514) and a Sen\u00E1n.",
       "status": "Possible",
-      "tags": "church",
       "latitude": "55.130013798917275",
       "longitude": "-6.330106001592397",
+      "tags": "church",
       "bibliography": []
     },
     {
+      "index": 41,
       "site": "Armagh Monastic site",
-      "location": "Ireland, County Armagh, Armagh",
       "start": "445",
       "end": "post 6th CE",
+      "location": "Ireland, County Armagh, Armagh",
       "description": "Purportedly founded by St.Patrick around 445, the site became a major monastic site and the head church of Ireland.",
-      "index": 41,
       "status": "Possible",
-      "tags": "church",
       "latitude": "54.34777858145094",
       "longitude": "-6.6564722013499775",
+      "tags": "church",
       "bibliography": []
     },
     {
+      "index": 42,
       "site": "Abbey of Kells",
-      "location": "Ireland, County Meath, Kells",
       "start": "554",
       "end": "post 6th CE",
-      "description": "Founded by St.Columba around 554 after the land was granted by Ard Rí Diarmait mac Cerbaill. The site is now most famous for it's association with the Book of Kells.",
-      "index": 42,
+      "location": "Ireland, County Meath, Kells",
+      "description": "Founded by St.Columba around 554 after the land was granted by Ard R\u00ED Diarmait mac Cerbaill. The site is now most famous for it\u0027s association with the Book of Kells.",
       "status": "Probable",
-      "tags": "church",
       "latitude": "53.72746666388127",
       "longitude": "-6.8796970449255905",
+      "tags": "church",
       "bibliography": []
     },
     {
+      "index": 43,
       "site": "Clonard Abbey",
-      "location": "Ireland, County Meath, Clonard",
       "start": "520",
       "end": "post 6th CE",
+      "location": "Ireland, County Meath, Clonard",
       "description": "Founded around 520 by St.Finnian. St.Finnian purportedly based his monastery on training he received at Tours and Llancarfan.",
-      "index": 43,
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
       "tags": "church",
       "bibliography": []
     },
     {
+      "index": 44,
       "site": "Glasnevin",
-      "location": "Ireland, Dublin, Glasnevin",
       "start": "early 6th CE",
       "end": "post 6th CE",
-      "description": "A monastic site founded by St.Mobhí in the early 6th CE.",
-      "index": 44,
+      "location": "Ireland, Dublin, Glasnevin",
+      "description": "A monastic site founded by St.Mobh\u00ED in the early 6th CE.",
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
       "tags": "church",
       "bibliography": []
     },
     {
+      "index": 45,
       "site": "Iona Abbey",
-      "location": "Scotland, Inner Hebrides, Argyll and Bute, Isle of Iona",
       "start": "563",
       "end": "post 6th CE",
+      "location": "Scotland, Inner Hebrides, Argyll and Bute, Isle of Iona",
       "description": "A monastery founded by St.Columba in 563 and became an influential centre of Christianity and learning for western Scotland.",
-      "index": 45,
       "status": "Certain",
       "latitude": "56.33510414619457",
       "longitude": "-6.392711982690111",
@@ -876,107 +900,132 @@
       "bibliography": []
     },
     {
+      "index": 46,
       "site": "Movilla Abbey",
-      "location": "Ireland, County Down, Newtownards",
       "start": "540",
       "end": "post 6th CE",
-      "description": "The abbey is believed to have been founded by St.Finnian in 540 under the patronage of the Dál Fiatach. ",
-      "index": 46,
+      "location": "Ireland, County Down, Newtownards",
+      "description": "The abbey is believed to have been founded by St.Finnian in 540 under the patronage of the D\u00E1l Fiatach. ",
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": []
     },
     {
+      "index": 47,
       "site": "Clonmacnoise",
-      "description": "Purportedly founded by St.Ciarán of Clonmacnoise in 544. Ciarán died of a plague 5 years later in 549 and was reportedly buried under the original church, a small wooden structure.",
       "start": "544",
       "end": "post 6th CE",
       "location": "Ireland, County Offaly, Athlone",
-      "index": 47,
-      "bibliography": [],
-      "status": "Possible"
+      "description": "Purportedly founded by St.Ciar\u00E1n of Clonmacnoise in 544. Ciar\u00E1n died of a plague 5 years later in 549 and was reportedly buried under the original church, a small wooden structure.",
+      "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
+      "bibliography": []
     },
     {
+      "index": 48,
       "site": "Clonenagh Monastery",
       "start": "mid 6th CE",
-      "location": "Ireland, County Laois, Mountrath, Mayborough West",
       "end": "post 6th CE",
+      "location": "Ireland, County Laois, Mountrath, Mayborough West",
       "description": "A monastery site in County Laois purportedly founded by St.Fintan. The date 548 CE for its founding has been suggested but this is not certain. ",
-      "index": 48,
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": []
     },
     {
+      "index": 49,
+      "site": "Saighir",
       "start": "mid 5th CE",
       "end": "post 6th CE",
-      "site": "Saighir",
       "location": "Ireland, County Offaly, Clareen",
-      "description": "An early monastic site purportedly founded by St.Ciarán the Elder sometime in the mid 5th CE. ",
-      "index": 49,
+      "description": "An early monastic site purportedly founded by St.Ciar\u00E1n the Elder sometime in the mid 5th CE. ",
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": []
     },
     {
+      "index": 50,
       "site": "Monastery of Birr",
       "start": "mid 6th CE",
       "end": "post 6th CE",
       "location": "Ireland, County Offaly, Biorra",
       "description": "A monastic site purportedly founded St.Brendan of Birr sometime in the mid or late 6th CE.",
-      "index": 50,
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": []
     },
     {
+      "index": 51,
       "site": "Terryglass Monastery",
-      "location": "Ireland, County Tipperary, Lough Derg",
       "start": "549",
       "end": "post 6th CE",
+      "location": "Ireland, County Tipperary, Lough Derg",
       "description": "A monastic site purportedly founded by St.Columba of Terryglass, a disciple of St.Finnian of Clonard.",
-      "index": 51,
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": []
     },
     {
+      "index": 52,
       "site": "Lorrha Abbey",
-      "location": "Ireland, County Tipperary, Lorrha",
       "start": "mid 6th CE",
       "end": "post 6th CE",
-      "description": "An early monastic site purportedly founded by St.Ruadhán in the mid 6th CE. ",
-      "index": 52,
+      "location": "Ireland, County Tipperary, Lorrha",
+      "description": "An early monastic site purportedly founded by St.Ruadh\u00E1n in the mid 6th CE. ",
       "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": []
     },
     {
-      "site": "Freestone Hill",
       "index": 53,
-      "location": "Ireland, Kilkenny, Gowran",
-      "bibliography": [
-        "(2016), Roman shrines on Freestone Hill Kilkenny infer drinking at funerals not a modern thing, available at: https://www.kilkennypeople.ie/news/home/228410/roman-shrines-on-freestone-hill-kilkenny-infer-drinking-at-funerals-not-a-modern-thing.html",
-        "Cahill Wilson, J., (2016), Romans and Roman Influences in Kilkenny in the Late Iron Age: the bigger picture, in Above and Below: the archaeology of roads and light rail",
-        "(2014), Late Iron Age and ‘Roman’ Ireland",
-        "Raftery, B., (2014), Freestone Hill, Co. Kilkenny: An Iron Age Hillfort and Bronze Age Cairn: Excavation",
-        "Cahill Wilson, J., (2010), Becoming 'Irish': The materiality of transcultural identities in the Later Irish Iron Age",
-        "O'Floinn, (2000), Freestone Hill, Co. Kilkenny: a reassessment",
-        "Bathurst, (1972), Roman antiquities in Lydney Park",
-        "Raferty, B., (1969), Freestone Hill, Co. Kilkenny: an Iron Age Hillfort and Bronze Age cairn",
-        "Bersu, G., (1950), FREESTONE HILL A Prelim inary Report on the Excavations, Kilkenny Archaeological Society"
-      ],
+      "site": "Freestone Hill",
       "start": "mid 3rd CE",
-      "description": "A hillfort site in South East Ireland, two shrines outside the hillfort and a third on the summit have been identified. Based on their form and material they show a close similarity to the Romano-British Shrines and Temples of the Severn valley. The sites chronology is uncertain but depositional activity can be attributed to the mid 3rd CE and the 4th CE.",
       "end": "unknown",
+      "location": "Ireland, Kilkenny, Gowran",
+      "description": "A hillfort site in South East Ireland, two shrines outside the hillfort and a third on the summit have been identified. Based on their form and material they show a close similarity to the Romano-British Shrines and Temples of the Severn valley. The sites chronology is uncertain but depositional activity can be attributed to the mid 3rd CE and the 4th CE.",
       "status": "Possible",
       "latitude": "52.65435845467654",
       "longitude": "-7.130294148570044",
-      "tags": "roman, romano-celtic"
+      "tags": "roman, romano-celtic",
+      "bibliography": [
+        "(2016), Roman shrines on Freestone Hill Kilkenny infer drinking at funerals not a modern thing, available at: https://www.kilkennypeople.ie/news/home/228410/roman-shrines-on-freestone-hill-kilkenny-infer-drinking-at-funerals-not-a-modern-thing.html",
+        "Cahill Wilson, J., (2016), Romans and Roman Influences in Kilkenny in the Late Iron Age: the bigger picture, in Above and Below: the archaeology of roads and light rail",
+        "(2014), Late Iron Age and \u2018Roman\u2019 Ireland",
+        "Raftery, B., (2014), Freestone Hill, Co. Kilkenny: An Iron Age Hillfort and Bronze Age Cairn: Excavation",
+        "Cahill Wilson, J., (2010), Becoming \u0027Irish\u0027: The materiality of transcultural identities in the Later Irish Iron Age",
+        "O\u0027Floinn, (2000), Freestone Hill, Co. Kilkenny: a reassessment",
+        "Bathurst, (1972), Roman antiquities in Lydney Park",
+        "Raferty, B., (1969), Freestone Hill, Co. Kilkenny: an Iron Age Hillfort and Bronze Age cairn",
+        "Bersu, G., (1950), FREESTONE HILL A Prelim inary Report on the Excavations, Kilkenny Archaeological Society"
+      ]
     },
     {
-      "site": "Bourton Grounds",
-      "description": "A Square temple near Buckingham, beside the river Twin, opposite the Thornborough Roman barrows. interestingly, we know that the walls were made of timber. Lewis (1966) suggest a mid to late 3rd CE start date and an the early 5th CE for it's end.",
       "index": 54,
+      "site": "Bourton Grounds",
       "start": "265",
       "end": "425",
       "location": "England, Buckinghamshire, Buckingham",
+      "description": "A Square temple near Buckingham, beside the river Twin, opposite the Thornborough Roman barrows. interestingly, we know that the walls were made of timber. Lewis (1966) suggest a mid to late 3rd CE start date and an the early 5th CE for it\u0027s end.",
+      "status": "Certain",
+      "latitude": "51.9915801838185",
+      "longitude": "-0.9392164735205445",
+      "tags": "roman",
       "bibliography": [
-        "MONUMENT NO. 343002, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=acbc6ab0-40c9-4fdf-99ca-057c1af56918&resourceID=19191",
+        "MONUMENT NO. 343002, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=acbc6ab0-40c9-4fdf-99ca-057c1af56918\u0026resourceID=19191",
         "(2020), Monument record 0078400000 - BOURTON GROUNDS, available at: https://heritageportal.buckinghamshire.gov.uk/Monument/MBC2497",
         "Wilson, N., (2017), The Thornborough Romano-British Temple: a Reappraisal",
         "Martyn, Blick, Brindle, et al, (2015), Bourton Grounds temple (Buckinghamshire), available at: https://doi.org/10.5284/1030449",
@@ -986,68 +1035,71 @@
         "Green, C., (1966), A Romano-Celtic temple at Bourton Grounds, Buckingham, Records of Buckinghamshire, 17",
         "Lewis, (1966), Temples in Roman Britain",
         "Green, (1962), Wolverton and Dist. Arch. Soc. Newsletter, 7, pg. 8 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.9915801838185",
-      "longitude": "-0.9392164735205445",
-      "tags": "roman"
+      ]
     },
     {
+      "index": 56,
       "site": "Caerwent 1",
-      "description": "A square temple located in Caerwent in a temenos beside the forum. It is considered unique because it incorporates an apse and pilasters into its architecture. Lewis (1966) suggest an earlier phase in the mid 3rd CE as a shrine before the temple was built after 265, it's end is uncertain.",
       "start": "mid 3rd CE",
       "end": "unknown",
-      "index": 56,
       "location": "Wales, Monmouthshire",
+      "description": "A square temple located in Caerwent in a temenos beside the forum. It is considered unique because it incorporates an apse and pilasters into its architecture. Lewis (1966) suggest an earlier phase in the mid 3rd CE as a shrine before the temple was built after 265, it\u0027s end is uncertain.",
+      "status": "Certain",
+      "latitude": "51.61171256635264",
+      "longitude": "-2.7682427106504504",
+      "tags": null,
       "bibliography": [
         "King, BBCS, 15, pg. 81",
         "Lewis, (1966), Temples in Roman Britain",
         "(1952), Bulletin of the Board of Celtic Studies of the University of Wales, 15, pg. 81",
         "King, F., Hudd, A., Ashby, T., (1910), Excavations at Caerwent, Monmouthshire, on the Site of the Romano-British City of Venta Silurum, in the year 1908, Archaeologia, 62, pg. 4 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.61171256635264",
-      "longitude": "-2.7682427106504504"
+      ]
     },
     {
-      "site": "Caister 1 & 2",
-      "description": "A pair of square temples, the first northern and the second southern in the town centre. Lewis (1966) suggests that both temples were constructed in the late 2nd CE (the first being slightly earlier) and an end date for possibly the late 3rd CE but this is uncertain. ",
+      "index": 57,
+      "site": "Caister 1 \u0026 2",
       "start": "late 2nd CE",
       "end": "late 3rd CE",
-      "index": 57,
       "location": "England, Norfolk, Caister Saint Edmund",
+      "description": "A pair of square temples, the first northern and the second southern in the town centre. Lewis (1966) suggests that both temples were constructed in the late 2nd CE (the first being slightly earlier) and an end date for possibly the late 3rd CE but this is uncertain. ",
+      "status": "Certain",
+      "latitude": "52.58348825951417",
+      "longitude": "1.2917442856103052",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Atkinson, (1930), Caistor Excavations, Norfolk Archaeology, 24, pg. 98 ff"
-      ],
-      "status": "Certain",
-      "latitude": "52.58348825951417",
-      "longitude": "1.2917442856103052"
+      ]
     },
     {
+      "index": 58,
       "site": "Caister 3",
-      "description": "A square temple located about half a mile north-east of the town in a temenos. Lewis (1966) suggests a chronology from the late 2nd or early 3rd CE to the mid or late 4th CE.",
       "start": "late 2nd CE",
       "end": "late 4th CE",
-      "index": 58,
       "location": "England, Norfolk, Caister Saint Edmund",
+      "description": "A square temple located about half a mile north-east of the town in a temenos. Lewis (1966) suggests a chronology from the late 2nd or early 3rd CE to the mid or late 4th CE.",
+      "status": "Certain",
+      "latitude": "52.58677791854428",
+      "longitude": "1.3037825642156537",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Clarke, R., (1958), Roman Britain in 1957, Journal of Roman Studies, 48, pg. 142",
         "Wright, R., (1957), Roman Britain in 1956: I. Sites Explored: II. Inscriptions, Journal of Roman Studies, 47, pg. 211",
         "Clarke Rainbird, R., (1955), Archaeological Discoveries in Norfolk, 1949-54, Norfolk Archaeology, 31, pg. 404"
-      ],
-      "status": "Certain",
-      "latitude": "52.58677791854428",
-      "longitude": "1.3037825642156537"
+      ]
     },
     {
+      "index": 59,
       "site": "Chanctonbury Ring",
-      "description": "A unique square temple located on the summit of an earlier hillfort. Possibly a polygonal shrine nearby. Lewis (1966) suggests a chronology beginning in the mid 3rd CE and ending in the late 4th CE or possibly early 5th CE.",
       "start": "mid 3rd CE",
       "end": "late 4th CE",
-      "index": 59,
       "location": "England, Sussex, Chanctonbury Hill",
+      "description": "A unique square temple located on the summit of an earlier hillfort. Possibly a polygonal shrine nearby. Lewis (1966) suggests a chronology beginning in the mid 3rd CE and ending in the late 4th CE or possibly early 5th CE.",
+      "status": "Certain",
+      "latitude": "50.896817061309875",
+      "longitude": "-0.38122759190954836",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Chanctonbury Ring (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
@@ -1061,19 +1113,19 @@
         "Ross, A., (1974)",
         "Lewis, (1966), Temples in Roman Britain",
         "Mitchell, G., (1909), Excavations at Chanctonbury Ring, 1909, Sussex Archaeological Collections, 53, pg. 131 ff"
-      ],
-      "status": "Certain",
-      "latitude": "50.896817061309875",
-      "longitude": "-0.38122759190954836",
-      "tags": "roman, romano-celtic"
+      ]
     },
     {
+      "index": 60,
       "site": "Chedworth Villa and Temple",
-      "description": "A square temple located 700 yards south-east of the villa beside the river Coln. The cella has been robbed away, but its existence was recorded in 1866. Lewis (1966) suggest a chronology beginning in the early to mid 2nd CE and ending in the late 4th CE. The Villa itself contains an octagonal nymphaeum which has Chi-Rho symbols inscribed into it, suggesting later Christian use. ",
       "start": "early 2nd CE",
       "end": "late 4th CE",
-      "index": 60,
       "location": "England, Gloucstershire, Cheltenham, Yanworth",
+      "description": "A square temple located 700 yards south-east of the villa beside the river Coln. The cella has been robbed away, but its existence was recorded in 1866. Lewis (1966) suggest a chronology beginning in the early to mid 2nd CE and ending in the late 4th CE. The Villa itself contains an octagonal nymphaeum which has Chi-Rho symbols inscribed into it, suggesting later Christian use. ",
+      "status": "Certain",
+      "latitude": "51.81811487010576",
+      "longitude": "-1.912618549894069",
+      "tags": "roman, romano-celtic, nymphaeum, octagonal, christian ",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Chedworth temple (Gloucestershire), available at: https://doi.org/10.5284/1030449",
         "Martyn, Blick, Brindle, et al, (2015), Chedworth (Gloucestershire), available at: https://doi.org/10.5284/1030449",
@@ -1084,102 +1136,106 @@
         "Baddeley, W., (1930), The Roman-British Temple, Chedworth, Transactions of the Bristol and Gloucster Archaeological Society, 52, pg. 255 ff",
         "(1924), Roman Britain in 1924, Journal of Roman Studies, 14, pg. 231",
         "Toynbee, J., (1909), in Art in Roman Britain, pg. 21"
-      ],
-      "status": "Certain",
-      "latitude": "51.81811487010576",
-      "longitude": "-1.912618549894069",
-      "tags": "roman, romano-celtic, nymphaeum, octagonal, christian "
+      ]
     },
     {
+      "index": 61,
       "site": "Colchester 2",
-      "description": "a square temple located north-west of the town in a temenos. Lewis (1966) suggests a chronology beginning in the late 1st CE (contemporary with the temenos), and ending in the late 4th CE. He suggests it may have been deliberately dismantled after a period of decay.",
       "start": "late 1st CE",
       "end": "late 4th CE",
-      "index": 61,
       "location": "England, Essex, Colchester, Sheepen Farm",
+      "description": "a square temple located north-west of the town in a temenos. Lewis (1966) suggests a chronology beginning in the late 1st CE (contemporary with the temenos), and ending in the late 4th CE. He suggests it may have been deliberately dismantled after a period of decay.",
+      "status": "Certain",
+      "latitude": "51.89523900434095",
+      "longitude": "0.8893345264047127",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Hull, M., (1958), in Roman Colchester, Society of Antiquaries, pg. 259 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.89523900434095",
-      "longitude": "0.8893345264047127"
+      ]
     },
     {
+      "index": 62,
       "site": "Colchester 3",
-      "description": "A square temple outside the temenos of Colchester 2. Lewis (1966) suggests a chronology ranging from the mid 3rd CE to the later 4th CE.",
       "start": "mid 3rd CE",
       "end": "late 4th CE",
-      "index": 62,
       "location": "England, Essex, Colchester, Sheepen Farm",
+      "description": "A square temple outside the temenos of Colchester 2. Lewis (1966) suggests a chronology ranging from the mid 3rd CE to the later 4th CE.",
+      "status": "Certain",
+      "latitude": "51.89523900434095",
+      "longitude": "0.8893345264047127",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Hull, M., (1958), in Roman Colchester, Society of Antiquaries, pg. 259 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.89523900434095",
-      "longitude": "0.8893345264047127"
+      ]
     },
     {
       "index": 63,
-      "site": "Colchester 4 & 5",
-      "description": "A pair of square temples in their own temenos, 4 the southern and 5 the northern of the pair. They lie c. 200 yards north-east of the temenos of Colchester 2 on the river-plain. Lewis (1966) suggests a chronology ranging from the mid 1st CE to the late 4th CE. The earlier temple, 4, is suggested to have been built in wood around the year 50, before being destroyed by fire and rebuilt in stone around the year 75, a porch was added in the 3rd CE. The second temple, 5, is comparably short lived, being built in the later 1st CE and falling out of use by the later 2nd CE.",
+      "site": "Colchester 4 \u0026 5",
       "start": "50",
       "end": "late 4th CE",
       "location": "England, Essex, Colchester,",
+      "description": "A pair of square temples in their own temenos, 4 the southern and 5 the northern of the pair. They lie c. 200 yards north-east of the temenos of Colchester 2 on the river-plain. Lewis (1966) suggests a chronology ranging from the mid 1st CE to the late 4th CE. The earlier temple, 4, is suggested to have been built in wood around the year 50, before being destroyed by fire and rebuilt in stone around the year 75, a porch was added in the 3rd CE. The second temple, 5, is comparably short lived, being built in the later 1st CE and falling out of use by the later 2nd CE.",
+      "status": "Certain",
+      "latitude": "51.897055462176056",
+      "longitude": "0.8894292301880085",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Wright, R., (1961), Roman Britain in 1960: I. Sites Explored: II. Inscriptions, Journal of Roman Studies, 51, pg. 185",
         "Hull, M., (1961), in Roman Colchester (guide), pg. 47"
-      ],
-      "status": "Certain",
-      "latitude": "51.897055462176056",
-      "longitude": "0.8894292301880085"
+      ]
     },
     {
+      "index": 64,
       "site": "Colchester 7",
-      "description": "An obscure site, located at the Union or St Mary's Hospital outside the Balkerne Gate. Very few details survive and judging by the plan it is a presumed temple or tomb building (the difference is up for debate).",
       "start": "unknown",
       "end": "unknown",
-      "index": 64,
-      "location": "England, Essex, Colchester, Balkerne Gate, St Mary's Hospital",
+      "location": "England, Essex, Colchester, Balkerne Gate, St Mary\u0027s Hospital",
+      "description": "An obscure site, located at the Union or St Mary\u0027s Hospital outside the Balkerne Gate. Very few details survive and judging by the plan it is a presumed temple or tomb building (the difference is up for debate).",
+      "status": "Certain",
+      "latitude": "51.891619550563426",
+      "longitude": "0.8905630978184207",
+      "tags": null,
       "bibliography": [
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
         "Crummy, (1997)",
         "Crummy, (1984)",
         "Lewis, (1966), Temples in Roman Britain",
         "Hull, M., (1958), in Roman Colchester, Society of Antiquaries, pg. 259 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.891619550563426",
-      "longitude": "0.8905630978184207"
+      ]
     },
     {
+      "index": 65,
       "site": "Crownthorpe",
-      "description": "Substantial Romano-Celtic temple located near Wymondham, Norfolk on undulating ground. Chronology is uncertain.",
       "start": "unknown",
       "end": "unknown",
-      "index": 65,
       "location": "England, Norfolk, Crownthorpe",
+      "description": "Substantial Romano-Celtic temple located near Wymondham, Norfolk on undulating ground. Chronology is uncertain.",
+      "status": "Probable",
+      "latitude": "52.58351577758771",
+      "longitude": "1.080879368351829",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "NHER  8897, available at: https://www.heritage.norfolk.gov.uk/record-details?MNF8897-Crownthorpe-Roman-temple-and-settlementandIndex=2andRecordCount=7andSessionID=29a840ab-1119-4b61-b897-4bbe22f65a76",
         "(2021), EAA 175: Crownthorpe: A Boudican Hoard of Bronze Vessels from Early Roman Norfolk",
         "Martyn, Blick, Brindle, et al, (2015), Crownthorpe, Wicklewood (Norfolk), available at: https://doi.org/10.5284/1030449",
         "Lewis, (1966), Temples in Roman Britain",
         "Clarke, R., (1960), Roman Britain in 1959, Journal of Roman Studies, 50, pg. 228"
-      ],
-      "status": "Probable",
-      "latitude": "52.58351577758771",
-      "longitude": "1.080879368351829",
-      "tags": "roman, romano-celtic"
+      ]
     },
     {
       "index": 66,
       "site": "Old Harlow Temple",
-      "description": "A square temple in a temenos located on a low hill beside the river Stort. Lewis (1966) suggests a chronology ranging from the mid to late 3rd CE and ending in the late 4th or early 5th CE, but it now seems that it was a late Iron Age shrine succeeded by a masonry temple in the 80s CE. ",
       "start": "early 1st CE",
       "end": "early 5th CE",
       "location": "England, Essex, Old Harlow",
+      "description": "A square temple in a temenos located on a low hill beside the river Stort. Lewis (1966) suggests a chronology ranging from the mid to late 3rd CE and ending in the late 4th or early 5th CE, but it now seems that it was a late Iron Age shrine succeeded by a masonry temple in the 80s CE. ",
+      "status": "Probable",
+      "latitude": "51.79013481776638",
+      "longitude": "0.1270764841132437",
+      "tags": "iron age, roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Harlow (Essex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
@@ -1190,19 +1246,19 @@
         "(1937), Journal of Roman Studies, 27, pg. 241",
         "(1928), Antiquaries Journal, 8, pg. 300",
         "(1821), Archaeologia, 19, pg. 410"
-      ],
-      "status": "Probable",
-      "latitude": "51.79013481776638",
-      "longitude": "0.1270764841132437",
-      "tags": "iron age, roman"
+      ]
     },
     {
+      "index": 67,
       "site": "Irchester",
-      "description": "A square temple located in a temenos, inside the Roman town. Lewis (1966) suggests that it was constructed in the early 2nd CE but possibly destroyed in the late 2nd or early 3rd CE as we see smashed statues. It now seems that dating evidence for this site is even more tentative than first thought.",
       "start": "early 2nd CE",
       "end": "early 3rd CE",
-      "index": 67,
       "location": "England, Northamptonshire",
+      "description": "A square temple located in a temenos, inside the Roman town. Lewis (1966) suggests that it was constructed in the early 2nd CE but possibly destroyed in the late 2nd or early 3rd CE as we see smashed statues. It now seems that dating evidence for this site is even more tentative than first thought.",
+      "status": "Certain",
+      "latitude": "52.291657065588254",
+      "longitude": "-0.6554995732948904",
+      "tags": "roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Irchester, Chester Farm (Northamptonshire), available at: https://doi.org/10.5284/1030449",
         "Meadows, (2012), Targeted Archaeological Excavations at Chester Farm Irchester, Northamptonshire, available at: https://doi.org/10.5284/1031129",
@@ -1211,33 +1267,34 @@
         "(1959), YP6, Cambridge University Collection of Aerial Photographs",
         "(1902), Northants, in Victoria County History, 1, pg. 178 ff",
         "(1879), Plan in Northampton Museum, Rep. Associated Archit. Socs, 15, pg. 49 ff"
-      ],
-      "status": "Certain",
-      "latitude": "52.291657065588254",
-      "longitude": "-0.6554995732948904",
-      "tags": "roman"
+      ]
     },
     {
+      "index": 68,
       "site": "Kenchester",
-      "description": "A square temple located c. 400 yards east of the Roman town beside the road. Identified by aerial photographer in 1957.",
       "start": "unknown",
       "end": "unknown",
-      "index": 68,
       "location": "England, Herefordshire, Kenchester",
-      "bibliography": [
-        "Lewis, (1966), Temples in Roman Britain"
-      ],
+      "description": "A square temple located c. 400 yards east of the Roman town beside the road. Identified by aerial photographer in 1957.",
       "status": "Certain",
       "latitude": "52.07902035702776",
-      "longitude": "-2.806909585235577"
+      "longitude": "-2.806909585235577",
+      "tags": null,
+      "bibliography": [
+        "Lewis, (1966), Temples in Roman Britain"
+      ]
     },
     {
+      "index": 69,
       "site": "Lancing Down",
-      "description": "A square temple located c. 200 yards north west of Lancing Ring. Martyn et al suggest that the temple is very likely late Iron Age in date but was probably out of use by the late 3rd CE or early 4th CE.",
       "start": "early 1st CE",
       "end": "early 4th CE",
-      "index": 69,
       "location": "England, Sussex, Lancing Ring",
+      "description": "A square temple located c. 200 yards north west of Lancing Ring. Martyn et al suggest that the temple is very likely late Iron Age in date but was probably out of use by the late 3rd CE or early 4th CE.",
+      "status": "Certain",
+      "latitude": "50.848070215821295",
+      "longitude": "-0.3280106806137186",
+      "tags": null,
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Lancing Down (East Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
@@ -1253,20 +1310,21 @@
         "(1929), Journal of Roman Studies, 19, pg. 210",
         "Wheeler, (1928)",
         "Smith, C., (1848), Collectanea Antiqua, 1, pg. 92 ff",
-        "(1830), The Gentleman's Magazine, 2, pg. 17",
-        "(1828), The Gentleman's Magazine, 2, pg. 631"
-      ],
-      "status": "Certain",
-      "latitude": "50.848070215821295",
-      "longitude": "-0.3280106806137186"
+        "(1830), The Gentleman\u0027s Magazine, 2, pg. 17",
+        "(1828), The Gentleman\u0027s Magazine, 2, pg. 631"
+      ]
     },
     {
+      "index": 70,
       "site": "Lullingstone Villa",
-      "description": "Early Roman villa, likely constructed around 100 CE. A square temple/mausoleum was constructed in the early 4th CE just to the north of the villa. One of the rooms of the villa was converted into a house chapel after 360 CE, but it is suggested that 'pagan' worship continued in a room below this one. It now seems that the villa was abandoned after a fire, probably around 420.",
       "start": "100",
       "end": "420",
-      "index": 70,
       "location": "England, Kent",
+      "description": "Early Roman villa, likely constructed around 100 CE. A square temple/mausoleum was constructed in the early 4th CE just to the north of the villa. One of the rooms of the villa was converted into a house chapel after 360 CE, but it is suggested that \u0027pagan\u0027 worship continued in a room below this one. It now seems that the villa was abandoned after a fire, probably around 420.",
+      "status": "Probable",
+      "latitude": "51.364350478621255",
+      "longitude": "0.19634436932541782",
+      "tags": "villa, roman, romano-celtic, mausoleum, christian, chapel",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Lullingstone (Kent), available at: https://doi.org/10.5284/1030449",
         "Sparey-Green, (2009), Lullingstone Roman Villa, Eynsford, Kent, Watching brief during improvement of visitor facilities, Report No: 2009/1, available at: https://doi.org/10.5284/1027410",
@@ -1278,75 +1336,77 @@
         "Lewis, (1966), Temples in Roman Britain",
         "(1959), Journal of Roman Studies, 49, pg. 132",
         "(1958), Archaeologia Cantiana, 72, pg. 48, 63"
-      ],
-      "status": "Probable",
-      "latitude": "51.364350478621255",
-      "longitude": "0.19634436932541782",
-      "tags": "villa, roman, romano-celtic, mausoleum, christian, chapel"
+      ]
     },
     {
-      "site": "Maiden Castle 1 & 2",
+      "index": 71,
+      "site": "Maiden Castle 1 \u0026 2",
       "start": "pre 1st BCE",
       "end": "mid 5th CE",
-      "description": "Two temple structures located in Maiden Castle hillfort, the earlier (1) is circular, and the later square temple (2), Lewis suggests to have been constructed in the early 3rd CE and have gone out of use in the early or mid 5th CE. Maiden Castle shows earlier use as a possible location for parts of the burial process, which may have some connection to the later temples.",
-      "index": 71,
       "location": "England, Dorset, Dorchester, Maiden Castle Road",
+      "description": "Two temple structures located in Maiden Castle hillfort, the earlier (1) is circular, and the later square temple (2), Lewis suggests to have been constructed in the early 3rd CE and have gone out of use in the early or mid 5th CE. Maiden Castle shows earlier use as a possible location for parts of the burial process, which may have some connection to the later temples.",
+      "status": "Certain",
+      "latitude": "50.694881465449456",
+      "longitude": "-2.467084692240063",
+      "tags": "pre-roman, roman, hill fort, romano-celtic",
       "bibliography": [
         "Russell, M., (2019), Mythmakers of Maiden Castle: Breaking the Siege Mentality of an Iron Age Hillfort, Oxford Journal of Archaeology, 38, 3, available at: https://onlinelibrary.wiley.com/doi/10.1111/ojoa.12172",
-        "Booth, T., Madgwick, R., (2016), New evidence for diverse secondary burial practices in Iron Age Britain: A histological case study, Journal of Archaeological Science, 67, pg. 14–24, available at: http://dx.doi.org/10.1016/j.jas.2016.01.010",
+        "Booth, T., Madgwick, R., (2016), New evidence for diverse secondary burial practices in Iron Age Britain: A histological case study, Journal of Archaeological Science, 67, pg. 14\u201324, available at: http://dx.doi.org/10.1016/j.jas.2016.01.010",
         "Martyn, Blick, Brindle, et al, (2015), Maiden Castle (Dorset), available at: https://doi.org/10.5284/1030449",
         "Sharples, (1991), Maiden Castle: excavations and field survey 1985-6 (1991), nglish Heritage Archaeological Report, no. 19",
         "Lewis, (1966), Temples in Roman Britain",
         "Wheeler, R., (1943), Maiden Castle",
         "Toynbee, J., (1909), in Art in Roman Britain"
-      ],
-      "status": "Certain",
-      "tags": "pre-roman, roman, hill fort, romano-celtic",
-      "latitude": "50.694881465449456",
-      "longitude": "-2.467084692240063"
+      ]
     },
     {
-      "site": "Silchester 1 & 2",
-      "description": "Two square temples located in a temenos just inside the east gate of Silchester Roman town. Temple 1 is the northern and Temple 2 is the southern of the pair. Lewis suggests a chronology of their construction in the late 1st CE and ending in the late 4th CE. There chronologies are identical, suggesting they were constructed and used as a pair.",
-      "location": "England, Hampshire, Silchester",
+      "index": 72,
+      "site": "Silchester 1 \u0026 2",
       "start": "late 1st CE",
       "end": "late 4th CE",
-      "index": 72,
+      "location": "England, Hampshire, Silchester",
+      "description": "Two square temples located in a temenos just inside the east gate of Silchester Roman town. Temple 1 is the northern and Temple 2 is the southern of the pair. Lewis suggests a chronology of their construction in the late 1st CE and ending in the late 4th CE. There chronologies are identical, suggesting they were constructed and used as a pair.",
+      "status": "Certain",
+      "latitude": "51.357107",
+      "longitude": "-1.0779235",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Boon, G., (1957), in Roman Silchester, pg. 121",
         "St. John Hope, W., (1903), Excavations on the site of the Roman city at Silchester, Hants, in 1902, Archaeologia, 58, pg. 414 ff",
         "St. John Hope, W., (1898), Excavations on the site of the Roman city at Silchester, Hants, in 1896, Archaeologia, 55, pg. 429",
         "Fox, G., St. John Hope, W., (1890), Excavations on the site of the Roman city at Silchester, Hants, Archaeologia, 52, pg. 744 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.357107",
-      "longitude": "-1.0779235"
+      ]
     },
     {
+      "index": 73,
       "site": "Silchester 3",
-      "description": "A square temple located 100 yards south-east of the forum of Silchester Roman town. Lewis (1966) suggests a construction date of the later 1st CE and a period of destruction in the late 3rd CE as the statue was smashed.",
       "start": "late 1st CE",
       "end": "late 3rd CE",
-      "index": 73,
       "location": "England, Hampshire, Silchester",
+      "description": "A square temple located 100 yards south-east of the forum of Silchester Roman town. Lewis (1966) suggests a construction date of the later 1st CE and a period of destruction in the late 3rd CE as the statue was smashed.",
+      "status": "Certain",
+      "latitude": "51.356177",
+      "longitude": "-1.0822743",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Boon, G., (1957), in Roman Silchester, pg. 121",
         "St. John Hope, W., (1908), Excavations on the site of the Roman city at Silchester, Hants, in 1907, Archaeologia, 61, pg. 206 ff",
         "(1903), Ephemis Epigraphica, 9, pg. 985 - 7"
-      ],
-      "status": "Certain",
-      "latitude": "51.356177",
-      "longitude": "-1.0822743"
+      ]
     },
     {
+      "index": 74,
       "site": "Titsey Temple",
-      "description": "A square temple in a temenos besides the London-Lewes road. Lewis (1966) suggests a construction date around 100 and an end of use in the early 3rd CE.",
       "start": "100",
       "end": "early 3rd CE",
-      "index": 74,
       "location": "England, Surrey, Titsey",
+      "description": "A square temple in a temenos besides the London-Lewes road. Lewis (1966) suggests a construction date around 100 and an end of use in the early 3rd CE.",
+      "status": "Certain",
+      "latitude": "51.27624298026205",
+      "longitude": "0.035920718523974944",
+      "tags": "roman, romano-celtic",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Church Field, Titsey (Surrey), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., Bird, D., (2008), Roman-Period temples and Religion in Roman Surrey, in Ritual Landscapes of Roman South-East Britain",
@@ -1356,184 +1416,186 @@
         "Graham, J., (1936), A Romano-Celtic Temple at Titsey, and the Roman Road, Surrey Archaeological Collections, 44, pg. 84 ff, available at: http://dx.doi.org/10.5284/1000221",
         "(1936), Roman Britain in 1935, Journal of Roman Studies, 26, pg. 262",
         "(1881), Thursday, December 11th, 1879., Proceedings of the Society of Antiquaries of London, 8, pg. 213 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.27624298026205",
-      "longitude": "0.035920718523974944",
-      "tags": "roman, romano-celtic"
+      ]
     },
     {
+      "index": 75,
       "site": "Verulamium 1",
-      "description": "A square temple in a temenos located behind the the theatre in Verulamium Roman town. Lewis (1966) suggest a chronology beginning around the year 90 and and end date in the mid 5th CE after several phases of rebuilding and additions.",
       "start": "90",
       "end": "mid 5th CE",
-      "index": 75,
       "location": "England, Hertfordshire",
+      "description": "A square temple in a temenos located behind the the theatre in Verulamium Roman town. Lewis (1966) suggest a chronology beginning around the year 90 and and end date in the mid 5th CE after several phases of rebuilding and additions.",
+      "status": "Certain",
+      "latitude": "51.753822",
+      "longitude": "-0.35854962",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Frere, S., (1960), Excavations at Verulamium 1959. Fifth Interim Report, Antiquaries Journal, 40, pg. 12 ff",
         "Lowther, A., (1937), Report on Excavations at Verulamium in 1934, Antiquaries Journal, 17, pg. 28 ff",
         "Wheeler, R., Wheeler, T., (1936), in Verulamium, A Belgic and two Roman Cities, pg. 113 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.753822",
-      "longitude": "-0.35854962"
+      ]
     },
     {
+      "index": 77,
       "site": "Worth",
-      "description": "A square temple near Sandwich on rising ground. The chronology is uncertain but Lewis (1966) suggests that it may begin in the early 3rd CE and ends in the later 4th CE.",
       "start": "early 3rd CE",
       "end": "late 4th CE",
-      "index": 77,
       "location": "England, Kent, Sandwich",
-      "bibliography": [
-        "Martyn, Blick, Brindle, et al, (2015), Castle Field, Worth (Kent), available at: https://doi.org/10.5284/1030449",
-        "Lewis, (1966), Temples in Roman Britain",
-        "Hawkes, C., (1940), The Marnian pottery and La Tène I brooch from Worth, Kent, Antiquaries Journal, 20, pg. 115",
-        "Stebbing, W., (1937), Pre-Roman, Roman, and post-Roman pottery from burials at Worth, East Kent, Antiquaries Journal, 17, pg. 310",
-        "Klein, W., (1928), Roman Temple at Worth, Kent, Antiquaries Journal, 8, pg. 76 ff"
-      ],
+      "description": "A square temple near Sandwich on rising ground. The chronology is uncertain but Lewis (1966) suggests that it may begin in the early 3rd CE and ends in the later 4th CE.",
       "status": "Probable",
       "latitude": "51.2501704095186",
       "longitude": "1.3458944998753828",
-      "tags": "roman, romano-celtic"
+      "tags": "roman, romano-celtic",
+      "bibliography": [
+        "Martyn, Blick, Brindle, et al, (2015), Castle Field, Worth (Kent), available at: https://doi.org/10.5284/1030449",
+        "Lewis, (1966), Temples in Roman Britain",
+        "Hawkes, C., (1940), The Marnian pottery and La T\u00E8ne I brooch from Worth, Kent, Antiquaries Journal, 20, pg. 115",
+        "Stebbing, W., (1937), Pre-Roman, Roman, and post-Roman pottery from burials at Worth, East Kent, Antiquaries Journal, 17, pg. 310",
+        "Klein, W., (1928), Roman Temple at Worth, Kent, Antiquaries Journal, 8, pg. 76 ff"
+      ]
     },
     {
+      "index": 78,
       "site": "Wroxeter 2",
-      "description": "A square temple seen on aerial photographs north of the forum.",
       "start": "unknown",
       "end": "unknown",
-      "index": 78,
       "location": "England, Shropshire, Worxeter",
+      "description": "A square temple seen on aerial photographs north of the forum.",
+      "status": "Probable",
+      "latitude": "52.676046",
+      "longitude": "-2.6448015",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "Webster, G., Stanley, B., (1962), Viroconium: A Study of problems, Transactions of the Shropshire Archaeological Society, 57, 2, pg. 118"
-      ],
-      "status": "Probable",
-      "latitude": "52.676046",
-      "longitude": "-2.6448015"
+      ]
     },
     {
-      "site": "Wycomb 1 & 2",
-      "description": "Two temples near Cheltenham on the valley-side by the river Coln. The former (Wycomb 1) is an earlier rectangular 'shrine', the later (Wycomb 2) is built over an earlier rectangular shrine. Lewis (1966) suggests that Wycomb 2 was constructed in the late 3rd CE and fell out of use in the early 5th CE.",
+      "index": 79,
+      "site": "Wycomb 1 \u0026 2",
       "start": "unknown",
       "end": "early 5th CE",
-      "index": 79,
       "location": "England, Gloucstershire, Cheltenham",
+      "description": "Two temples near Cheltenham on the valley-side by the river Coln. The former (Wycomb 1) is an earlier rectangular \u0027shrine\u0027, the later (Wycomb 2) is built over an earlier rectangular shrine. Lewis (1966) suggests that Wycomb 2 was constructed in the late 3rd CE and fell out of use in the early 5th CE.",
+      "status": "Certain",
+      "latitude": "51.880088243946126",
+      "longitude": "-1.961020060320524",
+      "tags": null,
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Wycomb (Syreford Mill), available at: https://doi.org/10.5284/1030449",
         "Timby, (1998), Excavations at Kingscote and Wycomb, Gloucestershire, Cotswold Archaeology Monograph",
         "Lewis, (1966), Temples in Roman Britain",
-        "Tsontchef, (1957), Notes sur quelques témoins matériels de la culture romaine en Bulgarie, Latomus, 28, pg. 465",
-        "(1864), The Excavations at Wycomb, Gentlemen's Magazine, 2, pg. 85",
-        "(1864), Excavations at Wycomb, Gloucstershire, Gentlemen's Magazine, 1, pg. 86",
+        "Tsontchef, (1957), Notes sur quelques t\u00E9moins mat\u00E9riels de la culture romaine en Bulgarie, Latomus, 28, pg. 465",
+        "(1864), The Excavations at Wycomb, Gentlemen\u0027s Magazine, 2, pg. 85",
+        "(1864), Excavations at Wycomb, Gloucstershire, Gentlemen\u0027s Magazine, 1, pg. 86",
         "(1864), Thursday, November 26th, 1863, Proceedings of the Society of Antiquaries of London, 2, pg. 302",
         "(1864), Thursday, 9th June, 1864, Proceedings of the Society of Antiquaries of London, 2, pg. 422",
-        "(1863), Excavations at Wycomb, Gloucstershire, Gentlemen's Magazine, 2, pg. 627"
-      ],
-      "status": "Certain",
-      "latitude": "51.880088243946126",
-      "longitude": "-1.961020060320524"
+        "(1863), Excavations at Wycomb, Gloucstershire, Gentlemen\u0027s Magazine, 2, pg. 627"
+      ]
     },
     {
+      "index": 80,
       "site": "Caerwent 2",
-      "description": "A polygonal temple in a temenos north of the east gate, outside the walls. The date is uncertain but must be after when the city walls were built (c. 75).",
       "start": "75",
       "end": "unknown",
-      "index": 80,
       "location": "Wales, Monmouthsire",
+      "description": "A polygonal temple in a temenos north of the east gate, outside the walls. The date is uncertain but must be after when the city walls were built (c. 75).",
+      "status": "Certain",
+      "latitude": "51.610833",
+      "longitude": "-2.7653412",
+      "tags": null,
       "bibliography": [
         "Lewis, (1966), Temples in Roman Britain",
         "(1913), Archaeologia, 64, pg. 447 ff"
-      ],
-      "status": "Certain",
-      "latitude": "51.610833",
-      "longitude": "-2.7653412"
+      ]
     },
     {
+      "index": 81,
       "site": "Weycock Hill",
-      "description": "An Octagonal temple temple 5 miles south-west of Maidenhead. On a gentle hill in a temenos. Lewis (1966) suggests a chronology from the early 4th CE to the early or mid 5th CE.",
       "start": "early 4th CE",
       "end": "mid 5th CE",
-      "index": 81,
       "location": "England, Berkshire, Reading",
+      "description": "An Octagonal temple temple 5 miles south-west of Maidenhead. On a gentle hill in a temenos. Lewis (1966) suggests a chronology from the early 4th CE to the early or mid 5th CE.",
+      "status": "Certain",
+      "latitude": "51.4934505746401",
+      "longitude": "-0.8175441282232297",
+      "tags": "roman, octagonal",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Weycock Hill (Berkshire), available at: https://doi.org/10.5284/1030449",
         "Lewis, (1966), Temples in Roman Britain",
-        "Cotton, A., (1961), Robin Hood's Arbour and rectilinear enclosures in Berkshire, Berkshire Archaeological Journal, 59, pg. 30",
+        "Cotton, A., (1961), Robin Hood\u0027s Arbour and rectilinear enclosures in Berkshire, Berkshire Archaeological Journal, 59, pg. 30",
         "Cotton, (1957), Weycock Hill, 1953, available at: http://dx.doi.org/10.5284/1000017",
         "Cotton, A., (1956), Weycock Hill, 1953, Berkshire Archaeological Journal, 55, pg. 48 ff",
         "(1906), Berkshire, in Victoria County Histories, 1, pg. 216",
         "Neville, R., (1849), On Roman Remains at Weycock, Berks, Archaeological Journal, 6, pg. 114"
-      ],
-      "tags": "roman, octagonal",
-      "status": "Certain",
-      "latitude": "51.4934505746401",
-      "longitude": "-0.8175441282232297"
+      ]
     },
     {
-      "site": "Yorkshire Wolds Shrine",
       "index": 82,
+      "site": "Yorkshire Wolds Shrine",
+      "start": "unknown",
+      "end": "unknown",
       "location": "Yorkshire Wolds Shrine",
-      "bibliography": [
-        "Wood, A., (2021), Iron Age 'shrine' discovered in Yorkshire Wolds surrounded by carefully placed animal skulls and bones, available at: https://www.yorkshirepost.co.uk/heritage-and-retro/heritage/iron-age-shrine-discovered-in-yorkshire-wolds-surrounded-by-carefully-placed-animal-skulls-and-bones-3385970",
-        "Stoertz, C., (1997), Ancient Landscapes of the Yorkshire Wolds: Aerial Photographic Transcription and Analysis"
-      ],
       "description": "A recently excavated site in the Yorkshire Wolds, reported as an Iron Age shrine with some later Roman activity. The site is located a few hundred yards from a substantial fortified settlement which has also been recently excavated. Both sites were first identified over in the late 20th CE by Stoertz as aerial photographs.",
-      "start": "unknown",
-      "end": "unknown",
       "status": "Possible",
-      "tags": "pre-roman, roman"
-    },
-    {
-      "site": "Saint Mary's Church",
-      "index": 83,
-      "location": "England, Buckinghamshire, Stoke Mandeville, Saint Mary's Church",
+      "latitude": null,
+      "longitude": null,
+      "tags": "pre-roman, roman",
       "bibliography": [
-        "Sherwood, H., (29/10/2021), ‘Astounding’ Roman statues unearthed at Norman church ruins on route of HS2, available at: https://www.theguardian.com/science/2021/oct/29/astounding-roman-statues-unearthed-at-norman-church-ruins-on-route-of-hs2?CMP=Share_iOSApp_Other"
-      ],
-      "status": "Possible",
-      "start": "unknown",
-      "end": "unknown",
-      "description": "A Roman period mausoleum with a Norman church built on top of it, now abandoned. This entry is only here due to possibility it may have been a temple-mausoleum, like those at Lullingstone. With further research this entry may be removed",
-      "tags": "mausoleum",
-      "latitude": "51.77723208309282",
-      "longitude": "-0.7865416380750562"
+        "Wood, A., (2021), Iron Age \u0027shrine\u0027 discovered in Yorkshire Wolds surrounded by carefully placed animal skulls and bones, available at: https://www.yorkshirepost.co.uk/heritage-and-retro/heritage/iron-age-shrine-discovered-in-yorkshire-wolds-surrounded-by-carefully-placed-animal-skulls-and-bones-3385970",
+        "Stoertz, C., (1997), Ancient Landscapes of the Yorkshire Wolds: Aerial Photographic Transcription and Analysis"
+      ]
     },
     {
+      "index": 83,
+      "site": "Saint Mary\u0027s Church",
+      "start": "unknown",
+      "end": "unknown",
+      "location": "England, Buckinghamshire, Stoke Mandeville, Saint Mary\u0027s Church",
+      "description": "A Roman period mausoleum with a Norman church built on top of it, now abandoned. This entry is only here due to possibility it may have been a temple-mausoleum, like those at Lullingstone. With further research this entry may be removed",
+      "status": "Possible",
+      "latitude": "51.77723208309282",
+      "longitude": "-0.7865416380750562",
+      "tags": "mausoleum",
+      "bibliography": [
+        "Sherwood, H., (29/10/2021), \u2018Astounding\u2019 Roman statues unearthed at Norman church ruins on route of HS2, available at: https://www.theguardian.com/science/2021/oct/29/astounding-roman-statues-unearthed-at-norman-church-ruins-on-route-of-hs2?CMP=Share_iOSApp_Other"
+      ]
+    },
+    {
+      "index": 84,
       "site": "Temple of Claudius",
-      "description": "Also known as Colchester 1, the Temple of Claudius in Colchester now forms the base of the Norman Colchester castle. Lewis suggests a construction time of mid 1st CE and fell out of use in the late 4th or at the latest early 5th CE (this may be an assumption of Lewis'). It is believed to have been sacked during the Boudican revolt of 60 - 61 CE, and that it was the centre of the Imperial Cult for Britain (though it may have moved to London later).",
       "start": "mid 1st CE",
       "end": "late 4th CE",
-      "tags": "classical, claudius, imperial cult",
       "location": "England, Colchester",
+      "description": "Also known as Colchester 1, the Temple of Claudius in Colchester now forms the base of the Norman Colchester castle. Lewis suggests a construction time of mid 1st CE and fell out of use in the late 4th or at the latest early 5th CE (this may be an assumption of Lewis\u0027). It is believed to have been sacked during the Boudican revolt of 60 - 61 CE, and that it was the centre of the Imperial Cult for Britain (though it may have moved to London later).",
+      "status": "Certain",
       "latitude": "51.89052489596273",
       "longitude": "0.9030626320616509",
-      "status": "Certain",
-      "index": 84,
+      "tags": "classical, claudius, imperial cult",
       "bibliography": [
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
         "Crummy, (1997)",
         "Crummy, (1984)",
         "Lewis, (1966), Temples in Roman Britain",
         "Hull, M., (1958), in Roman Colchester, Society of Antiquaries, pg. 160 ff",
-        "Hull, M., (1955), The south wing of the roman 'forum' at Colchester: recent discoveries, Transactions of the Essex Archaeological Society, 25, pg. 24 ff",
+        "Hull, M., (1955), The south wing of the roman \u0027forum\u0027 at Colchester: recent discoveries, Transactions of the Essex Archaeological Society, 25, pg. 24 ff",
         "Richmond, I., (1955), in Roman Britain, pg. 187",
         "Richmond, I., Hawkes, C., Nash-Williams, V., (1947), The Archaeology of Lincolnshire and Lincoln: The Roman Occupation, Antiquaries Journal, 103, pg. 58",
         "Wheeler, R., Laver, P., (1919), Roman Colchester, Journal of Roman Studies, 9, pg. 146 ff"
       ]
     },
     {
+      "index": 85,
       "site": "Muntham Court",
+      "start": "mid 1st CE",
+      "end": "early 4th CE",
+      "location": "England, West Sussex, Findon",
+      "description": "Muntham Court is a circular temple or shrine located in what was an Iron Age settlement. Lewis gives it a chronology of mid 1st CE to early 4th CE, but an earlier pre-roman history seems likely though much of the evidence has been destroyed by later Roman work on the site.",
       "status": "Probable",
       "latitude": "50.873469915502326",
       "longitude": "-0.42520222547438075",
-      "description": "Muntham Court is a circular temple or shrine located in what was an Iron Age settlement. Lewis gives it a chronology of mid 1st CE to early 4th CE, but an earlier pre-roman history seems likely though much of the evidence has been destroyed by later Roman work on the site.",
       "tags": "circular, pre-roman, roman",
-      "start": "mid 1st CE",
-      "end": "early 4th CE",
-      "index": 85,
-      "location": "England, West Sussex, Findon",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Muntham Court, Findon (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
@@ -1551,14 +1613,16 @@
       ]
     },
     {
+      "index": 86,
       "site": "Springhead",
+      "start": "pre 1st BCE",
+      "end": "early 4th CE",
+      "location": "England, Kent",
+      "description": "A large complex at the \u0027springhead\u0027 of the former river Ebbsfleet. The site held a whole series of temples, shrines, sanctuaries, enclosures through the Late Iron Age and Roman period. It is suggested the complex may have lasted into the 4th CE but the bulk of activity is confined to the 2nd CE.",
       "status": "Certain",
       "latitude": "51.430655291544774",
       "longitude": "0.3261376098823852",
-      "start": "pre 1st BCE",
-      "description": "A large complex at the 'springhead' of the former river Ebbsfleet. The site held a whole series of temples, shrines, sanctuaries, enclosures through the Late Iron Age and Roman period. It is suggested the complex may have lasted into the 4th CE but the bulk of activity is confined to the 2nd CE.",
-      "index": 86,
-      "location": "England, Kent",
+      "tags": "pre-roman, roman, spring",
       "bibliography": [
         "Alaimo, K., (2016), An Archaeology of Temple Assemblages and Social Practice in Early South-Eastern Roman Britain",
         "Martyn, Blick, Brindle, et al, (2015), Springhead, sanctuary complex (Kent), available at: https://doi.org/10.5284/1030449",
@@ -1570,71 +1634,73 @@
         "Penn, W., (1960), Springhead: Temples III and IV, Archaeologia Cantiana, 74, pg. 118 ff",
         "Penn, W., (1959), The Romano-British Settlement at Springhead; Excavation of Temple I, Site Cl, Archaeologia Cantiana, 73, pg. 1 ff",
         "Penn, W., (1958), The Romano-British Settlement at Springhead. Excavation of the Watling Street, Shop and Pedestal, Site B, Archaeologia Cantiana, 72, pg. 77 ff"
-      ],
-      "tags": "pre-roman, roman, spring",
-      "end": "early 4th CE"
+      ]
     },
     {
+      "index": 87,
       "site": "30 Gresham Street",
-      "latitude": "51.51502",
-      "longitude": "-0.09245",
-      "status": "Probable",
       "start": "late 1st CE",
       "end": "120",
       "location": "England, London, 125 Lawrence Ln",
-      "description": "The structure located at 30 Gresham street seems to have been a large colonnaded temple, only the north-west corner has been uncovered so it is hard to say what the design of the temple was. The site has a long history of earlier ritual activity, with an artificial pond which received depositions, including the bronze arm of a statue pre-dating 50 CE. The temple was probably built in the later 1st or early 2nd CE, but was only short-lived and isn't believed to have survived the Hadrianic fire of 120 CE.",
-      "index": 87,
+      "description": "The structure located at 30 Gresham street seems to have been a large colonnaded temple, only the north-west corner has been uncovered so it is hard to say what the design of the temple was. The site has a long history of earlier ritual activity, with an artificial pond which received depositions, including the bronze arm of a statue pre-dating 50 CE. The temple was probably built in the later 1st or early 2nd CE, but was only short-lived and isn\u0027t believed to have survived the Hadrianic fire of 120 CE.",
+      "status": "Probable",
+      "latitude": "51.51502",
+      "longitude": "-0.09245",
+      "tags": null,
       "bibliography": [
         "Hingley, R., (2018), Londinium: A Biography",
-        "Perring, D., (2011), London's Military Origins, Journal of Roman Archaeology, 24, pg. 249-266",
+        "Perring, D., (2011), London\u0027s Military Origins, Journal of Roman Archaeology, 24, pg. 249-266",
         "Bayley, J., Croxford, B., Henig, M., Watson, B., (2009), A Gilt-Bronze Arm from London, Britannia, 40, pg. 151-162",
-        "Bateman, N., (2009), What’s the Point of London’s Amphitheatre? – a Clue from Diana, in Roman Amphitheatres and Spectacula: A 21st- century Perspective, pg. 157-164",
-        "Bateman, N., Cowan, C., Wroe-Brown, R., (2008), London’s Roman Amphitheatre: Guildhall Yard, City of London, London, MOLAS",
+        "Bateman, N., (2009), What\u2019s the Point of London\u2019s Amphitheatre? \u2013 a Clue from Diana, in Roman Amphitheatres and Spectacula: A 21st- century Perspective, pg. 157-164",
+        "Bateman, N., Cowan, C., Wroe-Brown, R., (2008), London\u2019s Roman Amphitheatre: Guildhall Yard, City of London, London, MOLAS",
         "Blair, I., Spain, D., Taylor, T., Goodburn, D., (2006), Wells and Bucket-Chains: Unforeseen Elements of Water Supply in Early Roman London, Britannia, 37, pg. 1-52"
       ]
     },
     {
+      "index": 88,
       "site": "54-56 Gresham Street",
-      "description": "A small Romano-Celtic temple located at 54-56 Gresham Street excavated in 2006. It sits just south of the Roman amphitheatre next to the temple at 30 Gresham Street.",
       "start": "unknown",
       "end": "unknown",
+      "location": "England, London, 54-56 Gresham St",
+      "description": "A small Romano-Celtic temple located at 54-56 Gresham Street excavated in 2006. It sits just south of the Roman amphitheatre next to the temple at 30 Gresham Street.",
       "status": "Probable",
       "latitude": "51.51492",
       "longitude": "-0.09129",
-      "index": 88,
-      "location": "England, London, 54-56 Gresham St",
+      "tags": null,
       "bibliography": [
         "Hingley, R., (2018), Londinium: A Biography",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
-        "Bateman, N., Cowan, C., Wroe-Brown, R., (2008), London’s Roman Amphitheatre: Guildhall Yard, City of London, London, MOLAS",
+        "Bateman, N., Cowan, C., Wroe-Brown, R., (2008), London\u2019s Roman Amphitheatre: Guildhall Yard, City of London, London, MOLAS",
         "Maloney, C., (2007), Fieldwork Round-up 2006, London Archaeologist, 11, pg. 56-85"
       ]
     },
     {
+      "index": 89,
       "site": "Colchester House",
+      "start": "350",
+      "end": "unknown",
+      "location": "England, London, Colchester House",
+      "description": "A large aisled building revealed during excavations at Colchester House, near the Tower of London in 1993. It has been suggested that the layout is comparable to the Cathedral of St. Tecla, Milan. It is not certain whether this is a church or some kind of public storage space.",
       "status": "Possible",
       "latitude": "51.51021",
       "longitude": "-0.07573",
-      "description": "A large aisled building revealed during excavations at Colchester House, near the Tower of London in 1993. It has been suggested that the layout is comparable to the Cathedral of St. Tecla, Milan. It is not certain whether this is a church or some kind of public storage space.",
-      "start": "350",
-      "end": "unknown",
-      "index": 89,
-      "location": "England, London, Colchester House",
+      "tags": null,
       "bibliography": [
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
         "Sankey, D., (1998), Cathederals, granaries, and urban vitality in late Roman London, in Roman London: Recent Archaeological Work, pg. 78-82"
       ]
     },
     {
+      "index": 90,
       "site": "Old Bailey",
-      "status": "Possible",
-      "description": "A large octagonal building surrounded by what appears to be an ambulatory was constructed sometime after 120 CE on the site of the modern Old Bailey building. Prior to this the site appears to have been the center of the glass working industry in Roman London.\n\nThe structure has been interpreted as a Romano-Celtic temple, though not much more is known and Perring and Brigham now prefer to interpret it as a 'secular' structure.",
-      "end": "270",
       "start": "120",
+      "end": "270",
+      "location": "England, London, Old Bailey, Warwick Passage",
+      "description": "A large octagonal building surrounded by what appears to be an ambulatory was constructed sometime after 120 CE on the site of the modern Old Bailey building. Prior to this the site appears to have been the center of the glass working industry in Roman London.\n\nThe structure has been interpreted as a Romano-Celtic temple, though not much more is known and Perring and Brigham now prefer to interpret it as a \u0027secular\u0027 structure.",
+      "status": "Possible",
       "latitude": "51.51519",
       "longitude": "-0.10104",
-      "index": 90,
-      "location": "England, London, Old Bailey, Warwick Passage",
+      "tags": null,
       "bibliography": [
         "Hingley, R., (2018), Londinium: A Biography",
         "Shepherd, J., Wardle, A., (2015), The Basinghall Glass in Context, in Glass working on the Margins of Roman London: Excavations at 35 Basinghall Street, City of London, 2005, London, MOLAS, Monograph 70",
@@ -1647,15 +1713,16 @@
       ]
     },
     {
+      "index": 91,
       "site": "Flavium forum",
-      "latitude": "51.5125",
-      "longitude": "-0.08529",
-      "status": "Certain",
       "start": "75",
       "end": "130",
-      "description": "A small classical temple built just to the west of the first forum in the east of Roman London, built at the same time, around 75 CE. The temple lay roughly 10 metres west, on the outside of the forum, now under the building between Lombard St and Bell Inn Yard. The temple was short lived and was demolished while the second, much larger forum was being constructed around 100 CE - 130 CE. No new temple was built to replace it.",
-      "index": 91,
       "location": "England, London, 54 Lombard St",
+      "description": "A small classical temple built just to the west of the first forum in the east of Roman London, built at the same time, around 75 CE. The temple lay roughly 10 metres west, on the outside of the forum, now under the building between Lombard St and Bell Inn Yard. The temple was short lived and was demolished while the second, much larger forum was being constructed around 100 CE - 130 CE. No new temple was built to replace it.",
+      "status": "Certain",
+      "latitude": "51.5125",
+      "longitude": "-0.08529",
+      "tags": null,
       "bibliography": [
         "Hingley, R., (2018), Londinium: A Biography",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
@@ -1663,15 +1730,16 @@
       ]
     },
     {
-      "site": "Goldsmiths' Hall",
-      "status": "Possible",
-      "description": "A shrine is suggested to have been somewhere under the modern Goldsmith's Hall. Masonry foundations are reported to have been recorded there, and a probably 2nd CE altar with an image identified as Diana was found there.\n\nIt's also notable that the site is only roughly 300 metres north-west of the two Gresham Street temples.",
-      "latitude": "51.5158",
-      "longitude": "-0.09586",
+      "index": 92,
+      "site": "Goldsmiths\u0027 Hall",
       "start": "unknown",
       "end": "unknown",
-      "index": 92,
-      "location": "England, London, Goldmsiths' Hall",
+      "location": "England, London, Goldmsiths\u0027 Hall",
+      "description": "A shrine is suggested to have been somewhere under the modern Goldsmith\u0027s Hall. Masonry foundations are reported to have been recorded there, and a probably 2nd CE altar with an image identified as Diana was found there.\n\nIt\u0027s also notable that the site is only roughly 300 metres north-west of the two Gresham Street temples.",
+      "status": "Possible",
+      "latitude": "51.5158",
+      "longitude": "-0.09586",
+      "tags": null,
       "bibliography": [
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
         "Perring, D., Brigham, T., (2000), Londinium and its Hinterland: The Roman Period, The archaeology of Greater London, pg. 135",
@@ -1679,29 +1747,31 @@
       ]
     },
     {
+      "index": 93,
       "site": "Greenwich park temple",
-      "status": "Certain",
-      "description": "A Romano-Celtic temple located in the east of modern day Greenwich Park. The site is located on a hill-top which would of been along Watling Street before it went on to Roman London. The site had an incomplete inscription dedicating the temple to the Imperial Divinities, as well as a roof tile with the London procurial stamp, suggesting that the temple was built on imperial order.\n\nThere are associated buildings such as a guest house, as well as a free standing statue of Diana Venatrix.",
       "start": "unknown",
       "end": "unknown",
+      "location": "England, London, Greenwich Park, Roman Temple (Ruins)",
+      "description": "A Romano-Celtic temple located in the east of modern day Greenwich Park. The site is located on a hill-top which would of been along Watling Street before it went on to Roman London. The site had an incomplete inscription dedicating the temple to the Imperial Divinities, as well as a roof tile with the London procurial stamp, suggesting that the temple was built on imperial order.\n\nThere are associated buildings such as a guest house, as well as a free standing statue of Diana Venatrix.",
+      "status": "Certain",
       "latitude": "51.4787",
       "longitude": "0.00459",
-      "index": 93,
-      "location": "England, London, Greenwich Park, Roman Temple (Ruins)",
+      "tags": null,
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Greenwich Park (Greater London), available at: https://doi.org/10.5284/1030449"
       ]
     },
     {
+      "index": 94,
       "site": "London Bridge Complex",
-      "latitude": "51.50535",
-      "longitude": "-0.08837",
-      "status": "Probable",
-      "description": "A site interpreted as a Roman-Celtic temple on the location of a Flavian period mansio built around 74 CE, the temple was probably built around the same time.\n\nOf note is a column base with a dedication to Silvanus and an associated bathhouse.",
       "start": "late 1st CE",
       "end": "unknown",
-      "index": 94,
       "location": "England, London, Southwark, 11-15 Borough High St",
+      "description": "A site interpreted as a Roman-Celtic temple on the location of a Flavian period mansio built around 74 CE, the temple was probably built around the same time.\n\nOf note is a column base with a dedication to Silvanus and an associated bathhouse.",
+      "status": "Probable",
+      "latitude": "51.50535",
+      "longitude": "-0.08837",
+      "tags": null,
       "bibliography": [
         "Hingley, R., (2018), Londinium: A Biography",
         "Perring, D., (2015), Recent advances in the understanding of Roman London, in The towns of Roman Britain: the contribution of commercial archaeology since 1990, pg. 20-43",
@@ -1711,31 +1781,35 @@
       ]
     },
     {
+      "index": 95,
       "site": "South-west complex 1 and 2",
-      "description": "Two temples were constructed alongside the riverside wall (roughly modern Castle Baynards St). One, under the south-east quadrant of the Salvation Army International HQ building, and the other just to the west on Peter's Hill. The two temples were built not long after much of the complex appears to have been demolished for refurbishment and to sure-up the riverside wall. \n\nIt appears that the temples may have never been actually completed. Due to the dating of dendrochronology allowing us to establish the beginning of construction so tightly (spring to summer 294 CE), it has been suggested the construction was initiated by Carausius as a project to promote his authority during the Carusian Revolt and that the project was never finished due to the assassination of his successor Allectus and the re-conquest of Britain in 296 CE.\n\nBradley and Butler have suggested that the temples may be a kind of 'succesor' to the earlier monumental apses which had been destroyed earlier and are roughly in the same location. They have also suggested that these apses were temples or shrines to Jupiter and Isis, so these later temples may have been intended to be dedicated to the same deities.",
       "start": "294",
       "end": "296",
+      "location": "England, London, Peter\u0027s Hill and Salvation Army Headquarters",
+      "description": "Two temples were constructed alongside the riverside wall (roughly modern Castle Baynards St). One, under the south-east quadrant of the Salvation Army International HQ building, and the other just to the west on Peter\u0027s Hill. The two temples were built not long after much of the complex appears to have been demolished for refurbishment and to sure-up the riverside wall. \n\nIt appears that the temples may have never been actually completed. Due to the dating of dendrochronology allowing us to establish the beginning of construction so tightly (spring to summer 294 CE), it has been suggested the construction was initiated by Carausius as a project to promote his authority during the Carusian Revolt and that the project was never finished due to the assassination of his successor Allectus and the re-conquest of Britain in 296 CE.\n\nBradley and Butler have suggested that the temples may be a kind of \u0027succesor\u0027 to the earlier monumental apses which had been destroyed earlier and are roughly in the same location. They have also suggested that these apses were temples or shrines to Jupiter and Isis, so these later temples may have been intended to be dedicated to the same deities.",
       "status": "Probable",
       "latitude": "51.51146",
       "longitude": "-0.098",
-      "index": 95,
-      "location": "England, London, Peter's Hill and Salvation Army Headquarters",
+      "tags": null,
       "bibliography": [
         "Perring, D., (2015), Recent advances in the understanding of Roman London, in The towns of Roman Britain: the contribution of commercial archaeology since 1990, pg. 20-43",
-        "Bradley, T., Butler, J., (2008), From Temples to Thames Street – 2000 Years of Riverside Development: Archaeological Excavations at the Salvation Army International Headquarters, 99–101 Queen Victoria Street, City of London, Pre-Construct Archaeology",
+        "Bradley, T., Butler, J., (2008), From Temples to Thames Street \u2013 2000 Years of Riverside Development: Archaeological Excavations at the Salvation Army International Headquarters, 99\u2013101 Queen Victoria Street, City of London, Pre-Construct Archaeology",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
         "Perring, D., Brigham, T., (2000), Londinium and its Hinterland: The Roman Period, The archaeology of Greater London, pg. 135",
         "Williams, T., (1993), Public buildings in the south-west quarter of Roman London, CBA Research Reports, 88"
       ]
     },
     {
-      "site": "St. Dunstan's Hill",
-      "description": "A site excavated in 1967, it was described as a small 'temple-like' building, it formed a single room with an eastern facing entrance and evidence for red and pink painted walls. ",
+      "index": 96,
+      "site": "St. Dunstan\u0027s Hill",
       "start": "unknown",
       "end": "unknown",
+      "location": "England, London, St. Dunstan\u0027s Hill, Lower Thames Street",
+      "description": "A site excavated in 1967, it was described as a small \u0027temple-like\u0027 building, it formed a single room with an eastern facing entrance and evidence for red and pink painted walls. ",
       "status": "Possible",
-      "index": 96,
-      "location": "England, London, St. Dunstan's Hill, Lower Thames Street",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": [
         "Schofield, J., Guildhall museum archive guide - draft",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
@@ -1744,50 +1818,57 @@
       ]
     },
     {
+      "index": 97,
       "site": "Tabard Square 1 and 2",
-      "description": "Two Romano-Celtic temples built in the later 2nd CE in a temenos that may have been pre-existing for a number of years. The north temple appears to have been dedicated to Mars Camulus early on, there is also another dedication relating to the imperial cult.  \n\nDuring the 3rd CE the temples appear to have become much more popular, as a substantial structure was built to the south-east and is interpreted as a guest house, while to the north-east, an area with several plinths that could of been bases for statues has been interpreted as a gathering area.\n\nThe southern temple had been demolished some time in the later 3rd CE, while the northern one continued in use. It has been suggested that use of the northern temple didn't continue much longer after the late 4th CE as this seems to be when the dedication to Mars Camulus was deposited in a pit, but this isn't certain.",
       "start": "late 2nd CE",
       "end": "late 4th CE",
+      "location": "England, London, Hankey Place Gardens, 20 Pilgrimage St",
+      "description": "Two Romano-Celtic temples built in the later 2nd CE in a temenos that may have been pre-existing for a number of years. The north temple appears to have been dedicated to Mars Camulus early on, there is also another dedication relating to the imperial cult.  \n\nDuring the 3rd CE the temples appear to have become much more popular, as a substantial structure was built to the south-east and is interpreted as a guest house, while to the north-east, an area with several plinths that could of been bases for statues has been interpreted as a gathering area.\n\nThe southern temple had been demolished some time in the later 3rd CE, while the northern one continued in use. It has been suggested that use of the northern temple didn\u0027t continue much longer after the late 4th CE as this seems to be when the dedication to Mars Camulus was deposited in a pit, but this isn\u0027t certain.",
       "status": "Certain",
       "latitude": "51.49997",
       "longitude": "-0.08899",
-      "index": 97,
-      "location": "England, London, Hankey Place Gardens, 20 Pilgrimage St",
+      "tags": null,
       "bibliography": [
         "Hingley, R., (2018), Londinium: A Biography",
         "Shepherd, J., Killock, D., Hayward, K., Gerrard, J., Riellyand, K., Ridgeway, V., (2015), Temples and Suburbs: Excavations at Tabard Square, Southwark, London, Pre-Construct Archaeology, Monograph 18",
         "Tomlin, R., Hassall, M., Wrightand, R., (2009), Inscriptions on Stone Found or Notified Between 1 January 1955 and 31 December 2006, Oxbow, 3",
-        "Wardle, A., Seeley, F., (2009), Religion and Ritual, in Roman Southwark settlement and economy: excavations in Southwark 1973–91",
+        "Wardle, A., Seeley, F., (2009), Religion and Ritual, in Roman Southwark settlement and economy: excavations in Southwark 1973\u201391",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
         "Killock, D., Brown, G., (2004), Tabard Square, Current Archaeology, 192",
         "Tomlin, R., Hassall, M., (2003), Inscriptions, Britannia, 34, pg. 362-82"
       ]
     },
     {
+      "index": 98,
       "site": "Temple of Isis",
-      "description": "The Temple of Isis is only known from two inscriptions, the first is a jug from Tooley Street which read ''To London at the temple of Isis\", and the second of which is an altar from the riverside wall at modern Cast Baynards St which records the refurbishment of the temple due to disrepair sometime around the 250s CE.\n\nIt is not known where the temple was or whether these inscriptions refer to a single site or two. Bradley and Butler suggest that one of the monumental arches that formed the riverside corners of the public complex in the south-west of Roman London may have been a temple or shrine to Isis, as they appear to have the space for a central statue. It is not suggested which it may have been, but the other may have been the Temple of Jupiter, recorded as being refurbished around the same place and time.",
       "start": "early 2nd CE",
       "end": "late 3rd CE",
-      "status": "Certain",
-      "index": 98,
       "location": "England, London",
+      "description": "The Temple of Isis is only known from two inscriptions, the first is a jug from Tooley Street which read \u0027\u0027To London at the temple of Isis\u0022, and the second of which is an altar from the riverside wall at modern Cast Baynards St which records the refurbishment of the temple due to disrepair sometime around the 250s CE.\n\nIt is not known where the temple was or whether these inscriptions refer to a single site or two. Bradley and Butler suggest that one of the monumental arches that formed the riverside corners of the public complex in the south-west of Roman London may have been a temple or shrine to Isis, as they appear to have the space for a central statue. It is not suggested which it may have been, but the other may have been the Temple of Jupiter, recorded as being refurbished around the same place and time.",
+      "status": "Certain",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": [
-        "Bradley, T., Butler, J., (2008), From Temples to Thames Street – 2000 Years of Riverside Development: Archaeological Excavations at the Salvation Army International Headquarters, 99–101 Queen Victoria Street, City of London, Pre-Construct Archaeology",
+        "Bradley, T., Butler, J., (2008), From Temples to Thames Street \u2013 2000 Years of Riverside Development: Archaeological Excavations at the Salvation Army International Headquarters, 99\u2013101 Queen Victoria Street, City of London, Pre-Construct Archaeology",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
         "Williams, T., (1993), Public buildings in the south-west quarter of Roman London, CBA Research Reports, 88",
         "Lewis, (1966), Temples in Roman Britain"
       ]
     },
     {
+      "index": 99,
       "site": "Temple of Jupiter",
-      "description": "The Temple of Jupiter is a Temple that would of been located in the southwest quadrant of Roman London. We only know about it from an altar that recorded it's refurbishment after falling into a state of disrepair some time in the 250s CE. The altar was found re-used as building material in the riverside wall (which runs roughly along modern Castle Baynards St) which was constructed to sure-up the unstable land sometime around 270 CE.\n\nThis leads us to believe that it was probably part of the public precinct immediately to the north, Bradley and Butler suggest it may well have been one of the monumental apses that formed that the riverside corners of the complex and each appear to have had the space to hold a statue. It's not known which it might have been, but the other may have been the Temple of Isis, also recorded as being refurbished around the same time and place.",
       "start": "early 2nd CE",
       "end": "late 3rd CE",
-      "status": "Certain",
-      "index": 99,
       "location": "England, London",
+      "description": "The Temple of Jupiter is a Temple that would of been located in the southwest quadrant of Roman London. We only know about it from an altar that recorded it\u0027s refurbishment after falling into a state of disrepair some time in the 250s CE. The altar was found re-used as building material in the riverside wall (which runs roughly along modern Castle Baynards St) which was constructed to sure-up the unstable land sometime around 270 CE.\n\nThis leads us to believe that it was probably part of the public precinct immediately to the north, Bradley and Butler suggest it may well have been one of the monumental apses that formed that the riverside corners of the complex and each appear to have had the space to hold a statue. It\u0027s not known which it might have been, but the other may have been the Temple of Isis, also recorded as being refurbished around the same time and place.",
+      "status": "Certain",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": [
-        "Bradley, T., Butler, J., (2008), From Temples to Thames Street – 2000 Years of Riverside Development: Archaeological Excavations at the Salvation Army International Headquarters, 99–101 Queen Victoria Street, City of London, Pre-Construct Archaeology",
+        "Bradley, T., Butler, J., (2008), From Temples to Thames Street \u2013 2000 Years of Riverside Development: Archaeological Excavations at the Salvation Army International Headquarters, 99\u2013101 Queen Victoria Street, City of London, Pre-Construct Archaeology",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
         "Perring, D., Brigham, T., (2000), Londinium and its Hinterland: The Roman Period, The archaeology of Greater London, pg. 135",
         "Williams, T., (1993), Public buildings in the south-west quarter of Roman London, CBA Research Reports, 88",
@@ -1795,154 +1876,164 @@
       ]
     },
     {
+      "index": 100,
       "site": "Mother Goddess Shrine",
-      "status": "Certain",
       "start": "unknown",
       "end": "unknown",
-      "description": "A single inscription from beneath the Bloomsbury building on the Queen Victoria St side. The inscription references a shrine or temple which had been restored by the district. The site of the shrine is unknown but it was probably in the proximity.",
-      "index": 100,
       "location": "England, London",
+      "description": "A single inscription from beneath the Bloomsbury building on the Queen Victoria St side. The inscription references a shrine or temple which had been restored by the district. The site of the shrine is unknown but it was probably in the proximity.",
+      "status": "Certain",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": [
         "RIB 2. Dedication to the Mother Goddesses, available at: https://romaninscriptionsofbritain.org/inscriptions/2"
       ]
     },
     {
+      "index": 101,
       "site": "Bucklersbury House feature 8",
+      "start": "unknown",
+      "end": "early 2nd CE",
+      "location": "England, London, 12-6 Walbrook",
+      "description": "A small wooden structure just to the South-East of and pre-dating the original site of the London Mithraeum which has been traditionally identified as a shrine. It appears to have been a wooden platform against a wall with decorative arcaded and ribbed wood paneling on-top of which was a face pot, flint, Iron rust, some kind of tool and a bone ligula. It was destroyed by fire in the early 2nd CE.",
       "status": "Possible",
       "latitude": "51.51216",
       "longitude": "-0.09067",
-      "description": "A small wooden structure just to the South-East of and pre-dating the original site of the London Mithraeum which has been traditionally identified as a shrine. It appears to have been a wooden platform against a wall with decorative arcaded and ribbed wood paneling on-top of which was a face pot, flint, Iron rust, some kind of tool and a bone ligula. It was destroyed by fire in the early 2nd CE.",
-      "end": "early 2nd CE",
-      "start": "unknown",
-      "index": 101,
-      "location": "England, London, 12-6 Walbrook",
+      "tags": null,
       "bibliography": [
         "Hingley, R., (2018), Londinium: A Biography",
         "Shepherd, J., Hall, J., (2008), Places of worship in Roman London and beyond, in Ritual Landscapes of Roman South-East Britain",
         "Haynes, I., (2000), London Underground: The Archaeology of a City, in Religion in Roman London, Oxbow",
-        "Schofield, J., (1998), Archaeology in the City of London 1907–91: A Guide to Records of Excavations, Museum of London, 1",
+        "Schofield, J., (1998), Archaeology in the City of London 1907\u201391: A Guide to Records of Excavations, Museum of London, 1",
         "Shepherd, J., (1998), The Temple of Mithras London: Excavations by W F Grimes and A Williams at the Walbrook, London, English Heritage, 12",
-        "Merrifieild, R., (1995), Roman Metalwork from the Walbrook – Rubbish, Ritual or Redundancy?, Transactions of the London & Middlesex Archaeological Society, 46",
-        "Wilmott, T., (1991), Excavations at Bucklesbury House (1954-5) and Temple Court (1922 & 1960), in Excavations in the middle Walbrook Valley, City of London, 1927-1960, 13"
+        "Merrifieild, R., (1995), Roman Metalwork from the Walbrook \u2013 Rubbish, Ritual or Redundancy?, Transactions of the London \u0026 Middlesex Archaeological Society, 46",
+        "Wilmott, T., (1991), Excavations at Bucklesbury House (1954-5) and Temple Court (1922 \u0026 1960), in Excavations in the middle Walbrook Valley, City of London, 1927-1960, 13"
       ]
     },
     {
+      "index": 102,
       "site": "A27 Westhampnett Bypass",
-      "status": "Possible",
       "start": "late 1st BCE",
       "end": "unknown",
-      "description": "An exceptional cremation ground found just outside of Chichester along the route of the A27 Westhampnett Bypass in 1992 by Wessex Archaeology. The site contained burials from the Late Iron Age, Roman, and early Anglo-Saxon periods together with a probable Bronze Age ring ditch. The excavators identified four rectangular or square trench-built timber structures (20277, 20657, 20761, and 20562) to the north-east of a circular burial space as shrines.",
-      "tags": "cremation, pre-roman, roman, early medieval, funerary, cremation, shrine",
-      "index": 102,
       "location": "England, Sussex, Chichester, A27 Westhampnett Bypass",
+      "description": "An exceptional cremation ground found just outside of Chichester along the route of the A27 Westhampnett Bypass in 1992 by Wessex Archaeology. The site contained burials from the Late Iron Age, Roman, and early Anglo-Saxon periods together with a probable Bronze Age ring ditch. The excavators identified four rectangular or square trench-built timber structures (20277, 20657, 20761, and 20562) to the north-east of a circular burial space as shrines.",
+      "status": "Possible",
+      "latitude": "50.852893",
+      "longitude": "-0.72906801",
+      "tags": "cremation, pre-roman, roman, early medieval, funerary, cremation, shrine",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Westhampnett, Area 3 (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Martyn, Blick, Brindle, et al, (2015), Westhampnett, Area 2 (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Fitzpatrick, A., Powell, A., Allen, M., (2008), Archaeological Excavations on the Route of the A27 Westhampnett Bypass, West Sussex, 1992, pg. 15 - 18",
         "Rudling, D., (2008), Roman-Period temples, shrines and religion in sussex, in Ritual Landscapes of Roman South-East Britain, pg. 95, 97",
         "Fitzpatrick, (1997), Archaeological excavations on the route of the A27 Westhampnett Bypass, West Sussex, 1992, 2"
-      ],
-      "latitude": "50.852893",
-      "longitude": "-0.72906801"
+      ]
     },
     {
+      "index": 103,
       "site": "Beddingham Villa",
       "start": "late 1st BCE",
       "end": "early 5th CE",
-      "description": "A Roman villa structure that was built on the location of a Late Iron Age 'round house' of which later phases of construction appear to respect the curve of, despite the structure being long since gone. The 'round house' has been interpreted as a possible shrine due to its lack of domestic material and the reverence later builders seem to have shown it, despite no evidence of deposition activities. To the west of main building and in-line with the 'round house' is a square masonry structure also interpreted as a shrine. Probably first constructed in the third century, its foundations were widened in the northern and southern side at a later date, and subsequently an apsidal end was added to the west wall. Dating for this structure is uncertain as finds are minimal, but late Roman and early Saxon pottery of the late fourth or early fifth CE was found in a hollowed out area at the apsidal end of the structure suggesting activity continued until this date. ",
-      "status": "Possible",
-      "tags": "pre-roman",
-      "index": 103,
       "location": "England, Sussex",
+      "description": "A Roman villa structure that was built on the location of a Late Iron Age \u0027round house\u0027 of which later phases of construction appear to respect the curve of, despite the structure being long since gone. The \u0027round house\u0027 has been interpreted as a possible shrine due to its lack of domestic material and the reverence later builders seem to have shown it, despite no evidence of deposition activities. To the west of main building and in-line with the \u0027round house\u0027 is a square masonry structure also interpreted as a shrine. Probably first constructed in the third century, its foundations were widened in the northern and southern side at a later date, and subsequently an apsidal end was added to the west wall. Dating for this structure is uncertain as finds are minimal, but late Roman and early Saxon pottery of the late fourth or early fifth CE was found in a hollowed out area at the apsidal end of the structure suggesting activity continued until this date. ",
+      "status": "Possible",
+      "latitude": "50.84719801783784",
+      "longitude": "0.07068373218402618",
+      "tags": "pre-roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Preston Court Farm, Beddingham (East Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
         "Black, E., (2008), Pagan Religion in Rural South-East Britain: Contexts, Deities and Belief, in Ritual Landscapes of Roman South-East Britain",
         "Rudling, D., (2003), A tale of two villas: Beddingham and Barcombe, Bulletin of the Association for Roman Archaeology, 15",
         "Rudling, D., (1998), The development of Roman villas in Sussex, Sussex Archaeological Collections, 136",
-        "Rudling, D., (1998), The Roman villas of Sussex, with particular reference to the villas at Beddingham and Bignor, Actes de la table-ronde archéologique, Dieppe, 17",
-        "Rudling, D., (1997), Round ‘house’to villa: the Beddingham and Watergate villas, RM and DE Friendship-Taylor (eds.), From Round House to Villa. Fascicule, 3",
+        "Rudling, D., (1998), The Roman villas of Sussex, with particular reference to the villas at Beddingham and Bignor, Actes de la table-ronde arch\u00E9ologique, Dieppe, 17",
+        "Rudling, D., (1997), Round \u2018house\u2019to villa: the Beddingham and Watergate villas, RM and DE Friendship-Taylor (eds.), From Round House to Villa. Fascicule, 3",
         "Keulmans, M., (1963), New Light on the Roman Bath Building and Villa at Beddington, Surrey Archaeological Collections, 60"
-      ],
-      "latitude": "50.84719801783784",
-      "longitude": "0.07068373218402618"
+      ]
     },
     {
+      "index": 104,
       "site": "Bosham temple",
-      "status": "Probable",
       "start": "mid 2nd CE",
       "end": "unknown",
-      "description": "A site just west of Chichester first excavated by Mitchell in 1832. Black suggests that there may have been a temple following a unusual layout of a central room with three connected rooms on either side, the main room had a c. 2m deep pit which showed evidence of burning. Just to the south-west traces of a theatre like structure, to the north-east was a timber palisade, possibly delimiting a temenos, to the west a possible mosaic was found, and to the north was a building witch Mitchell reports contained a coin of Honorius dating to 393 CE to 423 CE.",
-      "index": 104,
       "location": "England, Sussex, Bosham, Broadbridge",
+      "description": "A site just west of Chichester first excavated by Mitchell in 1832. Black suggests that there may have been a temple following a unusual layout of a central room with three connected rooms on either side, the main room had a c. 2m deep pit which showed evidence of burning. Just to the south-west traces of a theatre like structure, to the north-east was a timber palisade, possibly delimiting a temenos, to the west a possible mosaic was found, and to the north was a building witch Mitchell reports contained a coin of Honorius dating to 393 CE to 423 CE.",
+      "status": "Probable",
+      "latitude": "50.8398262696129",
+      "longitude": "-0.8523035548230259",
+      "tags": null,
       "bibliography": [
-        "Monument Number 245725, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=b8a0c0f5-1b91-4032-9648-21c87ae715ce&resourceID=19191",
+        "Monument Number 245725, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=b8a0c0f5-1b91-4032-9648-21c87ae715ce\u0026resourceID=19191",
         "Martyn, Blick, Brindle, et al, (2015), Broadbridge, Bosham (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
         "Hunter, (1998), An Archaeological Investigation at Broadbridge, Bosham, West Sussex, available at: https://doi.org/10.5284/1027493",
         "Black, E., (1985), The Roman Buildings at Bosham, Sussex Archaeological Collections, 123, pg. 255-6",
         "Pitts, (1979), A Gazetteer of the Roman Sites and Finds on the West Sussex Coastal Plain, Sussex Archaeological Collections, 117, pg. 63-83",
         "Mitchell, H., (1866), On the Early Traditions at Bosham, Sussex Archaeological Collections, 11, pg. 127-46"
-      ],
-      "latitude": "50.8398262696129",
-      "longitude": "-0.8523035548230259"
+      ]
     },
     {
-      "site": "Badbury Rings",
       "index": 105,
+      "site": "Badbury Rings",
+      "start": "late 1st CE",
+      "end": "early 5th CE",
       "location": "England, Dorset Blandford Forum",
+      "description": "A suspected Romano-British temple located besides Badbury Rings. Dating is suggested by coin evidence found in the temple.",
+      "status": "Possible",
+      "latitude": "50.82647545696212",
+      "longitude": "-2.056940541740413",
+      "tags": "roman, romano-celtic, square",
       "bibliography": [
         "Earthworks of Romano-British Temple SW of Badbury Rings, Kingston Lacy Estate, available at: https://heritagerecords.nationaltrust.org.uk/HBSMR/MonRecord.aspx?uid=MNA138090",
         "Martyn, Blick, Brindle, et al, (2015), Badbury Romano-Celtic temple (Dorset), available at: https://doi.org/10.5284/1030449",
         "(2014), The Romano-Celtic Temple at Badbury Rings, Dorset, 135, pg. 242-71",
         "Papworth, (2000), Evaluation excavation, Badbury Romano-Celtic temple: interim report, Poceedings of the Dorset Natural History and Archaeological Society, 122",
         "Papworth, (01/12/2013), An interesting site, available at: https://archaeologynationaltrustsw.wordpress.com/2013/07/06/camping-at-badbury-temple/"
-      ],
-      "description": "A suspected Romano-British temple located besides Badbury Rings. Dating is suggested by coin evidence found in the temple.",
-      "status": "Possible",
-      "latitude": "50.82647545696212",
-      "longitude": "-2.056940541740413",
-      "tags": "roman, romano-celtic, square",
-      "start": "late 1st CE",
-      "end": "early 5th CE"
+      ]
     },
     {
-      "site": "Norden Hill",
-      "status": "Possible",
-      "description": "Apparently, there is a Roman temple site just above the National Trust Corfe Castle visitor centre, which was identified by geophys.",
       "index": 106,
+      "site": "Norden Hill",
+      "start": null,
+      "end": null,
       "location": "Wareham, England, Dorset",
+      "description": "Apparently, there is a Roman temple site just above the National Trust Corfe Castle visitor centre, which was identified by geophys.",
+      "status": "Possible",
+      "latitude": null,
+      "longitude": null,
+      "tags": null,
       "bibliography": [
         "(28/03/2019), Norden the Roman Corfe Castle, available at: https://archaeologynationaltrustsw.wordpress.com/2019/03/28/a-hole-in-the-isle-of-purbeck/"
       ]
     },
     {
+      "index": 107,
       "site": "Gallows Hill",
-      "status": "Probable",
       "start": "early 1st CE",
       "end": "6th CE",
-      "tags": "late iron age, roman, romano-celtic, anglo-saxon",
-      "description": "A site located south east of a Roman Villa, on a chalk hill overlooking fenland, lying on the boundary between Catevellauni and Iceni territory. The site is also north of, and uphill from a series of undated ring ditches. A trackway connectes the site with a nearby Iron Age settlement and burials, and later forms a direct link to the nearby villa.\n\nThe site is surrounded by a square enclosure, possibly of late iron age date, along with pottery (which Malim characterised as Late Iron Age and Belgic in nature) and other morphological similarities to LIA sites, Malim deems it reasonable to suggest a late prehistoric date for it's construction. But, the bulk of development appears to be late 1st or 2nd CE in date based on artifactual finds. A square double walled structure with circular foundations at the centre has been identified as a Romano-Celtic temple, though it is also suggested that the circular foundation shows similarities with sites of prehistoric date.  At some point a small structure was built within the main enclosure, and contained an inhumation burial, this was interpreted as a mausoleum of Roman date. A similar structure exists inside the circular foundations of the temple, though this was not fully excavated, it may be another mausoleum.\n\nThere is a lack of evidence for use of the site in the later 2nd - 4th century, but during the Anglo-Saxon period the site seems to have become used as a limited burial ground, with a number of burials and a post-hole structure being created in the main enclosure. These burials seem to have respected the temple, which Malim takes to indicate some continuity of belief, if not ritual activity.\n",
-      "index": 107,
+      "location": "England, Cambridgeshire, Swaffham Prior, Gallows Hill",
+      "description": "A site located south east of a Roman Villa, on a chalk hill overlooking fenland, lying on the boundary between Catevellauni and Iceni territory. The site is also north of, and uphill from a series of undated ring ditches. A trackway connectes the site with a nearby Iron Age settlement and burials, and later forms a direct link to the nearby villa.\n\nThe site is surrounded by a square enclosure, possibly of late iron age date, along with pottery (which Malim characterised as Late Iron Age and Belgic in nature) and other morphological similarities to LIA sites, Malim deems it reasonable to suggest a late prehistoric date for it\u0027s construction. But, the bulk of development appears to be late 1st or 2nd CE in date based on artifactual finds. A square double walled structure with circular foundations at the centre has been identified as a Romano-Celtic temple, though it is also suggested that the circular foundation shows similarities with sites of prehistoric date.  At some point a small structure was built within the main enclosure, and contained an inhumation burial, this was interpreted as a mausoleum of Roman date. A similar structure exists inside the circular foundations of the temple, though this was not fully excavated, it may be another mausoleum.\n\nThere is a lack of evidence for use of the site in the later 2nd - 4th century, but during the Anglo-Saxon period the site seems to have become used as a limited burial ground, with a number of burials and a post-hole structure being created in the main enclosure. These burials seem to have respected the temple, which Malim takes to indicate some continuity of belief, if not ritual activity.\n",
+      "status": "Probable",
       "latitude": "52.25424501525176",
       "longitude": "0.31038528999348003",
-      "location": "England, Cambridgeshire, Swaffham Prior, Gallows Hill",
+      "tags": "late iron age, roman, romano-celtic, anglo-saxon",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Gallows Hill, Swaffham Prior (Cambridgeshire), available at: https://doi.org/10.5284/1030449",
         "Malim, T., (2006), A Romano-British temple complex and Anglo-Saxon burials at Gallows Hill, Swaffham Prior, The Proceedings of the Cambridge Antiquarian Society, 95, pg. 91 - 114"
       ]
     },
     {
+      "index": 108,
       "site": "Castor",
+      "start": "mid 3rd CE",
+      "end": "unknown",
+      "location": "England, Cambridgeshire",
+      "description": "A classical podium style temple first excavated by Artis in the 1820s. The temple is surrounded by a series of houses which appear to have been constructed in the mid 3rd CE, which appear to be associated with the pottery industry. Thompson goes as far as suggesting that the settlement was created by a potter\u0027s guild using profits from the industry. Very little seems to be known about the chronology of the temple, but it seems likely the temple was constructed along with/for the settlement, which would suggest it was constructed some time in the mid 3rd CE. ",
       "status": "Probable",
       "latitude": "52.57265573734387",
       "longitude": "-0.34117033778066924",
-      "start": "mid 3rd CE",
-      "end": "unknown",
       "tags": "roman, classical",
-      "index": 108,
-      "description": "A classical podium style temple first excavated by Artis in the 1820s. The temple is surrounded by a series of houses which appear to have been constructed in the mid 3rd CE, which appear to be associated with the pottery industry. Thompson goes as far as suggesting that the settlement was created by a potter's guild using profits from the industry. Very little seems to be known about the chronology of the temple, but it seems likely the temple was constructed along with/for the settlement, which would suggest it was constructed some time in the mid 3rd CE. ",
-      "location": "England, Cambridgeshire",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Castor (Castor Barns, The Cedars and Time Team), available at: https://doi.org/10.5284/1030449",
         "Thompson, S., (2011), Castor, Peterborough, Cambridgeshire, Archaeological Evaluation and Assessment of Results, Wessex Archaeology, Report reference: 74155.01, available at: https://doi.org/10.5284/1023496",
@@ -1953,34 +2044,34 @@
       ]
     },
     {
+      "index": 109,
       "site": "Baldock",
-      "description": "A flourishing late Iron Age settlement possible in an oppidum which became a major roadside settlement peaking in size during the 2nd CE. A Romano-Celtic temple has been identified by aerial photography, but, the unusual thing is that excavation in the late 60s and early 70s produced evidence of ritual activity (miniature votive axes, a spear, an iron rattle, fragments of a statue) about 250 metres north east of the temple. This led Stead and Rigby to suggest the presence of a second temple, though they did not identify a structure. Martyn et al seem to propose 'Building V' in the area of the votive finds as the second temple. This building seems to have been formed by a ring of upright timbers and appears to be surrounded by an enclosure (ditches 54, 56, 89). There are three internal pits in the structure but no dating evidence was found, the votive material and statue however, appear to range from the late 2nd to late 4th CE. ",
-      "tags": "roman, romano-celtic, circular",
+      "start": "unknown",
+      "end": "late 4th CE",
+      "location": "England, Hertfordshire",
+      "description": "A flourishing late Iron Age settlement possible in an oppidum which became a major roadside settlement peaking in size during the 2nd CE. A Romano-Celtic temple has been identified by aerial photography, but, the unusual thing is that excavation in the late 60s and early 70s produced evidence of ritual activity (miniature votive axes, a spear, an iron rattle, fragments of a statue) about 250 metres north east of the temple. This led Stead and Rigby to suggest the presence of a second temple, though they did not identify a structure. Martyn et al seem to propose \u0027Building V\u0027 in the area of the votive finds as the second temple. This building seems to have been formed by a ring of upright timbers and appears to be surrounded by an enclosure (ditches 54, 56, 89). There are three internal pits in the structure but no dating evidence was found, the votive material and statue however, appear to range from the late 2nd to late 4th CE. ",
+      "status": "Probable",
       "latitude": "51.98985410908123",
       "longitude": "-0.1832765359973946",
-      "end": "late 4th CE",
-      "start": "unknown",
-      "status": "Probable",
-      "index": 109,
-      "location": "England, Hertfordshire",
+      "tags": "roman, romano-celtic, circular",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Baldock (Hertfordshire), available at: https://doi.org/10.5284/1030449",
         "Ashworth, H., (2004), Baldock, Herts. Archaeological Fieldwork, Heritage Network, Report No. 237, available at: https://doi.org/10.5284/1021911",
-        "Stead, I., Rigby, V., (1986), The excavation of a Roman and pre-Roman settlement, 1968-72, Britannia Monograph, 7, available at: https://archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1080742&recordType=MonographSeries",
+        "Stead, I., Rigby, V., (1986), The excavation of a Roman and pre-Roman settlement, 1968-72, Britannia Monograph, 7, available at: https://archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1080742\u0026recordType=MonographSeries",
         "Westell, W., (1931), A Romano-British cemetery at Baldock, Archaeological Journal, 88, pg. 24 - 301"
       ]
     },
     {
+      "index": 110,
       "site": "Angmering villa",
-      "description": "A square building (G) just to the east of the villa - on the highest part of the site. First identified during excavations in 1940, the large structure seems to have been of abnormal height, having a vaulted basement and a floor above that. The structure had a 'burial pit' 14ft deep in one corner, and while it did not have a temenos, it did have a cobbled courtyard containing the bones of young oxen. The structure appears to have had a black and white tessellated pavement and marble architectural features, such as architraves. It is suggested that the structure was a temple/mausoleum, based on comparisons with the Jordan Hill temple and the Temple of Janus in Autun, France. Scott suggests that the structure was used for grain storage at a later date, and was eventually demolished to provide building material for the nearby building (E) and other structures in the villa.\n\nNote that Martyn et al suggest the temple is building F, this appears to be a mistake, Scott identifies building G as a temple.",
-      "tags": "roman, romano-celtic, mausoleum",
       "start": "unknown",
       "end": "unknown",
+      "location": "England, Sussex",
+      "description": "A square building (G) just to the east of the villa - on the highest part of the site. First identified during excavations in 1940, the large structure seems to have been of abnormal height, having a vaulted basement and a floor above that. The structure had a \u0027burial pit\u0027 14ft deep in one corner, and while it did not have a temenos, it did have a cobbled courtyard containing the bones of young oxen. The structure appears to have had a black and white tessellated pavement and marble architectural features, such as architraves. It is suggested that the structure was a temple/mausoleum, based on comparisons with the Jordan Hill temple and the Temple of Janus in Autun, France. Scott suggests that the structure was used for grain storage at a later date, and was eventually demolished to provide building material for the nearby building (E) and other structures in the villa.\n\nNote that Martyn et al suggest the temple is building F, this appears to be a mistake, Scott identifies building G as a temple.",
+      "status": "Possible",
       "latitude": "50.83055620358022",
       "longitude": "-0.506025453515754",
-      "status": "Possible",
-      "index": 110,
-      "location": "England, Sussex",
+      "tags": "roman, romano-celtic, mausoleum",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Angmering villa (West Sussex), available at: https://doi.org/10.5284/1030449",
         "Gilkes, (1999), The bathhouse of Angmering Roman villa, Sussex Archaeological Collections, 137, available at: https://archaeologydataservice.ac.uk/archives/view/sac/contents.cfm?vol=137",
@@ -1991,77 +2082,90 @@
       ]
     },
     {
+      "index": 111,
       "site": "Bancroft Villa",
-      "description": "A mid 2nd CE Mausoleum built in a pre-existing enclosure in the crest of a hill overlooking a Roman villa. The Mausoleum appears identical to a Romano-Celtic temple, except beneath the central cella is a sarcophagi. The mausoleum appears to have been demolished in the mid 4th CE (probably for villa refurbishments), but, nearby in another pre-existing enclosure a small circular unmortared stone shrine was built. This shrine had a central pit containing deposits of spear heads, coins, and a young pig, outside the shrine were the butchered remains of an adult female goat. This shrine has been dated up until the late 4th CE.",
-      "status": "Probable",
-      "tags": "romano-celtic, mausoleum, villa, circular",
       "start": "mid 2nd CE",
       "end": "late 4th CE",
-      "index": 111,
       "location": "England, Buckinghamshire",
+      "description": "A mid 2nd CE Mausoleum built in a pre-existing enclosure in the crest of a hill overlooking a Roman villa. The Mausoleum appears identical to a Romano-Celtic temple, except beneath the central cella is a sarcophagi. The mausoleum appears to have been demolished in the mid 4th CE (probably for villa refurbishments), but, nearby in another pre-existing enclosure a small circular unmortared stone shrine was built. This shrine had a central pit containing deposits of spear heads, coins, and a young pig, outside the shrine were the butchered remains of an adult female goat. This shrine has been dated up until the late 4th CE.",
+      "status": "Probable",
+      "latitude": "52.05656679036191",
+      "longitude": "-0.7977333691948757",
+      "tags": "romano-celtic, mausoleum, villa, circular",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Bancroft temple-Mausoleum (Buckinghamshire), available at: https://doi.org/10.5284/1030449",
         "Martyn, Blick, Brindle, et al, (2015), Bancroft villa (Buckinghamshire), available at: https://doi.org/10.5284/1030449",
         "King, A., (2005), Animal Remains from Temples in Roman Britain, Britannia, 36",
         "Williams, Zeepvat, (1994), Bancroft. A late Bronze Age/Iron Age settlement, Roman villa and temple-Mausoleum, Buckinghamshire Archaeological Society Monograph, 7"
-      ],
-      "latitude": "52.05656679036191",
-      "longitude": "-0.7977333691948757"
-    },
-    {
-      "site": "Hailey Wood Camp",
-      "status": "Possible",
-      "latitude": "51.70193449294889",
-      "longitude": "-2.0526908563374966",
-      "start": "1st CE",
-      "end": "late 4th CE",
-      "tags": "roman, late iron age",
-      "index": 112,
-      "description": "A large double ditched enclosure identified by aerial photography. It lies 5 km South-West of Cirencester on a spur at the head of a valley, further down the same valley isa spring which forms the source of the river Thames, overlooked by Trewsbury House hillfort. Only surveys have occurred so far, but the evidence found suggests a date range between the 1st CE and the late 4th CE, based on coins and pottery. The main reason for identifying this as a religious complex is its similarity in form to other sites such as Gosbecks, and Lee's Rest, as well as seven curse tablets recovered from the site. Two of these curse tablets reportedly mention Mercury. ",
-      "location": "England, Gloucstershire, Sapperton",
-      "bibliography": [
-        "Martyn, Blick, Brindle, et al, (2015), Hailey Wood Camp, Sapperton (Gloucestershire), available at: https://doi.org/10.5284/1030449",
-        "Moore, (2004), An Archaeological Assessment of Hailey Wood Camp, Sapperton, Gloucestershire: a Roman temple complex in the Cotswolds?, Trans of the Bristol and Gloucestershire Archaeological Society, 119",
-        "St. Joseph, J., (1969), ‘Air Reconnaissance in Britain 1965–1968, Jnl. Roman Studies, 59, pg. 104-129",
-        "O'Neil, H., O'Neil, B., (1952), The Roman Conquest of the Cotswolds, Archaeol. Jnl, 109, pg. 23-38"
       ]
     },
     {
-      "site": "Portway",
+      "index": 112,
+      "site": "Hailey Wood Camp",
+      "start": "1st CE",
+      "end": "late 4th CE",
+      "location": "England, Gloucstershire, Sapperton",
+      "description": "A large double ditched enclosure identified by aerial photography. It lies 5 km South-West of Cirencester on a spur at the head of a valley, further down the same valley isa spring which forms the source of the river Thames, overlooked by Trewsbury House hillfort. Only surveys have occurred so far, but the evidence found suggests a date range between the 1st CE and the late 4th CE, based on coins and pottery. The main reason for identifying this as a religious complex is its similarity in form to other sites such as Gosbecks, and Lee\u0027s Rest, as well as seven curse tablets recovered from the site. Two of these curse tablets reportedly mention Mercury. ",
       "status": "Possible",
-      "description": "A system of Romano-British enclosures between the Cotswold escarpment and Robinswood Hill. At least one of these enclosures has been interpreted as a polygonal wayside shrine.",
+      "latitude": "51.70193449294889",
+      "longitude": "-2.0526908563374966",
+      "tags": "roman, late iron age",
+      "bibliography": [
+        "Martyn, Blick, Brindle, et al, (2015), Hailey Wood Camp, Sapperton (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+        "Moore, (2004), An Archaeological Assessment of Hailey Wood Camp, Sapperton, Gloucestershire: a Roman temple complex in the Cotswolds?, Trans of the Bristol and Gloucestershire Archaeological Society, 119",
+        "St. Joseph, J., (1969), \u2018Air Reconnaissance in Britain 1965\u20131968, Jnl. Roman Studies, 59, pg. 104-129",
+        "O\u0027Neil, H., O\u0027Neil, B., (1952), The Roman Conquest of the Cotswolds, Archaeol. Jnl, 109, pg. 23-38"
+      ]
+    },
+    {
+      "index": 113,
+      "site": "Portway",
       "start": "early 2nd CE",
       "end": "early 4th CE",
-      "tags": "roman",
-      "index": 113,
+      "location": "England, Gloucestershire",
+      "description": "A system of Romano-British enclosures between the Cotswold escarpment and Robinswood Hill. At least one of these enclosures has been interpreted as a polygonal wayside shrine.",
+      "status": "Possible",
       "latitude": "51.83432978279831",
       "longitude": "-2.2060318770187815",
-      "location": "England, Gloucestershire",
+      "tags": "roman",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Portway (Gloucestershire), available at: https://doi.org/10.5284/1030449",
         "Rawes, (1984), The Romano-British Site on the Portway, near Gloucester, Trans Bristol and Gloucestershire Archaeological Society, 102"
       ]
     },
     {
+      "index": 114,
       "site": "Blaise Castle",
-      "status": "Probable",
-      "description": "A rectangular masonry building and graves at the peak of Blaise Hill, an Iron Age Hillfort. The masonry building is believed to be of Roman date and interpreted as a temple, but a medieval chapel is also possible. The hillfort appears to have been intensively occupied during the Iron Age and into the Roman period, at the north-west foot of the hill there is evidence of small-scale Iron Age quarrying. In the 3rd century CE the remains of neonatal infants were interred in this quarry, before larger scale quarrying began later that century. A road was constructed that seems to connect the Hill Fort directly to the quarry.",
       "start": "unkown",
       "end": "unknown",
-      "tags": "roman, iron age, hillfort, burials",
+      "location": "England, Gloucestershire, Lawrence Weston, Bristol",
+      "description": "A rectangular masonry building and graves at the peak of Blaise Hill, an Iron Age Hillfort. The masonry building is believed to be of Roman date and interpreted as a temple, but a medieval chapel is also possible. The hillfort appears to have been intensively occupied during the Iron Age and into the Roman period, at the north-west foot of the hill there is evidence of small-scale Iron Age quarrying. In the 3rd century CE the remains of neonatal infants were interred in this quarry, before larger scale quarrying began later that century. A road was constructed that seems to connect the Hill Fort directly to the quarry.",
+      "status": "Probable",
       "latitude": "51.50262329671635",
       "longitude": "-2.63688705070917",
-      "index": 114,
-      "location": "England, Gloucestershire, Lawrence Weston, Bristol",
+      "tags": "roman, iron age, hillfort, burials",
       "bibliography": [
         "Martyn, Blick, Brindle, et al, (2015), Long Cross, Lawrence Weston, Bristol (Gloucestershire), available at: https://doi.org/10.5284/1030449",
         "Martyn, Blick, Brindle, et al, (2015), Blaise Castle (Gloucestershire), available at: https://doi.org/10.5284/1030449",
-        "Boore, (1999), A Romano-British site at Lawrence Weston, Bristol, 1995, Bristol & Avon Archaeology, 16",
-        "Russell, J., Williams, R., (1984), Romano-British Sites in the City of Bristol - A Review and Gazetteer, Bristol & Avon Archaeology, 3, pg. 18-26",
+        "Boore, (1999), A Romano-British site at Lawrence Weston, Bristol, 1995, Bristol \u0026 Avon Archaeology, 16",
+        "Russell, J., Williams, R., (1984), Romano-British Sites in the City of Bristol - A Review and Gazetteer, Bristol \u0026 Avon Archaeology, 3, pg. 18-26",
         "Boon, (1963), Roman coins from Blaise Castle, Proc Univ Bristol Spelaeol Soc, 10",
         "Rahtz, Clevedon-Brown, (1959), Blaise Castle Hill, Bristol (1959), Proc Univ Bristol Spelaeol Soc, 8",
         "Bartlett, J., (1918-19), Report on a Search for the Site of the Chapel of St Blasius, Henbury, Trans. Bristol and Gloucestershire Archaeological Soc, 41, pg. 163-169"
       ]
+    },
+    {
+      "index": 115,
+      "site": "test",
+      "start": "100",
+      "end": "100",
+      "location": "England, Gloucestershire, Lawrence Weston, Bristol",
+      "description": "test",
+      "status": "certain",
+      "latitude": "51.272114",
+      "longitude": "0.50447214",
+      "tags": "test,",
+      "bibliography": null
     }
   ],
   "dates": {

@@ -2153,19 +2153,6 @@
         "Rahtz, Clevedon-Brown, (1959), Blaise Castle Hill, Bristol (1959), Proc Univ Bristol Spelaeol Soc, 8",
         "Bartlett, J., (1918-19), Report on a Search for the Site of the Chapel of St Blasius, Henbury, Trans. Bristol and Gloucestershire Archaeological Soc, 41, pg. 163-169"
       ]
-    },
-    {
-      "index": 115,
-      "site": "test",
-      "start": "100",
-      "end": "100",
-      "location": "England, Gloucestershire, Lawrence Weston, Bristol",
-      "description": "test",
-      "status": "certain",
-      "latitude": "51.272114",
-      "longitude": "0.50447214",
-      "tags": "test,",
-      "bibliography": null
     }
   ],
   "dates": {

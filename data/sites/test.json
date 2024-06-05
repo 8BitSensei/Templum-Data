@@ -8,5 +8,6 @@
   "location": "testton",
   "tags": "test",
   "end": "100",
+  "Map": "{\"type\":\"Point\",\"coordinates\":[-2.36014955943326,51.381588585349334]}",
   "description": "this is a test"
 }

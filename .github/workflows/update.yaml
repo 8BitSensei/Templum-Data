@@ -12,13 +12,17 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
-      - name: Updates metadata
+      - name: meta
         working-directory: scripts/
         run: go run . meta
 
-      - name: Updates bibs
+      - name: bibs
         working-directory: scripts/
         run: go run . bib
+
+      - name: debug
+        working-directory: scripts/
+        run: ls
 
       - name: Commit report
         run: |

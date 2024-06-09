@@ -21,7 +21,7 @@ jobs:
         run: go run . bib
 
       - name: debug
-        working-directory: scripts/
+        working-directory: data/sites/
         run: ls
 
       - name: Commit report

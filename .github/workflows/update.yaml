@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@3
+        uses: actions/checkout@v4
 
       - name: Updates metadata
         working-directory: scripts/

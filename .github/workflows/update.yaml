@@ -1,0 +1,28 @@
+name: Update data
+
+on:
+  push:
+    branches:
+      - decap-testing
+
+jobs:
+  support-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@3
+
+      - name: Updates metadata
+        working-directory: scripts/
+        run: go run . meta
+
+      - name: Updates bibs
+        working-directory: scripts/
+        run: go run . bib
+
+      - name: Commit report
+          run: |
+            git config --global user.name 'Your Name'
+            git config --global user.email 'your-username@users.noreply.github.com'
+            git commit -am "Automated report"
+            git push

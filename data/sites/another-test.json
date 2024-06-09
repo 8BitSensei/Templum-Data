@@ -1,9 +1,0 @@
-{
-  "status": "Unknown",
-  "site": "another-test",
-  "start": "test",
-  "end": "test",
-  "location": "test",
-  "description": "test",
-  "Map": "{\"type\":\"Point\",\"coordinates\":[0.703125000000014,51.289405902716794]}"
-}

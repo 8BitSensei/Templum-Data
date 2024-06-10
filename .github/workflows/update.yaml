@@ -12,19 +12,18 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
-      - name: meta
+      - name: update
         working-directory: scripts/
-        run: go run . meta
-
-      - name: bibs
-        working-directory: scripts/
-        run: go run . bib
+        run: |
+          go run . meta
+          go run . bib
 
       - name: debug
         working-directory: data/sites/
         run: ls
 
       - name: Commit report
+        working-directory: data/sites/
         run: |
           git config --global user.name 'Your Name'
           git config --global user.email 'your-username@users.noreply.github.com'

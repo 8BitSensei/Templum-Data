@@ -62,16 +62,16 @@ func GenerateMetadata() {
 }
 
 type Site struct {
-	Site         string
-	Start        string
-	End          string
-	Latitude     string
-	Longitude    string
-	Status       string
-	Location     string
-	Tags         string
-	Description  string
-	Bibliography []string
+	Site         string   `json:"site"`
+	Start        string   `json:"start"`
+	End          string   `json:"end"`
+	Latitude     string   `json:"latitude"`
+	Longitude    string   `json:"longitude"`
+	Status       string   `json:"status"`
+	Location     string   `json:"location"`
+	Tags         string   `json:"tags"`
+	Description  string   `json:"description"`
+	Bibliography []string `json:"bibliography"`
 }
 
 type SiteMetadata struct {

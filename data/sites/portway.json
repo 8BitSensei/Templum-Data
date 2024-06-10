@@ -1,0 +1,15 @@
+{
+   "site": "Portway",
+   "start": "early 2nd CE",
+   "end": "early 4th CE",
+   "latitude": "51.83432978279831",
+   "longitude": "-2.2060318770187815",
+   "status": "Possible",
+   "location": "England, Gloucestershire",
+   "tags": "roman",
+   "description": "A system of Romano-British enclosures between the Cotswold escarpment and Robinswood Hill. At least one of these enclosures has been interpreted as a polygonal wayside shrine.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, et al, (2015), Portway (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+      "Rawes, (1984), The Romano-British Site on the Portway, near Gloucester, Trans Bristol and Gloucestershire Archaeological Society, 102"
+   ]
+}

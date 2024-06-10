@@ -11,6 +11,8 @@ func main() {
 		GenerateMetadata()
 	case "bib":
 		GenerateBib()
+	case "migrate":
+		Migrate()
 	default:
 		fmt.Println("Unrecognised argument, please use bib or meta")
 	}

@@ -1,0 +1,21 @@
+{
+   "site": "Brean Down",
+   "start": "340",
+   "end": "367",
+   "latitude": "51.324208532208445",
+   "longitude": "-3.0155116379408646",
+   "status": "Certain",
+   "location": "England, Somerset, Brean Down",
+   "tags": "roman, romano-celtic",
+   "description": "A particularly short-lived square temple on the rocky peninsula south  of Weston-super-Mare. Lewis (1966) suggests it may have been converted for use in smelting.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, et al, (2015), Brean Down (Somerset), available at: https://doi.org/10.5284/1030449",
+      "Lewis, (1966), Temples in Roman Britain",
+      "Apsimon, (1965), The Roman temple on Brean Down, Somerset, Proc University of Bristol Spelaeology Society, 10(3)",
+      "ApSimon, (1964)",
+      "ApSimon, (1961), Numinastic Chronicle, 1, pg. 191 ff",
+      "ApSimon, (1959), Journal of Roman Studies, 49, pg. 129",
+      "ApSimon, (1958), Proceedings of the Spelaeological Society, 8, pg. 106 ff",
+      "ApSimon, (1958), Journal of Roman Studies, 48, pg. 146"
+   ]
+}

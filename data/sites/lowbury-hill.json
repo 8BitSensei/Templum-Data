@@ -1,0 +1,17 @@
+{
+   "site": "Lowbury Hill",
+   "start": "late 1st CE",
+   "end": "unknown",
+   "latitude": "51.53612896369298",
+   "longitude": "-1.2228399553747231",
+   "status": "Possible",
+   "location": "England, Oxfordshire, Wallingford",
+   "tags": "roman",
+   "description": "A possible Romano-British religious site, first excavated in 1913-14.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, et al, (2015), Lowbury Hill (Oxfordshire), available at: https://doi.org/10.5284/1030449",
+      "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
+      "Fulford, M., Rippon, S., Allen, D., Allen, J., Allen, S., Firth, J., Gaffney, C., Gater, J., Hamilton-Dyer, S., Härke, H., Kaminski, J., Richards, D., Somerville, E., Timby, J., Tingle, M., (1994), Lowbury Hill, Oxon: a Re-Assessment of the Probable Romano-Celtic Temple and the Anglo-Saxon Barrow, Archaeological Journal, 151, 1, pg. 158-211, available at: http://www.tandfonline.com/doi/abs/10.1080/00665983.1994.11078122",
+      "Atkinson, D., (1916), The Romano-British site on Lowbury Hill in Berkshire"
+   ]
+}

@@ -1,0 +1,20 @@
+{
+   "site": "Bosham temple",
+   "start": "mid 2nd CE",
+   "end": "unknown",
+   "latitude": "50.8398262696129",
+   "longitude": "-0.8523035548230259",
+   "status": "Probable",
+   "location": "England, Sussex, Bosham, Broadbridge",
+   "tags": "",
+   "description": "A site just west of Chichester first excavated by Mitchell in 1832. Black suggests that there may have been a temple following a unusual layout of a central room with three connected rooms on either side, the main room had a c. 2m deep pit which showed evidence of burning. Just to the south-west traces of a theatre like structure, to the north-east was a timber palisade, possibly delimiting a temenos, to the west a possible mosaic was found, and to the north was a building witch Mitchell reports contained a coin of Honorius dating to 393 CE to 423 CE.",
+   "bibliography": [
+      "Monument Number 245725, available at: https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=b8a0c0f5-1b91-4032-9648-21c87ae715ce\u0026resourceID=19191",
+      "Martyn, Blick, Brindle, et al, (2015), Broadbridge, Bosham (West Sussex), available at: https://doi.org/10.5284/1030449",
+      "Rudling, D., (2008), Roman-Period Temples, Shrines and Religion in Sussex, in Ritual Landscapes of Roman South-East Britain",
+      "Hunter, (1998), An Archaeological Investigation at Broadbridge, Bosham, West Sussex, available at: https://doi.org/10.5284/1027493",
+      "Black, E., (1985), The Roman Buildings at Bosham, Sussex Archaeological Collections, 123, pg. 255-6",
+      "Pitts, (1979), A Gazetteer of the Roman Sites and Finds on the West Sussex Coastal Plain, Sussex Archaeological Collections, 117, pg. 63-83",
+      "Mitchell, H., (1866), On the Early Traditions at Bosham, Sussex Archaeological Collections, 11, pg. 127-46"
+   ]
+}

@@ -1,0 +1,28 @@
+{
+   "site": "Woodeaton Temple",
+   "start": "early 1st CE",
+   "end": "early 5th CE",
+   "latitude": "51.80893314719676",
+   "longitude": "-1.2236703271759788",
+   "status": "Certain",
+   "location": "England, Oxfordshire",
+   "tags": "roman, romano-celtic",
+   "description": "A square Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, et al, (2015), Woodeaton (Oxfordshire), available at: https://doi.org/10.5284/1030449",
+      "Smith, A., (2008), The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods., in Ritual Landscapes of Roman South-East Britain",
+      "Bagnall-Smith, J., (1995), Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire",
+      "Harding, (1987), The Iron Age and Romano-British site at Woodeaton",
+      "Lewis, (1966), Temples in Roman Britain",
+      "Rivet, A., (1958), in Town and Country in Roman Britain, pg. 146",
+      "Richmond, I., (1955), in Roman Britain, pg. 137",
+      "Frere, S., (1954), Reports of the excavations by Mr. Sheppard Frere issued by the Canterbury Excavations, Journal of Roman Studies, 44, pg. 103",
+      "Goodchild, R., Kirk, J., (1954), The Romano-Celtic Temple at Woodeaton, Oxoniensia, 19, pg. 15 ff",
+      "Kirk, J., (1949), Bronzes from Woodeaton, Oxon, Oxoniensia, 14, pg. 1 ff",
+      "Milne, J., (1933), A Few Notes on the Currency of Britain, 23, 2, pg. 221 ff",
+      "Milne, J., (1931), Woodeaton Coins, Journal of Roman Studies, 21, pg. 101 ff",
+      "(1921), Excavations at Wood Eaton, Antiquaries Journal, 1, pg. 339",
+      "Taylor, M., (1917), Wood Eaton, Journal of Roman Studies, 7, pg. 98 ff",
+      "Hussey, (1841)"
+   ]
+}

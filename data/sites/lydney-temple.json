@@ -1,0 +1,23 @@
+{
+   "site": "Lydney Temple",
+   "start": "late 2nd CE",
+   "end": "early 5th CE",
+   "latitude": "51.72146470303315",
+   "longitude": "-2.557441681619759",
+   "status": "Certain",
+   "location": "England, Gloucstershire, Lydney Park",
+   "tags": "roman",
+   "description": "A major Romano-British religious complex on a promontory overlooking the River Severn. Coin evidence apparently suggests that the cult continued into the early 5th CE, even though the temple superstructure seems to have collapsed by 370 CE.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, et al, (2015), Lydney Park (Gloucestershire), available at: https://doi.org/10.5284/1030449",
+      "Smith, A., (2008), The Fate of Pagan Temples in South-East Britain, in Ritual Landsacpes of South-East Britain",
+      "Casey, Hoffmann, (1999), Excavations at the Roman temple at Lydney Park, Gloucestershire in 1980 and 1981, Antiquaries Journal, 79",
+      "Rahtz, Watts, (1989)",
+      "Scott-Garrett, (1959), Roman Iron Mine in Lydney Park (1959), Trans Bristol and Gloucestershire Archaeological Society, 78",
+      "Richmond, I., (1955), in Roman Britain, pg. 139",
+      "Wheeler, R., Wheeler, T., (1932), Report on the excavation of the prehistoric, Roman and post-Roman site at Lydney Park, Gloucestershire (1932), Society of Antiquaries Rep, IX",
+      "Wheeler, R., (1932), Report on the Excavations ... in Lydney Park",
+      "Ward, J., (1911), Roman Era in Britain",
+      "Bathurst, W., King, C., (1879), Roman Antiquities at Lydney Park"
+   ]
+}

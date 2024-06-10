@@ -1,0 +1,8 @@
+---
+category: data
+filename: test.json
+weight: 1
+title: test
+description: Bibliographic data on test
+type: application/json
+---

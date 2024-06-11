@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Mill Hill",
-  "location": "England, Kent, Deal",
-  "end": "100",
-  "description": "A long lived cemetery site spanning the Iron Age to the Early Medieval period. The cemetery contained a shaft which gave access to an underground chamber interpreted as a shrine, the cave was filled in by the 2nd C CE.",
-  "tags": "iron age, roman, underground",
-  "latitude": "51.207010984263924",
-  "longitude": "1.3817277765990432"
+   "site": "Mill Hill",
+   "start": "",
+   "end": "100",
+   "latitude": "51.207010984263924",
+   "longitude": "1.3817277765990432",
+   "status": "Possible",
+   "location": "England, Kent, Deal",
+   "tags": "iron age, roman, underground",
+   "description": "A long lived cemetery site spanning the Iron Age to the Early Medieval period. The cemetery contained a shaft which gave access to an underground chamber interpreted as a shrine, the cave was filled in by the 2nd C CE.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Mill Hill, England, Kent, Deal.” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Parfitt. “Iron Age Burials from Mill Hill, Deal,” 1995."
+   ]
 }

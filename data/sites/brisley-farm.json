@@ -1,11 +1,15 @@
 {
-  "start": "50",
-  "site": "Brisley Farm",
-  "latitude": "51.127541292891024",
-  "longitude": "0.8451161014001907",
-  "status": "Possible",
-  "location": "England, Kent, Ashford, Brisley Farm",
-  "tags": "iron age, roman, cemetary",
-  "end": "150",
-  "description": "Late Iron Age to Early Roman cremation cemetery containing two warrior-burial graves, which appear to have become the focus of attention. A number of structures were identified and it has been suggested a shrine formed part of the complex."
+   "site": "Brisley Farm",
+   "start": "50",
+   "end": "150",
+   "latitude": "51.127541292891024",
+   "longitude": "0.8451161014001907",
+   "status": "Possible",
+   "location": "England, Kent, Ashford, Brisley Farm",
+   "tags": "iron age, roman, cemetary",
+   "description": "Late Iron Age to Early Roman cremation cemetery containing two warrior-burial graves, which appear to have become the focus of attention. A number of structures were identified and it has been suggested a shrine formed part of the complex.",
+   "bibliography": [
+      "Johnson, C. “Brisley Farm, Ashford, Kent (NGR TQ 992 401). A Post-Excavation Assessment Report on the Archaeological Excavations 1998-2002 with Proposals for Publication,” 2003. https://doi.org/10.5284/1027428.",
+      "Martyn, Blick, Brindle, and et al. “Brisley Farm, Ashford (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,10 +1,17 @@
 {
-  "status": "Probable",
-  "site": "Darenth Villa",
-  "location": "England, Kent, Darenth",
-  "description": "Large Roman courtyard Villa, to the south of which was a courtyard apparently containing a probable shrine, itself enclosing a well.",
-  "start": "early 2nd CE",
-  "latitude": "51.41313520546848",
-  "longitude": "0.24647121686123855",
-  "tags": "roman, villa"
+   "site": "Darenth Villa",
+   "start": "early 2nd CE",
+   "end": "",
+   "latitude": "51.41313520546848",
+   "longitude": "0.24647121686123855",
+   "status": "Probable",
+   "location": "England, Kent, Darenth",
+   "tags": "roman, villa",
+   "description": "Large Roman courtyard Villa, to the south of which was a courtyard apparently containing a probable shrine, itself enclosing a well.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Darenth (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Payne. “The Roman Villa at Darenth.” Archaeologia Cantiana 22 (1897).",
+      "Philp. “Excavations in the Darent Valley, Kent Second Research Report in the Kent Series.” West Kent Border Archaeological Group, 1984.",
+      "———. “Excavations in West Kent, 1960-1970: The Discovery and Excavation of Prehistoric, Roman, Saxon and Medieval Sites, Mainly in the Bromley Area and the Darent Valley.” Kent Archaeological Rescue Unit 4 (1973)."
+   ]
 }

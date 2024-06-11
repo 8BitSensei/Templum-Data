@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Eddington",
-  "location": "England, Kent, Herne Bay, Eddington",
-  "description": "A Late Iron-Age/Romano-British settlement. Excavations identified a rectangular enclosure which included a number of structured-deposits. This enclosure has been tentatively identified as a possible ritual enclosure, and the Rural settlement of Roman Britain project categorised the site type as a shrine.",
-  "tags": "iron age, roman",
-  "latitude": "51.36038558862768",
-  "longitude": "1.1151764075620925"
+   "site": "Eddington",
+   "start": "",
+   "end": "",
+   "latitude": "51.36038558862768",
+   "longitude": "1.1151764075620925",
+   "status": "Possible",
+   "location": "England, Kent, Herne Bay, Eddington",
+   "tags": "iron age, roman",
+   "description": "A Late Iron-Age/Romano-British settlement. Excavations identified a rectangular enclosure which included a number of structured-deposits. This enclosure has been tentatively identified as a possible ritual enclosure, and the Rural settlement of Roman Britain project categorised the site type as a shrine.",
+   "bibliography": [
+      "Canterbury Archaeological Trust. “Eddington Phase II Excavations, Interim Report No.3.” [object Object], 2000. https://doi.org/10.5284/1027381.",
+      "Martyn, Blick, Brindle, and et al. “Salt Hill Saltings, Upchurch (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://archaeologydataservice.ac.uk/archives/view/romangl/fullrecord.cfm?id=9128\u0026display=list."
+   ]
 }

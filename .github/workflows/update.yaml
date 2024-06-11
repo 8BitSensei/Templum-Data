@@ -3,7 +3,7 @@ name: Update data
 on:
   push:
     branches:
-      - decap-testing
+      - gh-pages
 
 jobs:
   support-data:

@@ -3,8 +3,8 @@
   "site": "Blue Bell Hill",
   "start": "",
   "description": "Apparently a roman temple. Buildings here were first identified around 1833, and Taylor identifies it as a temple based on a coin evidence alone. No excavations have been made, and no site plans are provided.",
-  "latitude": 51.322,
-  "longitude": 0.507687353547558,
+  "latitude": "51.322",
+  "longitude": "0.507687353547558",
   "tags": "roman",
   "location": "England, Kent, Aylesford, Blue Bell Hill"
 }

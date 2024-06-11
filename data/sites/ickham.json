@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Ickham",
-  "location": "England, Kent, Wickhambreaux",
-  "description": "Multi-period site, late prehistoric to post medieval. Evidence for Roman settlement and inhumations, a polygonal structure was present which has been interpreted as a shrine.",
-  "latitude": "51.28738964574053",
-  "longitude": "1.1981379198812585",
-  "tags": "roman"
+   "site": "Ickham",
+   "start": "",
+   "end": "",
+   "latitude": "51.28738964574053",
+   "longitude": "1.1981379198812585",
+   "status": "Possible",
+   "location": "England, Kent, Wickhambreaux",
+   "tags": "roman",
+   "description": "Multi-period site, late prehistoric to post medieval. Evidence for Roman settlement and inhumations, a polygonal structure was present which has been interpreted as a shrine.",
+   "bibliography": [
+      "Bennett, Riddler, and Sparey-Green. “The Roman Watermills and Settlement at Ickham, Kent.” The Archaeology of Canterbury New Series 5 (2010).",
+      "Martyn, Blick, Brindle, and et al. “Ickham (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,8 +1,16 @@
 {
-  "status": "Possible",
-  "site": "East Kent Access",
-  "latitude": "51.34024865358422",
-  "longitude": "1.347961480973313",
-  "location": "England, Kent, Ramsgate, Hengist Way A299",
-  "description": "An early Roman mixed cemetery with an associated enclosure interpreted as a shrine."
+   "site": "East Kent Access",
+   "start": "",
+   "end": "",
+   "latitude": "51.34024865358422",
+   "longitude": "1.347961480973313",
+   "status": "Possible",
+   "location": "England, Kent, Ramsgate, Hengist Way A299",
+   "tags": "",
+   "description": "An early Roman mixed cemetery with an associated enclosure interpreted as a shrine.",
+   "bibliography": [
+      "Andrews, and Smith. East Kent Access (Phase II), Thanet, Kent: Post-Excavation Assessment. Vol. 1, 2011.",
+      "———. East Kent Access (Phase II), Thanet, Kent: Post-Excavation Assessment. Vol. 2, 2011.",
+      "Martyn, Blick, Brindle, and et al. “East Kent Access (Zone 19).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

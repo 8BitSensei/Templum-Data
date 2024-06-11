@@ -1,11 +1,15 @@
 {
-  "start": "150",
-  "site": "Salt Hill Saltings",
-  "latitude": "51.40313357378584",
-  "longitude": "0.6741526880138132",
-  "status": "Unlikely",
-  "location": "England, Kent, Upchurch",
-  "tags": "roman, shrine",
-  "end": "200",
-  "description": "A site where seven olla containing charcoal from burnt brush and the remains of puppies were found left in the marshes. The remains have been interpreted as the results of a ritual, and due to this the Rural Settlement of Roman Britain project loosely catalogued it as a shrine, despite the lack of any structure."
+   "site": "Salt Hill Saltings",
+   "start": "150",
+   "end": "200",
+   "latitude": "51.40313357378584",
+   "longitude": "0.6741526880138132",
+   "status": "Unlikely",
+   "location": "England, Kent, Upchurch",
+   "tags": "roman, shrine",
+   "description": "A site where seven olla containing charcoal from burnt brush and the remains of puppies were found left in the marshes. The remains have been interpreted as the results of a ritual, and due to this the Rural Settlement of Roman Britain project loosely catalogued it as a shrine, despite the lack of any structure.",
+   "bibliography": [
+      "Hume, Noel. “Ritual Burials on the Upchurch Marshes.” Archaeologia Cantiana LXX (1956): 160–67.",
+      "Martyn, Blick, Brindle, and et al. “Salt Hill Saltings, Upchurch (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://archaeologydataservice.ac.uk/archives/view/romangl/fullrecord.cfm?id=9128\u0026display=list."
+   ]
 }

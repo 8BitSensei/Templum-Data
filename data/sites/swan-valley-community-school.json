@@ -1,9 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Swan Valley Community School",
-  "location": "England, Kent, Swanscombe",
-  "description": "A Roman period rectangular enclosure of 1m-wide chalk walls discovered during evaluation by Canterbury Archaeological Trust. Interpreted as a possible shrine or monumental enclosure.",
-  "tags": "roman",
-  "latitude": "51.44144239654498",
-  "longitude": "0.31319596276997996"
+   "site": "Swan Valley Community School",
+   "start": "",
+   "end": "",
+   "latitude": "51.44144239654498",
+   "longitude": "0.31319596276997996",
+   "status": "Possible",
+   "location": "England, Kent, Swanscombe",
+   "tags": "roman",
+   "description": "A Roman period rectangular enclosure of 1m-wide chalk walls discovered during evaluation by Canterbury Archaeological Trust. Interpreted as a possible shrine or monumental enclosure.",
+   "bibliography": [
+      "Mackinder. “Romano-British Site at Swanscombe, Kent,” 2010. https://doi.org/10.5284/1030407.",
+      "Martyn, Blick, Brindle, and et al. “Swan Valley Community School (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Pratt. “Swanscombe Thameside Community School: Archaeological Evaluation,” 1997. https://doi.org/10.5284/1027371."
+   ]
 }

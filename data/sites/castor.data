@@ -1,0 +1,8 @@
+---
+category: data
+filename: castor.json
+weight: 1
+title: Castor
+description: Bibliographic data on Castor
+type: application/json
+---

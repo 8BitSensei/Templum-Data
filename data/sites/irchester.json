@@ -1,0 +1,20 @@
+{
+   "site": "Irchester",
+   "start": "early 2nd CE",
+   "end": "early 3rd CE",
+   "latitude": "52.291657065588254",
+   "longitude": "-0.6554995732948904",
+   "status": "Certain",
+   "location": "England, Northamptonshire",
+   "tags": "roman",
+   "description": "A square temple located in a temenos, inside the Roman town. Lewis (1966) suggests that it was constructed in the early 2nd CE but possibly destroyed in the late 2nd or early 3rd CE as we see smashed statues. It now seems that dating evidence for this site is even more tentative than first thought.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, et al, (2015), Irchester, Chester Farm (Northamptonshire), available at: https://doi.org/10.5284/1030449",
+      "Meadows, (2012), Targeted Archaeological Excavations at Chester Farm Irchester, Northamptonshire, available at: https://doi.org/10.5284/1031129",
+      "Lewis, (1966), Temples in Roman Britain",
+      "(1959), ZE7, Cambridge University Collection of Aerial Photographs",
+      "(1959), YP6, Cambridge University Collection of Aerial Photographs",
+      "(1902), Northants, in Victoria County History, 1, pg. 178 ff",
+      "(1879), Plan in Northampton Museum, Rep. Associated Archit. Socs, 15, pg. 49 ff"
+   ]
+}

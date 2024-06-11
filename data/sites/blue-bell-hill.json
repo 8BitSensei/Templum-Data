@@ -1,10 +1,14 @@
 {
-  "status": "Unknown",
-  "site": "Blue Bell Hill",
-  "start": "",
-  "description": "Apparently a roman temple. Buildings here were first identified around 1833, and Taylor identifies it as a temple based on a coin evidence alone. No excavations have been made, and no site plans are provided.",
-  "latitude": "51.322",
-  "longitude": "0.507687353547558",
-  "tags": "roman",
-  "location": "England, Kent, Aylesford, Blue Bell Hill"
+   "site": "Blue Bell Hill",
+   "start": "",
+   "end": "",
+   "latitude": "51.322",
+   "longitude": "0.507687353547558",
+   "status": "Unknown",
+   "location": "England, Kent, Aylesford, Blue Bell Hill",
+   "tags": "roman",
+   "description": "Apparently a roman temple. Buildings here were first identified around 1833, and Taylor identifies it as a temple based on a coin evidence alone. No excavations have been made, and no site plans are provided.",
+   "bibliography": [
+      "“Romano-British Kent.” In Victoria County History of Kent, 3:104, 1932."
+   ]
 }

@@ -26,8 +26,8 @@ func Migrate() {
 			panic(err)
 		}
 
-		newfileName := strings.Replace(site.Site, " ", "-", -1) + ".json"
-		newFile, err := os.Create("../data/sites/" + strings.ToLower(newfileName))
+		newFileName := strings.Replace(site.Site, " ", "-", -1) + ".json"
+		newFile, err := os.Create("../data/sites/" + strings.ToLower(newFileName))
 		if err != nil {
 			panic(err)
 		}

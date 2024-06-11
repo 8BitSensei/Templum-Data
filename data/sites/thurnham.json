@@ -1,11 +1,16 @@
 {
-  "start": "60",
-  "site": "Thurnham",
-  "latitude": "51.284432189662006",
-  "longitude": "0.5791070468064119",
-  "status": "Possible",
-  "location": "England, Kent, Bearsted",
-  "tags": "iron age, roman",
-  "end": "late 2nd CE",
-  "description": "Late Iron Age settlement followed by an enclosed farm which developed into a villa building. A structure to the south was identified as a possible temple, it was demolished in the late 2nd CE."
+   "site": "Thurnham",
+   "start": "60",
+   "end": "late 2nd CE",
+   "latitude": "51.284432189662006",
+   "longitude": "0.5791070468064119",
+   "status": "Possible",
+   "location": "England, Kent, Bearsted",
+   "tags": "iron age, roman",
+   "description": "Late Iron Age settlement followed by an enclosed farm which developed into a villa building. A structure to the south was identified as a possible temple, it was demolished in the late 2nd CE.",
+   "bibliography": [
+      "Booth, and Lawrence. “The Iron Age Settlement and Roman Villa at Thurnham, Kent,” 2006. https://doi.org/10.5284/1008824.",
+      "Martyn, Blick, Brindle, and et al. “Thurnham (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Pirie. “Thurnham Roman Villa.” Archaeologia Cantiana 74 (1960)."
+   ]
 }

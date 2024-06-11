@@ -1,11 +1,15 @@
 {
-  "start": "200",
-  "site": "Holborough",
-  "latitude": "51.33796827034276",
-  "longitude": "0.43661351456576336",
-  "status": "Possible",
-  "location": "England, Kent, Snodland",
-  "tags": "cemetery, roman, mausoleum",
-  "end": "250",
-  "description": "Site of Roman barrow burials excavated in mid 18th century and 1950s. Post holes suggested that an enclosure was built around the barrow, along with structured-deposits, this has led the structure to be identified as a shrine."
+   "site": "Holborough",
+   "start": "200",
+   "end": "250",
+   "latitude": "51.33796827034276",
+   "longitude": "0.43661351456576336",
+   "status": "Possible",
+   "location": "England, Kent, Snodland",
+   "tags": "cemetery, roman, mausoleum",
+   "description": "Site of Roman barrow burials excavated in mid 18th century and 1950s. Post holes suggested that an enclosure was built around the barrow, along with structured-deposits, this has led the structure to be identified as a shrine.",
+   "bibliography": [
+      "Jessup. “Excavation of a Roman Barrow at Holborough, Snodland.” Archaeologia Cantiana 68 (1954).",
+      "Martyn, Blick, Brindle, and et al. “Holborough, Snodland (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

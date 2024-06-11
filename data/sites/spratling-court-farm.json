@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Spratling Court Farm",
-  "location": "England, Kent, Manston",
-  "description": "A cave and pit in an area used for chalk quarrying in the late Iron age. The cave is dated to the late 2nd CE and has been interpreted as a kind of 'pit-shrine'.",
-  "start": "179",
-  "latitude": "51.34145715354675",
-  "longitude": "1.373617364654905",
-  "tags": "roman, cave, pit, shrine"
+   "site": "Spratling Court Farm",
+   "start": "179",
+   "end": "",
+   "latitude": "51.34145715354675",
+   "longitude": "1.373617364654905",
+   "status": "Possible",
+   "location": "England, Kent, Manston",
+   "tags": "roman, cave, pit, shrine",
+   "description": "A cave and pit in an area used for chalk quarrying in the late Iron age. The cave is dated to the late 2nd CE and has been interpreted as a kind of 'pit-shrine'.",
+   "bibliography": [
+      "Bake. “Investigation of an Iron Age Pit and Roman Cave at Spratling Court Farm, Manston,” 2006. http://www.kentarchaeology.org.uk/10/023.pdf.",
+      "Martyn, Blick, Brindle, and et al. “Spratling Court Farm, Manston (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

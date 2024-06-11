@@ -1,9 +1,15 @@
 {
-  "status": "Probable",
-  "description": "A shrine was discovered as part of a large Romano-British settlement. The shrine provided rare evidence of the presence of stone pine, a kernel being found in a pit inside the shrine.",
-  "site": "Westhawk Farm",
-  "location": "England, Kent, Ashford",
-  "latitude": "51.12355925861869",
-  "longitude": "0.856779958539803",
-  "tags": "roman"
+   "site": "Westhawk Farm",
+   "start": "",
+   "end": "",
+   "latitude": "51.12355925861869",
+   "longitude": "0.856779958539803",
+   "status": "Probable",
+   "location": "England, Kent, Ashford",
+   "tags": "roman",
+   "description": "A shrine was discovered as part of a large Romano-British settlement. The shrine provided rare evidence of the presence of stone pine, a kernel being found in a pit inside the shrine.",
+   "bibliography": [
+      "Booth, Bingham, and Lawrence. “The Roman Roadside Settlement at Westhawk Farm, Ashford, Kent: Excavations 1998-9.” Oxford Archaeology Monograph, 2008.",
+      "Martyn, Blick, Brindle, and et al. “Westhawk Farm, Ashford (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

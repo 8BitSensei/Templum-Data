@@ -1,8 +1,15 @@
 {
-  "status": "Probable",
-  "site": "Dunkirt Barn",
-  "location": "England, Hampshire, Abbotts Ann",
-  "description": "A Roman villa complex, a hexagonal structure in the garden complex has ben identified as a shrine.",
-  "latitude": "51.17550705634525",
-  "longitude": "-1.5526436500234055"
+   "site": "Dunkirt Barn",
+   "start": "",
+   "end": "",
+   "latitude": "51.17550705634525",
+   "longitude": "-1.5526436500234055",
+   "status": "Probable",
+   "location": "England, Hampshire, Abbotts Ann",
+   "tags": "",
+   "description": "A Roman villa complex, a hexagonal structure in the garden complex has ben identified as a shrine.",
+   "bibliography": [
+      "Cunliffe, and Poole. “Dunkirt Barn, Abbotts Ann, Hants, 2005 and 2006.” In The Danebury Environs Roman Programme, A Wessex Landscape during the Roman Era, Vol. 2, 2008.",
+      "Martyn, Blick, Brindle, and et al. “Dunkirt Barn, Abbotts Ann (Hampshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

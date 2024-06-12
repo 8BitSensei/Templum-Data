@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Thruxton",
-  "location": "England, Hampshire, ",
-  "description": "An unusual Iron Age and Roman settlement. Around the later 4th CE a large enclosure was built, associated with a hall. This has been argued to be a sanctuary, or shrine.",
-  "start": "350",
-  "latitude": "51.21419316966342",
-  "longitude": "-1.5744956265203434"
+   "site": "Thruxton",
+   "start": "350",
+   "end": "",
+   "latitude": "51.21419316966342",
+   "longitude": "-1.5744956265203434",
+   "status": "Possible",
+   "location": "England, Hampshire, ",
+   "tags": "",
+   "description": "An unusual Iron Age and Roman settlement. Around the later 4th CE a large enclosure was built, associated with a hall. This has been argued to be a sanctuary, or shrine.",
+   "bibliography": [
+      "Cunliffe, and Poole. “Thruxton, Hants, 2002.” In The Danebury Environs Roman Programme: A Wessex Landscape During the Roman Era, Vol. 2, 2008.",
+      "Martyn, Blick, Brindle, and et al. “Thruxton (Hampshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

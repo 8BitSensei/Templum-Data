@@ -1,10 +1,16 @@
 {
-  "status": "Probable",
-  "site": "Slonk Hill",
-  "location": "England, West Sussex, Shoreham",
-  "description": "A Romano-British settlement dating from the 1st to 4th CE, on the site of a prior Iron Age settlement. A square structure was built around a Bronze Age barrow which has been interpreted as a shrine.",
-  "start": "0",
-  "end": "300",
-  "latitude": "50.84614224024068",
-  "longitude": "-0.26218843709423756"
+   "site": "Slonk Hill",
+   "start": "0",
+   "end": "300",
+   "latitude": "50.84614224024068",
+   "longitude": "-0.26218843709423756",
+   "status": "Probable",
+   "location": "England, West Sussex, Shoreham",
+   "tags": "",
+   "description": "A Romano-British settlement dating from the 1st to 4th CE, on the site of a prior Iron Age settlement. A square structure was built around a Bronze Age barrow which has been interpreted as a shrine.",
+   "bibliography": [
+      "Hartridge, 1978.",
+      "Martyn, Blick, Brindle, and et al. “Slonk Hill, Shoreham (West Sussex).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rudling, David. “Roman-Period Temples, Shrines and Religion in Sussex.” In Ritual Landscapes of Roman South-East Britain, edited by David Rudling, 2008."
+   ]
 }

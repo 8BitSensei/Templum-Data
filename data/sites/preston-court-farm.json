@@ -1,10 +1,18 @@
 {
-  "status": "Probable",
-  "site": "Preston Court Farm",
-  "location": "England, East sussex, Beddingham",
-  "start": "0",
-  "end": "early 5th CE",
-  "description": "Apparently a 1st CE roundhouse interpreted as a shrine and associated with a villa, later replaced by a 3rd CE masonry shrine. Apparently 5th CE usage of the shrine is apparent based on pottery",
-  "latitude": "50.84737406932466",
-  "longitude": "0.0703588550528509"
+   "site": "Preston Court Farm",
+   "start": "0",
+   "end": "early 5th CE",
+   "latitude": "50.84737406932466",
+   "longitude": "0.0703588550528509",
+   "status": "Probable",
+   "location": "England, East sussex, Beddingham",
+   "tags": "",
+   "description": "Apparently a 1st CE roundhouse interpreted as a shrine and associated with a villa, later replaced by a 3rd CE masonry shrine. Apparently 5th CE usage of the shrine is apparent based on pottery",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Preston Court Farm, Beddingham (East Sussex).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rudling, David R. “The Development of Roman Villas in Sussex.” Sussex Archaeological Collections 136 (1998): 4165. https://doi.org/10.5284/1085037.",
+      "“SeriesInformation,” n.d.",
+      "“SeriesInformation,” n.d.",
+      "Waldron, Tony, G M Taylor, and David R Rudling. “Sexing of Romano-British Baby Burials from the Beddingham and Bignor Villas .” Sussex Archaeological Collections 137 (2002): 7179. https://doi.org/10.5284/1085893."
+   ]
 }

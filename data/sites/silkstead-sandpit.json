@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Silkstead Sandpit",
-  "location": "England, Hampshire, Otterbourne",
-  "description": "A site destroyed by quarrying in the 18th and 19th CE, interpreted as a religious enclosure, possibly a temple based on the votive material was saved from the site.",
-  "latitude": "51.01101688579759",
-  "longitude": "-1.3531291356582584"
+   "site": "Silkstead Sandpit",
+   "start": "",
+   "end": "",
+   "latitude": "51.01101688579759",
+   "longitude": "-1.3531291356582584",
+   "status": "Possible",
+   "location": "England, Hampshire, Otterbourne",
+   "tags": "",
+   "description": "A site destroyed by quarrying in the 18th and 19th CE, interpreted as a religious enclosure, possibly a temple based on the votive material was saved from the site.",
+   "bibliography": [
+      "Denford. “Some Exotic Discoveries at Silkstead Sandpit, Otterbourne, and the Possible Site of an Ancient Temple.” Proceedings of the Hampshire Field Club and Archaeological Society 48 (1993).",
+      "Martyn, Blick, Brindle, and et al. “Silkstead Sandpit, Otterbourne (Hampshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

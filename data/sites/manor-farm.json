@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Manor Farm",
-  "location": "England, Dorset, Portesham",
-  "description": "Roman period burial site, including a circular building, dating from the early Roman period, which has been interpreted as a possible shrine.",
-  "start": "50",
-  "latitude": "50.67186676861493",
-  "longitude": "-2.5637867683338125"
+   "site": "Manor Farm",
+   "start": "50",
+   "end": "",
+   "latitude": "50.67186676861493",
+   "longitude": "-2.5637867683338125",
+   "status": "Possible",
+   "location": "England, Dorset, Portesham",
+   "tags": "",
+   "description": "Roman period burial site, including a circular building, dating from the early Roman period, which has been interpreted as a possible shrine.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Manor Farm, Portesham (Dorset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Valentin. “Manor Farm, Portesham, Dorset: Excavations on a Multi-Period Religious and Settlement Site.” Proceedings of the Dorset Natural History and Archaeological Society 125 (2003)."
+   ]
 }

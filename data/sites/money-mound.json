@@ -1,9 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Money Mound",
-  "location": "England, West Sussex, Hammerpond Road",
-  "description": "A beaker-period barrow that was found to contain large amounts of deposited Iron Age and Roman material, interpreted as having been used as a shrine until at least the 4th CE.",
-  "end": "300",
-  "latitude": "51.04506938004597",
-  "longitude": "-0.23580200277778043"
+   "site": "Money Mound",
+   "start": "",
+   "end": "300",
+   "latitude": "51.04506938004597",
+   "longitude": "-0.23580200277778043",
+   "status": "Possible",
+   "location": "England, West Sussex, Hammerpond Road",
+   "tags": "",
+   "description": "A beaker-period barrow that was found to contain large amounts of deposited Iron Age and Roman material, interpreted as having been used as a shrine until at least the 4th CE.",
+   "bibliography": [
+      "Beckensall, S G. “The Excavation of Money Mound.” Sussex Archaeological Collections 105 (2021): 1330. https://doi.org/10.5284/1085513.",
+      "Martyn, Blick, Brindle, and et al. “Money Mound, Hammerpond Road (West Sussex).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "“SeriesInformation,” n.d."
+   ]
 }

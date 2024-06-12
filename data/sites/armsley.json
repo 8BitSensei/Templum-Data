@@ -1,8 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Armsley",
-  "location": "England, Hampshire, Godshill",
-  "description": "A pre- and Romano-British settlement. The site had a spring nearby with two wells that show evidence of votive deposits and associated structures, interpreted as a shrine.",
-  "latitude": "50.94541821792851",
-  "longitude": "-1.7619495409004482"
+   "site": "Armsley",
+   "start": "",
+   "end": "",
+   "latitude": "50.94541821792851",
+   "longitude": "-1.7619495409004482",
+   "status": "Possible",
+   "location": "England, Hampshire, Godshill",
+   "tags": "",
+   "description": "A pre- and Romano-British settlement. The site had a spring nearby with two wells that show evidence of votive deposits and associated structures, interpreted as a shrine.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Dunkirt Barn, Abbotts Ann (Hampshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Musty, J. “The Roman Pond and Dipping Well at Armsley, Godshill, Hampshire.” Proceedings of the Hampshire Field Club \u0026 Archaeological Society 30 (1973): 35–38.",
+      "Shortt, H de S. “A New Durotrigic Hoard from Godshill, Hampshire.” British Numismatic Journal 30 (1960): 1–5."
+   ]
 }

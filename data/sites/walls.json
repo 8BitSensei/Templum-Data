@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Walls",
-  "location": "England, Dorset, Puncknowle",
-  "description": "The site of a very substantial Romano-British building. The excavators favoured a religious function for the site in lack of any domestic material, but there seems to be little to assert this.",
-  "latitude": "50.68340476083815",
-  "longitude": "-2.6534820974510334"
+   "site": "Walls",
+   "start": "",
+   "end": "",
+   "latitude": "50.68340476083815",
+   "longitude": "-2.6534820974510334",
+   "status": "Possible",
+   "location": "England, Dorset, Puncknowle",
+   "tags": "",
+   "description": "The site of a very substantial Romano-British building. The excavators favoured a religious function for the site in lack of any domestic material, but there seems to be little to assert this.",
+   "bibliography": [
+      "Bailey, C. J. “The Romano-British Site at Walls, Puncknowle, Dorset.” Proceedings of the Dorset Natural History and Archaeological Society 107 (1985): 55–86.",
+      "Martyn, Blick, Brindle, and et al. “Walls, Puncknowle (Dorset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

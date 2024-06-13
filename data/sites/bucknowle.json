@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Bucknowle",
-  "location": "England, Dorset, Purbeck",
-  "description": "A Late Iron Age settlement, later a Roman farmstead, and Villa. A roundhouse in the Late Iron Age was interpreted as a shrine by the excavators due to the lack of domestic material.",
-  "latitude": "50.632623011911505",
-  "longitude": "-2.0656193746893172"
+   "site": "Bucknowle",
+   "start": "",
+   "end": "",
+   "latitude": "50.632623011911505",
+   "longitude": "-2.0656193746893172",
+   "status": "Possible",
+   "location": "England, Dorset, Purbeck",
+   "tags": "",
+   "description": "A Late Iron Age settlement, later a Roman farmstead, and Villa. A roundhouse in the Late Iron Age was interpreted as a shrine by the excavators due to the lack of domestic material.",
+   "bibliography": [
+      "Light, and Ellis. “Bucknowle: A Romano-British Villa and Its Antecedents, Excavations 1976-1991.” Dorset Natural History and Archaeological Society Monograph 18 (2009).",
+      "Martyn, Blick, Brindle, and et al. “Bucknowle (Dorset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

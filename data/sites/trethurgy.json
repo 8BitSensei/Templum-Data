@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Trethurgy",
-  "location": "England, Cornwall",
-  "start": "100",
-  "end": "500",
-  "description": "A 2nd CE to 6th CE enclosed settlement or 'round'. It included a polygonal structure set up-hill from the rest of the settlement, showing no domestic activity, but having a gap in the floor interpreted as a space for deposits.",
-  "latitude": "50.36803193302073",
-  "longitude": "-4.764602901641214"
+   "site": "Trethurgy",
+   "start": "100",
+   "end": "500",
+   "latitude": "50.36803193302073",
+   "longitude": "-4.764602901641214",
+   "status": "Possible",
+   "location": "England, Cornwall",
+   "tags": "",
+   "description": "A 2nd CE to 6th CE enclosed settlement or 'round'. It included a polygonal structure set up-hill from the rest of the settlement, showing no domestic activity, but having a gap in the floor interpreted as a space for deposits.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Trethurgy (Cornwall).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Quinnell. “Excavations at Trethurgy Round, St Austell: Community and Status in Roman and Post-Roman Cornwall.” Oxford Archaeology Monograph, 2004."
+   ]
 }

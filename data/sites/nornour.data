@@ -1,0 +1,8 @@
+---
+category: data
+filename: nornour.json
+weight: 1
+title: Nornour
+description: Bibliographic data on Nornour
+type: application/json
+---

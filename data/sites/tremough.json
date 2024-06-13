@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Tremough",
-  "location": "England, Cornwall, Penryn",
-  "description": "A concentric ditched enclosure surrounding a vertical sided pit. The site appears to have been active around the 1st CE and has been interpreted as a shrine or ceremonial enclosure.",
-  "end": "1st CE",
-  "latitude": "50.16820660105609",
-  "longitude": "-5.126401520173774"
+   "site": "Tremough",
+   "start": "",
+   "end": "1st CE",
+   "latitude": "50.16820660105609",
+   "longitude": "-5.126401520173774",
+   "status": "Possible",
+   "location": "England, Cornwall, Penryn",
+   "tags": "",
+   "description": "A concentric ditched enclosure surrounding a vertical sided pit. The site appears to have been active around the 1st CE and has been interpreted as a shrine or ceremonial enclosure.",
+   "bibliography": [
+      "Cornwall Council Historic Environment Service. “An Archaeological Evaluation Report on Phase 3 Enabling Development Works, Tremough, Penryn, Cornwall.” Archaeology Data Service, 2008. http://archaeologydataservice.ac.uk/archives/view/greylit/details.cfm?id=25901.",
+      "Martyn, Blick, Brindle, and et al. “Tremough, Penryn (Site 3) (Cornwall).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

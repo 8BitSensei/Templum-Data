@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Hill Farm",
-  "location": "England, Essex, Gestingthorpe",
-  "description": "Roman Villa estate, finds suggest that there was likely a religious character to the site, and so a shrine is interpreted to have been on the site.",
-  "latitude": "52.016736174017595",
-  "longitude": "0.6622938110777565"
+   "site": "Hill Farm",
+   "start": "",
+   "end": "",
+   "latitude": "52.016736174017595",
+   "longitude": "0.6622938110777565",
+   "status": "Possible",
+   "location": "England, Essex, Gestingthorpe",
+   "tags": "",
+   "description": "Roman Villa estate, finds suggest that there was likely a religious character to the site, and so a shrine is interpreted to have been on the site.",
+   "bibliography": [
+      "Draper, J. “Excavations at Hill Farm, Gestingthorpe, Essex.” East Anglian Archaeology 25 (1985).",
+      "Martyn, Blick, Brindle, and et al. “Hill Farm, Gestingthorpe (Essex).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

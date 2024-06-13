@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Stansted 85-91",
-  "start": "75",
-  "end": "75",
-  "location": "England, Essex, Stansted Airport",
-  "description": "Enclosed Late Iron Age settlement with roundhouses around a possible rectangular shrine.",
-  "latitude": "51.88705773215284",
-  "longitude": "0.2565643883928249"
+   "site": "Stansted 85-91",
+   "start": "75",
+   "end": "75",
+   "latitude": "51.88705773215284",
+   "longitude": "0.2565643883928249",
+   "status": "Possible",
+   "location": "England, Essex, Stansted Airport",
+   "tags": "",
+   "description": "Enclosed Late Iron Age settlement with roundhouses around a possible rectangular shrine.",
+   "bibliography": [
+      "Havis, R, and H Brooks. “Excavations at Stansted Airport 1986-91.” East Anglian Archaeology 107 (2004).",
+      "Martyn, Blick, Brindle, and et al. “Stansted 85-91 (ACS).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

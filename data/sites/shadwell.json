@@ -1,10 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Shadwell",
-  "location": "England, Greater London, The Highway",
-  "end": "350",
-  "start": "75",
-  "description": "A Romano-British cemetery including a masonry tower, this has been interpreted as a mausoleum, or a shrine.",
-  "latitude": "51.5093448100794",
-  "longitude": "-0.058006397411438745"
+   "site": "Shadwell",
+   "start": "75",
+   "end": "350",
+   "latitude": "51.5093448100794",
+   "longitude": "-0.058006397411438745",
+   "status": "Possible",
+   "location": "England, Greater London, The Highway",
+   "tags": "",
+   "description": "A Romano-British cemetery including a masonry tower, this has been interpreted as a mausoleum, or a shrine.",
+   "bibliography": [
+      "Johnson. “A Roman Signal Tower at Shadwell, E1.” Transactions of the London and Middlesex Archaeological Society 26 (1975).",
+      "Lakin. “The Roman Tower at Shadwell, London: A Reappraisal.” Museum of London Archaeology Service Archaeology Studies Series 8 (2002).",
+      "Martyn, Blick, Brindle, and et al. “Shadwell, The Highway (Greater London).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Kelvedon",
-  "location": "England, Essex",
-  "description": "A Late Iron Age and Roman settlement that declined in the 4th CE. A circular building was discovered which has been associated with a shrine.",
-  "latitude": "51.83858494592254",
-  "longitude": "0.7041945821145947"
+   "site": "Kelvedon",
+   "start": "",
+   "end": "",
+   "latitude": "51.83858494592254",
+   "longitude": "0.7041945821145947",
+   "status": "Possible",
+   "location": "England, Essex",
+   "tags": "",
+   "description": "A Late Iron Age and Roman settlement that declined in the 4th CE. A circular building was discovered which has been associated with a shrine.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Kelvedon (Essex).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rodwell, K. A. “The Prehistoric and Roman Settlement at Kelvedon.” Essex CBA Research Report 63 (1988)."
+   ]
 }

@@ -1,8 +1,15 @@
 {
-  "status": "Probable",
-  "site": "Caherlehillan",
-  "latitude": "51.98602163386983",
-  "longitude": "-10.078852728662559",
-  "description": "A possible 5th/6th CE wooden church. Tentatively the earliest archaeologically dated church in Ireland.",
-  "location": "Ireland, Kerry"
+   "site": "Caherlehillan",
+   "start": "",
+   "end": "",
+   "latitude": "51.98602163386983",
+   "longitude": "-10.078852728662559",
+   "status": "Probable",
+   "location": "Ireland, Kerry",
+   "tags": "",
+   "description": "A possible 5th/6th CE wooden church. Tentatively the earliest archaeologically dated church in Ireland.",
+   "bibliography": [
+      "O’Sullivan, Aidan. Early Medieval Dwellings and Settlements in Ireland, AD 400-1100. BAR International Series 2604. Oxford, England: Archaeopress, 2014.",
+      "“Sheehan, John, ‘A Peacock’s Tale’, in The Archaeology of the Early Medieval Celtic Churches (2009) • CODECS: Online Database and e-Resources for Celtic Studies.” Accessed June 14, 2024. https://codecs.vanhamel.nl/Sheehan_(John)_2009_bprpfvj."
+   ]
 }

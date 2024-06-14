@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "latitude": "53.15496362924341",
-  "longitude": "-8.85461213934504",
-  "site": "Owenbristy",
-  "location": "Ireland, Galway",
-  "description": "A 6th/7th CE rectangular structure identified inside a settlement-cemetery, tentaively interpreted as an early wooden church."
+   "site": "Owenbristy",
+   "start": "",
+   "end": "",
+   "latitude": "53.15496362924341",
+   "longitude": "-8.85461213934504",
+   "status": "Possible",
+   "location": "Ireland, Galway",
+   "tags": "",
+   "description": "A 6th/7th CE rectangular structure identified inside a settlement-cemetery, tentaively interpreted as an early wooden church.",
+   "bibliography": [
+      "Lehane, J, and F Delaney. “A Cashel and a Burial Ground at Owenbristy, Co. Galway (E3770) : Eachtra Archaeological Projects.” Eachtra 8 (2010). http://eachtra.ie/index.php/journal/e3770-owenbristy-co-galway/.",
+      "O’Sullivan, Aidan. Early Medieval Dwellings and Settlements in Ireland, AD 400-1100. BAR International Series 2604. Oxford, England: Archaeopress, 2014."
+   ]
 }

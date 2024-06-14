@@ -1,10 +1,15 @@
 {
-  "status": "Probable",
-  "site": "Elms Farm",
-  "location": "England, Essex, Heybridge",
-  "start": "mid 1st CE",
-  "end": "4th CE",
-  "description": "Romano-British settlement beginning in the conquest period with what is described as a 'substantial central shrine area'. Apparently abandoned some time in the 4th CE, though the settlement continued.",
-  "latitude": "51.74199792008014",
-  "longitude": "0.6768943244304152"
+   "site": "Elms Farm",
+   "start": "mid 1st CE",
+   "end": "4th CE",
+   "latitude": "51.74199792008014",
+   "longitude": "0.6768943244304152",
+   "status": "Probable",
+   "location": "England, Essex, Heybridge",
+   "tags": "",
+   "description": "Romano-British settlement beginning in the conquest period with what is described as a 'substantial central shrine area'. Apparently abandoned some time in the 4th CE, though the settlement continued.",
+   "bibliography": [
+      "Atkinson, M, and S Preston. “Hidden Heybridge. The Elms Farm Excavation: The Story of One of the Most Important Archaeological Investigations of Recent Times.” Essex County Council Essex County, 2000.",
+      "———. “The Late Iron Age and Roman Settlement at Elms Farm, Heybridge, Essex, Excavations 1993–5: An Interim Report.” Britannia 29 (1995)."
+   ]
 }

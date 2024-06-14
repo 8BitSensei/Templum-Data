@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Marks Warren Quarry",
-  "location": "England, Greater London, Barking and Dagenham",
-  "description": "An early Romano-British enclosure including two flint-based buildings, the enclosure has been interpreted as a temenos.",
-  "start": "50",
-  "latitude": "51.585841771110516",
-  "longitude": "0.1467138246859306"
+   "site": "Marks Warren Quarry",
+   "start": "50",
+   "end": "",
+   "latitude": "51.585841771110516",
+   "longitude": "0.1467138246859306",
+   "status": "Possible",
+   "location": "England, Greater London, Barking and Dagenham",
+   "tags": "",
+   "description": "An early Romano-British enclosure including two flint-based buildings, the enclosure has been interpreted as a temenos.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Marks Warren Quarry, Barking and Dagenham (Greater London).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Pozorski. “Marks Warren Quarry, Whalebone Lane North, Romford, Essex Area 9.” Archaeological Monitoring and Recording Interim Report Report No. 3199 (2008). https://doi.org/10.5284/1027247."
+   ]
 }

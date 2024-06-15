@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "start": "-199",
-  "end": "50",
-  "site": "Aldwick",
-  "location": "England, Hertfordshire, Barley",
-  "description": "A 2nd CE to mid 1st CE settlement. Excavations revealed a roundhouse in a horseshoe enclosure, in front of the building were around 100 pits with various deposits. A second excavation nearby produced similar pits with more articulated animal remains, tentatively suggested to be a shrine.",
-  "latitude": "52.029996183250006",
-  "longitude": "0.036306011203236635"
+   "site": "Aldwick",
+   "start": "-199",
+   "end": "50",
+   "latitude": "52.029996183250006",
+   "longitude": "0.036306011203236635",
+   "status": "Possible",
+   "location": "England, Hertfordshire, Barley",
+   "tags": "",
+   "description": "A 2nd CE to mid 1st CE settlement. Excavations revealed a roundhouse in a horseshoe enclosure, in front of the building were around 100 pits with various deposits. A second excavation nearby produced similar pits with more articulated animal remains, tentatively suggested to be a shrine.",
+   "bibliography": [
+      "Craster, M. D. “The Aldwick Iron Age Settlement, Barley, Hertfordshire.” The Proceedings of Cambridge Antiquarian Society 54 (1961): 22–46.",
+      "The Rural Settlement of Roman Britain: an online resource. “Aldwick, Barley (Hertfordshire),” n.d. https://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=3082."
+   ]
 }

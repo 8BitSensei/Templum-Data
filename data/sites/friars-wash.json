@@ -1,11 +1,16 @@
 {
-  "start": "100",
-  "site": "Friars Wash",
-  "latitude": "51.818931024795965",
-  "longitude": "-0.4039546890610938",
-  "status": "Certain",
-  "location": "England, Hertfordshire, Redbourn",
-  "tags": "Roman, Romano-Celtic",
-  "end": "399",
-  "description": "A Romano-British religious complex was revealed just 400m east of Watling Street during excavations. The complex included at least two Romano-Celtic temples and further structures."
+   "site": "Friars Wash",
+   "start": "100",
+   "end": "399",
+   "latitude": "51.818931024795965",
+   "longitude": "-0.4039546890610938",
+   "status": "Certain",
+   "location": "England, Hertfordshire, Redbourn",
+   "tags": "Roman, Romano-Celtic",
+   "description": "A Romano-British religious complex was revealed just 400m east of Watling Street during excavations. The complex included at least two Romano-Celtic temples and further structures.",
+   "bibliography": [
+      "“Friars Wash, Redbourn, Hertfordshire. Archaeological Evaluation and Assessment of Results.,” 2009. https://doi.org/10.5284/1021923.",
+      "Martyn, Blick, Brindle, and et al. “Friars Wash, Redbourn (Hertfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "“S16EP01.” Time Team, n.d."
+   ]
 }

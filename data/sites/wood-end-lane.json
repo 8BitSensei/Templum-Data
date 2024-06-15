@@ -1,11 +1,16 @@
 {
-  "start": "100",
-  "site": "Wood End Lane",
-  "latitude": "51.75939163994083",
-  "longitude": "-0.43327047025838084",
-  "status": "Certain",
-  "location": "England, Hertfordshire",
-  "tags": "Roman, Romano-Celtic",
-  "end": "299",
-  "description": "A 'massive' Romano-Celtic temple-mausoleum containing a sunken chamber, a smaller temple-mausoleums and bathhouse were in the temenos. Immediately to the west is another enclosure interpreted as a store house and schola for the religious cult."
+   "site": "Wood End Lane",
+   "start": "100",
+   "end": "299",
+   "latitude": "51.75939163994083",
+   "longitude": "-0.43327047025838084",
+   "status": "Certain",
+   "location": "England, Hertfordshire",
+   "tags": "Roman, Romano-Celtic",
+   "description": "A 'massive' Romano-Celtic temple-mausoleum containing a sunken chamber, a smaller temple-mausoleums and bathhouse were in the temenos. Immediately to the west is another enclosure interpreted as a store house and schola for the religious cult.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Wood End Lane/Buncefield Lane (Hertfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "McDonald. “Excavations at Buncefield Lane, Hemel Hempstead.” Hertfordshire Archaeology and History 13 (2003).",
+      "Neal. “A Sanctuary at Wood Lane End, Hemel Hempstead.” Society for Promotion of Roman Studies 15 (1984)."
+   ]
 }

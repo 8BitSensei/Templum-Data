@@ -1,10 +1,14 @@
 {
-  "status": "Possible",
-  "site": "Kilmainham 1C",
-  "location": "Ireland, Meath",
-  "description": "A rectangular enclosure discovered during excavation ahead of the M3 towards Kells. It was interpreted as a kind of 'sanctuary' and compared to shrines from Britain, and Gaul, as well as the the structure from Collierstown 1. There is no evidence of internal structures, and little in the way of ritual remains, except maybe some charcoal and burnt animal bones in the surrounding ditch. Two inhumation burials were associated with it, just to the west, one of these provided a 5th - 6th CE date. Animal bone in the primary ditch fill was dated to  mid 2nd to mid 4th CE, and charcoal from the upper fill mid 5th to early 7th CE.",
-  "start": "mid 2nd CE",
-  "end": "early 7th CE",
-  "latitude": "53.710652194339374",
-  "longitude": "-6.854528315206932"
+   "site": "Kilmainham 1C",
+   "start": "mid 2nd CE",
+   "end": "early 7th CE",
+   "latitude": "53.710652194339374",
+   "longitude": "-6.854528315206932",
+   "status": "Possible",
+   "location": "Ireland, Meath",
+   "tags": "",
+   "description": "A rectangular enclosure discovered during excavation ahead of the M3 towards Kells. It was interpreted as a kind of 'sanctuary' and compared to shrines from Britain, and Gaul, as well as the the structure from Collierstown 1. There is no evidence of internal structures, and little in the way of ritual remains, except maybe some charcoal and burnt animal bones in the surrounding ditch. Two inhumation burials were associated with it, just to the west, one of these provided a 5th - 6th CE date. Animal bone in the primary ditch fill was dated to  mid 2nd to mid 4th CE, and charcoal from the upper fill mid 5th to early 7th CE.",
+   "bibliography": [
+      "Walsh, Fintan. “The Road to Kells: Prehistoric Archaeology of the M3 Navan to Kells and N52 Kells Bypass Road Project,” 160. TII Heritage 12. Dublin: Transport Infrastructure Ireland, 2021."
+   ]
 }

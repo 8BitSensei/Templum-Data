@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Collierstown 1",
-  "location": "Ireland, Meath",
-  "latitude": "53.57054086894207",
-  "longitude": "-6.5709248233250035",
-  "start": "early 5th CE",
-  "end": "Late 6th CE",
-  "description": "A square structure associated with a late Iron Age - early Medieval ditched enclosure cemetery. The structure has been interpreted as a possible funerary 'shrine' or 'cella memoriae'. Few remains were found associated with the structure except some A-ware and a copper twisted necklace."
+   "site": "Collierstown 1",
+   "start": "early 5th CE",
+   "end": "Late 6th CE",
+   "latitude": "53.57054086894207",
+   "longitude": "-6.5709248233250035",
+   "status": "Possible",
+   "location": "Ireland, Meath",
+   "tags": "",
+   "description": "A square structure associated with a late Iron Age - early Medieval ditched enclosure cemetery. The structure has been interpreted as a possible funerary 'shrine' or 'cella memoriae'. Few remains were found associated with the structure except some A-ware and a copper twisted necklace.",
+   "bibliography": [
+      "National Roads Authority, Transport Infrastructure Ireland, and Robert O’Hara. “Archaeological Excavation Report, E3068 Collierstown 1, County Meath.,” 2021. https://doi.org/10.7486/DRI.3X81M239N.",
+      "Walsh, Fintan. “The Road to Kells: Prehistoric Archaeology of the M3 Navan to Kells and N52 Kells Bypass Road Project,” 160. TII Heritage 12. Dublin: Transport Infrastructure Ireland, 2021."
+   ]
 }

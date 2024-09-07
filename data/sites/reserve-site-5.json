@@ -1,11 +1,15 @@
 {
-  "start": "1",
-  "site": "Reserve Site 5",
-  "latitude": "52.05207295403986",
-  "longitude": "-0.7447944961230428",
-  "status": "Possible",
-  "location": "England, Buckinghamshire Downs Barn, Milton Keynes",
-  "tags": "late iron age, shrine",
-  "end": "50",
-  "description": "A Late Iron Age enclosed domestic site. Among domestic features was found a rectangular stone surface made of limestone slabs surrounded by areas of burning and a deposit of burn pig remains. Very tentatively interpreted as ritual by the excavators, and the Rural Settlement of Roman Britain project went further in categorising it as a 'shrine'. "
+   "site": "Reserve Site 5",
+   "start": "1",
+   "end": "50",
+   "latitude": "52.05207295403986",
+   "longitude": "-0.7447944961230428",
+   "status": "Possible",
+   "location": "England, Buckinghamshire Downs Barn, Milton Keynes",
+   "tags": "late iron age, shrine",
+   "description": "A Late Iron Age enclosed domestic site. Among domestic features was found a rectangular stone surface made of limestone slabs surrounded by areas of burning and a deposit of burn pig remains. Very tentatively interpreted as ritual by the excavators, and the Rural Settlement of Roman Britain project went further in categorising it as a 'shrine'. ",
+   "bibliography": [
+      "Last. “Late Iron Age Features at Reserve Site 5, Downs Barn, Milton Keynes.” Records of Buckinghamshire 41 (2001).",
+      "Martyn, Blick, Brindle, and et al. “Reserve Site 5, Downs Barn, Milton Keynes (Buckinghamshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

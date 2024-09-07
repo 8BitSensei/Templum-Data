@@ -1,11 +1,15 @@
 {
-  "start": "200",
-  "site": "Broughton Manor Farm",
-  "latitude": "52.04638753554257",
-  "longitude": "-0.6881781972639734",
-  "status": "Possible",
-  "location": "England, Buckinghamshire, Milton Keynes",
-  "tags": "pentagonal, roman, mortuary",
-  "end": "410",
-  "description": "An extensive unenclosed settlement dating from the Middle Iron Age to the Late Roman period. During the early to mid 2nd CE the cemetery area of the site was enhanced, including what has been called a 'ritual pit' and a pentagonal enclosure containing a post-hole structure and a small enclosure surrounding a mid 2nd CE grave. After this time the site experienced a decline in population until its abandonment at the end of the Roman period. Use of the cemetery continued into this later period, with a grave lying close to a 'waterhole' which is suggested to have had a 'ritual' function."
+   "site": "Broughton Manor Farm",
+   "start": "200",
+   "end": "410",
+   "latitude": "52.04638753554257",
+   "longitude": "-0.6881781972639734",
+   "status": "Possible",
+   "location": "England, Buckinghamshire, Milton Keynes",
+   "tags": "pentagonal, roman, mortuary",
+   "description": "An extensive unenclosed settlement dating from the Middle Iron Age to the Late Roman period. During the early to mid 2nd CE the cemetery area of the site was enhanced, including what has been called a 'ritual pit' and a pentagonal enclosure containing a post-hole structure and a small enclosure surrounding a mid 2nd CE grave. After this time the site experienced a decline in population until its abandonment at the end of the Roman period. Use of the cemetery continued into this later period, with a grave lying close to a 'waterhole' which is suggested to have had a 'ritual' function.",
+   "bibliography": [
+      "“Broughton, Milton Keynes, Buckinghamshire: The Evolution of a South Midlands Landscape: 22 (Oxford Archaeology Monograph) - Atkins, Rob; Popescu, Elizabeth; Rees, Gareth; Stansbie, Dan: 9781907588068 - AbeBooks.” Accessed September 7, 2024. https://www.abebooks.co.uk/9781907588068/Broughton-Milton-Keynes-Buckinghamshire-Evolution-190758806X/plp.",
+      "Martyn, Blick, Brindle, and et al. “Broughton Manor Farm (Buckinghamshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

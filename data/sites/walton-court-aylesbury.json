@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Walton Court Aylesbury",
-  "location": "England, Buckinghamshire",
-  "description": "A substantial but low status settlement which developed in the Late Iron Age and continued until around 400 CE. Due to the type and quantity of the finds, the excavator suggested the presence of a shrine on the site, though none were identified.",
-  "start": "1",
-  "end": "400",
-  "latitude": "51.801081808413066",
-  "longitude": "-0.8243414720579495"
+   "site": "Walton Court Aylesbury",
+   "start": "1",
+   "end": "400",
+   "latitude": "51.801081808413066",
+   "longitude": "-0.8243414720579495",
+   "status": "Unknown",
+   "location": "England, Buckinghamshire",
+   "tags": "",
+   "description": "A substantial but low status settlement which developed in the Late Iron Age and continued until around 400 CE. Due to the type and quantity of the finds, the excavator suggested the presence of a shrine on the site, though none were identified.",
+   "bibliography": [
+      "Farley, Nash, and White. “A Late Iron Age and Roman Site at Walton Court, Aylesbury.” Records of Buckinghamshire 23 (1981).",
+      "Martyn, Blick, Brindle, and et al. “Whiteleaf Hill, Princes Risborough (Buckinghamshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

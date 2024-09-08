@@ -1,11 +1,16 @@
 {
-  "start": "50",
-  "site": "Asthall",
-  "latitude": "51.7991766404679",
-  "longitude": "-1.5805033302511686",
-  "status": "Possible",
-  "location": "England, Oxfordshire",
-  "tags": "roman, circular, shrine",
-  "end": "399",
-  "description": "A Roman roadside settlement at a river crossing, originating in the mid 1st CE and reaching its peak by the mid 2nd CE. It appeared to contract during the late 4th CE. A circular structure near the roadside inside the settlement was identified by aerial photography, but not archaeologically investigated. This circular structure was identified as a possible 'shrine'."
+   "site": "Asthall",
+   "start": "50",
+   "end": "399",
+   "latitude": "51.7991766404679",
+   "longitude": "-1.5805033302511686",
+   "status": "Possible",
+   "location": "England, Oxfordshire",
+   "tags": "roman, circular, shrine",
+   "description": "A Roman roadside settlement at a river crossing, originating in the mid 1st CE and reaching its peak by the mid 2nd CE. It appeared to contract during the late 4th CE. A circular structure near the roadside inside the settlement was identified by aerial photography, but not archaeologically investigated. This circular structure was identified as a possible 'shrine'.",
+   "bibliography": [
+      "Booth, P. M. “Asthall, Oxfordshire: Excavations in a Roman Small Town.” Thames Valley Landscape Monograph 9 (1997).",
+      "Cook. “A Roman Site at Asthall (1955).” Oxoniensia 20 (1955): 29–39.",
+      "Martyn, Blick, Brindle, and et al. “Asthall (Oxfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

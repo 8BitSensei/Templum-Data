@@ -1,11 +1,15 @@
 {
-  "start": "100",
-  "site": "Coxwell Road",
-  "latitude": "51.649888127945275",
-  "longitude": "-1.5950281448868633",
-  "status": "Unlikely",
-  "location": "England, Oxfordshire, Faringdon",
-  "tags": "roman, shrine, circular",
-  "end": "299",
-  "description": "Fringe of an early Roman settlement that appears to have expanded to renew an area of early and middle Iron Age settlement. The settlement included a 2nd - 3rd CE masonry circular building foundation, which was interpreted as a shrine with little evidence to support that."
+   "site": "Coxwell Road",
+   "start": "100",
+   "end": "299",
+   "latitude": "51.649888127945275",
+   "longitude": "-1.5950281448868633",
+   "status": "Unlikely",
+   "location": "England, Oxfordshire, Faringdon",
+   "tags": "roman, shrine, circular",
+   "description": "Fringe of an early Roman settlement that appears to have expanded to renew an area of early and middle Iron Age settlement. The settlement included a 2nd - 3rd CE masonry circular building foundation, which was interpreted as a shrine with little evidence to support that.",
+   "bibliography": [
+      "Leech. “Land off Coxwell Road, Faringdon,” 2010. https://doi.org/10.5284/1009202.",
+      "Martyn, Blick, Brindle, and et al. “Coxwell Road, Faringdon (Oxfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

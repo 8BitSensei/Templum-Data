@@ -1,11 +1,16 @@
 {
-  "start": "75",
-  "site": "Sansom's Platt",
-  "latitude": "51.86790692877219",
-  "longitude": "-1.3439046405243964",
-  "status": "Probable",
-  "location": "England, Oxfordshire",
-  "tags": "roman, temple, romano-celtic",
-  "end": "350",
-  "description": "Pipeline excavation revealed a small roadside settlement showing occupation from the late 1st CE until significant decline in the 4th CE. The site contained masonry buildings and painted plaster, so it appears to have not been low status. Aerial photography showed what appears to be a Romano-Celtic Temple inside a temenos close to the junction with Akeman St. Though this was not excavated."
+   "site": "Sansom's Platt",
+   "start": "75",
+   "end": "350",
+   "latitude": "51.86790692877219",
+   "longitude": "-1.3439046405243964",
+   "status": "Probable",
+   "location": "England, Oxfordshire",
+   "tags": "roman, temple, romano-celtic",
+   "description": "Pipeline excavation revealed a small roadside settlement showing occupation from the late 1st CE until significant decline in the 4th CE. The site contained masonry buildings and painted plaster, so it appears to have not been low status. Aerial photography showed what appears to be a Romano-Celtic Temple inside a temenos close to the junction with Akeman St. Though this was not excavated.",
+   "bibliography": [
+      "Chambers. “The Archaeology of the Charlbury to Arncott Gas Pipeline, Oxon, 1972.” Oxoniensia 43 (1978).",
+      "Martyn, Blick, Brindle, and et al. “Sansom’s Platt (Oxfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Winton. “A Possible Roman Small Town at Sansom’s Platt, Tackley, Oxon.” Britannia 32 (2001)."
+   ]
 }

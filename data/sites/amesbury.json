@@ -1,11 +1,16 @@
 {
-  "start": "275",
-  "site": "Amesbury",
-  "latitude": "51.17160654522687",
-  "longitude": "-1.7639078291115335",
-  "status": "Possible",
-  "location": "England, Wiltshire, Butterfield Down",
-  "tags": "roman, circular",
-  "end": "425",
-  "description": "Late Roman settlement, there is evidence of earlier occupation in the vicinity, but the pottery and coin evidence from the settlement dates it from the later 3rd CE with activity into the early 5th CE. A circular gully was discovered which is believed to have surrounded a timber structure, this was tentatively interpreted as a shrine due to the presence of a sceptre head and an infant burial in one of the gully terminals."
+   "site": "Amesbury",
+   "start": "275",
+   "end": "425",
+   "latitude": "51.17160654522687",
+   "longitude": "-1.7639078291115335",
+   "status": "Possible",
+   "location": "England, Wiltshire, Butterfield Down",
+   "tags": "roman, circular",
+   "description": "Late Roman settlement, there is evidence of earlier occupation in the vicinity, but the pottery and coin evidence from the settlement dates it from the later 3rd CE with activity into the early 5th CE. A circular gully was discovered which is believed to have surrounded a timber structure, this was tentatively interpreted as a shrine due to the presence of a sceptre head and an infant burial in one of the gully terminals.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Amesbury, Butterfield Down (Wiltshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rawlings, and Fitzpatrick. “Prehistoric Sites and Romano-British Settlement at Butterfield Down, Amesbury.” The Wiltshire Archaeological and Natural History Magazine 89 (1996).",
+      "Seager Smith. “LIDL, Parton Road, Bascombe Down, Amesbury, Wiltshire. Archaeological Excavation.” Wessex Archaeology Report ref. 48522 (2000). https://doi.org/10.5284/1029194."
+   ]
 }

@@ -1,11 +1,16 @@
 {
-  "start": "275",
-  "site": "Box Villa",
-  "latitude": "51.415228451385",
-  "longitude": "-2.255541364086384",
-  "status": "Possible",
-  "location": "England, Wiltshire",
-  "tags": "roman, villa, springs",
-  "end": "",
-  "description": "Major Romano-British courtyard villa. Evidence of occupation the 2nd CE, but the core of the villa dates to the early 3rd CE, and expanded at the end of the 3rd CE. End of occupation is unsure, but the Rural Settlement of Roman Britain project records it as 400, probably just assuming it must have ended with the end of the Roman period. Just to the south is an area surrounded by springs, which is suggested to be a shrine/sanctuary."
+   "site": "Box Villa",
+   "start": "275",
+   "end": "",
+   "latitude": "51.415228451385",
+   "longitude": "-2.255541364086384",
+   "status": "Possible",
+   "location": "England, Wiltshire",
+   "tags": "roman, villa, springs",
+   "description": "Major Romano-British courtyard villa. Evidence of occupation the 2nd CE, but the core of the villa dates to the early 3rd CE, and expanded at the end of the 3rd CE. End of occupation is unsure, but the Rural Settlement of Roman Britain project records it as 400, probably just assuming it must have ended with the end of the Roman period. Just to the south is an area surrounded by springs, which is suggested to be a shrine/sanctuary.",
+   "bibliography": [
+      "Corney. The Roman Villa at Box, 2012.",
+      "Hurst. “Excavations at Box Roman Villa, 1967-8.” The Wiltshire Archaeological and Natural History Magazine 81 (1987).",
+      "Martyn, Blick, Brindle, and et al. “Box Villa (Wiltshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

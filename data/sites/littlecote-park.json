@@ -1,11 +1,15 @@
 {
-  "start": "50",
-  "site": "Littlecote Park",
-  "latitude": "51.43367023186724",
-  "longitude": "-1.5696990869638776",
-  "status": "Possible",
-  "location": "England, Wiltshire",
-  "tags": "roman, villa, shrine, orpheus",
-  "end": "425",
-  "description": "Metalled road and possible Roman fort from the mid 1st CE, a settlement developed in the later 1st CE in the remains of the fort. A building with a porched entrance was interpreted as a shrine, though little reason is given. In the later 2nd CE (post 170) a villa was established, in the mid/late 4th CE an agricultural building was converted into a multi-room building with a bathsuite and attached 'tri-conch' hall with Orpheus mosaic. This room has been interpreted as a 'cult hall'. The villa was abandoned or demolished in the early 5th CE, though there is some evidence of sub-Roman buildings."
+   "site": "Littlecote Park",
+   "start": "50",
+   "end": "425",
+   "latitude": "51.43367023186724",
+   "longitude": "-1.5696990869638776",
+   "status": "Possible",
+   "location": "England, Wiltshire",
+   "tags": "roman, villa, shrine, orpheus",
+   "description": "Metalled road and possible Roman fort from the mid 1st CE, a settlement developed in the later 1st CE in the remains of the fort. A building with a porched entrance was interpreted as a shrine, though little reason is given. In the later 2nd CE (post 170) a villa was established, in the mid/late 4th CE an agricultural building was converted into a multi-room building with a bathsuite and attached 'tri-conch' hall with Orpheus mosaic. This room has been interpreted as a 'cult hall'. The villa was abandoned or demolished in the early 5th CE, though there is some evidence of sub-Roman buildings.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Littlecote Park (Wiltshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Phillips, and Walters. “Archaeological Excavations in Littlecote Park.” Wiltshire Littlecote Roman Research Trust, 1984."
+   ]
 }

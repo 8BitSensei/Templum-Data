@@ -1,11 +1,16 @@
 {
-  "start": "100",
-  "site": "Groundwell Ridge",
-  "latitude": "51.60339593028944",
-  "longitude": "-1.7982717632035936",
-  "status": "Possible",
-  "location": "England, Wiltshire, Swindon",
-  "tags": "roman, nymphaeum",
-  "end": "399",
-  "description": "Roman Villa complex from the early 2nd CE (with tentative hints of 1st CE activity), until it's abandonment at the very end of the 4th CE. There is evidence of timber buildings in the post-Roman period, but they appear to not be continuous with earlier occupation. A nearby structure was interpreted as a nymphaeum."
+   "site": "Groundwell Ridge",
+   "start": "100",
+   "end": "399",
+   "latitude": "51.60339593028944",
+   "longitude": "-1.7982717632035936",
+   "status": "Possible",
+   "location": "England, Wiltshire, Swindon",
+   "tags": "roman, nymphaeum",
+   "description": "Roman Villa complex from the early 2nd CE (with tentative hints of 1st CE activity), until it's abandonment at the very end of the 4th CE. There is evidence of timber buildings in the post-Roman period, but they appear to not be continuous with earlier occupation. A nearby structure was interpreted as a nymphaeum.",
+   "bibliography": [
+      "Brett. “Groundwell Ridge, Swindon, Wiltshire: Archaeological Evaluation.” Cotswold Archaeology Report 03104 (2003). https://doi.org/10.5284/1029224.",
+      "Dungworth. “Groundwell Ridge Roman Villa, Swindon: Excavations 2003-2005.” English Heritage Research Department 77/2006 (2006). https://doi.org/10.5284/1030400.",
+      "Martyn, Blick, Brindle, and et al. “Cleveland Farm, Ashton Keynes (Wiltshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

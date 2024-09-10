@@ -1,11 +1,15 @@
 {
-  "start": "100",
-  "site": "Colerne Park Wood",
-  "latitude": "51.4578411784309",
-  "longitude": "-2.238232532641799",
-  "status": "Unlikely",
-  "location": "England, Wiltshire",
-  "tags": "roman, circular",
-  "end": "399",
-  "description": "Three circular flat-topped mounds were excavated in the 50s and produced large amounts of Roman personal and building material dating mostly of 2nd to 4th CE. The Rural Settlement of Roman Britain project has tenuously interpreted this as a shrine, even though the original report does not. They compare it to the nearby circular temple at Nettleton Scrub."
+   "site": "Colerne Park Wood",
+   "start": "100",
+   "end": "399",
+   "latitude": "51.4578411784309",
+   "longitude": "-2.238232532641799",
+   "status": "Unlikely",
+   "location": "England, Wiltshire",
+   "tags": "roman, circular",
+   "description": "Three circular flat-topped mounds were excavated in the 50s and produced large amounts of Roman personal and building material dating mostly of 2nd to 4th CE. The Rural Settlement of Roman Britain project has tenuously interpreted this as a shrine, even though the original report does not. They compare it to the nearby circular temple at Nettleton Scrub.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Colerne Park Wood (Wiltshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "www.bibliopolis.com. “The Roman Site in Colerne Park. An Original Article from The Wiltshire Archaeological and Natural History Magazine, December 1954 by A. Shaw Mellor on Cosmo Books.” Cosmo Books. Accessed September 9, 2024. https://www.cosmobooks.co.uk/pages/books/299690/a-shaw-mellor/the-roman-site-in-colerne-park-an-original-article-from-the-wiltshire-archaeological-and-natural."
+   ]
 }

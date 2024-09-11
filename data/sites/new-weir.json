@@ -1,12 +1,16 @@
 {
-  "status": "Possible",
-  "site": "New Weir",
-  "location": "England, Herefordshire, Swainshill",
-  "description": "Roman riverside settlement incorporating masonry remains, including an octagonal cistern that has been interpreted as a nymphaeum.",
-  "bibliography": [
-    "roman",
-    "nymphaeum"
-  ],
-  "latitude": "52.07217949285845",
-  "longitude": "-2.8235879580781815"
+   "site": "New Weir",
+   "start": "",
+   "end": "",
+   "latitude": "52.07217949285845",
+   "longitude": "-2.8235879580781815",
+   "status": "Possible",
+   "location": "England, Herefordshire, Swainshill",
+   "tags": "",
+   "description": "Roman riverside settlement incorporating masonry remains, including an octagonal cistern that has been interpreted as a nymphaeum.",
+   "bibliography": [
+      "Barber, and Walker. “The Weir Garden, Swainshill, Hereford and Worcester,” 1995. https://doi.org/10.5284/1026996.",
+      "Martyn, Blick, Brindle, and et al. “New Weir, Swainshill (Herefordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Shoesmith. “The Roman Buildings at New Weir, Herefordshire.” Transactions of the Woolhope Naturalists Field Club XLIII (1980)."
+   ]
 }

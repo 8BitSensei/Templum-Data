@@ -1,11 +1,17 @@
 {
-  "start": "-50",
-  "site": "Allesborough",
-  "latitude": "52.116006476755345",
-  "longitude": "-2.0984887176627174",
-  "status": "Unknown",
-  "location": "England, Warcestershire, Pershore",
-  "tags": "iron age",
-  "end": "50",
-  "description": "Late Iron Age to Roman Farmstead. The site of an Iron age coin hoard discovered by metal detecting and then limited archaeological investigations, the location has been suggested as a 'Late Iron Age hill-top religious space' due to the deposit."
+   "site": "Allesborough",
+   "start": "-50",
+   "end": "50",
+   "latitude": "52.116006476755345",
+   "longitude": "-2.0984887176627174",
+   "status": "Unknown",
+   "location": "England, Warcestershire, Pershore",
+   "tags": "iron age",
+   "description": "Late Iron Age to Roman Farmstead. The site of an Iron age coin hoard discovered by metal detecting and then limited archaeological investigations, the location has been suggested as a 'Late Iron Age hill-top religious space' due to the deposit.",
+   "bibliography": [
+      "Hurst. “The South Worcestershire Hoards Archaeological Survey at Allesborough, Pershore, Worcestershire,” 2000. https://doi.org/10.5284/1026871.",
+      "Hurst, and Leins. “The Pershore Hoards and Votive Deposition in the Iron Age.” Proceedings of the Prehistoric Society 79 (2013).",
+      "———. “The Pershore Iron Age Coin Hoards.” Transactions of the Worcestershire Archaeological Society 24 (2014).",
+      "Martyn, Blick, Brindle, and et al. “Allesborough, Pershore (Worcestershire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

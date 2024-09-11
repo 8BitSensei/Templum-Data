@@ -1,11 +1,15 @@
 {
-  "start": "1",
-  "site": "Ariconium",
-  "latitude": "51.91078466821045",
-  "longitude": "-2.5182052113680444",
-  "status": "Possible",
-  "location": "England, Herefordshire, Weston Under Penyard",
-  "tags": "roman, shrine",
-  "end": "350",
-  "description": "Romano-British road side settlement with evidence of continuity from the Late Iron Age, with little evidence of activity beyond 350 CE. The settlements primary industry appears to have been Iron smelting. A shrine has been suggested based on a scatter of high status building material and potentially votive material."
+   "site": "Ariconium",
+   "start": "1",
+   "end": "350",
+   "latitude": "51.91078466821045",
+   "longitude": "-2.5182052113680444",
+   "status": "Possible",
+   "location": "England, Herefordshire, Weston Under Penyard",
+   "tags": "roman, shrine",
+   "description": "Romano-British road side settlement with evidence of continuity from the Late Iron Age, with little evidence of activity beyond 350 CE. The settlements primary industry appears to have been Iron smelting. A shrine has been suggested based on a scatter of high status building material and potentially votive material.",
+   "bibliography": [
+      "Jackson. Ariconium, Herefordshire : An Iron Age Settlement and Romano-British Small Town, 2012.",
+      "Martyn, Blick, Brindle, and et al. “Ariconium, Weston Under Penyard (Herefordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

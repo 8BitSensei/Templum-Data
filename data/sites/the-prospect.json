@@ -1,11 +1,15 @@
 {
-  "start": "200",
-  "site": "The Prospect",
-  "latitude": "51.913539364037845",
-  "longitude": "-2.587975376415829",
-  "status": "Probable",
-  "location": "England, Herefordshire, Ross-on-Wye",
-  "tags": "roman, shrine",
-  "end": "299",
-  "description": "Early Roman settlement, probably military settlement which was abandoned by mid 2nd CE, followed by subsequent religious use. Later use dated to the 3rd CE shows a square masonry building with a circular inner chamber, with a central posthole. Interpreted as a shrine or mausoleum. "
+   "site": "The Prospect",
+   "start": "200",
+   "end": "299",
+   "latitude": "51.913539364037845",
+   "longitude": "-2.587975376415829",
+   "status": "Probable",
+   "location": "England, Herefordshire, Ross-on-Wye",
+   "tags": "roman, shrine",
+   "description": "Early Roman settlement, probably military settlement which was abandoned by mid 2nd CE, followed by subsequent religious use. Later use dated to the 3rd CE shows a square masonry building with a circular inner chamber, with a central posthole. Interpreted as a shrine or mausoleum. ",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “The Prospect, Ross-on-Wye (Herefordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Priestley, and Wellicome. “Archaeological Excavation and Evaluation The Propsect, Ross-on-Wye, Herefordshire,” 2011. https://doi.org/10.5284/1026983."
+   ]
 }

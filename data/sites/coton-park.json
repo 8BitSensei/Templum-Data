@@ -1,10 +1,15 @@
 {
-  "status": "Unlikely",
-  "site": "Coton Park",
-  "location": "England, Warwickshire, Rugby",
-  "description": "Romano-British farming settlement with earlier Iron and Bronze Age activity. The Romano-British activity has been dated to the 1st to 2nd CE, during this time there was a circular structure with concentric circular enclosure ditches. This has been interpreted as a Romano-British shrine, despite a lack of votive deposits.",
-  "start": "0",
-  "end": "199",
-  "latitude": "52.40467012324397",
-  "longitude": "-1.241690084937514"
+   "site": "Coton Park",
+   "start": "0",
+   "end": "199",
+   "latitude": "52.40467012324397",
+   "longitude": "-1.241690084937514",
+   "status": "Unlikely",
+   "location": "England, Warwickshire, Rugby",
+   "tags": "",
+   "description": "Romano-British farming settlement with earlier Iron and Bronze Age activity. The Romano-British activity has been dated to the 1st to 2nd CE, during this time there was a circular structure with concentric circular enclosure ditches. This has been interpreted as a Romano-British shrine, despite a lack of votive deposits.",
+   "bibliography": [
+      "“Excavation of the Deserted Medieval Village at Coton Park, Rugby, Warwickshire, 1998,” 2000. https://doi.org/10.5284/1026927.",
+      "Martyn, Blick, Brindle, and et al. “Coton Park, Rugby (Warwickshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

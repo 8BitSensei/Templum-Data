@@ -1,9 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Titchmarsh",
-  "location": "England, Northamptonshire",
-  "description": "A site known mainly through metal detecting, small finds, aerial photography, and quarrying. Late Iron Age coins show have been used to suggest that the site was a ritual centre in the Iron Age, and crop marks that show a square enclosure have been used to suggest the presence of a possible shrine or temple during the Roman period.",
-  "start": "0",
-  "latitude": "52.40427206868888",
-  "longitude": "-0.5218049134040477"
+   "site": "Titchmarsh",
+   "start": "0",
+   "end": "",
+   "latitude": "52.40427206868888",
+   "longitude": "-0.5218049134040477",
+   "status": "Unknown",
+   "location": "England, Northamptonshire",
+   "tags": "",
+   "description": "A site known mainly through metal detecting, small finds, aerial photography, and quarrying. Late Iron Age coins show have been used to suggest that the site was a ritual centre in the Iron Age, and crop marks that show a square enclosure have been used to suggest the presence of a possible shrine or temple during the Roman period.",
+   "bibliography": [
+      "Curteis, Jackson, and Markham. “Titchmarsh Late Iron Age and Roman Settlement.” Northamptonshire Archaeology 28 (2000).",
+      "Martyn, Blick, Brindle, and et al. “Titchmarsh (Northamptonshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

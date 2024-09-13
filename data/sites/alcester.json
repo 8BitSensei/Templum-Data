@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Alcester",
-  "location": "England, Warwickshire, Southern Extramural Area",
-  "description": "An extensive Romano-British settlement with evidence for many structures and an industry based on crafts like leather and metal working. No post Roman evidence is discussed, but no explicit date for the end of the settlement is provided. A number of buildings within enclosures existed through the settlements history, but one, in the shape of a parallelogram in the later 1st CE was interpreted as possibly a religious enclosure. Two uninscribed altars were found in the fill of a nearby well. ",
-  "start": "75",
-  "latitude": "52.21093575848066",
-  "longitude": "-1.8701360878876234"
+   "site": "Alcester",
+   "start": "75",
+   "end": "",
+   "latitude": "52.21093575848066",
+   "longitude": "-1.8701360878876234",
+   "status": "Possible",
+   "location": "England, Warwickshire, Southern Extramural Area",
+   "tags": "",
+   "description": "An extensive Romano-British settlement with evidence for many structures and an industry based on crafts like leather and metal working. No post Roman evidence is discussed, but no explicit date for the end of the settlement is provided. A number of buildings within enclosures existed through the settlements history, but one, in the shape of a parallelogram in the later 1st CE was interpreted as possibly a religious enclosure. Two uninscribed altars were found in the fill of a nearby well. ",
+   "bibliography": [
+      "Cracknell, and Mahany. “Roman Alcester: Southern Extramural Area 1964-1966 Excavations.” Part 2 (1994). https://doi.org/10.5284/1000332.",
+      "Martyn, Blick, Brindle, and et al. “Alcester, Southern Extramural Area (Birch Abbey).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

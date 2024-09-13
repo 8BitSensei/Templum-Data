@@ -1,11 +1,16 @@
 {
-  "start": "100",
-  "site": "Grimstock Hill",
-  "latitude": "52.51180416990729",
-  "longitude": "-1.714462891322215",
-  "status": "Certain",
-  "location": "England, Warwickshire,Coleshill",
-  "tags": "roman, romano-celtic",
-  "end": "350",
-  "description": "A complex site featuring a Romano-Celtic Temple, definitely constructed from 120 CE but with evidence of an earlier shrine and enclosure expanding to replace domestic round houses. Ultimately seems to have slowly fallen out of use by 350 CE, but with no hard stop, usage may have continued."
+   "site": "Grimstock Hill",
+   "start": "100",
+   "end": "350",
+   "latitude": "52.51180416990729",
+   "longitude": "-1.714462891322215",
+   "status": "Certain",
+   "location": "England, Warwickshire,Coleshill",
+   "tags": "roman, romano-celtic",
+   "description": "A complex site featuring a Romano-Celtic Temple, definitely constructed from 120 CE but with evidence of an earlier shrine and enclosure expanding to replace domestic round houses. Ultimately seems to have slowly fallen out of use by 350 CE, but with no hard stop, usage may have continued.",
+   "bibliography": [
+      "Magilton. “A Romano-Celtic Temple and Settlement at Grimstock Hill, Coleshill, Warwickshire.” Birmingham and Warwickshire Archaeological Society Transactions for 2006 110 (2006).",
+      "Martyn, Blick, Brindle, and et al. “Grimstock Hill, Coleshill (Warwickshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Thompson. “Archaeological Evaluation at Ennersdale Road, Coleshill, Warwickshire,” 2005. https://doi.org/10.5284/1026906."
+   ]
 }

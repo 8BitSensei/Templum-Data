@@ -1,10 +1,16 @@
 {
-  "status": "Unknown",
-  "site": "Bozeat",
-  "location": "England, Northamptonshire",
-  "description": "Romano-British agricultural site, with a circular limestone founded building with a central square feature. The building is not well dated but the 2nd CE is suggested based on other finds, the building has been interpreted as a shrine based on minimal evidence.",
-  "start": "100",
-  "end": "199",
-  "latitude": "52.22996629397244",
-  "longitude": "-0.6904097553866602"
+   "site": "Bozeat",
+   "start": "100",
+   "end": "199",
+   "latitude": "52.22996629397244",
+   "longitude": "-0.6904097553866602",
+   "status": "Unknown",
+   "location": "England, Northamptonshire",
+   "tags": "",
+   "description": "Romano-British agricultural site, with a circular limestone founded building with a central square feature. The building is not well dated but the 2nd CE is suggested based on other finds, the building has been interpreted as a shrine based on minimal evidence.",
+   "bibliography": [
+      "Hall, and Nickerson. “Circular Roman Building at Bozeat, Northamptonshire, 1964.” Bedfordshire Archaeology 5 (1970).",
+      "Martyn, Blick, Brindle, and et al. “Bozeat (Northamptonshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Meadows. “Three Roman Sites in Northamptonshire: Excavations by E. Greenfield at Bozeat, Higham Ferrers, and Great Oakley between 1961 and 1966.” Northamptonshire Archaeology 24 (1992)."
+   ]
 }

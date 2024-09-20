@@ -1,8 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Quinton",
-  "location": "England, Northamptonshire",
-  "description": "Late-Iron Age to Roman rural settlement, odd shaped pits and an enclosure were interpreted as a possible ritual focus by report authors. Though little evidence to base this on.",
-  "latitude": "52.17454363406003",
-  "longitude": "-0.8683379447507351"
+   "site": "Quinton",
+   "start": "",
+   "end": "",
+   "latitude": "52.17454363406003",
+   "longitude": "-0.8683379447507351",
+   "status": "Possible",
+   "location": "England, Northamptonshire",
+   "tags": "",
+   "description": "Late-Iron Age to Roman rural settlement, odd shaped pits and an enclosure were interpreted as a possible ritual focus by report authors. Though little evidence to base this on.",
+   "bibliography": [
+      "Friendship-Taylor. “Iron Age and Roman Quinton: The Evidence for the Ritual Use of the Site (Site E 1978-1981).” Upper Nene Archaeological Society Fascicule 5 (1999).",
+      "———. “The Excavation of the Belgic and Romano-British Settlement at Quinton, Northamptonshire: Site B. (1973-7).” Northamptonshire Archaeology 13 (1979).",
+      "Martyn, Blick, Brindle, and et al. “Quinton (Northamptonshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

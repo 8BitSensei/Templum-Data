@@ -1,9 +1,16 @@
 {
-  "status": "Probable",
-  "latitude": "52.33404095210118",
-  "longitude": "-0.5749764513800902",
-  "site": "Stanwick",
-  "location": " England, Northamptonshire",
-  "description": "A large and complex settlement site that began in the late iron age, and continued into the Roman period with multiple enclosures and a large villa. By the 5th CE the villa was housing corndriers, and early Saxon graves cut into buildings. During the Roman period a bronze age barrow and cemetery was surrounded by a temenos, and has been interpreted as a shrine.",
-  "tags": "barrow, temenos"
+   "site": "Stanwick",
+   "start": "",
+   "end": "",
+   "latitude": "52.33404095210118",
+   "longitude": "-0.5749764513800902",
+   "status": "Probable",
+   "location": " England, Northamptonshire",
+   "tags": "barrow, temenos",
+   "description": "A large and complex settlement site that began in the late iron age, and continued into the Roman period with multiple enclosures and a large villa. By the 5th CE the villa was housing corndriers, and early Saxon graves cut into buildings. During the Roman period a bronze age barrow and cemetery was surrounded by a temenos, and has been interpreted as a shrine.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Stanwick (Northamptonshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Neal. “The Stanwick Villa, Northants: An Interim Report on the Excavations of 1984-88.” Britannia 20 (1989).",
+      "Raunds Area Project: Iron Age and Romano-British Project, 1995."
+   ]
 }

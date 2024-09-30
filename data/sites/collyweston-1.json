@@ -1,9 +1,17 @@
 {
-  "status": "Probable",
-  "site": "Collyweston",
-  "location": "England, Northamptonshire",
-  "description": "Roman period religious complex with possibly 5 separate buildings of different designs, including rectangular, circular, hexagonal, and octagonal.",
-  "latitude": "52.59452640921762",
-  "longitude": "-0.512175452229089",
-  "tags": "circular, octagona, hexagonal, rectangular, roman"
+   "site": "Collyweston",
+   "start": "",
+   "end": "",
+   "latitude": "52.59452640921762",
+   "longitude": "-0.512175452229089",
+   "status": "Probable",
+   "location": "England, Northamptonshire",
+   "tags": "circular, octagona, hexagonal, rectangular, roman",
+   "description": "Roman period religious complex with possibly 5 separate buildings of different designs, including rectangular, circular, hexagonal, and octagonal.",
+   "bibliography": [
+      "Knocker. “Excavations in Collyweston Great Wood, Northamptonshire.” Archaeological Journal 122 (1965).",
+      "Lewis. Temples in Roman Britain, 1966.",
+      "Martyn, Blick, Brindle, and et al. “Collyweston (Northamptonshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "“Roman Britain in 1954.” Journal of Roman Studies 45 (1955): 133 ff."
+   ]
 }

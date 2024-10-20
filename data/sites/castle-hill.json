@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Castle Hill",
-  "location": "England, Cambridgeshire, Cambridge",
-  "description": "A deeply strange ritual site on the southern side of Castle Hill inside the Roman walled town of Cambridge. A 2nd - 3rd CE large subterranean shrine that held numerous animal and infant deposits, evidence of burning, and various other objects. A pentagonal timber structure to the eat of the deposits was also identified as a shrine.",
-  "start": "100",
-  "end": "299",
-  "latitude": "52.2127702889985",
-  "longitude": "0.11223804490677391"
+   "site": "Castle Hill",
+   "start": "100",
+   "end": "299",
+   "latitude": "52.2127702889985",
+   "longitude": "0.11223804490677391",
+   "status": "Possible",
+   "location": "England, Cambridgeshire, Cambridge",
+   "tags": "",
+   "description": "A deeply strange ritual site on the southern side of Castle Hill inside the Roman walled town of Cambridge. A 2nd - 3rd CE large subterranean shrine that held numerous animal and infant deposits, evidence of burning, and various other objects. A pentagonal timber structure to the eat of the deposits was also identified as a shrine.",
+   "bibliography": [
+      "Alex, er, and Pullinger. “Roman Cambridge: Excavations on Castle Hill 1956-1988.” Proceedings of the Cambridge Antiquarian Society 88 (1999).",
+      "Martyn, Blick, Brindle, and et al. “Cambridge, Castle Hill (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,10 +1,17 @@
 {
-  "status": "Possible",
-  "site": "Kate's Cabin Farm",
-  "location": "England, Cambridgeshire, Water Newton",
-  "description": "A Roman road-side settlement running alongside Ermine street, twelve timber and masonry buildings were recorded. At the eastern end, one of the masonry buildings with a mid-2nd CE construction date was interpreted as a shrine. Many of the buildings were 'destroyed' in the mid 4th CE.",
-  "start": "150",
-  "end": "350",
-  "latitude": "52.55327034493443",
-  "longitude": "-0.34244359286068554"
+   "site": "Kate's Cabin Farm",
+   "start": "150",
+   "end": "350",
+   "latitude": "52.55327034493443",
+   "longitude": "-0.34244359286068554",
+   "status": "Possible",
+   "location": "England, Cambridgeshire, Water Newton",
+   "tags": "",
+   "description": "A Roman road-side settlement running alongside Ermine street, twelve timber and masonry buildings were recorded. At the eastern end, one of the masonry buildings with a mid-2nd CE construction date was interpreted as a shrine. Many of the buildings were 'destroyed' in the mid 4th CE.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Water Newton, Kate’s Cabin Farm (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Perrin. “Roman Pottery from Excavations at and near to the Roman Small Town of Durobrivae, Water Newton, Cambridgeshire, 1956-58.” Journal of Roman Pottery Studies 8 (1999).",
+      "“Roman Britain in 1957: I. Sites Explored: II. Inscriptions.” The Journal of Roman Studies 48 (1958).",
+      "Wright. “Roman Britain in 1958: I. Sites Explored: II. Inscriptions.” The Journal of Roman Studies 49 (1959)."
+   ]
 }

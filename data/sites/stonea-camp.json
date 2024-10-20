@@ -1,11 +1,16 @@
 {
-  "start": "-50",
-  "site": "Stonea Camp",
-  "latitude": "52.51637426705293",
-  "longitude": "0.13185445990895717",
-  "status": "Possible",
-  "location": "England, Cambridgeshire",
-  "tags": "late iron age, roman",
-  "end": "60",
-  "description": "Late Iron Age earthworks on a Fen island with possibly some earl Roman military activity. Suggested a possibly having a ceremonial significance, RSRB identifies it as a shrine."
+   "site": "Stonea Camp",
+   "start": "-50",
+   "end": "60",
+   "latitude": "52.51637426705293",
+   "longitude": "0.13185445990895717",
+   "status": "Possible",
+   "location": "England, Cambridgeshire",
+   "tags": "late iron age, roman",
+   "description": "Late Iron Age earthworks on a Fen island with possibly some earl Roman military activity. Suggested a possibly having a ceremonial significance, RSRB identifies it as a shrine.",
+   "bibliography": [
+      "Malim, Tim. Stonea and the Roman Fens. Revealing History. Stroud: Tempus, 2005.",
+      "Martyn, Blick, Brindle, and et al. “Stonea Camp (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Todd, Malcolm. “Excavations at Stonea, Cambridgeshire 1980–85. By R. P.J. J ackson and T. W. P otter.” Archaeological Journal 154, no. 1 (1997): 319–319. https://doi.org/10.1080/00665983.1997.11078820."
+   ]
 }

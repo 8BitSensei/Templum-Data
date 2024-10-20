@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Vicar's Farm England",
-  "location": "Cambridge, West Cambridge",
-  "description": "Early Roman settlement beginning in the conquest period and eventually being abandoned in the early decades of the 5th CE. The earliest phase has a cremation cemetery and a circular structure that has been identifies as a possible shrine.",
-  "start": "80",
-  "latitude": "52.20974608252893",
-  "longitude": "0.09432735265572574"
+   "site": "Vicar's Farm England",
+   "start": "80",
+   "end": "",
+   "latitude": "52.20974608252893",
+   "longitude": "0.09432735265572574",
+   "status": "Possible",
+   "location": "Cambridge, West Cambridge",
+   "tags": "",
+   "description": "Early Roman settlement beginning in the conquest period and eventually being abandoned in the early decades of the 5th CE. The earliest phase has a cremation cemetery and a circular structure that has been identifies as a possible shrine.",
+   "bibliography": [
+      "Lucas, G. “Excavations at Vicar’s Farm, West Cambridge. Final Publication Text.” Cambridge Archaeological Unit Report No. 425 (2001). https://doi.org/10.5284/1021781.",
+      "Martyn, Blick, Brindle, and et al. “Vicar’s Farm, West Cambridge (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

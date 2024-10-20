@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Normangate Field",
-  "location": "England, Cambridgeshire, Water Newton",
-  "description": "Settlement area in the northern part of Durobrivae, characterised as a 'suburb' but with evidence for much industrial activity. A circular building with tessellated flooring was built at the beginning of the 3rd CE and has been identified as a shrine. ",
-  "start": "200",
-  "latitude": "52.56650828281774",
-  "longitude": "-0.355148651213479"
+   "site": "Normangate Field",
+   "start": "200",
+   "end": "",
+   "latitude": "52.56650828281774",
+   "longitude": "-0.355148651213479",
+   "status": "Possible",
+   "location": "England, Cambridgeshire, Water Newton",
+   "tags": "",
+   "description": "Settlement area in the northern part of Durobrivae, characterised as a 'suburb' but with evidence for much industrial activity. A circular building with tessellated flooring was built at the beginning of the 3rd CE and has been identified as a shrine. ",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Water Newton, Normangate Field (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Perrin. “Roman Pottery from Excavations at and near to the Roman Small Town of Durobrivae, Water Newton, Cambridgeshire, 1956-58.” Journal of Roman Pottery Studies 8 (1999)."
+   ]
 }

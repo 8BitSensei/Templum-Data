@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Hinxton",
-  "location": "England, Cambridgeshire",
-  "description": "A Middle Iron Age to Early Roman site with enclosures, trackways, and field boundaries. Dating and the level of occupation is uncertain, but in the Iron Age a mortuary enclosure and ritual deposit were identified. Re-developed in the early Roman period, including a timber structure identified as a shrine.",
-  "longitude": "52.068586643486036",
-  "tags": "0.18686933233730596"
+   "site": "Hinxton",
+   "start": "",
+   "end": "",
+   "latitude": "",
+   "longitude": "52.068586643486036",
+   "status": "Possible",
+   "location": "England, Cambridgeshire",
+   "tags": "0.18686933233730596",
+   "description": "A Middle Iron Age to Early Roman site with enclosures, trackways, and field boundaries. Dating and the level of occupation is uncertain, but in the Iron Age a mortuary enclosure and ritual deposit were identified. Re-developed in the early Roman period, including a timber structure identified as a shrine.",
+   "bibliography": [
+      "“Hinxton Hall Residential Block \u0026 Dining Room Extension, Archaeological Evaluation Report.” Oxford Archaeology, 2012.",
+      "Martyn, Blick, Brindle, and et al. “Hinxton (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

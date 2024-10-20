@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "NIAB",
-  "location": "England, Cambridgeshire, Cambridge",
-  "description": "Two Roman agricultural settlements half a kilometre apart (treated as a single site in the record). The NE settlement included a double ditched rectangular enclosure to the rear, no internal features were found but some pottery and 3 late Roman coins were identified. RSRB identifies this as a possible shrine due to the presence of a similar double ditched enclosure 7km to the north which was apparently interpreted as a shrine, but has not yet been excavated.",
-  "latitude": "52.22586482227698",
-  "longitude": "0.1024716470127992"
+   "site": "NIAB",
+   "start": "",
+   "end": "",
+   "latitude": "52.22586482227698",
+   "longitude": "0.1024716470127992",
+   "status": "Possible",
+   "location": "England, Cambridgeshire, Cambridge",
+   "tags": "",
+   "description": "Two Roman agricultural settlements half a kilometre apart (treated as a single site in the record). The NE settlement included a double ditched rectangular enclosure to the rear, no internal features were found but some pottery and 3 late Roman coins were identified. RSRB identifies this as a possible shrine due to the presence of a similar double ditched enclosure 7km to the north which was apparently interpreted as a shrine, but has not yet been excavated.",
+   "bibliography": [
+      "“Information from Britannia.” Britannia 45 (2014): 353–56.",
+      "Martyn, Blick, Brindle, and et al. “NIAB, Huntingdon Road, Cambridge (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

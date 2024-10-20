@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "New Fen Drove",
-  "location": "England, Cambridgeshire, Earith",
-  "description": "Extensive Roman nucleated settlement. The central site is now destroyed and only intermittent records remain. Supposedly a 3rd CE shrine along with a cemetery.",
-  "start": "200",
-  "end": "299",
-  "latitude": "52.364214541875555",
-  "longitude": "0.04251473308941429"
+   "site": "New Fen Drove",
+   "start": "200",
+   "end": "299",
+   "latitude": "52.364214541875555",
+   "longitude": "0.04251473308941429",
+   "status": "Unknown",
+   "location": "England, Cambridgeshire, Earith",
+   "tags": "",
+   "description": "Extensive Roman nucleated settlement. The central site is now destroyed and only intermittent records remain. Supposedly a 3rd CE shrine along with a cemetery.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “New Fen Drove, Earith (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Regan, R, C Evans, and L Webley. “The Camp Ground Excavations. Colne Fen, Earith. Assessment Report.” Cambridge Archaeological Unit Report No. 654 (2004). https://doi.org/10.5284/1021819."
+   ]
 }

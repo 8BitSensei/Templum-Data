@@ -1,10 +1,14 @@
 {
-  "status": "Unknown",
-  "site": "Bretton Way",
-  "location": "England, Cambridgeshire, Peterbrough",
-  "description": "A late Roman well associated with a 3rd - 4th CE barn. The well was lined with re-used limestone blocks from a monumental building and contained a large finds assemblage. The RSRB categorises this site as a 'shrine' and states of the well 'probably of ritual origin'. But the language is uncertain and this may either refer to the monumental building the limestone blocks came from, the finds assemblage, or the well itself. Infilling of the well took place in the late 4th CE.",
-  "start": "200",
-  "end": "399",
-  "latitude": "52.592765672285886",
-  "longitude": "-0.28833162540839524"
+   "site": "Bretton Way",
+   "start": "200",
+   "end": "399",
+   "latitude": "52.592765672285886",
+   "longitude": "-0.28833162540839524",
+   "status": "Unknown",
+   "location": "England, Cambridgeshire, Peterbrough",
+   "tags": "",
+   "description": "A late Roman well associated with a 3rd - 4th CE barn. The well was lined with re-used limestone blocks from a monumental building and contained a large finds assemblage. The RSRB categorises this site as a 'shrine' and states of the well 'probably of ritual origin'. But the language is uncertain and this may either refer to the monumental building the limestone blocks came from, the finds assemblage, or the well itself. Infilling of the well took place in the late 4th CE.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Camp Ground, Colne Fen, Earith (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

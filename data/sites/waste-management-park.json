@@ -1,6 +1,17 @@
 {
-  "status": "Probable",
-  "site": "Waste Management Park",
-  "location": "England, Cambridgeshire, Cambridge, Waterbeach",
-  "description": "Roman settlement with crop mark and finds evidence for a late Romano-Celtic temple aligned along a road with a cemetery beside the temple."
+   "site": "Waste Management Park",
+   "start": "",
+   "end": "",
+   "latitude": "",
+   "longitude": "",
+   "status": "Probable",
+   "location": "England, Cambridgeshire, Cambridge, Waterbeach",
+   "tags": "",
+   "description": "Roman settlement with crop mark and finds evidence for a late Romano-Celtic temple aligned along a road with a cemetery beside the temple.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Waste Management Park, Waterbeach, Cambridge (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Ranson. “The Waste Management Park, Ely Road, Waterbeach,” 2008. https://doi.org/10.5284/1003662.",
+      "Slater. “Further Archaeological Investigations at Waste Management Park, Waterbeach, Cambridge,” 2009. https://doi.org/10.5284/1003552.",
+      "“The Waste Management Park, Waterbeach, Cambridge,” 2010. https://doi.org/10.5284/1029682."
+   ]
 }

@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "East of Hinxton Grange",
-  "location": "England, Cambridgeshire, Hinxton",
-  "description": "A 'high status' Roman masonry building, dated based on coin evidence to the 2nd - 3rd CE. A religious interpretation has apparently been put forward, so possibly some kind of shrine or temple.",
-  "start": "100",
-  "end": "299",
-  "latitude": "52.096174224876975",
-  "longitude": "0.2040514936788101"
+   "site": "East of Hinxton Grange",
+   "start": "100",
+   "end": "299",
+   "latitude": "52.096174224876975",
+   "longitude": "0.2040514936788101",
+   "status": "Unknown",
+   "location": "England, Cambridgeshire, Hinxton",
+   "tags": "",
+   "description": "A 'high status' Roman masonry building, dated based on coin evidence to the 2nd - 3rd CE. A religious interpretation has apparently been put forward, so possibly some kind of shrine or temple.",
+   "bibliography": [
+      "Heawood, R, and B Robinson. “A Romano-British Site East of Hinxton Grange: A11 Stump Cross to Four Went Ways Road Improvement Scheme.” Oxford Archaeology East, 1998. https://doi.org/10.5284/1007464.",
+      "Martyn, Blick, Brindle, and et al. “East of Hinxton Grange (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

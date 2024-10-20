@@ -1,8 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Camp Ground",
-  "location": "England, Cambridgeshire, Colne Fen, Earith",
-  "description": "A long lived settlement extending from the Middle Iron Age to the 5th CE. Middle to Late Iron Age phase contains a square structure which is identified as a possible shrine. In the Roman period a Jupiter sculpture was discovered in an enclosure ditch which may be related to the shrine.",
-  "latitude": "52.3850616712222",
-  "longitude": "0.02252620195343261"
+   "site": "Camp Ground",
+   "start": "",
+   "end": "",
+   "latitude": "52.3850616712222",
+   "longitude": "0.02252620195343261",
+   "status": "Possible",
+   "location": "England, Cambridgeshire, Colne Fen, Earith",
+   "tags": "",
+   "description": "A long lived settlement extending from the Middle Iron Age to the 5th CE. Middle to Late Iron Age phase contains a square structure which is identified as a possible shrine. In the Roman period a Jupiter sculpture was discovered in an enclosure ditch which may be related to the shrine.",
+   "bibliography": [
+      "Cambridge Archaeological Unit. “The Camp Ground Excavations. Colne Fen, Earith. Assessment Report.” Archaeology Data Service, 2004. https://doi.org/10.5284/1021819.",
+      "Evans, C. “Process and History: Romano-British Communities at Colne Fen, Earith. An Inland Port and Supply Farm.” Cambridge Archaeological Unit, 2012.",
+      "Martyn, Blick, Brindle, and et al. “Camp Ground, Colne Fen, Earith (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

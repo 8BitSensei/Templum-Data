@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Great Wilbraham",
-  "location": "England, Cambridgeshire",
-  "description": "Roman Villa complex dated by pottery to the 2nd - 4th CE. Just to the south is a chalk platform with a circular it cut into it. Inside the pit was placed a column base and altar during the later 4th CE. The structure, due to the presence of altar is suggested by the RSRB to be a shrine.",
-  "end": "375",
-  "start": "100",
-  "latitude": "52.198424172647364",
-  "longitude": "0.27351425128228934"
+   "site": "Great Wilbraham",
+   "start": "100",
+   "end": "375",
+   "latitude": "52.198424172647364",
+   "longitude": "0.27351425128228934",
+   "status": "Possible",
+   "location": "England, Cambridgeshire",
+   "tags": "",
+   "description": "Roman Villa complex dated by pottery to the 2nd - 4th CE. Just to the south is a chalk platform with a circular it cut into it. Inside the pit was placed a column base and altar during the later 4th CE. The structure, due to the presence of altar is suggested by the RSRB to be a shrine.",
+   "bibliography": [
+      "Ette, J, and S Hinds. “Great Wilbraham Roman Villa and Fleam Dyke. Dungate Pipeline Scheme.” Cambridgeshire County Council Archaeological Field Unit Report No. 87 (1998). https://doi.org/10.5284/1021783.",
+      "Martyn, Blick, Brindle, and et al. “Great Wilbraham (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,10 +1,19 @@
 {
-  "status": "Certain",
-  "latitude": "52.31782365126017",
-  "longitude": "-0.1745564094592792",
-  "site": "Temple of Abandinus",
-  "location": "England, Cambridgeshire, Huntingdonshire, Godmanchester",
-  "description": "A large and multi-phase Roman temple in the walled town of Durovigutum dedicated to Abandinus. Four phases are known dating from the 1st CE to the late 4th CE. It lays just to the west of a large villa.",
-  "start": "50",
-  "end": "375"
+   "site": "Temple of Abandinus",
+   "start": "50",
+   "end": "375",
+   "latitude": "52.31782365126017",
+   "longitude": "-0.1745564094592792",
+   "status": "Certain",
+   "location": "England, Cambridgeshire, Huntingdonshire, Godmanchester",
+   "tags": "",
+   "description": "A large and multi-phase Roman temple in the walled town of Durovigutum dedicated to Abandinus. Four phases are known dating from the 1st CE to the late 4th CE. It lays just to the west of a large villa.",
+   "bibliography": [
+      "Green. “Roman Godmanchester in Rodwell and Rowley. The Small Towns of Roman Britain,” 1975.",
+      "———. “Roman Godmanchester Part 1. An Early Dwelling.” Proceedings of the Cambridge Antiquarian Society 53 (1960).",
+      "———. “Romano-British Hoard from Godmanchester.” Proceedings of the Cambridge Antiquarian Society 50 (1956).",
+      "Hinman. “Romano-British Remains Relating to the Bath House and Mansio at Pinfold Lane, Godmanchester,” 1998.",
+      "Martyn, Blick, Brindle, and et al. “Godmanchester, Pinfold Lane (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Pagan Gods and Shrines of the Roman Empire, 1986."
+   ]
 }

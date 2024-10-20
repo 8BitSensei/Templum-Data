@@ -1,10 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Longstanton XIX",
-  "location": "England, Cambridgeshire",
-  "description": "A extensive nucleated Roman village site. Dating from 2nd - 4th CE, a possible shrine was identified at the site.",
-  "start": "100",
-  "end": "399",
-  "latitude": "52.28382795479971",
-  "longitude": "0.05936413389786743"
+   "site": "Longstanton XIX",
+   "start": "100",
+   "end": "399",
+   "latitude": "52.28382795479971",
+   "longitude": "0.05936413389786743",
+   "status": "Possible",
+   "location": "England, Cambridgeshire",
+   "tags": "",
+   "description": "A extensive nucleated Roman village site. Dating from 2nd - 4th CE, a possible shrine was identified at the site.",
+   "bibliography": [
+      "Evans, C, and D Mackay. “Longstanton, Cambridgeshire. A Village Hinterland. Archaeological Investigations 2004.” Cambridge Archaeological Unit, 2004. https://doi.org/10.5284/1021794.",
+      "Evans, C, D Mackay, and G Appleby. “Longstanton, Cambridgeshire. A Village Hinterland III. The 2006 Evaluation.” Cambridge Archaeological Unit Report No. 755 (2007). https://doi.org/10.5284/1021795.",
+      "Martyn, Blick, Brindle, and et al. “Longstanton Site XIX (Cambridgeshire).” Longstanton site XIX (Cambridgeshire), 2015. https://doi.org/10.5284/1030449."
+   ]
 }

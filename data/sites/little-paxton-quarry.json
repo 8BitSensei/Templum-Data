@@ -1,8 +1,15 @@
 {
-  "status": "Probable",
-  "site": "Little Paxton Quarry",
-  "location": "England, Cambridgeshire, Diddington",
-  "description": "Salvage excavations in the 80s revealed a site covering the west bank of the river which has been identified as a shrine. A rectangular ditched enclosure with an internal circular foundation trench and a central pit. No sure dating but late Roman coins were found.",
-  "latitude": "52.277891267333956",
-  "longitude": "-0.23467085841506075"
+   "site": "Little Paxton Quarry",
+   "start": "",
+   "end": "",
+   "latitude": "52.277891267333956",
+   "longitude": "-0.23467085841506075",
+   "status": "Probable",
+   "location": "England, Cambridgeshire, Diddington",
+   "tags": "",
+   "description": "Salvage excavations in the 80s revealed a site covering the west bank of the river which has been identified as a shrine. A rectangular ditched enclosure with an internal circular foundation trench and a central pit. No sure dating but late Roman coins were found.",
+   "bibliography": [
+      "Jones, A. “Romano-Celtic Shrine and Settlements and Little Paxton Quarry, Diddington, Cambridgeshire.” The Proceedings of the Cambridge Antiquarian Society 90 (2001): 5–27.",
+      "Martyn, Blick, Brindle, and et al. “Little Paxton Quarry Shrine (Cambridgeshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

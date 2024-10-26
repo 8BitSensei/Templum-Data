@@ -1,10 +1,15 @@
 {
-  "status": "Certain",
-  "site": "Caistor 5",
-  "location": "England, Norfolk, Caistor St Edmund temple",
-  "description": "A Romano-Celtic temple in a walled precinct, just north east of the Roman walled town. Evidence of internal tessellated flooring and altars, a monumental entrance to the temenos, a multi-room building to the north east, and possibly a circular building.",
-  "start": "100",
-  "end": "399",
-  "latitude": "52.587187879183666",
-  "longitude": "1.304921335606447"
+   "site": "Caistor 5",
+   "start": "100",
+   "end": "399",
+   "latitude": "52.587187879183666",
+   "longitude": "1.304921335606447",
+   "status": "Certain",
+   "location": "England, Norfolk, Caistor St Edmund temple",
+   "tags": "",
+   "description": "A Romano-Celtic temple in a walled precinct, just north east of the Roman walled town. Evidence of internal tessellated flooring and altars, a monumental entrance to the temenos, a multi-room building to the north east, and possibly a circular building.",
+   "bibliography": [
+      "Gregory, and Gurney. “Excavations at Thornham, Warham, Wighton and Caistor, Norfolk.” East Anglian Archaeology 30 (1986).",
+      "Martyn, Blick, Brindle, and et al. “Caistor St Edmund Temple (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,10 +1,15 @@
 {
-  "status": "Probable",
-  "site": "Fison Way",
-  "location": "England, Norfolk, Thetford",
-  "description": "Large scaled multi-phase enclosure system that is thought to have operated in at least some religious capacity throughout its life. Earliest features are Middle - Late Iron Age enclosures, one of which surrounded a grave. Went through several phases before it's dismantling around 70 CE. This has occasionally been tied to either the Boudiccan revolt or some retribution immediately following it. Some evidence for re-use in the 3rd and 4th CE, as well as the Thetford treasure being found just to the south.",
-  "start": "-100",
-  "end": "70",
-  "latitude": "52.43141379447168",
-  "longitude": "0.7439557813425057"
+   "site": "Fison Way",
+   "start": "-100",
+   "end": "70",
+   "latitude": "52.43141379447168",
+   "longitude": "0.7439557813425057",
+   "status": "Probable",
+   "location": "England, Norfolk, Thetford",
+   "tags": "",
+   "description": "Large scaled multi-phase enclosure system that is thought to have operated in at least some religious capacity throughout its life. Earliest features are Middle - Late Iron Age enclosures, one of which surrounded a grave. Went through several phases before it's dismantling around 70 CE. This has occasionally been tied to either the Boudiccan revolt or some retribution immediately following it. Some evidence for re-use in the 3rd and 4th CE, as well as the Thetford treasure being found just to the south.",
+   "bibliography": [
+      "Gregory, T. “Excavations in Thetford, 1980-1982, Fison Way.” East Anglian Archaeology 53 (1991).",
+      "Martyn, Blick, Brindle, and et al. “Fison Way, Thetford (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

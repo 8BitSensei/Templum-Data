@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Barnham",
-  "location": "England, Suffolk",
-  "description": "A double ditched rectangular enclosure date to the Late Iron Age. Uncertain interpretation but a human leg was found in one corner, a tentative religious function has been suggested, and the RSRB has thus marked the site as a 'shrine'.",
-  "start": "0",
-  "end": "50",
-  "latitude": "52.36526253462867",
-  "longitude": "0.7379560739632955"
+   "site": "Barnham",
+   "start": "0",
+   "end": "50",
+   "latitude": "52.36526253462867",
+   "longitude": "0.7379560739632955",
+   "status": "Unknown",
+   "location": "England, Suffolk",
+   "tags": "",
+   "description": "A double ditched rectangular enclosure date to the Late Iron Age. Uncertain interpretation but a human leg was found in one corner, a tentative religious function has been suggested, and the RSRB has thus marked the site as a 'shrine'.",
+   "bibliography": [
+      "Martin, Edward A., and Christopher Balkwill. Settlements on Hill-Tops: Seven Prehistoric Sites in Suffolk. East Anglian Archaeology, rept. no. 65. Ipswich, Suffolk: Suffolk County Planning Department, 1993.",
+      "Martyn, Blick, Brindle, and et al. “Barnham (Suffolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

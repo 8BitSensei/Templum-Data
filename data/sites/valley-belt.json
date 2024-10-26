@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Valley Belt",
-  "location": "England, Norfolk, Trowse",
-  "description": "Two small rectangular enclosures of Late Iron Age date, interpreted as 'ceremonial', and so the RSRB has tagged the site as a 'shrine'. Nearby is a Roman iron smelting furnace from mid 2nd - mid 3rd CE.",
-  "start": "-50",
-  "end": "50",
-  "latitude": "52.60628559310065",
-  "longitude": "1.3175598653623037"
+   "site": "Valley Belt",
+   "start": "-50",
+   "end": "50",
+   "latitude": "52.60628559310065",
+   "longitude": "1.3175598653623037",
+   "status": "Possible",
+   "location": "England, Norfolk, Trowse",
+   "tags": "",
+   "description": "Two small rectangular enclosures of Late Iron Age date, interpreted as 'ceremonial', and so the RSRB has tagged the site as a 'shrine'. Nearby is a Roman iron smelting furnace from mid 2nd - mid 3rd CE.",
+   "bibliography": [
+      "Ashwin, T, and S Bates. “Southern Norwich By-Pass, Part 1: Excavations at Bixley, Casitor St Edmunds.” East Anglian Archaeology 91 (2000).",
+      "Martyn, Blick, Brindle, and et al. “Valley Belt, Trowse (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,12 +1,15 @@
 {
-  "start": "early 2nd CE",
-  "bibliography": [],
-  "site": "Hockwold",
-  "latitude": "52.471066979862044",
-  "longitude": "0.48222286925998553",
-  "status": "Possible",
-  "location": "England, Norfolk",
-  "tags": "roman, romano-celtic",
-  "end": "early 5th CE",
-  "description": "A square temple located on the edge of the Fens. It is suggested that the site began in the early or mid 2nd CE, experienced a fire at some point in the early 4th CE and came out of use in the late 4th CE (unrelated to the fire as a new fire was fitted afterwards). "
+   "site": "Hockwold",
+   "start": "early 2nd CE",
+   "end": "early 5th CE",
+   "latitude": "52.471066979862044",
+   "longitude": "0.48222286925998553",
+   "status": "Possible",
+   "location": "England, Norfolk",
+   "tags": "roman, romano-celtic",
+   "description": "A square temple located on the edge of the Fens. It is suggested that the site began in the early or mid 2nd CE, experienced a fire at some point in the early 4th CE and came out of use in the late 4th CE (unrelated to the fire as a new fire was fitted afterwards). ",
+   "bibliography": [
+      "Lewis. Temples in Roman Britain, 1966.",
+      "Journal of Roman Studies 53 (1963): 138 and 160."
+   ]
 }

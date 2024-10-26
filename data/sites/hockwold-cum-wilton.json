@@ -1,10 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Hockwold cum Wilton",
-  "location": "England, Norfolk, Leylands Farm",
-  "description": "A Roman road-side settlement dated between the 2nd and 4th CE. One of the features identified was a circular chalk floor overlaying an earlier filled in pit. The chalk floor contained what has been recognised as priestly regalia, leading to the feature to be identified as a shrine. There was another chalk floored feature nearby.",
-  "start": "100",
-  "end": "399",
-  "latitude": "52.45478496913657",
-  "longitude": "0.5798928544035047"
+   "site": "Hockwold cum Wilton",
+   "start": "100",
+   "end": "399",
+   "latitude": "52.45478496913657",
+   "longitude": "0.5798928544035047",
+   "status": "Possible",
+   "location": "England, Norfolk, Leylands Farm",
+   "tags": "",
+   "description": "A Roman road-side settlement dated between the 2nd and 4th CE. One of the features identified was a circular chalk floor overlaying an earlier filled in pit. The chalk floor contained what has been recognised as priestly regalia, leading to the feature to be identified as a shrine. There was another chalk floored feature nearby.",
+   "bibliography": [
+      "Esposito, Alessandra. Performing the Sacra: Priestly Roles and Their Organisation in Roman Britain. Archaeopress Publishing Ltd, 2019.",
+      "Gurney, David. Settlement, Religion and Industry on the Fen-Edge; Three Romano-British Sites in Norfolk. East Anglian Archaeology, 1986. https://eaareports.org.uk/publication/report31/.",
+      "Martyn, Blick, Brindle, and et al. “Hockwold Cum Wilton, Leylands Farm (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Ashill",
-  "location": "England, Norfolk",
-  "description": "Mid 1st - Late 2nd CE rectangular double ditched enclosure. In the 19th CE three timber lined shafts were discovered with structured deposits inside. These included animal remains, pottery, shoes, among other items, in the enclosure robbed building foundations were identified, and the overall interpretations was that the site was used for religious purposes. The RSRB has identified it as a shrine.",
-  "start": "50",
-  "end": "199",
-  "latitude": "52.615671268923826",
-  "longitude": "0.816921458234821"
+   "site": "Ashill",
+   "start": "50",
+   "end": "199",
+   "latitude": "52.615671268923826",
+   "longitude": "0.816921458234821",
+   "status": "Unknown",
+   "location": "England, Norfolk",
+   "tags": "",
+   "description": "Mid 1st - Late 2nd CE rectangular double ditched enclosure. In the 19th CE three timber lined shafts were discovered with structured deposits inside. These included animal remains, pottery, shoes, among other items, in the enclosure robbed building foundations were identified, and the overall interpretations was that the site was used for religious purposes. The RSRB has identified it as a shrine.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Gregory, T. “The Enclosure at Ashill.” In Norfolk, Various Papers, Vol. 5. East Anglian Archaeology, 1977. https://eaareports.org.uk/publication/report5/."
+   ]
 }

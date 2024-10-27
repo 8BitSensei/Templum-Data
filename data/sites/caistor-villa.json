@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Caistor Villa",
-  "location": "England, Norfolk, Caistor Saint Edmund",
-  "description": "A programme of investigation just to the south of the Roman walled town identified a complex of masonry buildings, including a corridor villa, two aisled buildings, and an unusual winged building. The function of this latter building is unknown, and at least one interpretation put forward is that it was a temple, it is roughly dated to the 2nd - 3rd CE. It was later cut through by an aisled building.",
-  "start": "100",
-  "end": "299",
-  "latitude": "52.56847235203588",
-  "longitude": "1.2891378704737146"
+   "site": "Caistor Villa",
+   "start": "100",
+   "end": "299",
+   "latitude": "52.56847235203588",
+   "longitude": "1.2891378704737146",
+   "status": "Unknown",
+   "location": "England, Norfolk, Caistor Saint Edmund",
+   "tags": "",
+   "description": "A programme of investigation just to the south of the Roman walled town identified a complex of masonry buildings, including a corridor villa, two aisled buildings, and an unusual winged building. The function of this latter building is unknown, and at least one interpretation put forward is that it was a temple, it is roughly dated to the 2nd - 3rd CE. It was later cut through by an aisled building.",
+   "bibliography": [
+      "Bowden, W. “Architectural Innovation in the Land of the Iceni: A New Complex near Venta Icenorum (Norfolk).” Journal of Roman Archaeology 24 (2011): 382–88.",
+      "Martyn, Blick, Brindle, and et al. “Caistor St Edmund Villa (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

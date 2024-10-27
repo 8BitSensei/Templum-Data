@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Boneyard Reeddam",
-  "location": "England, Norfolk, Sedgeford",
-  "description": "A possible Late Iron Age 'shrine' site defined by a series of gullies possibly enclosing a space used for multiple animal and coin depositions. Famously this include a broken cow knee-bone full of Iron Age coins. All of these features lie within a larger series banks and ditches. Coin evidence is used to provide a broad Late Iron Age date.",
-  "start": "-50",
-  "end": "50",
-  "latitude": "52.89792582255232",
-  "longitude": "0.5403558085143526"
+   "site": "Boneyard Reeddam",
+   "start": "-50",
+   "end": "50",
+   "latitude": "52.89792582255232",
+   "longitude": "0.5403558085143526",
+   "status": "Unknown",
+   "location": "England, Norfolk, Sedgeford",
+   "tags": "",
+   "description": "A possible Late Iron Age 'shrine' site defined by a series of gullies possibly enclosing a space used for multiple animal and coin depositions. Famously this include a broken cow knee-bone full of Iron Age coins. All of these features lie within a larger series banks and ditches. Coin evidence is used to provide a broad Late Iron Age date.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Dennis, and Faulkner. The Sedgeford Hoard Tempus, 2005."
+   ]
 }

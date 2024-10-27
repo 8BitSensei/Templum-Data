@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Sedgeford",
-  "location": "England, Norfolk",
-  "description": "Late Iron Age farmstead, that would go onto to be abandoned in the mid 1st CE only to be re-established a little to the south in the late 1st CE. It would then go onto be re-organised multiple times and eventually show evidence of early Saxon settlement. During the Late Iron Age phase a ditched and palisaded structure would be built just to the south that has been interpreted as a shrine. It showed evidence of burning, and the deposition of a torc, vessels, and worked flint. Iron Age and Roman metalwork, including coins, were found in the vicinity.",
-  "latitude": "52.891314140270275",
-  "longitude": "0.5415520739251339"
+   "site": "Sedgeford",
+   "start": "",
+   "end": "",
+   "latitude": "52.891314140270275",
+   "longitude": "0.5415520739251339",
+   "status": "Possible",
+   "location": "England, Norfolk",
+   "tags": "",
+   "description": "Late Iron Age farmstead, that would go onto to be abandoned in the mid 1st CE only to be re-established a little to the south in the late 1st CE. It would then go onto be re-organised multiple times and eventually show evidence of early Saxon settlement. During the Late Iron Age phase a ditched and palisaded structure would be built just to the south that has been interpreted as a shrine. It showed evidence of burning, and the deposition of a torc, vessels, and worked flint. Iron Age and Roman metalwork, including coins, were found in the vicinity.",
+   "bibliography": [
+      "Digging Sedgeford. A Peoples Archaeology, 2014. https://www.poppyland.co.uk/products/B79608A.",
+      "Martyn, Blick, Brindle, and et al. “Valley Belt, Trowse (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

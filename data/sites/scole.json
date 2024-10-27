@@ -1,8 +1,16 @@
 {
-  "site": "Fosters End Drove",
-  "location": "England, Norfolk, East Winch",
-  "status": "Possible",
-  "description": "Romano-British farmstead, the earliest activity is dated to the later 2nd CE, the latest evidence is iron smelting in the 4th CE. A small timber structure was identified as a possible shrine, it included a central post hole with a complete pot placed inside. Dating of the structure is uncertain.",
-  "latitude": "52.70852821325846",
-  "longitude": "0.4905127804049077"
+   "site": "Fosters End Drove",
+   "start": "",
+   "end": "",
+   "latitude": "52.70852821325846",
+   "longitude": "0.4905127804049077",
+   "status": "Possible",
+   "location": "England, Norfolk, East Winch",
+   "tags": "",
+   "description": "Romano-British farmstead, the earliest activity is dated to the later 2nd CE, the latest evidence is iron smelting in the 4th CE. A small timber structure was identified as a possible shrine, it included a central post hole with a complete pot placed inside. Dating of the structure is uncertain.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Fosters End Drove, East Winch (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "McCall, W. “Fosters End Drove, Blackborough End, East Winch, Norfolk. Archaeological Excavation, ‘Strip, Map and Sample’. Quarry Phase 7.” Archaeological Solutions Ltd AS Report No: 3453 (2009). https://doi.org/10.5284/1005903.",
+      "Nicholson, Lally. M., and K Woolhouse. “Fosters End Drove, Blackborough End, East Winch, Norfolk. Research Archive Report.” Archaeological Solutions Ltd. AS Report No: 2922 (2008). https://doi.org/10.5284/1005993."
+   ]
 }

@@ -1,9 +1,16 @@
 {
-  "status": "Probable",
-  "site": "Scole",
-  "location": "England, Norfolk, A143 Scole-Stuston Bypass",
-  "description": "Roman nucleated settlement with a Romano-Celtic type temple identified. Two ditches run parallel to the temple and contained large amounts of cremated animal bones and urns. The settlement appears to have been abandoned in the later 3rd CE, but the temple could have been earlier. Unclear dating as to its construction.",
-  "end": "299",
-  "latitude": "52.36272449099256",
-  "longitude": "1.160207505247607"
+   "site": "Scole",
+   "start": "",
+   "end": "299",
+   "latitude": "52.36272449099256",
+   "longitude": "1.160207505247607",
+   "status": "Probable",
+   "location": "England, Norfolk, A143 Scole-Stuston Bypass",
+   "tags": "",
+   "description": "Roman nucleated settlement with a Romano-Celtic type temple identified. Two ditches run parallel to the temple and contained large amounts of cremated animal bones and urns. The settlement appears to have been abandoned in the later 3rd CE, but the temple could have been earlier. Unclear dating as to its construction.",
+   "bibliography": [
+      "Barritt, E. “Assessment Report. A143 Scole-Stuston Bypass. Bury St Edmund’s.” Suffolk County Council Archaeological Service SCCAS Report No.1995/38 (1995). https://doi.org/10.5284/1022029.",
+      "Martyn, Blick, Brindle, and et al. “Scole, A143 Scole-Stuston Bypass (Norfolk).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "West, S. “A143 Scole Stuston Bypass June 1995.” NAU Archaeology, 1995. https://doi.org/10.5284/1021931."
+   ]
 }

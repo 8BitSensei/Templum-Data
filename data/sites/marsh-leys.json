@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Marsh Leys",
-  "location": "England, Bedfordshire, Kempston, Farmstead 2/4",
-  "description": "Late Iron Age - Early Roman Farmstead, with a central enclosure and rectangular building. Based on morphology this has been suggested to be a shrine. The abandonment of the site is uncertain, but the RSRB suggests it did not last long into the 4th CE.",
-  "start": "-50",
-  "latitude": "52.10154570756993",
-  "longitude": "-0.5006054996355079"
+   "site": "Marsh Leys",
+   "start": "-50",
+   "end": "",
+   "latitude": "52.10154570756993",
+   "longitude": "-0.5006054996355079",
+   "status": "Possible",
+   "location": "England, Bedfordshire, Kempston, Farmstead 2/4",
+   "tags": "",
+   "description": "Late Iron Age - Early Roman Farmstead, with a central enclosure and rectangular building. Based on morphology this has been suggested to be a shrine. The abandonment of the site is uncertain, but the RSRB suggests it did not last long into the 4th CE.",
+   "bibliography": [
+      "Luke, and T Preece. “Farm and Forge: Late Iron Age/Romano-British Farmsteads at Marsh Leys, Kempston.” Bedfordshire East Anglian Archaeology 138 (2011).",
+      "Martyn, Blick, Brindle, and et al. “Marsh Leys, Kempston, Farmstead 2/4 (Bedfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Kempston Church End",
-  "location": "England, Bedforshire, Kempston",
-  "description": "Late 1st CE nucleated roadside settlement. Expansion in the 3rd CE included a polygonal masonry building that has been interpreted as a shrine. Uncertain how long the structure lasted, but the settlement has evidence for early Saxon settlement and thought to have lasted until the early 5th CE.",
-  "start": "200",
-  "latitude": "52.11926102532578",
-  "longitude": "-0.5204042449760002"
+   "site": "Kempston Church End",
+   "start": "200",
+   "end": "",
+   "latitude": "52.11926102532578",
+   "longitude": "-0.5204042449760002",
+   "status": "Possible",
+   "location": "England, Bedforshire, Kempston",
+   "tags": "",
+   "description": "Late 1st CE nucleated roadside settlement. Expansion in the 3rd CE included a polygonal masonry building that has been interpreted as a shrine. Uncertain how long the structure lasted, but the settlement has evidence for early Saxon settlement and thought to have lasted until the early 5th CE.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Archaeology, Albion. “Land West of Bedford: Assessment of Potential and Updated Project Design.” Archaeology Data Service, 2010. https://doi.org/10.5284/1019892."
+   ]
 }

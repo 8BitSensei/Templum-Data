@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Luton Road",
-  "location": "England, Bedfordshire, Wilstead",
-  "description": "Late Roman enclosure, excavation revealed a 'special' deposit, which was associated with sheep sacrifice, leading the enclosure to be interpreted as some kind of religious focus, and the RSRB to identify it as a shrine. The whole enclosure replaced an earlier farmstead originating in the Iron Age.",
-  "latitude": "52.076109792999375",
-  "longitude": " -0.45107487912382377"
+   "site": "Luton Road",
+   "start": "",
+   "end": "",
+   "latitude": "52.076109792999375",
+   "longitude": " -0.45107487912382377",
+   "status": "Possible",
+   "location": "England, Bedfordshire, Wilstead",
+   "tags": "",
+   "description": "Late Roman enclosure, excavation revealed a 'special' deposit, which was associated with sheep sacrifice, leading the enclosure to be interpreted as some kind of religious focus, and the RSRB to identify it as a shrine. The whole enclosure replaced an earlier farmstead originating in the Iron Age.",
+   "bibliography": [
+      "Luke, M, and T Preece. “Iron Age, Roman and Saxo-Norman Settlement on the Oxford Clay at Luton Road.” Bedfordshire Archaeology 26 (n.d.).",
+      "Martyn, Blick, Brindle, and et al. “Luton Road, Wilstead (Bedfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

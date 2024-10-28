@@ -1,8 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "The Dog Hole",
-  "location": "England, Cumbria, Haverbrack",
-  "description": "A limestone cavern in southern Cumbria with a broad range of evidence for depositional activity. This includes ornaments, axe heads, brooch an studs, beads, animal, and human remains. There is debate about the dating of the finds and how they got there, but the RSRB tentatively suggests ritual activity, and goes on to tag the site as a 'shrine'. The earliest and latest dates suggested are 1st BCE and 9th CE.",
-  "latitude": "54.21532412751116",
-  "longitude": "-2.795098278468366"
+   "site": "The Dog Hole",
+   "start": "",
+   "end": "",
+   "latitude": "54.21532412751116",
+   "longitude": "-2.795098278468366",
+   "status": "Unknown",
+   "location": "England, Cumbria, Haverbrack",
+   "tags": "",
+   "description": "A limestone cavern in southern Cumbria with a broad range of evidence for depositional activity. This includes ornaments, axe heads, brooch an studs, beads, animal, and human remains. There is debate about the dating of the finds and how they got there, but the RSRB tentatively suggests ritual activity, and goes on to tag the site as a 'shrine'. The earliest and latest dates suggested are 1st BCE and 9th CE.",
+   "bibliography": [
+      "Benson, D, and K Bland. “The Dog Hole, Haverbrack.” Transactions of the Cumberland and Westmorland Antiquarian and Archaeological Society 63 (1963): 6–13. https://archaeologydataservice.ac.uk/library/browse/series.xhtml?recordId=1000240.",
+      "Martyn, Blick, Brindle, and et al. “The Dog Hole, Haverbrack (Cumbria).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

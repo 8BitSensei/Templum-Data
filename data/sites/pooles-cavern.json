@@ -1,10 +1,17 @@
 {
-  "status": "Unlikely",
-  "site": "Poole's Cavern",
-  "location": "England, Derbyshire, Buxton",
-  "description": "A long tunnel like cave that has provided abundant Roman artefacts primarily metalwork from the 2nd - early 3rd CE. The cave has been at times identified as a 'shrine' with an emphasis on deposition of metalwork within a pool inside the cave, but this doesn't seem likely, even to the RSRB.",
-  "start": "100",
-  "end": "225",
-  "latitude": "53.24996879450709",
-  "longitude": "-1.9266220249552646"
+   "site": "Poole's Cavern",
+   "start": "100",
+   "end": "225",
+   "latitude": "53.24996879450709",
+   "longitude": "-1.9266220249552646",
+   "status": "Unlikely",
+   "location": "England, Derbyshire, Buxton",
+   "tags": "",
+   "description": "A long tunnel like cave that has provided abundant Roman artefacts primarily metalwork from the 2nd - early 3rd CE. The cave has been at times identified as a 'shrine' with an emphasis on deposition of metalwork within a pool inside the cave, but this doesn't seem likely, even to the RSRB.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Branigan, Keith, and Justine Bayley. “The Romano-British Metalwork from Poole’s Cavern, Buxton.” The Derbyshire Archaeological Journal 109 (2008): 3450. https://doi.org/10.5284/1066502.",
+      "Dalton, Keith, D Bramwell, J F Drinkwater, M W C Hassall, Donald F Mackreth, and K L Lorimer. “Excavations at Poole’s Cavern. Buxton: An Interim Report.” The Derbyshire Archaeological Journal 103 (2008): 4774. https://doi.org/10.5284/1066462.",
+      "Smithson, Peter, and Keith Branigan. “Poole’s Cavern, Buxton: Investigation of a Romano-British Working Environment.” The Derbyshire Archaeological Journal 111 (2002): 4045. https://doi.org/10.5284/1066519."
+   ]
 }

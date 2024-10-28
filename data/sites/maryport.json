@@ -1,8 +1,17 @@
 {
-  "status": "Certain",
-  "site": "Maryport",
-  "location": "England, Cumbria",
-  "description": "Extensive settlement (vicus) associated with the Roman fort of Maryport. In the field north east to the fort, at its highest point a rectangular and circular building were identified, along with associated burials and a funeral pyre. Two shrines were also found nearby in 1880. These two buildings are generally accepted to be temples.",
-  "latitude": "54.72261356704838",
-  "longitude": "-3.490137052946069"
+   "site": "Maryport",
+   "start": "",
+   "end": "",
+   "latitude": "54.72261356704838",
+   "longitude": "-3.490137052946069",
+   "status": "Certain",
+   "location": "England, Cumbria",
+   "tags": "",
+   "description": "Extensive settlement (vicus) associated with the Roman fort of Maryport. In the field north east to the fort, at its highest point a rectangular and circular building were identified, along with associated burials and a funeral pyre. Two shrines were also found nearby in 1880. These two buildings are generally accepted to be temples.",
+   "bibliography": [
+      "Biggins, A. J., and D. J. A. Taylor. “Romans on the Solway: Essays in Honour of Richard Bellhouse.” In The Roman Fort and Vicus at Maryport: Geophysical Survey, 2000-2004, Vol. XXXI. Cumberland and Westmorland Antiquarian and Archaeological Society Extra Series, 2004.",
+      "Collingwood. “The Roman Fort and Settlement at Maryport.” Transactions of the Cumberland and Westmorland Antiquarian and Archaeological Society 36 (1936).",
+      "Martyn, Blick, Brindle, and et al. “Maryport (Cumbria).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Robinson. “Notes on the Excavations near the Roman Camp, Maryport, during the Year 1880.” Transactions of the Cumberland and Westmorland Antiquarian and Archaeological Society 5 (1881)."
+   ]
 }

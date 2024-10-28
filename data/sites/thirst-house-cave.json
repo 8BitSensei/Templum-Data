@@ -1,10 +1,15 @@
 {
-  "status": "Unlikely",
-  "site": "Thirst House Cave",
-  "location": "England, Derbyshire, Deepdale",
-  "description": "A Roman cave site, the majority of the material has been dated from the late 1st CE to mid-late 3rd CE. Activity is hard to define but a large amount of the material appears to be fine metalworking, with some evidence of domestic occupation and burial. Ritual use for the site has been suggested before, so the RSRB lists it as a 'shrine', but this has largely been dismissed.",
-  "start": "75",
-  "end": "275",
-  "latitude": "53.238020663465186",
-  "longitude": "-1.856303292367302"
+   "site": "Thirst House Cave",
+   "start": "75",
+   "end": "275",
+   "latitude": "53.238020663465186",
+   "longitude": "-1.856303292367302",
+   "status": "Unlikely",
+   "location": "England, Derbyshire, Deepdale",
+   "tags": "",
+   "description": "A Roman cave site, the majority of the material has been dated from the late 1st CE to mid-late 3rd CE. Activity is hard to define but a large amount of the material appears to be fine metalworking, with some evidence of domestic occupation and burial. Ritual use for the site has been suggested before, so the RSRB lists it as a 'shrine', but this has largely been dismissed.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Branigan, K, and M. J. Dearne. “The Small Finds from Thirst House Cave, Deepdale.” In Recent Developments in the Archaeology of the Peak District, 85–110. Sheffield Archaeological Monographs 2, 1991."
+   ]
 }

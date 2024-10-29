@@ -1,8 +1,12 @@
 {
-  "status": "Unknown",
-  "site": "Neigh Bridge",
-  "location": "England, Gloucstershire, Somerford Keynes",
-  "description": "A Late Iron Age - Roman farmstead beginning some time in the early 1st CE, it is uncertain how long the settlement lasted but activity is evidenced by finds in the 4th CE. Based on the character of finds it has been suggested that a 'shrine' is present, possibly in an unexcavated zone.",
-  "latitude": "51.64961205790863",
-  "longitude": "-1.973041744624491"
+   "site": "Neigh Bridge",
+   "start": "",
+   "end": "",
+   "latitude": "51.64961205790863",
+   "longitude": "-1.973041744624491",
+   "status": "Unknown",
+   "location": "England, Gloucstershire, Somerford Keynes",
+   "tags": "",
+   "description": "A Late Iron Age - Roman farmstead beginning some time in the early 1st CE, it is uncertain how long the settlement lasted but activity is evidenced by finds in the 4th CE. Based on the character of finds it has been suggested that a 'shrine' is present, possibly in an unexcavated zone.",
+   "bibliography": []
 }

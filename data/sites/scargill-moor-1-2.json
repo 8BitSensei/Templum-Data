@@ -1,10 +1,20 @@
 {
-  "status": "Certain",
-  "site": "Scargill Moor 1 & 2",
-  "location": "England, Durham, Bowes",
-  "description": "Two masonry shrines 3km south of the Roman fort of Bowes, one circular and the other rectangular. Both were associated with altars, dating evidence indicates a 2nd - 3rd CE date.",
-  "start": "100",
-  "end": "299",
-  "latitude": "54.488881866666595",
-  "longitude": "-2.006234704283551"
+   "site": "Scargill Moor 1 \u0026 2",
+   "start": "100",
+   "end": "299",
+   "latitude": "54.488881866666595",
+   "longitude": "-2.006234704283551",
+   "status": "Certain",
+   "location": "England, Durham, Bowes",
+   "tags": "",
+   "description": "Two masonry shrines 3km south of the Roman fort of Bowes, one circular and the other rectangular. Both were associated with altars, dating evidence indicates a 2nd - 3rd CE date.",
+   "bibliography": [
+      "Greene, D. “Roman Yorkshire, A Roman Shrine to Silvanus on Scargill Moor near Bowes.” Yorkshire Archaeoological Journal 36 (1947): 383 ff.",
+      "———. “Roman Yorkshire, Two Roman Shrines to Vinotus on Scargill Moor, near Nowes.” Yorkshire Archaeoological Journal 37 (1948): 107 ff.",
+      "Martyn, Blick, Brindle, and et al. “Scargill Moor, Bowes (Durham).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "“Roman Britain in 1945.” Journal of Roman Studies 36 (1946): 146.",
+      "Wright, R. P. “Roman Britain in 1946: I. Sites Explored: II. Inscriptions.” Journal of Roman Studies 37 (1947): 179.",
+      "———. “Roman Britain in 1947: I. Sites Explored: II. Inscriptions.” Journal of Roman Studies 38 (1948): 86, 100.",
+      "Durham University Journal 9 (n.d.): 56 ff."
+   ]
 }

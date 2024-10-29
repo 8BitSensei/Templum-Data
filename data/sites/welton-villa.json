@@ -1,10 +1,12 @@
 {
-  "status": "Possible",
-  "site": "Welton villa",
-  "location": "England, East Riding",
-  "description": "Extensive villa site, but not yet well published. Built some time in the beginning of the 2nd CE on the site of earlier Late Iron Age occupation. Reportedly the site included a structure interpreted as a temple-mausoleum. The villa lasted until its abandonment in the early 5th CE.",
-  "start": "100",
-  "end": "425",
-  "latitude": "53.737629614613525",
-  "longitude": "-0.5239362408510595"
+   "site": "Welton villa",
+   "start": "100",
+   "end": "425",
+   "latitude": "53.737629614613525",
+   "longitude": "-0.5239362408510595",
+   "status": "Possible",
+   "location": "England, East Riding",
+   "tags": "",
+   "description": "Extensive villa site, but not yet well published. Built some time in the beginning of the 2nd CE on the site of earlier Late Iron Age occupation. Reportedly the site included a structure interpreted as a temple-mausoleum. The villa lasted until its abandonment in the early 5th CE.",
+   "bibliography": []
 }

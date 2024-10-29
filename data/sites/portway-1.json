@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Portway",
-  "location": "England, Gloucestershire",
-  "description": "Complex Romano-British farmstead established in the early 2nd CE. A rectangular timber building on the roadside, followed by a polygonal masonry building in the mid 2nd CE, these structures have been interpreted as a wayside shrine. Later the site experienced a decline but still showed occupation in the 4th CE.",
-  "start": "100",
-  "latitude": "51.83433819805982",
-  "longitude": "-2.2059674169011374"
+   "site": "Portway",
+   "start": "100",
+   "end": "",
+   "latitude": "51.83433819805982",
+   "longitude": "-2.2059674169011374",
+   "status": "Possible",
+   "location": "England, Gloucestershire",
+   "tags": "",
+   "description": "Complex Romano-British farmstead established in the early 2nd CE. A rectangular timber building on the roadside, followed by a polygonal masonry building in the mid 2nd CE, these structures have been interpreted as a wayside shrine. Later the site experienced a decline but still showed occupation in the 4th CE.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Portway (Gloucestershire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rawes. “The Romano-British Site on the Portway, near Gloucester.” Trans Bristol and Gloucestershire Archaeological Society 102 (1984)."
+   ]
 }

@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Land East of Vaynor Farm Llanddowror",
-  "location": "Wales, Dyfed",
-  "latitude": "51.799854096015395",
-  "longitude": "-4.542311604033135",
-  "start": "130",
-  "end": "260",
-  "description": "Roman activity within an earlier henge monument. Deposits of cremated animal remains and grain, as well as two four post structures within the henge. Ritual or funerary use has been suggested, but only tentatively. The RSRB marks it as a 'shrine'. Dating comes from pottery and carbon dates."
+   "site": "Land East of Vaynor Farm Llanddowror",
+   "start": "130",
+   "end": "260",
+   "latitude": "51.799854096015395",
+   "longitude": "-4.542311604033135",
+   "status": "Possible",
+   "location": "Wales, Dyfed",
+   "tags": "",
+   "description": "Roman activity within an earlier henge monument. Deposits of cremated animal remains and grain, as well as two four post structures within the henge. Ritual or funerary use has been suggested, but only tentatively. The RSRB marks it as a 'shrine'. Dating comes from pottery and carbon dates.",
+   "bibliography": [
+      "Barber. “South Wales Gas Pipeline Project, Site 503, Land East of Vaynor Farm, Llanddowror, Carmarthenshire,” 2014. 13328 https://doi.org/10.5284/1035244.",
+      "Martyn, Blick, Brindle, and et al. “Land East of Vaynor Farm Llanddowror (Dyfed).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

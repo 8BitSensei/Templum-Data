@@ -1,10 +1,16 @@
 {
-  "status": "Possible",
-  "latitude": "51.616453043956014",
-  "longitude": "-2.7592825232482",
-  "site": "Castle Tump",
-  "location": "Wales, Monmouthshire, Caerwent, Whitwell Brake",
-  "description": "Large Roman complex of buildings, originally thought to be a villa, but more recent excavations have suggested that it is a religious complex. Occupation is thought to be between the 3rd and 4th CE.",
-  "start": "200",
-  "end": "399"
+   "site": "Castle Tump",
+   "start": "200",
+   "end": "399",
+   "latitude": "51.616453043956014",
+   "longitude": "-2.7592825232482",
+   "status": "Possible",
+   "location": "Wales, Monmouthshire, Caerwent, Whitwell Brake",
+   "tags": "",
+   "description": "Large Roman complex of buildings, originally thought to be a villa, but more recent excavations have suggested that it is a religious complex. Occupation is thought to be between the 3rd and 4th CE.",
+   "bibliography": [
+      "Evans, and Locock. “RAF Caerwent Archaeological Desk-Based Assessment,” 1994. https://doi.org/10.5284/1037300.",
+      "Martyn, Blick, Brindle, and et al. “Castle Tump, Whitwell Brake, Caerwent (Glamorgan-Gwent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "“Time Heals: Digging Caerwent with Operation Nightingale.” Current Archaeology, 2013. https://archaeology.co.uk/articles/time-heals-digging-caerwent-with-operation-nightingale.htm."
+   ]
 }

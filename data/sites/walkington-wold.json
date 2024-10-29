@@ -1,10 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Walkington Wold",
-  "location": "England, Yorkshire, East Riding",
-  "description": "4th CE Roman re-use of Bronze Age barrows, previously interpreted as a signal-station but now thought to be a templle.",
-  "latitude": "53.80885857837267",
-  "start": "300",
-  "end": "399",
-  "longitude": "-0.5406500130353481"
+   "site": "Walkington Wold",
+   "start": "300",
+   "end": "399",
+   "latitude": "53.80885857837267",
+   "longitude": "-0.5406500130353481",
+   "status": "Possible",
+   "location": "England, Yorkshire, East Riding",
+   "tags": "",
+   "description": "4th CE Roman re-use of Bronze Age barrows, previously interpreted as a signal-station but now thought to be a templle.",
+   "bibliography": [
+      "Bailey. “Late Roman Signal Station, or Temple?” Yorkshire Archaeological Journal 57 (1985).",
+      "Bartlett, and Mackey. “Excavations of Bronze Age Barrows with Later Re-Use on Walkington Wold, 1967-9.” East Riding Archaeologist 1(2) (1973).",
+      "Martyn, Blick, Brindle, and et al. “Walkington Wold (East Riding).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Dubby Sike",
-  "location": "England, Durham",
-  "description": "A Late Iron Age settlement of the east bank of the Dubby Sike. A circular structure in the settlement was interpreted as a ring-cairn, with three shallow pits containing charcoal. This was interpreted as having a ceremonial purpose, and so the RSRB marks the site as a 'shrine'. It is thought that the settlement was only used in the summer months.",
-  "start": "-50",
-  "end": "50",
-  "latitude": "54.67578963378055",
-  "longitude": "-2.3200853384633606"
+   "site": "Dubby Sike",
+   "start": "-50",
+   "end": "50",
+   "latitude": "54.67578963378055",
+   "longitude": "-2.3200853384633606",
+   "status": "Unknown",
+   "location": "England, Durham",
+   "tags": "",
+   "description": "A Late Iron Age settlement of the east bank of the Dubby Sike. A circular structure in the settlement was interpreted as a ring-cairn, with three shallow pits containing charcoal. This was interpreted as having a ceremonial purpose, and so the RSRB marks the site as a 'shrine'. It is thought that the settlement was only used in the summer months.",
+   "bibliography": [
+      "Coffins, and Gidney. “A Late Prehistoric Site at Dubby Sike, Upper Teesdale, Co Durham.” Durham Archaeological Journal 4 (1988).",
+      "Martyn, Blick, Brindle, and et al. “Dubby Sike (Durham).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

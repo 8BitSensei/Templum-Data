@@ -1,10 +1,15 @@
 {
-  "status": "Unlikely",
-  "site": "Leaze farm",
-  "location": "England, Gloucestershire, Lechlade, Kelmscott Road",
-  "description": "Series of cropmarks and ditches, primarily understood as a field system. Wide spread of metal finds were recovered providing a 2nd - 4th CE date with some hints at earlier occupation based on coin finds. Based on the nature of the finds the RSRB has put forward the possibility they are a ritual deposit, and has tagged the site as a 'shrine', despite any structural evidence.",
-  "start": "100",
-  "end": "399",
-  "latitude": "51.68778660941404",
-  "longitude": "-1.670133211432891"
+   "site": "Leaze farm",
+   "start": "100",
+   "end": "399",
+   "latitude": "51.68778660941404",
+   "longitude": "-1.670133211432891",
+   "status": "Unlikely",
+   "location": "England, Gloucestershire, Lechlade, Kelmscott Road",
+   "tags": "",
+   "description": "Series of cropmarks and ditches, primarily understood as a field system. Wide spread of metal finds were recovered providing a 2nd - 4th CE date with some hints at earlier occupation based on coin finds. Based on the nature of the finds the RSRB has put forward the possibility they are a ritual deposit, and has tagged the site as a 'shrine', despite any structural evidence.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Services, John Moore Heritage. “An Archaeological Investigation at Leaze Farm, Kelmscott Road, Lechlade.” Archaeology Data Service, 2001. https://doi.org/10.5284/1029014."
+   ]
 }

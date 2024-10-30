@@ -1,10 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Wortley",
-  "location": "England, Gloucestershire, Wotton-under-Edge",
-  "description": "A 1st CE corridor villa site which appears to have continued in use into the post-roman period despite significant modification. A cella in the villa was identified as a possible cult room, the room went out of use around 360 CE with several deposits interpreted as a 'rite of termination'.",
-  "start": "50",
-  "end": "360",
-  "latitude": "51.62452602347186",
-  "longitude": "-2.340900272698288"
+   "site": "Wortley",
+   "start": "50",
+   "end": "360",
+   "latitude": "51.62452602347186",
+   "longitude": "-2.340900272698288",
+   "status": "Possible",
+   "location": "England, Gloucestershire, Wotton-under-Edge",
+   "tags": "",
+   "description": "A 1st CE corridor villa site which appears to have continued in use into the post-roman period despite significant modification. A cella in the villa was identified as a possible cult room, the room went out of use around 360 CE with several deposits interpreted as a 'rite of termination'.",
+   "bibliography": [
+      "Bagnall, and Taylor. “Wortley Romano-British Villa Site: Reconstructing Painted Wall Plaster Found in the Cellar.” Trans Bristol and Gloucestershire Archaeology Society 129 (2011).",
+      "Martyn, Blick, Brindle, and et al. “Wortley, Wotton-under-Edge (Gloucestershire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Wilson, Bagnall, and Taylor. “Report on the Excavation of a Romano-British Site at Wortley, South Gloucestershire.” South Gloucestershire British Archaeological Reports (British Series) 591 (2014)."
+   ]
 }

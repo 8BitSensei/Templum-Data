@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Agricultural House",
-  "location": "England, Gloucestershire, Gloucester, Sandhurst Lane",
-  "description": "A Late Iron Age metalled area with a large stone-lined pit. The pit and surface were associated with pottery and brooches, this lead to a ritual interpretation, and for the RSRB to mark it as a 'shrine'. During the Roman period a for would be built just to the south and the pit would be backfilled, the area becoming what appears to be animal enclosures, and later a market.",
-  "start": "-50",
-  "end": "50",
-  "latitude": "51.87680809451141",
-  "longitude": "-2.2417460995620506"
+   "site": "Agricultural House",
+   "start": "-50",
+   "end": "50",
+   "latitude": "51.87680809451141",
+   "longitude": "-2.2417460995620506",
+   "status": "Possible",
+   "location": "England, Gloucestershire, Gloucester, Sandhurst Lane",
+   "tags": "",
+   "description": "A Late Iron Age metalled area with a large stone-lined pit. The pit and surface were associated with pottery and brooches, this lead to a ritual interpretation, and for the RSRB to mark it as a 'shrine'. During the Roman period a for would be built just to the south and the pit would be backfilled, the area becoming what appears to be animal enclosures, and later a market.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Gloucestershire County Council Archaeology Service. “Land to the Rear of Agricultural House, Sandhurst Lane,Gloucester. Archaeological Excvaations March to November 1989.” Archaeology Data Service, 1989. https://doi.org/10.5284/1029036."
+   ]
 }

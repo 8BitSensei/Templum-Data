@@ -1,10 +1,20 @@
 {
-  "status": "Possible",
-  "site": "Bourton-on-the-water",
-  "location": "England,  Gloucestershire",
-  "description": "Roman roadside settlement that appears to have developed around and from the core of the Late Iron Age oppidum of Salmonsbury just to the east. A masonry circular structure is interpreted as a shrine with limited evidence. Occupation dates are suggested to be late 1st o late 4th CE.",
-  "start": "75",
-  "end": "375",
-  "latitude": "51.88744121725737",
-  "longitude": "-1.7676043088258648"
+   "site": "Bourton-on-the-water",
+   "start": "75",
+   "end": "375",
+   "latitude": "51.88744121725737",
+   "longitude": "-1.7676043088258648",
+   "status": "Possible",
+   "location": "England,  Gloucestershire",
+   "tags": "",
+   "description": "Roman roadside settlement that appears to have developed around and from the core of the Late Iron Age oppidum of Salmonsbury just to the east. A masonry circular structure is interpreted as a shrine with limited evidence. Occupation dates are suggested to be late 1st o late 4th CE.",
+   "bibliography": [
+      "Catchpole, T. “Archaeological Evaluation at Lansdown, Bourton-on-the-Water, Gloucestershire, October 1992.” Gloucestershire County Council Archaeology Service, 1992. https://doi.org/10.5284/1029013.",
+      "Donova. “Roman Finds in Bourton on the Water, Gloucestershire.” Trans Bristol and Gloucestershire Archaeological Society 57 (1935).",
+      "Martyn, Blick, Brindle, and et al. “Bourton-on-the-Water (Gloucestershire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "———. “Bourton-on-the-Water, Lower Slaughter (Chessels).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "O’Neil, H. E. “Bourton Bridge Posting House.” Transactions of the Bristol and Gloucestershire Archaeological Society 91 (1972).",
+      "———. “The Roman Settlement on the Fosse Way at Bourton Bridge, Bourton-on-the-Water, Gloucestershire.” Transactions of the Bristol and Gloucestershire Archaeological Society 87 (1968).",
+      "Timby. “Excavations at Kingscote and Wycomb, Gloucestershire (1998).” Cotswold Archaeology Monograph, 1998."
+   ]
 }

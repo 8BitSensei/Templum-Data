@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Partney bypass",
-  "location": "England, Lincolnshire",
-  "description": "Middle Iron Age to Roman settlement. During a Late Iron Age phase of construction a sub-rectangular enclosure with another sub-rectangular enclosure at its centre was constructed, this is interpreted as a shrine, presumably on morphological grounds. It appears to have gone out of use in the early 2nd CE.",
-  "start": "-50",
-  "end": "125",
-  "latitude": "53.19799403198844",
-  "longitude": "0.10739998776535284"
+   "site": "Partney bypass",
+   "start": "-50",
+   "end": "125",
+   "latitude": "53.19799403198844",
+   "longitude": "0.10739998776535284",
+   "status": "Unknown",
+   "location": "England, Lincolnshire",
+   "tags": "",
+   "description": "Middle Iron Age to Roman settlement. During a Late Iron Age phase of construction a sub-rectangular enclosure with another sub-rectangular enclosure at its centre was constructed, this is interpreted as a shrine, presumably on morphological grounds. It appears to have gone out of use in the early 2nd CE.",
+   "bibliography": [
+      "Atkins. Partney Bypass, Lincolnshire. Post Excavation Assessment and Updated Project Design. Vol. 1, 2005. https://doi.org/10.5284/1014883.",
+      "Martyn, Blick, Brindle, and et al. “Partney Bypass, Sites PTN3 04, PTN5 04, PTN 9 04 (Lincolnshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

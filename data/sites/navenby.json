@@ -1,10 +1,18 @@
 {
-  "status": "Unknown",
-  "site": "Navenby",
-  "location": "England, Lincolnshire, Chapel Heath",
-  "description": "Roadside nucleated settlement dated from the early Roman period to the late 3rd or early 4th CE. A polygonal structure was identified which may be a shrine, it was demolished in the 3rd CE.",
-  "start": "50",
-  "end": "299",
-  "latitude": "53.10540868104745",
-  "longitude": "-0.5187271876172118"
+   "site": "Navenby",
+   "start": "50",
+   "end": "299",
+   "latitude": "53.10540868104745",
+   "longitude": "-0.5187271876172118",
+   "status": "Unknown",
+   "location": "England, Lincolnshire, Chapel Heath",
+   "tags": "",
+   "description": "Roadside nucleated settlement dated from the early Roman period to the late 3rd or early 4th CE. A polygonal structure was identified which may be a shrine, it was demolished in the 3rd CE.",
+   "bibliography": [
+      "“Archaeological Watching Brief at Coleby to Wellingore Pipeline (Also Known as Wellingore to Navenby) , Lincolnshire.,” 1999. https://doi.org/10.5284/1012731.",
+      "“Archaeological Watching Brief Report. Ermine Street, Navenby, Lincolnshire. Central Lincs Trunk Main Rehabilitation Phase 1.,” 2000. https://doi.org/10.5284/1015430.",
+      "“Land West of Ermine Street, Chapel Heath, Navenby, Lincolnshire. Archaeological Evaluation.,” 2001. https://doi.org/10.5284/1015538.",
+      "Martyn, Blick, Brindle, and et al. “Navenby, Chapel Heath (Lincolnshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Palmer-Brown. “Chapel Heath, Navenby. Archaeological Evaluation Report.,” 1994. https://doi.org/10.5284/1013483."
+   ]
 }

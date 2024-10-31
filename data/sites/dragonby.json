@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Dragonby",
-  "location": "England, Lincolnshire",
-  "description": "Late Iron Age to Roman nucleated settlement. Dated from 100 BCE to the 4th CE (with some evidence of early medieval activity), but with a period of abandonment immediately after the conquest, which is thought to be due to a Roman siege of the settlement. Iron Age 'votive' objects and Roman Venus figurines found are used to suggest that a shrine or temple had been present on the site.",
-  "start": "-100",
-  "end": "399",
-  "latitude": "53.61290160405173",
-  "longitude": "-0.6333696197254616"
+   "site": "Dragonby",
+   "start": "-100",
+   "end": "399",
+   "latitude": "53.61290160405173",
+   "longitude": "-0.6333696197254616",
+   "status": "Possible",
+   "location": "England, Lincolnshire",
+   "tags": "",
+   "description": "Late Iron Age to Roman nucleated settlement. Dated from 100 BCE to the 4th CE (with some evidence of early medieval activity), but with a period of abandonment immediately after the conquest, which is thought to be due to a Roman siege of the settlement. Iron Age 'votive' objects and Roman Venus figurines found are used to suggest that a shrine or temple had been present on the site.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "“Dragonby: A Report on Excavations at an Iron Age and Romano-British Settlement in North Lincolnshire: No. 61 (Oxbow Monographs in Archaeology) - May, Jeffrey: 9781900188142 - AbeBooks.” Accessed October 31, 2024. https://www.abebooks.co.uk/9781900188142/Dragonby-Report-Excavations-Iron-Age-1900188147/plp."
+   ]
 }

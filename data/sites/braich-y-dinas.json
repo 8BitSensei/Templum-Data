@@ -1,10 +1,20 @@
 {
-  "status": "Unknown",
-  "site": "Braich y Dinas",
-  "location": "Wales, Gwynedd, Penmaenmawr",
-  "description": "Multivallate hillfort, now destroyed. Apparently dated primarily to 100 - 400 CE, though with some Late Iron Age artefacts present. The hillfort summit was made up of a series of enclosures, mostly containing roundhouses and showing domestic activity, but the innermost enclosure had no structures but four Bronze Age barrows. This has led to the suggestion that the inner-most enclosure was considered sacred, and potentially a 'shrine'.",
-  "start": "100",
-  "end": "400",
-  "latitude": "53.25819966973772",
-  "longitude": "-3.9487019309251363"
+   "site": "Braich y Dinas",
+   "start": "100",
+   "end": "400",
+   "latitude": "53.25819966973772",
+   "longitude": "-3.9487019309251363",
+   "status": "Unknown",
+   "location": "Wales, Gwynedd, Penmaenmawr",
+   "tags": "",
+   "description": "Multivallate hillfort, now destroyed. Apparently dated primarily to 100 - 400 CE, though with some Late Iron Age artefacts present. The hillfort summit was made up of a series of enclosures, mostly containing roundhouses and showing domestic activity, but the innermost enclosure had no structures but four Bronze Age barrows. This has led to the suggestion that the inner-most enclosure was considered sacred, and potentially a 'shrine'.",
+   "bibliography": [
+      "Hughes. “A Bronze Mount from Braich y Dinas, Penmaenmawr.” Archaeologia Cambrensis 89 (1934).",
+      "———. “Prehistoric Remains on Penmaenmawr (Known as Braich y Dinas).” Archaeologia Cambrensis 13 (1913).",
+      "———. “Prehistoric Remains on Penmaenmawr (Known as Braich y Dinas).” Archaeologia Cambrensis 15 (1915).",
+      "———. “Prehistoric Remains on Penmaenmawr (Known as Braich y Dinas).” Archaeologia Cambrensis 78 (1923).",
+      "———. “Prehistoric Remains on Penmaenmawr (Known as Braich y Dinas): Report on the Survey and Excavations.” Archaeologia Cambrensis 7 (1912).",
+      "———. “Romano-British Brooch from Penmaenmaw.” Archaeologia Cambrensis 83 (1928).",
+      "Martyn, Blick, Brindle, and et al. “Braich y Dinas, Penmaenmawr (Gwynedd).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

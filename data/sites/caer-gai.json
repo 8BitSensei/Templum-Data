@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Caer Gai",
-  "location": "Wales, Gwynedd, Llanwchlyn",
-  "description": "Roman fort and associated vicus, the fort is dated from 75 CE - between 120 and 160 CE, the vicus continued until the early 3rd CE. Investigations revealed an un-enclosed area with evidence for burning that led to the suggestion of a shrine.",
-  "start": "75",
-  "end": "225",
-  "latitude": "52.869854817472785",
-  "longitude": "-3.6668077063285396"
+   "site": "Caer Gai",
+   "start": "75",
+   "end": "225",
+   "latitude": "52.869854817472785",
+   "longitude": "-3.6668077063285396",
+   "status": "Possible",
+   "location": "Wales, Gwynedd, Llanwchlyn",
+   "tags": "",
+   "description": "Roman fort and associated vicus, the fort is dated from 75 CE - between 120 and 160 CE, the vicus continued until the early 3rd CE. Investigations revealed an un-enclosed area with evidence for burning that led to the suggestion of a shrine.",
+   "bibliography": [
+      "Hopewell, and Burman. “Geophysical Survey at Caer Gai and Cefn Caer Roman Forts.” Archaeology in Wales 47 (2007).",
+      "Martyn, Blick, Brindle, and et al. “Caer Gai, Llanwchlyn (Gwynedd).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Pasture Lodge Farm",
-  "location": "England, Lincolnshire,  Long Bennington",
-  "description": "Complex of ditches and pits dated from the mid 1st CE, in the later 4th CE structures were built, including a four-post timber structure surrounded by circular gullies. This structure is suggested to be a possible shrine.",
-  "start": "375",
-  "end": "53.01564558266059",
-  "latitude": "-0.7658508867467515"
+   "site": "Pasture Lodge Farm",
+   "start": "375",
+   "end": "53.01564558266059",
+   "latitude": "-0.7658508867467515",
+   "longitude": "",
+   "status": "Possible",
+   "location": "England, Lincolnshire,  Long Bennington",
+   "tags": "",
+   "description": "Complex of ditches and pits dated from the mid 1st CE, in the later 4th CE structures were built, including a four-post timber structure surrounded by circular gullies. This structure is suggested to be a possible shrine.",
+   "bibliography": [
+      "Leary. “Excavations at the Romano-British Settlement at Pasture Lodge Farm, Long Bennington, Lincolnshire, 1975-77 by H. M. Wheeler.” Occasional Papers in Lincolnshire History and Archaeology 10 (1994).",
+      "Martyn, Blick, Brindle, and et al. “Pasture Lodge Farm, Long Bennington (Lincolnshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

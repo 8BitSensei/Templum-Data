@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Hallaton",
-  "location": "England, Leicestershire",
-  "description": "Late Iron Age complex of ditches and entrances that are thought to be a 'ritual complex'. The site shows extensive evidence for the deposition of coin hoards, animal remains, and metalwork including a Roman cavalry helmet. Primary activity appears to have been between 1st BCE and 1st CE, but intermittent deposits up to the 4th CE. Though this later activity appears to focus on a different area of the site.",
-  "latitude": "52.55694823864888",
-  "longitude": "-0.851022976603264",
-  "start": "-99",
-  "end": "399"
+   "site": "Hallaton",
+   "start": "-99",
+   "end": "399",
+   "latitude": "52.55694823864888",
+   "longitude": "-0.851022976603264",
+   "status": "Possible",
+   "location": "England, Leicestershire",
+   "tags": "",
+   "description": "Late Iron Age complex of ditches and entrances that are thought to be a 'ritual complex'. The site shows extensive evidence for the deposition of coin hoards, animal remains, and metalwork including a Roman cavalry helmet. Primary activity appears to have been between 1st BCE and 1st CE, but intermittent deposits up to the 4th CE. Though this later activity appears to focus on a different area of the site.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Hallaton (Leicestershire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Score. “Hoards, Hounds and Helmets: A Conquest-Period Ritual Site at Hallaton, Leicestershire.” Leicester Archaeology Monograph 21 (2011)."
+   ]
 }

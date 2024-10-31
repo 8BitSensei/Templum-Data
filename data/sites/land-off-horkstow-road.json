@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Land off Horkstow Road",
-  "location": "Enlgand, North Lincolnshire, South Ferriby",
-  "description": "2nd CE farmstead with evidence of a stone-walled octagonal structure interpreted as a possible shrine or temple. Site appears to have been almost totally abandoned in the early 3rd CE, but some evidence of early Anglo-Saxon re-use.",
-  "start": "100",
-  "end": "225",
-  "latitude": "53.67284073684094",
-  "longitude": "-0.508620310876425"
+   "site": "Land off Horkstow Road",
+   "start": "100",
+   "end": "225",
+   "latitude": "53.67284073684094",
+   "longitude": "-0.508620310876425",
+   "status": "Unknown",
+   "location": "Enlgand, North Lincolnshire, South Ferriby",
+   "tags": "",
+   "description": "2nd CE farmstead with evidence of a stone-walled octagonal structure interpreted as a possible shrine or temple. Site appears to have been almost totally abandoned in the early 3rd CE, but some evidence of early Anglo-Saxon re-use.",
+   "bibliography": [
+      "Clay. “Archaeological Evaluation, Land off Horkstow Road, South Ferriby, North Lincolnshire,” 2004. https://doi.org/10.5284/1023709.",
+      "Martyn, Blick, Brindle, and et al. “Land off Horkstow Road, South Ferriby, North Lincolnshire (Lincolnshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

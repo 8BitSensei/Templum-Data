@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Topham Farm",
-  "location": "England, South Yorkshire, Sykehouse",
-  "description": "Late Iron Age and Roman farmstead, in a second phase of construction (mid-late 1st CE) an enclosure was created that included two superimposed unusual circular structures, in that no entrance could be found. The unusual layout led to them being interpreted as shrines.",
-  "start": "50",
-  "latitude": "53.64689030061289",
-  "longitude": "-1.0609567789623395"
+   "site": "Topham Farm",
+   "start": "50",
+   "end": "",
+   "latitude": "53.64689030061289",
+   "longitude": "-1.0609567789623395",
+   "status": "Possible",
+   "location": "England, South Yorkshire, Sykehouse",
+   "tags": "",
+   "description": "Late Iron Age and Roman farmstead, in a second phase of construction (mid-late 1st CE) an enclosure was created that included two superimposed unusual circular structures, in that no entrance could be found. The unusual layout led to them being interpreted as shrines.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Topham Farm, Sykehouse (South Yorkshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Roberts. “Excavations at Topham Farm, Sykehouse, South Yorkshire. A Late Iron Age and Romano-British Settlement in the Humberhead Levels.” Archaeological Services WYAS Publications 3 (2003)."
+   ]
 }

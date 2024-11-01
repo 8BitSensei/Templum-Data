@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Victoria Cave",
-  "location": "England, North Yorkshire, Settle",
-  "description": "Large cave system with evidence of Romano-British activity from the late 1st to the early 4th CE. Cautiously interpreted as a religious site, but with the presence of craft working a dual nature had been proposed, some authors have gone so far as to connect the site with Mithraism. The RSRB marks the site as a 'shrine'.",
-  "start": "75",
-  "end": "325",
-  "latitude": "54.08041680254101",
-  "longitude": "-2.248322413071322"
+   "site": "Victoria Cave",
+   "start": "75",
+   "end": "325",
+   "latitude": "54.08041680254101",
+   "longitude": "-2.248322413071322",
+   "status": "Possible",
+   "location": "England, North Yorkshire, Settle",
+   "tags": "",
+   "description": "Large cave system with evidence of Romano-British activity from the late 1st to the early 4th CE. Cautiously interpreted as a religious site, but with the presence of craft working a dual nature had been proposed, some authors have gone so far as to connect the site with Mithraism. The RSRB marks the site as a 'shrine'.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Dearne, Martin J., and Thomas C. Lord. The Romano-British Archaeology of Victoria Cave, Settle: Researches into the Site and Its Artefacts. BAR 273. Oxford: Archaeopress Hadrian books, 1998."
+   ]
 }

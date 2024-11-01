@@ -1,10 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Alfred's Castle",
-  "location": "England, Oxfordshire, Ashbury",
-  "description": "A small 'cottage style' Roman villa situated centrally within the Bronze Age hillfort. Built late 1st - early 2nd CE, and ultimately abandoned at the end of the 3rd CE. Ceramic tiles sent into the corner wall of one room were suggested to have been a small household shrine.",
-  "start": "75",
-  "end": "299",
-  "latitude": "51.53831903227835",
-  "longitude": "-1.6016029636764142"
+   "site": "Alfred's Castle",
+   "start": "75",
+   "end": "299",
+   "latitude": "51.53831903227835",
+   "longitude": "-1.6016029636764142",
+   "status": "Possible",
+   "location": "England, Oxfordshire, Ashbury",
+   "tags": "",
+   "description": "A small 'cottage style' Roman villa situated centrally within the Bronze Age hillfort. Built late 1st - early 2nd CE, and ultimately abandoned at the end of the 3rd CE. Ceramic tiles sent into the corner wall of one room were suggested to have been a small household shrine.",
+   "bibliography": [
+      "Gosden, and Lock. “Becoming Roman on the Berkshire Downs: The Evidence from Alfreds Castle.” Britannia 34 (2003).",
+      "———. “Histories in the Making. Excavations at Alfreds Castle 1998-2000.” Oxford University School of Archaeology Monograph 79 (2013).",
+      "Martyn, Blick, Brindle, and et al. “Alfred’s Castle, Ashbury (Oxfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

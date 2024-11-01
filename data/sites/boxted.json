@@ -1,8 +1,15 @@
 {
-  "status": "Probable",
-  "site": "Boxted",
-  "location": "England, Kent, Upchurch",
-  "description": "Excavations revealed part of what is believed to be a Romano-Celtic temple, limited dating evidence suggests 2nd CE activity. A possible votive pit was found inside the cella, this contained (possibly) seeds and mice bones, but it seems likely these date from after the temple was abandoned.",
-  "latitude": "51.3640801760745",
-  "longitude": "0.6578400433100533"
+   "site": "Boxted",
+   "start": "",
+   "end": "",
+   "latitude": "51.3640801760745",
+   "longitude": "0.6578400433100533",
+   "status": "Probable",
+   "location": "England, Kent, Upchurch",
+   "tags": "",
+   "description": "Excavations revealed part of what is believed to be a Romano-Celtic temple, limited dating evidence suggests 2nd CE activity. A possible votive pit was found inside the cella, this contained (possibly) seeds and mice bones, but it seems likely these date from after the temple was abandoned.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Boxted, Upchurch (Kent).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Williamd. “Boxted.” Kent Archaeological Review 18 (1969)."
+   ]
 }

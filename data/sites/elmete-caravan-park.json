@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Elmete Caravan Park",
-  "location": "England, West Yorkshire, Roundhay",
-  "description": "Concentric double-double ditched square enclosure, primarily dated by pottery to the late 3rd - early 4th CE. No other features were recorded, but a religious interpretation was put forward, and the RSRB marks the site as a 'shrine'. It is noted that an altar was found in the grounds of Elmete hall in the 19th CE but no find spot is known.",
-  "start": "275",
-  "end": "325",
-  "latitude": "53.83100239423993",
-  "longitude": "-1.4866558928033502"
+   "site": "Elmete Caravan Park",
+   "start": "275",
+   "end": "325",
+   "latitude": "53.83100239423993",
+   "longitude": "-1.4866558928033502",
+   "status": "Unknown",
+   "location": "England, West Yorkshire, Roundhay",
+   "tags": "",
+   "description": "Concentric double-double ditched square enclosure, primarily dated by pottery to the late 3rd - early 4th CE. No other features were recorded, but a religious interpretation was put forward, and the RSRB marks the site as a 'shrine'. It is noted that an altar was found in the grounds of Elmete hall in the 19th CE but no find spot is known.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Elmete Caravan Park, Roundhay (West Yorkshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rose, and Tinsley. “Elmete Caravan Park, Roundhay, Leeds,” 2011. https://doi.org/10.5284/1029372."
+   ]
 }

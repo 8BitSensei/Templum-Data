@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Yardhope",
-  "location": "England, Northumberland",
-  "description": "Natural chamber formed in the bedrock on a sandstone ridge. Excavations revealed a ledge and hearth, with postholes at the front of the chamber suggesting a door was in place. Interpretation as both Roman and a shrine relies on the interpretation of a figure carved into the wall as the god Cocidius.",
-  "latitude": "55.29968195412026",
-  "longitude": "-2.0977204639373372"
+   "site": "Yardhope",
+   "start": "",
+   "end": "",
+   "latitude": "55.29968195412026",
+   "longitude": "-2.0977204639373372",
+   "status": "Possible",
+   "location": "England, Northumberland",
+   "tags": "",
+   "description": "Natural chamber formed in the bedrock on a sandstone ridge. Excavations revealed a ledge and hearth, with postholes at the front of the chamber suggesting a door was in place. Interpretation as both Roman and a shrine relies on the interpretation of a figure carved into the wall as the god Cocidius.",
+   "bibliography": [
+      "Charlton, and Mitcheson. “Yardhope. A Shrine to Cocidius?” Britannia 14 (1983).",
+      "Martyn, Blick, Brindle, and et al. “Yardhope (Northumberland).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

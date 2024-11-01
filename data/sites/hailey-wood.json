@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Hailey Wood",
-  "location": "England, Oxfordshire,Lewknor",
-  "description": "Poorly dated Late Iron Age enclosure, at the centre of the enclosure was a large sarsen stone surrounded by many burnt patches and a large pit containing charcoal, pottery, and a horse jaw. A temporary animal enclosure has been proposed, but the RSRB prefers a ritual interpretation and has marked the site as a 'shrine'.",
-  "start": "-50",
-  "latitude": "51.66439394582835",
-  "longitude": "-0.9335562410602245"
+   "site": "Hailey Wood",
+   "start": "-50",
+   "end": "",
+   "latitude": "51.66439394582835",
+   "longitude": "-0.9335562410602245",
+   "status": "Possible",
+   "location": "England, Oxfordshire,Lewknor",
+   "tags": "",
+   "description": "Poorly dated Late Iron Age enclosure, at the centre of the enclosure was a large sarsen stone surrounded by many burnt patches and a large pit containing charcoal, pottery, and a horse jaw. A temporary animal enclosure has been proposed, but the RSRB prefers a ritual interpretation and has marked the site as a 'shrine'.",
+   "bibliography": [
+      "Chambers. “An Iron Age Enclosure at Hailey Wood, Lewknor.” Oxoniensia 38 (1973).",
+      "Martyn, Blick, Brindle, and et al. “Hailey Wood, Lewknor (Oxfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

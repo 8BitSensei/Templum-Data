@@ -1,8 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Alchester",
-  "location": "England, Oxfordshire, Vexillation Fortress",
-  "description": "Roman fortress that appears to have become a civilian settlement as early as the 50s or 60s CE. Geophysical surveys identified what appears to be a shrine or temple in the south-western area. Dating unknown.",
-  "latitude": "51.877198500519405",
-  "longitude": "-1.1716787766152592"
+   "site": "Alchester",
+   "start": "",
+   "end": "",
+   "latitude": "51.877198500519405",
+   "longitude": "-1.1716787766152592",
+   "status": "Unknown",
+   "location": "England, Oxfordshire, Vexillation Fortress",
+   "tags": "",
+   "description": "Roman fortress that appears to have become a civilian settlement as early as the 50s or 60s CE. Geophysical surveys identified what appears to be a shrine or temple in the south-western area. Dating unknown.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Alchester, Vexillation Fortress (Oxfordshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Sauer. “Alchester, a Claudian ‘Vexillation Fortress’ near the Western Boundary of the Catuvellauni: New Light on the Roman Invasion of Britain.” Archaeological Journal 157 (2000)."
+   ]
 }

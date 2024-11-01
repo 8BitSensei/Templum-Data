@@ -1,10 +1,14 @@
 {
-  "status": "Unknown",
-  "site": "River Idle Washlands",
-  "location": "England, Yorkshire, South Yorkshire, Bawtry",
-  "description": "Archaeological monitoring of wetland area produced Late Roman material, including coins, pottery, and a column base. The material was tightly dated to the mid 3rd to mid/late 4th CE, and was used to suggest that a religious function may be likely for the site, no further investigations were made.",
-  "start": "250",
-  "end": "375",
-  "latitude": "53.433324019087294",
-  "longitude": "-1.0131877415467045"
+   "site": "River Idle Washlands",
+   "start": "250",
+   "end": "375",
+   "latitude": "53.433324019087294",
+   "longitude": "-1.0131877415467045",
+   "status": "Unknown",
+   "location": "England, Yorkshire, South Yorkshire, Bawtry",
+   "tags": "",
+   "description": "Archaeological monitoring of wetland area produced Late Roman material, including coins, pottery, and a column base. The material was tightly dated to the mid 3rd to mid/late 4th CE, and was used to suggest that a religious function may be likely for the site, no further investigations were made.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “River Idle Washlands, Bawtry (South Yorkshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

@@ -1,8 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Redhill",
-  "location": "England, Nottinghamshire, Ratcliffe on Soar",
-  "description": "Poorly dated and poorly documented structure considered to be a Romano-Celtic temple as part of a Roman unwalled road-side settlement. The temple was first excavated in the 60s and the plan is poorly understood, a large part of the site was probably destroyed by construction of the nearby power station.",
-  "latitude": "52.869084756824954",
-  "longitude": "-1.2696027552718263"
+   "site": "Redhill",
+   "start": "",
+   "end": "",
+   "latitude": "52.869084756824954",
+   "longitude": "-1.2696027552718263",
+   "status": "Possible",
+   "location": "England, Nottinghamshire, Ratcliffe on Soar",
+   "tags": "",
+   "description": "Poorly dated and poorly documented structure considered to be a Romano-Celtic temple as part of a Roman unwalled road-side settlement. The temple was first excavated in the 60s and the plan is poorly understood, a large part of the site was probably destroyed by construction of the nearby power station.",
+   "bibliography": [
+      "Elsdon. “Iron Age and Roman Sites at Red Hill, Ratcliffe-on-Soar.” Transations of the Thoroton Society 86 (1982).",
+      "Martyn, Blick, Brindle, and et al. “Redhill, Ratcliffe on Soar (Nottinghamshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Palfreyman, and Ebbins. “Redhill Iron Age and Romano-British Site.” Transations of the Thoroton Society 107 (2003)."
+   ]
 }

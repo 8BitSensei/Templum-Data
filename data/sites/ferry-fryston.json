@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Ferry Fryston",
-  "location": "England, West Yorkshire, A1",
-  "description": "A 2nd BCE chariot burial that appears to have become a focus of religious activity during the Roman period. Cattle remains recovered from the enclosing ditch were dated between the late 1st - early 4th CE and are thought to represent religious activity. A nearby square post-hole and beam-slot structure was thought to possibly represent a related shrine, but is poorly dated.",
-  "start": "75",
-  "end": "325",
-  "latitude": "53.72477505688029",
-  "longitude": "-1.2893058772143058"
+   "site": "Ferry Fryston",
+   "start": "75",
+   "end": "325",
+   "latitude": "53.72477505688029",
+   "longitude": "-1.2893058772143058",
+   "status": "Possible",
+   "location": "England, West Yorkshire, A1",
+   "tags": "",
+   "description": "A 2nd BCE chariot burial that appears to have become a focus of religious activity during the Roman period. Cattle remains recovered from the enclosing ditch were dated between the late 1st - early 4th CE and are thought to represent religious activity. A nearby square post-hole and beam-slot structure was thought to possibly represent a related shrine, but is poorly dated.",
+   "bibliography": [
+      "Brown, Fraser. The Archaeology of the A1 (M): Darrington to Dishforth DBFO Road Scheme. Oxford Archaeology North, 2007.",
+      "Martyn, Blick, Brindle, and et al. “Ferry Fryston, A1(M).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

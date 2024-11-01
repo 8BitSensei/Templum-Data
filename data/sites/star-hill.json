@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Star Hill",
-  "location": "England, Kent, Bridge",
-  "description": "Hexagonal ditched enclosure, the ditch provided dating from 150 BCE to 50 CE. At the centre of the enclosure appeared to be a robbed out Late Iron Age cremation burial. Adjacent to the enclosure was an Iron Age - Anglo Saxon cremation cemetery. The RSRB marks this site as a 'shrine.'",
-  "start": "-150",
-  "end": "50",
-  "latitude": "51.23947807930471",
-  "longitude": "1.1297627341031988"
+   "site": "Star Hill",
+   "start": "-150",
+   "end": "50",
+   "latitude": "51.23947807930471",
+   "longitude": "1.1297627341031988",
+   "status": "Possible",
+   "location": "England, Kent, Bridge",
+   "tags": "",
+   "description": "Hexagonal ditched enclosure, the ditch provided dating from 150 BCE to 50 CE. At the centre of the enclosure appeared to be a robbed out Late Iron Age cremation burial. Adjacent to the enclosure was an Iron Age - Anglo Saxon cremation cemetery. The RSRB marks this site as a 'shrine.'",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "School, Kent Archaeological Field. “The Archaeological Investigation of a Hexagonal Feature at Star Hill, Bridge, near Canterbury, Kent, 2003-6.” Archaeology Data Service, 2006. https://doi.org/10.5284/1030491."
+   ]
 }

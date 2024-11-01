@@ -1,8 +1,16 @@
 {
-  "site": "Catterick",
-  "location": "England, North Yorkshire, Catterick bypass excavations",
-  "status": "Possible",
-  "description": "Two sites roughly 250m apart from each other, one to the north is an enclosure thought to represent a temenos, and to the south a trapezoidal masonry building thought to be a temple based on the finds.",
-  "latitude": "54.38824074529138",
-  "longitude": "-1.6557647302321925"
+   "site": "Catterick",
+   "start": "",
+   "end": "",
+   "latitude": "54.38824074529138",
+   "longitude": "-1.6557647302321925",
+   "status": "Possible",
+   "location": "England, North Yorkshire, Catterick bypass excavations",
+   "tags": "",
+   "description": "Two sites roughly 250m apart from each other, one to the north is an enclosure thought to represent a temenos, and to the south a trapezoidal masonry building thought to be a temple based on the finds.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Catterick, 1972 Excavations (North Yorkshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "———. “Catterick, Catterick Bypass Excavations (North Yorkshire).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Wilson. “Cataractonium: Roman Catterick and Its Hinterland. Excavations and Research, 1958-1997,” 2002. https://doi.org/10.5284/1000332."
+   ]
 }

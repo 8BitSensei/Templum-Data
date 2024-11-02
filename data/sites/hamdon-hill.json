@@ -1,10 +1,17 @@
 {
-  "status": "Possible",
-  "site": "Hamdon Hill",
-  "location": "England, Somerset, Montacute",
-  "description": "Britain's largest Hillfort, middle - late iron age occupation features included 4-post structures and storage pits containing 'special' deposits, as well as a rectangular enclosure that is thought to served as a 'community meeting place' with 'religious associations'. The RSRB marks the site as a 'shrine', but its unclear if they have a specific feature in mind. Both features above belong to the pre-conquest phase.",
-  "start": "-250",
-  "end": "50",
-  "latitude": "50.94316383359336",
-  "longitude": "-2.7392152354837367"
+   "site": "Hamdon Hill",
+   "start": "-250",
+   "end": "50",
+   "latitude": "50.94316383359336",
+   "longitude": "-2.7392152354837367",
+   "status": "Possible",
+   "location": "England, Somerset, Montacute",
+   "tags": "",
+   "description": "Britain's largest Hillfort, middle - late iron age occupation features included 4-post structures and storage pits containing 'special' deposits, as well as a rectangular enclosure that is thought to served as a 'community meeting place' with 'religious associations'. The RSRB marks the site as a 'shrine', but its unclear if they have a specific feature in mind. Both features above belong to the pre-conquest phase.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Beattie, I. Hamilton, and W. J. Phythian-Adams. “A Romano-British House near Bedmore Barn, Ham Hill, Somerset.” Journal of Roman Studies 3 (1913): 127–33. https://doi.org/10.2307/296026.",
+      "Brittain, M. “A Romano-British House near Bedmore Barn, Ham Hill, Somerset (1913),.” Somerset Archaeology and Natural History 150 (n.d.): 39–62.",
+      "Wessex Archaeology. “Ham Hill Quarry, Hamdan Hill, Montacute, Somerset. Archaeological Excavation 2002 Post-Excavation Assessment Report.” Archaeology Data Service, 2003. https://doi.org/10.5284/1029097."
+   ]
 }

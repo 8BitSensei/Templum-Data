@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Cannington cemetery",
-  "location": "England, Somerset",
-  "description": "A Late - Post Roman cemetery, dated from the 4th CE to the late 7th or early 8th CE. At the highest part of the hill is a circular rock-cut trench with traces of a revetment, this is thought to have been a shrine/temple/mausoleum (these seem to be roughly synonymous terms here) that acted as a focus of the cemetery. Dating of this structure is uncertain.",
-  "start": "300",
-  "end": "725",
-  "latitude": "51.15792754563372",
-  "longitude": "-3.072313261449805"
+   "site": "Cannington cemetery",
+   "start": "300",
+   "end": "725",
+   "latitude": "51.15792754563372",
+   "longitude": "-3.072313261449805",
+   "status": "Possible",
+   "location": "England, Somerset",
+   "tags": "",
+   "description": "A Late - Post Roman cemetery, dated from the 4th CE to the late 7th or early 8th CE. At the highest part of the hill is a circular rock-cut trench with traces of a revetment, this is thought to have been a shrine/temple/mausoleum (these seem to be roughly synonymous terms here) that acted as a focus of the cemetery. Dating of this structure is uncertain.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Cannington Cemetery (Somerset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rhatz, Hirst, and Wright. “Cannington Cemetery. Excavations 1962-3 of Prehistoric, Roman, Post-Roman and Later Features at Cannington Park Quarry, near Bridgwater, Somerset.” Britannia Monograph Series 17 (2000)."
+   ]
 }

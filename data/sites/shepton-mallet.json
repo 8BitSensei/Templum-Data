@@ -1,8 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Shepton Mallet",
-  "location": "England, Somerset, Fosse lane",
-  "description": "Roman roadside settlement dated from the later 1st CE - late 5th or early 6th CE. A small rectangular masonry building (uncertain of dating) was associated with nearby infant burials and was interpreted as a possible shrine or mausoleum. ",
-  "latitude": "51.181161654594035",
-  "longitude": "-2.5312759698346015"
+   "site": "Shepton Mallet",
+   "start": "",
+   "end": "",
+   "latitude": "51.181161654594035",
+   "longitude": "-2.5312759698346015",
+   "status": "Possible",
+   "location": "England, Somerset, Fosse lane",
+   "tags": "",
+   "description": "Roman roadside settlement dated from the later 1st CE - late 5th or early 6th CE. A small rectangular masonry building (uncertain of dating) was associated with nearby infant burials and was interpreted as a possible shrine or mausoleum. ",
+   "bibliography": [
+      "Broomhead. “Amulet Way, Shepton Mallet. An Archaeological Evaluation.,” 2006. https://doi.org/10.5284/1029067.",
+      "Leach. “Fosse Lane Shepton Mallet 1990: Excavation of a Romano-British Roadside Settlement in Somerset.” Somerset Soc Promotion of Roman Studies Monog. No. 18 (2001).",
+      "Martyn, Blick, Brindle, and et al. “Shepton Mallet, Fosse Lane (Somerset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

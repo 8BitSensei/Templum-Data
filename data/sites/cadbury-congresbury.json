@@ -1,9 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Cadbury Congresbury",
-  "location": "England, Somerset",
-  "description": "Iron Age multivallate hillfort re-occupied from the early 5th CE. During the final phase of the new settlement (late 5th - early 6th CE) eight timber framed structures were built, seemingly one was suggested to be a shrine.",
-  "start": "475",
-  "latitude": "51.380876476720886",
-  "longitude": "-2.8039218837571265"
+   "site": "Cadbury Congresbury",
+   "start": "475",
+   "end": "",
+   "latitude": "51.380876476720886",
+   "longitude": "-2.8039218837571265",
+   "status": "Possible",
+   "location": "England, Somerset",
+   "tags": "",
+   "description": "Iron Age multivallate hillfort re-occupied from the early 5th CE. During the final phase of the new settlement (late 5th - early 6th CE) eight timber framed structures were built, seemingly one was suggested to be a shrine.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Cadbury Congresbury (Somerset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rahtz. “Cadbury Congresbury 1968-73. A Late/Post-Roman Hilltop Settlement in Somerset.” British Archaeological Reports (British Series) 223 (1992)."
+   ]
 }

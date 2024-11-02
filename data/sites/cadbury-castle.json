@@ -1,15 +1,15 @@
 {
-   "site": "Cadbury Castle",
-   "start": "early 3rd CE",
-   "end": "early 4th CE",
-   "latitude": "",
-   "longitude": "",
-   "status": "",
-   "location": "England, Somerset",
-   "tags": "",
-   "description": "",
-   "bibliography": [
-      "Barrett, Freeman, and Woodward. “Cadbury Castle, Somerset. The Late Prehistoric and Early Historic Archaeology.” Nglish Heritage Archaeological Monograph 20 (2000). http://dx.doi.org/10.5284/1028203.",
-      "Martyn, Blick, Brindle, and et al. “Cadbury Castle (South Cadbury).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
-   ]
+  "start": "-50",
+  "bibliography": [
+    "Barrett, Freeman, and Woodward. “Cadbury Castle, Somerset. The Late Prehistoric and Early Historic Archaeology.” Nglish Heritage Archaeological Monograph 20 (2000). http://dx.doi.org/10.5284/1028203.",
+    "Martyn, Blick, Brindle, and et al. “Cadbury Castle (South Cadbury).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+  ],
+  "site": "Cadbury Castle",
+  "latitude": "51.024227691416634",
+  "longitude": "-2.5317285574400112",
+  "status": "Possible",
+  "location": "England, Somerset",
+  "tags": "",
+  "end": "50",
+  "description": "Bronze Age Hillfort, primarily occupied through the middle - late iron age. A rectangular structure in the central plateau beginning to the Late Iron age - Early Roman phase was interpreted as a shrine. There appears to be destruction during the Roman invasion, followed by a phase where it's  occupied by the Roman military, and subsequently abandoned at the end of 1st CE. Re-occupation in the later 5th CE and beyond."
 }

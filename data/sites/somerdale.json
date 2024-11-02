@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Somerdale",
-  "location": "England, Somerset, Keynsham",
-  "description": "A substantial Romano-British settlement, dated between the 1st and 4th CE. A rectangular enclosure was identified with a circular building and two ancillary buildings inside, this was identified as a possible shrine, though more accurate dating is not available.",
-  "latitude": "51.423636509171295",
-  "longitude": "-2.4933661073316866"
+   "site": "Somerdale",
+   "start": "",
+   "end": "",
+   "latitude": "51.423636509171295",
+   "longitude": "-2.4933661073316866",
+   "status": "Possible",
+   "location": "England, Somerset, Keynsham",
+   "tags": "",
+   "description": "A substantial Romano-British settlement, dated between the 1st and 4th CE. A rectangular enclosure was identified with a circular building and two ancillary buildings inside, this was identified as a possible shrine, though more accurate dating is not available.",
+   "bibliography": [
+      "Hume. “Site Specific Archaeological Evaluation at Somerdale, Cadbury Limited.,” 1993. https://doi.org/10.5284/1029138.",
+      "Martyn, Blick, Brindle, and et al. “Somerdale, Keynsham (Traiectus).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

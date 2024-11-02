@@ -1,9 +1,16 @@
 {
-  "status": "Possible",
-  "site": "Camerton",
-  "location": "England, Somerset",
-  "description": "Roadside settlement, Late Iron Age occupation replaced by a military fort in the mid 1st CE briefly, civilian settlement began again during the later 1st CE. Masonry buildings appear from the late 2nd CE, one of which is interpreted as a 'shrine' based on finds. Occupation continued into the 5th CE, and possibly into the 6th and 7th CE based on the presence of a nearby Anglo-Saxon cemetery.",
-  "start": "175",
-  "latitude": "51.30399275950976",
-  "longitude": "-2.448989583952511"
+   "site": "Camerton",
+   "start": "175",
+   "end": "",
+   "latitude": "51.30399275950976",
+   "longitude": "-2.448989583952511",
+   "status": "Possible",
+   "location": "England, Somerset",
+   "tags": "",
+   "description": "Roadside settlement, Late Iron Age occupation replaced by a military fort in the mid 1st CE briefly, civilian settlement began again during the later 1st CE. Masonry buildings appear from the late 2nd CE, one of which is interpreted as a 'shrine' based on finds. Occupation continued into the 5th CE, and possibly into the 6th and 7th CE based on the presence of a nearby Anglo-Saxon cemetery.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Camerton (Somerset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Wedlake. “Excavations at Camerton, Somerset : A Record of Thirty Years Excavation Covering the Period from Neolithic to Saxon Times, 1926-56,” 1958.",
+      "Wedlake, W. J. “Camerton. The Late Iron Age and Early Roman Metalwork,” 1990."
+   ]
 }

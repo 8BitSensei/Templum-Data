@@ -1,8 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Whatley Combe",
-  "location": "England, Somerset, Nunney",
-  "description": "Roman villa site, known from limited excavations. Coins from the southern wing suggest it was constructed around 300 CE, but the rest of the villa is undated. A semi-circular structure located around a nearby spring was suggested to be a possible nymphaeum.",
-  "latitude": "51.22156842142814",
-  "longitude": "-2.3680548048310004"
+   "site": "Whatley Combe",
+   "start": "",
+   "end": "",
+   "latitude": "51.22156842142814",
+   "longitude": "-2.3680548048310004",
+   "status": "Possible",
+   "location": "England, Somerset, Nunney",
+   "tags": "",
+   "description": "Roman villa site, known from limited excavations. Coins from the southern wing suggest it was constructed around 300 CE, but the rest of the villa is undated. A semi-circular structure located around a nearby spring was suggested to be a possible nymphaeum.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Whatley Combe, Nunney (Somerset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Stead. “A Roman Villa at Whatley Combe, Nunney, Somerset.” Somerset Archaeology and Natural History 114 (1979)."
+   ]
 }

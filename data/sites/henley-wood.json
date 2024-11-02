@@ -1,9 +1,15 @@
 {
-  "status": "Probable",
-  "site": "Henley Wood",
-  "location": "England, Somerset",
-  "description": "Roman period religious complex, the primary structure appears to have been a Romano-Celtic temple and temenos. This temple is dated to the 4th CE, but overlays earlier undated structures. A 4th Ce octagonal structure was also identified, and considered possibly to be a subsidiary shrine. Coins from the site suggest activity from 1st or 2nd CE, with the most intense activity between the late 3rd and mid 4th CE. Activity diminished after this date, but post-Roman graves indicate some continued presence.",
-  "start": "75",
-  "latitude": "51.38318664191289",
-  "longitude": "-2.80206579520585"
+   "site": "Henley Wood",
+   "start": "75",
+   "end": "",
+   "latitude": "51.38318664191289",
+   "longitude": "-2.80206579520585",
+   "status": "Probable",
+   "location": "England, Somerset",
+   "tags": "",
+   "description": "Roman period religious complex, the primary structure appears to have been a Romano-Celtic temple and temenos. This temple is dated to the 4th CE, but overlays earlier undated structures. A 4th Ce octagonal structure was also identified, and considered possibly to be a subsidiary shrine. Coins from the site suggest activity from 1st or 2nd CE, with the most intense activity between the late 3rd and mid 4th CE. Activity diminished after this date, but post-Roman graves indicate some continued presence.",
+   "bibliography": [
+      "Martyn, Blick, Brindle, and et al. “Henley Wood (Somerset).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Watts, and Leach. “Henley Wood, Temples and Cemetery Excavations 1962-69.” CBA Research Report 99 (1996)."
+   ]
 }

@@ -1,8 +1,17 @@
 {
-  "status": "Possible",
-  "site": "Wookey Hole Caves",
-  "location": "England, Somerset",
-  "description": "Cave system at the southern edge of the Mendip hills. Finds show activity in the caves from the Iron Age - late Roman periods, this included an inhumation cemetery in the 4th chamber. The RSRB argues that burials and volume of finds should suggest a ritual usage, and marks the site as a 'shrine'.",
-  "latitude": "51.22914152621133",
-  "longitude": "-2.6719176563216283"
+   "site": "Wookey Hole Caves",
+   "start": "",
+   "end": "",
+   "latitude": "51.22914152621133",
+   "longitude": "-2.6719176563216283",
+   "status": "Possible",
+   "location": "England, Somerset",
+   "tags": "",
+   "description": "Cave system at the southern edge of the Mendip hills. Finds show activity in the caves from the Iron Age - late Roman periods, this included an inhumation cemetery in the 4th chamber. The RSRB argues that burials and volume of finds should suggest a ritual usage, and marks the site as a 'shrine'.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Balch, H. E., and R. D. R. Troup. “A Late-Celtic and Romano-British Cave-Dwelling at Wookey-Hole, near Wells, Somerset.” Archaeologia 62, no. 2 (January 1911): 565–92. https://doi.org/10.1017/S0261340900008316.",
+      "Branigan, K., and M. J. Dearne. “The Romano-British Finds from Wookey Hole: A Re-Appraisal.” Somerset Archaeol Natur Hist 134 (1991): 57–80.",
+      "Hawkes, C. J., J. M. Rogers, and E. K. Tratman. “Romano-British Cemetery in the Fourth Chamber of Wookey Hole Cave, Somerset.” Proc Univ Bristol Spelaeol Soc 15 (n.d.): 23–52."
+   ]
 }

@@ -1,9 +1,17 @@
 {
-  "status": "Possible",
-  "site": "Rapsley Villa",
-  "location": "England, Surrey, Ewhurst",
-  "description": "A 2nd CE Roman villa complex constructed on the site of an earlier farmstead. From 200 CE older structures were demolished and masonry structures were built up. One of these was a semi-circular masonry structure that has been interpreted as a 'shrine', the closest parallels for the structure are the nymphaeum at Chedworth, and lustral basin at Darenth villa.",
-  "start": "200",
-  "latitude": "51.16263528059177",
-  "longitude": "-0.456449832823226"
+   "site": "Rapsley Villa",
+   "start": "200",
+   "end": "",
+   "latitude": "51.16263528059177",
+   "longitude": "-0.456449832823226",
+   "status": "Possible",
+   "location": "England, Surrey, Ewhurst",
+   "tags": "",
+   "description": "A 2nd CE Roman villa complex constructed on the site of an earlier farmstead. From 200 CE older structures were demolished and masonry structures were built up. One of these was a semi-circular masonry structure that has been interpreted as a 'shrine', the closest parallels for the structure are the nymphaeum at Chedworth, and lustral basin at Darenth villa.",
+   "bibliography": [
+      "Hanworth, Rosamond. “The Roman Villa at Rapsley, Ewhurst.” Surrey Archaeological Society 65 (1968).",
+      "Martyn, Blick, Brindle, and et al. “Rapsley, Ewhurst (Surrey).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449.",
+      "Rudling, David. “Roman-Period Temples, Shrines and Religion in Sussex.” In Ritual Landscapes of Roman South-East Britain, edited by David Rudling, 2008.",
+      "Smith. “The Roman Villa at Rapsley: An Interpretation.” Surrey Archaeological Collections 72 (1980). http://dx.doi.org/10.5284/1000221."
+   ]
 }

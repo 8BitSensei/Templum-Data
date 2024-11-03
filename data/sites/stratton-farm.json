@@ -1,10 +1,15 @@
 {
-  "status": "Possible",
-  "site": "Stratton Farm",
-  "location": "England, Surrey, Godstone",
-  "description": "Large rectangular enclosure that was identified and dated by pottery to the mid-1st CE to the end of the 4th CE. The site has produced a great many finds, including over 500 coins, 40 brooches, lion-head studs, a silver ring, and a sceptre handle of a type also found at Wanborough Temple. It was thought that a Roman temples could be on the site, but none have been identified so far.",
-  "start": "50",
-  "end": "399",
-  "latitude": "51.239869545243444",
-  "longitude": "-0.06626559371731146"
+   "site": "Stratton Farm",
+   "start": "50",
+   "end": "399",
+   "latitude": "51.239869545243444",
+   "longitude": "-0.06626559371731146",
+   "status": "Possible",
+   "location": "England, Surrey, Godstone",
+   "tags": "",
+   "description": "Large rectangular enclosure that was identified and dated by pottery to the mid-1st CE to the end of the 4th CE. The site has produced a great many finds, including over 500 coins, 40 brooches, lion-head studs, a silver ring, and a sceptre handle of a type also found at Wanborough Temple. It was thought that a Roman temples could be on the site, but none have been identified so far.",
+   "bibliography": [
+      "Hall. “Stratton Farm, Godstone, Surrey: Archaeological Evaluation and Assessment of Results,” 2007.",
+      "Martyn, Blick, Brindle, and et al. “Stratton Farm, Godstone (Surrey).” The Rural Settlement of Roman Britain: an online resource, 2015. https://doi.org/10.5284/1030449."
+   ]
 }

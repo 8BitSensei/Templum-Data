@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "King William IV site",
-  "location": "England, Surrey, Ewell",
-  "description": "A Roman occupation site dated from the 1st to the 4th CE. There is a great deal of pre and post Roman activity, but the Roman occupation phases have had a 'sacred association' proposed, this may be due to a number of buildings being associated with a number of pits and well deposits.",
-  "start": "50",
-  "end": "399",
-  "latitude": "51.34899421291277",
-  "longitude": "-0.2484551416019032"
+   "site": "King William IV site",
+   "start": "50",
+   "end": "399",
+   "latitude": "51.34899421291277",
+   "longitude": "-0.2484551416019032",
+   "status": "Unknown",
+   "location": "England, Surrey, Ewell",
+   "tags": "",
+   "description": "A Roman occupation site dated from the 1st to the 4th CE. There is a great deal of pre and post Roman activity, but the Roman occupation phases have had a 'sacred association' proposed, this may be due to a number of buildings being associated with a number of pits and well deposits.",
+   "bibliography": [
+      "Allen, Martyn, Tom Brindle, Alex Smith, Julian D Richards, Tim Evans, Neil Holbrook, Michael Fulford, and Nathan Blick. “The Rural Settlement of Roman Britain: An Online Resource.” Archaeology Data Service, 2015. https://doi.org/10.5284/1030449.",
+      "Orton, Clive Robert. “Excavations at the King William IV Site, Ewell, 1967-77.” Surrey Archaeological Collections 84 (2002): 89122. https://doi.org/10.5284/1069226."
+   ]
 }

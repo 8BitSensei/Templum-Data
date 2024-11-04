@@ -1,10 +1,17 @@
 {
-  "status": "Possible",
-  "site": "Rhynie",
-  "location": "Scotland, Aberdeenshire",
-  "description": "An elite enclosure complex in Pictland, dated between the 4th and 6th CE. The site sits just south of the vitrified Iron Age hillfort of Tap O'North, and has produced a number of well known early Pictish stones including the Craw Stone. Just to the north of this enclosure, on the southern outskirts of the modern village, two large enclosures were identified, these were associated with two square barrow cist burials immediately outside them. The enclosures were dated between the early 5th and 7th CE, though it is uncertain how long it was used for, in fact it is uncertain what they were used for at all; they have been tentatively identified as shrines, possibly funerary, based on the similarities between them and the structures at Forteviot, which were also identified as shrines. The warrior carving Rhynie No. 3 was probably associated with these enclosures, though the original location is now unknown, Kilpatrick goes as far as to suggest the figure represents a god and the enclosures were an associated place of worship.",
-  "start": "400",
-  "end": "699",
-  "latitude": "57.32909992420281",
-  "longitude": "-2.8339272728633995"
+   "site": "Rhynie",
+   "start": "400",
+   "end": "699",
+   "latitude": "57.32909992420281",
+   "longitude": "-2.8339272728633995",
+   "status": "Possible",
+   "location": "Scotland, Aberdeenshire",
+   "tags": "",
+   "description": "An elite enclosure complex in Pictland, dated between the 4th and 6th CE. The site sits just south of the vitrified Iron Age hillfort of Tap O'North, and has produced a number of well known early Pictish stones including the Craw Stone. Just to the north of this enclosure, on the southern outskirts of the modern village, two large enclosures were identified, these were associated with two square barrow cist burials immediately outside them. The enclosures were dated between the early 5th and 7th CE, though it is uncertain how long it was used for, in fact it is uncertain what they were used for at all; they have been tentatively identified as shrines, possibly funerary, based on the similarities between them and the structures at Forteviot, which were also identified as shrines. The warrior carving Rhynie No. 3 was probably associated with these enclosures, though the original location is now unknown, Kilpatrick goes as far as to suggest the figure represents a god and the enclosures were an associated place of worship.",
+   "bibliography": [
+      "AOC Archaeology Group. “An Early Medieval Enclosure at Rhynie, Aberdeenshire.” Accessed November 4, 2024. https://www.aocarchaeology.com/news/article/early-medieval-enclosure-rhynie.",
+      "Mitchell, Juliette, and Gordon Noble. “The Monumental Cemeteries of Northern Pictland.” Medieval Archaeology 61, no. 1 (January 2, 2017): 1–40. https://doi.org/10.1080/00766097.2017.1296031.",
+      "Noble, Gordon, Meggen Gondek, Ewan Campbell, Nicholas Evans, Derek Hamilton, and Simon Taylor. “A Powerful Place Of Pictland: Interdisciplinary Perspectives On A Power Centre of the 4th to 6th Centuries AD.” Medieval Archaeology 63, no. 1 (June 2019): 56–94. https://doi.org/10.1080/00766097.2019.1588529.",
+      "Picts in the North - Dr Kelly Kilpatrick - “The Pictish Gods,” 2021. https://www.youtube.com/watch?v=58NJABmVC28\u0026t=656s."
+   ]
 }

@@ -1,9 +1,22 @@
 {
-  "status": "Probable",
-  "site": "St Moluags Monastery",
-  "location": "Scotland, Argyll and Bute, Lismore",
-  "description": "An Early Medieval monastic foundation, reportedly founded by St Moluag in the 6th CE. Although excavations have taken place no remains were identified which can bon confidently assigned to the 6th CE, the earliest remains possibly being destroyed by the later cathedral. It should be noted that the field boundaries around the site form a rough circle, which may indicate an original vallum, similar to other early church sites in the region.",
-  "start": "562",
-  "latitude": "56.534456682845764",
-  "longitude": "-5.480192275764929"
+   "site": "St Moluags Monastery",
+   "start": "562",
+   "end": "",
+   "latitude": "56.534456682845764",
+   "longitude": "-5.480192275764929",
+   "status": "Probable",
+   "location": "Scotland, Argyll and Bute, Lismore",
+   "tags": "",
+   "description": "An Early Medieval monastic foundation, reportedly founded by St Moluag in the 6th CE. Although excavations have taken place no remains were identified which can bon confidently assigned to the 6th CE, the earliest remains possibly being destroyed by the later cathedral. It should be noted that the field boundaries around the site form a rough circle, which may indicate an original vallum, similar to other early church sites in the region.",
+   "bibliography": [
+      "Brown, A.L., and A.A.M. Duncan. “The Cathedral Church of Lismore.” Transactions of the Scottish Ecclesiological Society 15 (1957): 41–50.",
+      "Ellis, C. “Lismore Glebe, Excavation.” Discovery and Excavation in Scotland 19 (2019): 46–47.",
+      "———. “Lismore Nave, Lismore Cathedral, Excavation.” Discovery and Excavation in Scotland 17 (2017): 37–38.",
+      "———. “Lismore Nave, Lismore Cathedral, Excavation.” Discovery and Excavation in Scotland 18 (2018): 59.",
+      "Fawcett, Richard. Scottish Medieval Churches: Architecture and Furnishings. 0 edition. Stroud: The History Press, 2002.",
+      "———. The Architecture of the Scottish Medieval Church 1100-1560. New Haven Conn.: Yale University Press, 2011.",
+      "“Lismore, St Moluags Cathedral | Canmore.” Accessed November 5, 2024. https://canmore.org.uk/site/23100/lismore-st-moluags-cathedral.",
+      "Macdonald, A.D.S. “Two Major Early Monasteries of Scottish Dalriata: Lismore and Eigg.” Scot Archaeol Forum 5 (1974): 47–57.",
+      "MacLean, Douglas Grant. Early Medieval Sculpture in the West Highlands and Islands of Scotland, 1985. https://era.ed.ac.uk/handle/1842/7273."
+   ]
 }

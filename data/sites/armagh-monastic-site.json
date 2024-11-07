@@ -1,12 +1,12 @@
 {
-   "site": "Armagh Monastic site",
-   "start": "445",
-   "end": "post 6th CE",
-   "latitude": "54.34777858145094",
-   "longitude": "-6.6564722013499775",
-   "status": "Possible",
-   "location": "Ireland, County Armagh, Armagh",
-   "tags": "church",
-   "description": "Purportedly founded by St.Patrick around 445, the site became a major monastic site and the head church of Ireland.",
-   "bibliography": []
+  "start": "445",
+  "bibliography": [],
+  "site": "Armagh Monastic site",
+  "latitude": "54.34777858145094",
+  "longitude": "-6.6564722013499775",
+  "status": "Possible",
+  "location": "Ireland, County Armagh, Armagh",
+  "tags": "church",
+  "end": "post 6th CE",
+  "description": "Purportedly founded by St.Patrick around 444 according to the Chronicles of Ireland, the site became a major monastic site and the head church of Ireland. No archaeological remains of the earliest foundation have been identified yet, and we should exercise some caution, noting that tying Patrick (and an early foundation date) to the site was an important piece of early Uí Néill propaganda. Despite this, it is certainly early. There have also been claims that the site was founded on an earlier Pagan religious site, this is possible, as the ramparts on \nCathedral hill have been carbon dated to the 2nd CE, so a pre-conversion site was certainly here first. But the idea that it was a religious site (rather than a secular royal site, as much as those can be understood to be separate), largely relies on the presence of the Armagh 'pagan' statues, but it has been suggested that these actually came from elsewhere in the area, not from the Cathedral hill itself, only later being lumped in with other statues found during renovations."
 }

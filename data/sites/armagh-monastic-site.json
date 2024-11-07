@@ -1,12 +1,23 @@
 {
-  "start": "445",
-  "bibliography": [],
-  "site": "Armagh Monastic Site",
-  "latitude": "54.34777858145094",
-  "longitude": "-6.6564722013499775",
-  "status": "Possible",
-  "location": "Ireland, County Armagh, Armagh",
-  "tags": "church",
-  "end": "post 6th CE",
-  "description": "Purportedly founded by St.Patrick around 444 according to the Chronicles of Ireland, the site became a major monastic site and the head church of Ireland. No archaeological remains of the earliest foundation have been identified yet, and we should exercise some caution, noting that tying Patrick (and an early foundation date) to the site was an important piece of early Uí Néill propaganda. Despite this, it is certainly early. There have also been claims that the site was founded on an earlier Pagan religious site, this is possible, as the ramparts on \n Cathedral hill have been carbon dated to the 2nd CE, so a pre-conversion site was certainly here first. But the idea that it was a religious site (rather than a secular royal site, as much as those can be understood to be separate), largely relies on the presence of the Armagh 'pagan' statues, but it has been suggested that these actually came from elsewhere in the area, not from the Cathedral hill itself, only later being lumped in with other statues found during renovations."
+   "site": "Armagh Monastic Site",
+   "start": "445",
+   "end": "post 6th CE",
+   "latitude": "54.34777858145094",
+   "longitude": "-6.6564722013499775",
+   "status": "Possible",
+   "location": "Ireland, County Armagh, Armagh",
+   "tags": "church",
+   "description": "Purportedly founded by St.Patrick around 444 according to the Chronicles of Ireland, the site became a major monastic site and the head church of Ireland. No archaeological remains of the earliest foundation have been identified yet, and we should exercise some caution, noting that tying Patrick (and an early foundation date) to the site was an important piece of early Uí Néill propaganda. Despite this, it is certainly early. There have also been claims that the site was founded on an earlier Pagan religious site, this is possible, as the ramparts on \n Cathedral hill have been carbon dated to the 2nd CE, so a pre-conversion site was certainly here first. But the idea that it was a religious site (rather than a secular royal site, as much as those can be understood to be separate), largely relies on the presence of the Armagh 'pagan' statues, but it has been suggested that these actually came from elsewhere in the area, not from the Cathedral hill itself, only later being lumped in with other statues found during renovations.",
+   "bibliography": [
+      "Bitel, Lisa M. “Armagh and the Royal Centres in Early Medieval Ireland: Monuments, Cosmology, and the Past by N. B. Aitchison (Review).” The Catholic Historical Review 82, no. 3 (1996): 512–13. https://muse.jhu.edu/pub/16/article/442980.",
+      "Brown, Cynthia Gaskell, A. E. T. Harper, R. J. Heslip, D. B. Harden, M. L. Simpson, S. G. Rees-Jones, and Valerie Higgins. “Excavations on Cathedral Hill, Armagh, 1968.” Ulster Journal of Archaeology 47 (1984): 109–61. https://www.jstor.org/stable/20567931.",
+      "“Cathedral Hill Dig Begins to Reveal Its Secrets,” 2019. https://www.newrymournedown.org/cathedral-hill-dig-begins-to-reveal-its-secrets.",
+      "Charles-Edwards, T.M., ed. “444.1 AU, CS.” In The Chronicles of Ireland, 1:67. Translated Texts for Historians 44. Liverpool University Press, 2006.",
+      "Gleeson, Patrick. “Reframing the First Millennium AD in Ireland: Archaeology, History, Landscape.” Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature 122, no. 1 (2022): 87–122. https://muse.jhu.edu/pub/423/article/867625.",
+      "Hurl, Declan P., and Audrey Gahan. “Excavations in Abbey Street, Armagh.” Ulster Journal of Archaeology 62 (2003): 97–115. https://www.jstor.org/stable/20568320.",
+      "Koch, Joh. T. “Ard Mhacha (Armagh).” In Celtic Culture: A Historical Encyclopedia, 1:80, 2005.",
+      "Ó Néill, John. “A Bit More on the ‘Tandragee Idol’ [@JJCONeill].” Thread. Twitter, 2023. https://x.com/JJCONeill/status/1723976882759057675.",
+      "Rynne, E. “Celtic Stone Idols.” In The Iron Age in the Irish Sea  Province, edited by C Thomas, 79–98, 1972.",
+      "Warner, Richard B. “The Armagh ‘pagan’ Statues: A Check-List, a Summary of Their Known History and Possible Evidence of Their Original Location.” Ulster Journal of Archaeology 72 (2013): 55–69. https://www.academia.edu/30531715/The_Armagh_pagan_statues_a_check_list_a_summary_of_their_known_history_and_possible_evidence_of_their_original_location."
+   ]
 }

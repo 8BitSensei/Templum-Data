@@ -1,8 +1,17 @@
 {
-  "status": "Possible",
-  "site": "Llwydfaen Farm",
-  "location": "Conwy, Wales",
-  "description": "An apsidal building identified by cropmarks in 2006, originally thought to be a Norman church. It was excavated in 2013, it was discovered to be Roman in date, but largely robbed out. Excavators suggested it was a temple, possibly a Mithraeum, this appears mainly to be based on the apsidal form of the structure. In 2018-2019 a 3rd CE coin hoard was discovered by metal detectorists near to the structure.",
-  "latitude": "53.23714779724775",
-  "longitude": "-3.813907714822291"
+   "site": "Llwydfaen Farm",
+   "start": "",
+   "end": "",
+   "latitude": "53.23714779724775",
+   "longitude": "-3.813907714822291",
+   "status": "Possible",
+   "location": "Conwy, Wales",
+   "tags": "",
+   "description": "An apsidal building identified by cropmarks in 2006, originally thought to be a Norman church. It was excavated in 2013, it was discovered to be Roman in date, but largely robbed out. Excavators suggested it was a temple, possibly a Mithraeum, this appears mainly to be based on the apsidal form of the structure. In 2018-2019 a 3rd CE coin hoard was discovered by metal detectorists near to the structure.",
+   "bibliography": [
+      "BBC News. “Roman Temple Clues Found during Dig in Conwy Valley.” August 15, 2013, sec. Wales. https://www.bbc.com/news/uk-wales-23708475.",
+      "“English – Coflein.” Accessed November 19, 2024. https://coflein.gov.uk/en/site/404665/.",
+      "Museum Wales. “Roman Treasure Found in the Conwy Valley.” Accessed November 19, 2024. https://museum.wales/news/1338/Roman-Treasure-Found-in-the-Conwy-Valley/.",
+      "North Wales Pioneer. “Roman Temple Discovered on the Banks of River Conwy.” n.d. https://www.northwalespioneer.co.uk/news/15743985.roman-temple-discovered-on-the-banks-of-river-conwy/."
+   ]
 }

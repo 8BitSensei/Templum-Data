@@ -1,15 +1,19 @@
 {
-  "start": "",
-  "bibliography": [
-    "“Bronze Articles Supposed to Be Spoons,” n.d.",
-    "“English – Coflein.” Accessed June 24, 2024. https://coflein.gov.uk/en/site/309755/."
-  ],
-  "site": "Plasnewydd",
-  "latitude": "53.09185148801675",
-  "longitude": "-3.2899790549061474",
-  "status": "Possible",
-  "location": "Wales, Denbigshire",
-  "tags": "",
-  "end": "",
-  "description": "A possible Romano-Celtic temple, identified solely from crop marks."
+   "site": "Plasnewydd",
+   "start": "",
+   "end": "",
+   "latitude": "53.09185148801675",
+   "longitude": "-3.2899790549061474",
+   "status": "Possible",
+   "location": "Wales, Denbigshire",
+   "tags": "",
+   "description": "A possible Romano-Celtic temple, identified solely from crop marks.",
+   "bibliography": [
+      "Barnwell, E. L. “Bronze Articles Supposed to Be Spoons.” Archaeologia Cambrensis VIII (1862): 208–19.",
+      "Davis, O, and T Driver. “Llancayo Farm Roman Marching Camp, Usk, Monmouthshire.” Archaeologia Cambrensis 163 (2014): 173–84.",
+      "Driver, T. “Castell Nadolig Hillfort and the Penbryn Spoons: A New Investigation.” Archaeologia Cambrensis 127 (2023): 87–136.",
+      "“English – Coflein.” Accessed June 24, 2024. https://coflein.gov.uk/en/site/309755/.",
+      "Way, A. “Notices of Certain Bronze Relics, of a Peculiar Type, Assigned to the Late Celtic Period.” Archaeological Journal 26 (1869): 52–83.",
+      "———. “Notices of Certain Bronze Relics, of a Peculiar Type, Assigned to the Late Celtic Period.” Archaeologia Cambrensis, 1870, 199–234."
+   ]
 }

@@ -1,15 +1,15 @@
 {
-   "site": "Plasnewydd",
-   "start": "",
-   "end": "",
-   "latitude": "53.09185148801675",
-   "longitude": "-3.2899790549061474",
-   "status": "Possible",
-   "location": "Wales, Denbigshire",
-   "tags": "",
-   "description": "A possible Romano-Celtic temple, identified solely from cropmarks.",
-   "bibliography": [
-      "“Bronze Articles Supposed to Be Spoons,” n.d.",
-      "“English – Coflein.” Accessed June 24, 2024. https://coflein.gov.uk/en/site/309755/."
-   ]
+  "start": "",
+  "bibliography": [
+    "“Bronze Articles Supposed to Be Spoons,” n.d.",
+    "“English – Coflein.” Accessed June 24, 2024. https://coflein.gov.uk/en/site/309755/."
+  ],
+  "site": "Plasnewydd",
+  "latitude": "53.09185148801675",
+  "longitude": "-3.2899790549061474",
+  "status": "Possible",
+  "location": "Wales, Denbigshire",
+  "tags": "",
+  "end": "",
+  "description": "A possible Romano-Celtic temple, identified solely from crop marks."
 }

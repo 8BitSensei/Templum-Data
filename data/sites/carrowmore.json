@@ -1,10 +1,14 @@
 {
-  "status": "Probable",
-  "site": "Carrowmore",
-  "location": "Ireland, County Donegal, Gleneely",
-  "latitude": "55.256345233060614",
-  "longitude": "-7.189482156439126",
-  "start": "575",
-  "description": "Long known as an early ecclesiastical site, and associated with the 6th CE saint Comhgall, who is better known as the founder of Bangor Abbey. Recent field work at the site has now revealed evidence of a double-ditched sub-circular enclosure that would of had a maximum diameter of around 115 metres. The entrance, marked by a gap of 10-15 metres appears to be facing south-east, near to the still standing east cross in field 2. Interestingly, in field 3, outside the outer ditch a series of small pits surrounding a larger pit were identified, and have been compared to structures at Yeavering, just to the north-east of this is evidence of metalworking. \n\nRadio carbon dating from the outer ditch provided a date range of 670 - 870 CE, from material above the primary fill, and the top of the ditch fill provided more evidence of metalworking and a date range of 1030-1160 CE. The inner ditch provided a radio carbon date range of 590-660 CE from the middle fill. \n\nWithin the inner most enclosure, in field 1 (where the rest cross now stands), a rectilinear enclosure is still visible via standing earthworks, it has been suggested by analogy with other sites, as no excavation has been done, that this could represent a cemetery, as well as an early church or shrine, but these have not been directly identified yet. All in, a foundation date of the last quarter of the 6th CE has been suggested, this would be during the floruit of Iona, and within the lifetime of the purported founder, St Comhgall, until the late 11th CE.",
-  "end": "1075"
+   "site": "Carrowmore",
+   "start": "575",
+   "end": "1075",
+   "latitude": "55.256345233060614",
+   "longitude": "-7.189482156439126",
+   "status": "Probable",
+   "location": "Ireland, County Donegal, Gleneely",
+   "tags": "",
+   "description": "Long known as an early ecclesiastical site, and associated with the 6th CE saint Comhgall, who is better known as the founder of Bangor Abbey. Recent field work at the site has now revealed evidence of a double-ditched sub-circular enclosure that would of had a maximum diameter of around 115 metres. The entrance, marked by a gap of 10-15 metres appears to be facing south-east, near to the still standing east cross in field 2. Interestingly, in field 3, outside the outer ditch a series of small pits surrounding a larger pit were identified, and have been compared to structures at Yeavering, just to the north-east of this is evidence of metalworking. \n\nRadio carbon dating from the outer ditch provided a date range of 670 - 870 CE, from material above the primary fill, and the top of the ditch fill provided more evidence of metalworking and a date range of 1030-1160 CE. The inner ditch provided a radio carbon date range of 590-660 CE from the middle fill. \n\nWithin the inner most enclosure, in field 1 (where the rest cross now stands), a rectilinear enclosure is still visible via standing earthworks, it has been suggested by analogy with other sites, as no excavation has been done, that this could represent a cemetery, as well as an early church or shrine, but these have not been directly identified yet. All in, a foundation date of the last quarter of the 6th CE has been suggested, this would be during the floruit of Iona, and within the lifetime of the purported founder, St Comhgall, until the late 11th CE.",
+   "bibliography": [
+      "Ó Carragáin, Tomás. Making Christian Landscapes in Atlantic Europe: Conversion and Consolidation in the Early Middle Ages, 2017."
+   ]
 }

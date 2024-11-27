@@ -1,12 +1,14 @@
 {
-  "start": "mid 6th CE",
-  "bibliography": [],
-  "site": "Bangor Abbey",
-  "latitude": "54.656238097566764",
-  "longitude": "-5.674360006155962",
-  "status": "Possible",
-  "location": "Ireland, County Down, Bangor, Belfast Lough, opposite Carrickfergus",
-  "tags": "church",
-  "end": "post 6th CE",
-  "description": "A monastic settlement traditionally founded by St.Comgall where he died in the late 6th CE or early 7th CE. Excavations in the area have not yet revealed the earliest abbey, but did reveal a wood lined gully dated by radiocarbon dating to the 6th CE, and is thought to be associated with the earliest monastic activity."
+   "site": "Bangor Abbey",
+   "start": "mid 6th CE",
+   "end": "post 6th CE",
+   "latitude": "54.656238097566764",
+   "longitude": "-5.674360006155962",
+   "status": "Possible",
+   "location": "Ireland, County Down, Bangor, Belfast Lough, opposite Carrickfergus",
+   "tags": "church",
+   "description": "A monastic settlement traditionally founded by St.Comgall where he died in the late 6th CE or early 7th CE. Excavations in the area have not yet revealed the earliest abbey, but did reveal a wood lined gully dated by radiocarbon dating to the 6th CE, and is thought to be associated with the earliest monastic activity.",
+   "bibliography": [
+      "“2007:385 - BANGOR ABBEY, Down.” Accessed November 26, 2024. https://excavations.ie/report/2007/Down/0017358/."
+   ]
 }

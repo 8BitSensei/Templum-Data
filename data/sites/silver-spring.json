@@ -1,18 +1,18 @@
 {
-   "site": "Silver Spring",
-   "start": "",
-   "end": "",
-   "latitude": "",
-   "longitude": "",
-   "status": "Unknown",
-   "location": "England, Kent, Canterbury",
-   "tags": "",
-   "description": "Apparently Roman period rings, brooches, and metalwork were discovered in the waters of the spring during late 19th CE excavations to build a public swimming bath at Toddler's Cove, Westgate. They were associated with a Roman timber-built structure that may have been a mill, but a shrine interpretation has also been suggested.",
-   "bibliography": [
-      "Andrews, G. “The Archaeology of Canterbury: An Assessment,” 1985.",
-      "Brent, J. Canterbury in Olden Times. Second., 1879.",
-      "Helm, R, and et al. Outside the Town: Roman Industry Burial and Religion at Augustine House Rhodaus Town Canterbury. Canterbury Archaeological Trust Occasional Paper 10. Canterbury Archaeological Trust, 2014.",
-      "Scott-Robertson, W. A. “Miscellanea.” Archaeologia Cantiana 11 (1877).",
-      "Seary, P, and J Weekes. “A Desk-Based Archaeological and Historical Scoping Study for the Canterbury Westgate Gardens Park for People Project.” Canterbury Archaeological Trust, 2011."
-   ]
+  "start": "",
+  "bibliography": [
+    "Andrews, G. “The Archaeology of Canterbury: An Assessment,” 1985.",
+    "Brent, J. Canterbury in Olden Times. Second., 1879.",
+    "Helm, R, and et al. Outside the Town: Roman Industry Burial and Religion at Augustine House Rhodaus Town Canterbury. Canterbury Archaeological Trust Occasional Paper 10. Canterbury Archaeological Trust, 2014.",
+    "Scott-Robertson, W. A. “Miscellanea.” Archaeologia Cantiana 11 (1877).",
+    "Seary, P, and J Weekes. “A Desk-Based Archaeological and Historical Scoping Study for the Canterbury Westgate Gardens Park for People Project.” Canterbury Archaeological Trust, 2011."
+  ],
+  "site": "Silver Spring",
+  "latitude": "51.2780952554623",
+  "longitude": "1.0707816077059273",
+  "status": "Unknown",
+  "location": "England, Kent, Canterbury",
+  "tags": "",
+  "end": "",
+  "description": "Apparently Roman period rings, brooches, and metalwork were discovered in the waters of the spring during late 19th CE excavations to build a public swimming bath at Toddler's Cove, Westgate. They were associated with a Roman timber-built structure that may have been a mill, but a shrine interpretation has also been suggested."
 }

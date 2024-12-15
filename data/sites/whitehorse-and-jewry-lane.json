@@ -1,8 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Whitehorse and Jewry Lane",
-  "location": "England, Kent, Canterbury",
-  "latitude": "51.27876730519173",
-  "longitude": "1.0786789578888347",
-  "description": "A very unsatisfactory site discovered by antiquarians in 1689. Apparently a  sub-circular brick structure from the corner of Whitehorse lane and Jewry lane, located within the area of the Roman forum. Apparently associated with a great many finds the antiquarian recorder considered to be 'votive'. including 1400 - 1500 Roman coins, and 'sacrificial' animal bones."
+   "site": "Whitehorse and Jewry Lane",
+   "start": "",
+   "end": "",
+   "latitude": "51.27876730519173",
+   "longitude": "1.0786789578888347",
+   "status": "Unknown",
+   "location": "England, Kent, Canterbury",
+   "tags": "",
+   "description": "A very unsatisfactory site discovered by antiquarians in 1689. Apparently a  sub-circular brick structure from the corner of Whitehorse lane and Jewry lane, located within the area of the Roman forum. Apparently associated with a great many finds the antiquarian recorder considered to be 'votive'. including 1400 - 1500 Roman coins, and 'sacrificial' animal bones.",
+   "bibliography": [
+      "Fulford, M. “Links with the Past: Pervasive ‘ritual’ Behaviour in Roman Britain.” Briitannia 32 (2001): 201.",
+      "Urry, W. “A Circular Roman Temple Discovered in the Late Seventeenth Century at Canterbury.” Archaeologia Cantiana 94 (1978): 1–6."
+   ]
 }

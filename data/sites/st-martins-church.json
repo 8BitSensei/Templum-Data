@@ -1,9 +1,12 @@
 {
-  "status": "Probable",
-  "site": "St. Martin's Church",
-  "location": "England, Kent",
-  "description": "Possibly the oldest church building in Britain still in use, St. Martin's considered to have been the private chapel of Queen Bertha of Kent before St Augustine arrived 597. Bertha, a Christian Frankish princess married the king of Kent Æthelberht in 580 CE and was allowed to bring wither her the bishop Liudhard and use the building as a private chapel.",
-  "start": "580",
-  "latitude": "51.27805004318215",
-  "longitude": "1.093610700821135"
+   "site": "St. Martin's Church",
+   "start": "580",
+   "end": "",
+   "latitude": "51.27805004318215",
+   "longitude": "1.093610700821135",
+   "status": "Probable",
+   "location": "England, Kent",
+   "tags": "",
+   "description": "Possibly the oldest church building in Britain still in use, St. Martin's considered to have been the private chapel of Queen Bertha of Kent before St Augustine arrived 597. Bertha, a Christian Frankish princess married the king of Kent Æthelberht in 580 CE and was allowed to bring wither her the bishop Liudhard and use the building as a private chapel.",
+   "bibliography": []
 }

@@ -1,10 +1,15 @@
 {
-  "status": "Unknown",
-  "site": "Gas Lane",
-  "location": "England, Kent, Canterbury",
-  "description": "Apparently segments of Roman masonry were discovered at Gas Lane, Canterbury, and interpreted as the corner of a square cella. Though no more has been discovered, and no small finds associated with ritual activity were discovered. The masonry work is dated from the late 2nd CE to to mid 4th CE.",
-  "start": "175",
-  "end": "350",
-  "latitude": "51.275805647926",
-  "longitude": "1.0748349855914139"
+   "site": "Gas Lane",
+   "start": "175",
+   "end": "350",
+   "latitude": "51.275805647926",
+   "longitude": "1.0748349855914139",
+   "status": "Unknown",
+   "location": "England, Kent, Canterbury",
+   "tags": "",
+   "description": "Apparently segments of Roman masonry were discovered at Gas Lane, Canterbury, and interpreted as the corner of a square cella. Though no more has been discovered, and no small finds associated with ritual activity were discovered. The masonry work is dated from the late 2nd CE to to mid 4th CE.",
+   "bibliography": [
+      "Bennett, P, S Frere, and S Stow. “Excavations at Canterbury Castle.” The Archaeology of Canterbury, Maidstone 1 (1982): 43–44.",
+      "Helm, R, and et al. Outside the Town: Roman Industry Burial and Religion at Augustine House Rhodaus Town Canterbury. Canterbury Archaeological Trust Occasional Paper 10. Canterbury Archaeological Trust, 2014."
+   ]
 }

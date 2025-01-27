@@ -14,7 +14,7 @@ import (
 
 const style = "harvard-bournemouth-university"
 const getCollectionsUrl = "https://api.zotero.org/groups/4536134/collections?limit=100&q=%s"
-const getBibUrl = "https://api.zotero.org/groups/4536134/collections/%s/items?format=bib&%s"
+const getBibUrl = "https://api.zotero.org/groups/4536134/collections/%s/items?itemType=-attachment&format=bib&%s"
 
 func GenerateBib() {
 	fmt.Println("Reading files..")

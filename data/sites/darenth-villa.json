@@ -1,12 +1,12 @@
 {
-   "site": "Darenth Villa",
-   "start": "early 2nd CE",
-   "end": "",
-   "latitude": "51.41313520546848",
-   "longitude": "0.24647121686123855",
-   "status": "Probable",
-   "location": "England, Kent, Darenth",
-   "tags": "roman, villa",
-   "description": "Large Roman courtyard Villa, to the south of which was a courtyard apparently containing a probable shrine, itself enclosing a well.",
-   "bibliography": []
+  "start": "early 2nd CE",
+  "bibliography": [],
+  "site": "Darenth Villa",
+  "latitude": "51.41313520546848",
+  "longitude": "0.24647121686123855",
+  "status": "Probable",
+  "location": "England, Kent",
+  "tags": "roman, villa",
+  "end": "",
+  "description": "Large Roman courtyard Villa, to the south of which was a courtyard apparently containing a probable shrine, itself enclosing a well."
 }

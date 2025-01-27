@@ -1,10 +1,15 @@
 {
-  "status": "Probable",
-  "site": "High Wood",
-  "location": "England, Oxfordshire, Harpsden, High Wood",
-  "description": "The site of a Romano-Celtic type temple complex excavated over seven years, from 2015 to 2021. The temple is set within a temenos, which includes a range of rooms to the north. It is suggested the temple was erected in the 2nd - 3rd CE, no date for the abandonment of the site is provided, but it is noted that at some point the northern buildings collapsed due to subsistence. Also, of note, evidence was found for 18th CE excavation and disturbance of the site, but no archival finds have confirmed this. ",
-  "start": "150",
-  "end": "",
-  "latitude": "51.51003233759931",
-  "longitude": "-0.9189426147503562"
+   "site": "High Wood",
+   "start": "150",
+   "end": "",
+   "latitude": "51.51003233759931",
+   "longitude": "-0.9189426147503562",
+   "status": "Probable",
+   "location": "England, Oxfordshire, Harpsden, High Wood",
+   "tags": "",
+   "description": "The site of a Romano-Celtic type temple complex excavated over seven years, from 2015 to 2021. The temple is set within a temenos, which includes a range of rooms to the north. It is suggested the temple was erected in the 2nd - 3rd CE, no date for the abandonment of the site is provided, but it is noted that at some point the northern buildings collapsed due to subsistence. Also, of note, evidence was found for 18th CE excavation and disturbance of the site, but no archival finds have confirmed this. ",
+   "bibliography": [
+      "“(2022) The Excavations of a Romano-Celtic Temple at High Wood, Harpsden, Oxfordshire, Hall, A.Pdf.” Accessed January 27, 2025. https://ckevlahan.quickconnect.to/d/s/11v2aqgplbuYrC3kqNL2rBvIZrwwbfwr/LFdFG1SB6mGLamFWo9Q0xXEc0w1dZkkQ-db6AEfAhAgw.",
+      "Hall, A. The Excavations of a Romano-Celtic Temple at High Wood, Harpsden, Oxfordshire 2015-2021. SOAG Bulletin 74. South Oxfordshire Archaeological Group, 2022."
+   ]
 }

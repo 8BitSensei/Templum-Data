@@ -1,11 +1,19 @@
 {
-  "start": "47",
-  "site": "Insula I Shrine",
-  "latitude": "52.6749311735165",
-  "longitude": "-2.645538437280729",
-  "status": "Possible",
-  "location": "Viroconium, Wroxeter, Shropshire, England",
-  "tags": "square, roman, acorn, funerary, incense",
-  "end": "early 2nd CE",
-  "description": "A small, square, well-built masonry structure found during recent excavations of the Insula I area of the Roman city of Viroconium. Internally it was floored with opus signinum and had plastered walls, the doorway was on the eastern side and there is some evidence that external walls were plastered also. Apparently an incense bowl was found at the centre of the structure, as well as a metal acorn. The structure appears to have been demolished to its lowest level by the early 2nd CE, around the time the city had been founded in place of the abandoned military fort. It is suggested that it was built while the site was a fort, and would have been located north of the west gate. Its structure has lead to the suggestion that it is a shrine, and its location outside the fort and its small size have been used to suggest it may be some kind of funerary shrine."
+   "site": "Insula I Shrine",
+   "start": "47",
+   "end": "early 2nd CE",
+   "latitude": "52.6749311735165",
+   "longitude": "-2.645538437280729",
+   "status": "Possible",
+   "location": "Viroconium, Wroxeter, Shropshire, England",
+   "tags": "square, roman, acorn, funerary, incense",
+   "description": "A small, square, well-built masonry structure found during recent excavations of the Insula I area of the Roman city of Viroconium. Internally it was floored with opus signinum and had plastered walls, the doorway was on the eastern side and there is some evidence that external walls were plastered also. Apparently an incense bowl was found at the centre of the structure, as well as a metal acorn. The structure appears to have been demolished to its lowest level by the early 2nd CE, around the time the city had been founded in place of the abandoned military fort. It is suggested that it was built while the site was a fort, and would have been located north of the west gate. Its structure has lead to the suggestion that it is a shrine, and its location outside the fort and its small size have been used to suggest it may be some kind of funerary shrine.",
+   "bibliography": [
+      "Archaeology, Current. “Revealing Roman Wroxeter: New Insights from One of Britannia’s Largest Urban Centres | The Past,” July 3, 2025. https://the-past.com/feature/revealing-roman-wroxeter-new-insights-from-one-of-britannias-largest-urban-centres/.",
+      "Archaeology, National Trust. “*NEWS* #AttinghamUnearthed🏺 Recent Excavations Have Uncovered Remarkable Insights into Life on the Fringes of #Wroxeter: Archaeologists….” Post. Bluesky, October 9, 2025. https://bsky.app/profile/nattrustarch.bsky.social/post/3m2qro2gxt223.",
+      "Gazette \u0026 Herald. “Incense Bowl and Helmet Handle among Finds at National Trust Estate Dig,” October 9, 2025. https://www.gazetteherald.co.uk/news/national/25528860.incense-bowl-helmet-handle-among-finds-national-trust-estate-dig/.",
+      "Midlands, ByAndy GiddingsWest. “Roman Artefacts Unearthed at Attingham Park.” BBC News, October 9, 2025. https://www.bbc.com/news/articles/cz9j8v2j82xo.",
+      "“This Post Had 1 Direct Replies When It Was Saved,” n.d.",
+      "Vianova Archaeology. “News.” Accessed October 9, 2025. https://vianovaarchaeology.com/news/."
+   ]
 }

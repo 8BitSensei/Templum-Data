@@ -1,7 +1,7 @@
 {
    "site": "Camp Ground",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "52.3850616712222",
    "longitude": "0.02252620195343261",
    "status": "Possible",

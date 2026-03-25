@@ -1,7 +1,7 @@
 {
    "site": "Maryport",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "54.72261356704838",
    "longitude": "-3.490137052946069",
    "status": "Certain",

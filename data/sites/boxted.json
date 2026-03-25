@@ -1,7 +1,7 @@
 {
    "site": "Boxted",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "51.3640801760745",
    "longitude": "0.6578400433100533",
    "status": "Probable",

@@ -1,7 +1,7 @@
 {
    "site": "Alchester",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "51.877198500519405",
    "longitude": "-1.1716787766152592",
    "status": "Unknown",

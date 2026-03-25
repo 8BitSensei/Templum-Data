@@ -1,7 +1,7 @@
 {
    "site": "Eddington",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "51.36038558862768",
    "longitude": "1.1151764075620925",
    "status": "Possible",

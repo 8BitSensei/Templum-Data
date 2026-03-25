@@ -1,7 +1,7 @@
 {
    "site": "Redhill",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "52.869084756824954",
    "longitude": "-1.2696027552718263",
    "status": "Possible",

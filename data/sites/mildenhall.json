@@ -1,7 +1,7 @@
 {
    "site": "Mildenhall",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "52.363726891270275",
    "longitude": "0.45742600076578205",
    "status": "Possible",

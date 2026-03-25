@@ -1,7 +1,7 @@
 {
    "site": "Silver Spring",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "51.2780952554623",
    "longitude": "1.0707816077059273",
    "status": "Unknown",

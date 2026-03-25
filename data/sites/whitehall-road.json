@@ -1,7 +1,7 @@
 {
    "site": "Whitehall Road",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "51.279617740366625",
    "longitude": "1.0713636721976005",
    "status": "Possible",

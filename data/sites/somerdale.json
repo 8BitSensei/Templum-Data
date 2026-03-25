@@ -1,7 +1,7 @@
 {
    "site": "Somerdale",
-   "start": "",
-   "end": "",
+   "start": "unknown",
+   "end": "unknown",
    "latitude": "51.423636509171295",
    "longitude": "-2.4933661073316866",
    "status": "Possible",

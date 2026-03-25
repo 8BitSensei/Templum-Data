@@ -1,12 +1,12 @@
 {
-   "site": "Terryglass Monastery",
-   "start": "549",
-   "end": "post 6th CE",
-   "latitude": "",
-   "longitude": "",
-   "status": "Possible",
-   "location": "Ireland, County Tipperary, Lough Derg",
-   "tags": "",
-   "description": "A monastic site purportedly founded by St.Columba of Terryglass, a disciple of St.Finnian of Clonard.",
-   "bibliography": []
+  "start": "549",
+  "bibliography": [],
+  "site": "Terryglass Monastery",
+  "latitude": "53.054840760880495",
+  "longitude": "-8.204329038816738",
+  "status": "Possible",
+  "location": "Ireland, County Tipperary, Lough Derg",
+  "tags": "",
+  "end": "post 6th CE",
+  "description": "A monastic site purportedly founded by St.Columba of Terryglass, a disciple of St.Finnian of Clonard."
 }

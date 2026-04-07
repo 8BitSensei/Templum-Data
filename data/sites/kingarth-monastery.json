@@ -1,11 +1,14 @@
 {
-  "start": "mid 6th CE",
-  "site": "Kingarth Monastery",
-  "latitude": "55.7367065",
-  "longitude": "-5.0359467",
-  "status": "Certain",
-  "location": "Scotland, Argyll and Bute, Isle of Bute, Kingarth",
-  "tags": "Church, monastery",
-  "end": "1560",
-  "description": "An early monastery reputedly founded in the 6th CE by St. Blane. The ruined church visible today is a 12th century construction,  the monastery fell out of use in 1560 during the reformation."
+   "site": "Kingarth Monastery",
+   "start": "mid 6th CE",
+   "end": "1560",
+   "latitude": "55.7367065",
+   "longitude": "-5.0359467",
+   "status": "Certain",
+   "location": "Scotland, Argyll and Bute, Isle of Bute, Kingarth",
+   "tags": "Church, monastery",
+   "description": "An early monastery reputedly founded in the 6th CE by St. Blane. The ruined church visible today is a 12th century construction,  the monastery fell out of use in 1560 during the reformation.",
+   "bibliography": [
+      "“St Blane’s Church.” Accessed April 7, 2026. https://www.historicenvironment.scot/visit-a-place/places/st-blanes-church/."
+   ]
 }

@@ -1,11 +1,14 @@
 {
-  "start": "early 6th CE",
-  "site": "Caer Gybi",
-  "latitude": "53.31141170641005",
-  "longitude": "-4.632107790505822",
-  "status": "Probable",
-  "location": "Wales, Anglesey, Holyhead",
-  "tags": "church",
-  "end": "post 6th CE",
-  "description": "An early 6th church in the remains of the Caer Gybi roman Fort. Reputedly founded by St. Cybi, the earliest reference to the church is an annal entry noting a Viking attack in the 10th century. St. Cybi's life and founding of the church is known from a 12th CE biography, and no archaeological remains from the 6th CE have been identified, none the less it is considered likely that this is indeed an early church foundation, even if the stories surrounding it are not."
+   "site": "Caer Gybi",
+   "start": "early 6th CE",
+   "end": "post 6th CE",
+   "latitude": "53.31141170641005",
+   "longitude": "-4.632107790505822",
+   "status": "Probable",
+   "location": "Wales, Anglesey, Holyhead",
+   "tags": "church",
+   "description": "An early 6th church in the remains of the Caer Gybi roman Fort. Reputedly founded by St. Cybi, the earliest reference to the church is an annal entry noting a Viking attack in the 10th century. St. Cybi's life and founding of the church is known from a 12th CE biography, and no archaeological remains from the 6th CE have been identified, none the less it is considered likely that this is indeed an early church foundation, even if the stories surrounding it are not.",
+   "bibliography": [
+      "Ó Carragáin, Tomás. In Making Christian Landscapes in Atlantic Europe: Conversion and Consolidation in the Early Middle Ages, 181, 196, 197, 199, 200, 201–2, 2017."
+   ]
 }

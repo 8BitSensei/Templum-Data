@@ -1,10 +1,21 @@
 {
-  "status": "Possible",
-  "latitude": "52.01235960540444",
-  "longitude": "-0.473693172556192",
-  "location": "England, Bedfordshire, Flitwick",
-  "site": "Ruxox Farm",
-  "description": "The Ruxox Farm site represents an extensive area of continuous human occupation from the Late Iron Age through to the early 5th century CE. Archaeological evidence reveals a complex settlement featuring a wide array of Roman artefacts, including high quantities of local and imported pottery, roof tiles, metalworking debris such as crucibles, and a cemetery containing over 30 inhumations as well as cremations. While the height of the settlement's prosperity appears to have occurred in the mid-2nd century, the broader site spans roughly 50 acres and includes traces of undisturbed sandstone foundations, plaster floors, and a possible bridge or jetty.\n\nScholars suggest a temple may have existed at Ruxox Farm due to a remarkable concentration of ritualistic finds and distinctive architectural cropmarks. Compelling evidence includes the recovery of at least 72 pipeclay figurines, potentially the largest collection from a rural site in Britain, primarily depicting the goddess Venus and _Dea Nutrix_ (Nursing Goddess). These mass-produced icons suggest a sacred focal point for healing or fertility rites, especially given that pipeclay figurines of *Dea Nutrix* have previously been associated with the burials of children. Furthermore, aerial photography has identified a possible rectangular enclosure within a larger prehistoric oval enclosure east of the farm, which would align well with layout of a Romano-British temple _temenos_.",
-  "start": "-100",
-  "end": "early 5th CE"
+   "site": "Ruxox Farm",
+   "start": "-100",
+   "end": "early 5th CE",
+   "latitude": "52.01235960540444",
+   "longitude": "-0.473693172556192",
+   "status": "Possible",
+   "location": "England, Bedfordshire, Flitwick",
+   "tags": "",
+   "description": "The Ruxox Farm site represents an extensive area of continuous human occupation from the Late Iron Age through to the early 5th century CE. Archaeological evidence reveals a complex settlement featuring a wide array of Roman artefacts, including high quantities of local and imported pottery, roof tiles, metalworking debris such as crucibles, and a cemetery containing over 30 inhumations as well as cremations. While the height of the settlement's prosperity appears to have occurred in the mid-2nd century, the broader site spans roughly 50 acres and includes traces of undisturbed sandstone foundations, plaster floors, and a possible bridge or jetty.\n\nScholars suggest a temple may have existed at Ruxox Farm due to a remarkable concentration of ritualistic finds and distinctive architectural cropmarks. Compelling evidence includes the recovery of at least 72 pipeclay figurines, potentially the largest collection from a rural site in Britain, primarily depicting the goddess Venus and _Dea Nutrix_ (Nursing Goddess). These mass-produced icons suggest a sacred focal point for healing or fertility rites, especially given that pipeclay figurines of *Dea Nutrix* have previously been associated with the burials of children. Furthermore, aerial photography has identified a possible rectangular enclosure within a larger prehistoric oval enclosure east of the farm, which would align well with layout of a Romano-British temple _temenos_.",
+   "bibliography": [
+      "“Aerial Photo | Historic England.” Accessed April 8, 2026. https://historicengland.org.uk/images-books/archive/collections/aerial-photos/record/.",
+      "Burleigh, Gilbert, and Vincent Megaw. “An Iron Age Mirror from Ruxox, Maulden, Bedfordshire.” The Antiquaries Journal 91 (September 2011): 51–58. https://doi.org/10.1017/S0003581511000102.",
+      "Clark, R. H., and T. A. Jackman. “Ruxox (TL 054 364).” South Midlands Archaeology 22 (1992): 5–6.",
+      "Dix, B. “Comments \u0026 Observations.” Historic Environment Record. LATE IRON AGE AND ROMAN OCCUPATION, Ruxox Farm. Items in Longsands Museum, 1981. https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBD918\u0026resourceID=1014.",
+      "Fadden, K. J. “Report on Romano British Artefacts Found on the Surface of Ruxox Farm in the County of Bedfordshire.” Ampthill \u0026 District Archaeological \u0026 Local History Society, 2010. https://adalhs.org.uk/downloads/Scatter%20Finds%20from%20Ruxox%20W.pdf.",
+      "Fittock, Matthew G. “Fragile Gods: Ceramic Figurines in Roman Britain.” Phd, University of Reading, 2018. https://doi.org/10.48683/1926.00080654.",
+      "“LATE IRON AGE AND ROMAN OCCUPATION, Ruxox Farm.” Monument. Historic Environment Record. Accessed April 8, 2026. https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBD918\u0026resourceID=1014.",
+      "Simco, Angela. In Survey of Bedfordshire: The Roman Period, 111. Bedford: Bedfordshire County Council, 1984."
+   ]
 }

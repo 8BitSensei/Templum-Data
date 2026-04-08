@@ -1,12 +1,12 @@
 {
-   "site": "Saighir",
-   "start": "mid 5th CE",
-   "end": "post 6th CE",
-   "latitude": "",
-   "longitude": "",
-   "status": "Possible",
-   "location": "Ireland, County Offaly, Clareen",
-   "tags": "",
-   "description": "An early monastic site purportedly founded by St.Ciarán the Elder sometime in the mid 5th CE. ",
-   "bibliography": []
+  "start": "mid 5th CE",
+  "bibliography": [],
+  "site": "Saighir",
+  "latitude": "53.07042263404612",
+  "longitude": "-7.792470413411074",
+  "status": "Possible",
+  "location": "Ireland, County Offaly, Clareen",
+  "tags": "church",
+  "end": "post 6th CE",
+  "description": "An early monastic site purportedly founded by St.Ciarán the Elder sometime in the mid 5th CE. "
 }

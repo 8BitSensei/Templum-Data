@@ -1,11 +1,17 @@
 {
-  "start": "late 5th CE",
-  "site": "Plas Gogerddan",
-  "latitude": "52.43219560233312",
-  "longitude": "-4.022136017410775",
-  "status": "Possible",
-  "location": "Wales, Credigion, Aberystwyth, Gogerddan",
-  "tags": "church, funerary, shrine",
-  "end": "unknown",
-  "description": "Plas Gogerddan is a long-lived funerary site, with a Bronze Age standing stone, round barrows, Iron Age cremation deposits, enclosures, and finally an Early Medieval cemetery. Our point of interest is a 7m x 5m rectangular timber structure enclosing a single central grave, which Ken Murphy has suggested may be an early church, possibly linked to the contemporary St. Padarn.\n\nI am skeptical of interpreting this structure as a church, or kind of early chapel. It might be better understood as a kind of funerary shrine, the stone-lined pit could plausibly have been for votive deposits or libations associated with the dead. No material was recovered from within the pit so this is speculation on my part."
+   "site": "Plas Gogerddan",
+   "start": "late 5th CE",
+   "end": "unknown",
+   "latitude": "52.43219560233312",
+   "longitude": "-4.022136017410775",
+   "status": "Possible",
+   "location": "Wales, Credigion, Aberystwyth, Gogerddan",
+   "tags": "church, funerary, shrine",
+   "description": "Plas Gogerddan is a long-lived funerary site, with a Bronze Age standing stone, round barrows, Iron Age cremation deposits, enclosures, and finally an Early Medieval cemetery. Our point of interest is a 7m x 5m rectangular timber structure enclosing a single central grave, which Ken Murphy has suggested may be an early church, possibly linked to the contemporary St. Padarn.\n\nI am skeptical of interpreting this structure as a church, or kind of early chapel. It might be better understood as a kind of funerary shrine, the stone-lined pit could plausibly have been for votive deposits or libations associated with the dead. No material was recovered from within the pit so this is speculation on my part.",
+   "bibliography": [
+      "“Details | 310262 | Sites | Coflein.” Accessed April 9, 2026. https://coflein.gov.uk/en/sites/310262.",
+      "Heneb: The Trust for Welsh Archaeology. Pagans to Christians. Ken Murphy, Heneb: The Trust for Welsh Archaeology., 2025. https://www.youtube.com/watch?v=ht4J3nRFOMU.",
+      "Murphy, Kenneth, H. N. Savory, A. E. Caseldine, Q. Dresser, G. Williams, J. L. Wilkinson, and J. Crowther. “Plas Gogerddan, Dyfed: A Multi-Period Burial and Ritual Site.” Archaeological Journal 149, no. 1 (January 1, 1992): 1–38. https://doi.org/10.1080/00665983.1992.11078005.",
+      "“Square EM Funerary Structure, Here Considered Possibly an Early Church, but Ver,” n.d."
+   ]
 }

@@ -1,11 +1,17 @@
 {
-  "start": "79",
-  "site": "Elliptical Building",
-  "latitude": "53.19143544423611",
-  "longitude": "-2.893503211166202",
-  "status": "Possible",
-  "location": "England, Cheshire, Chester",
-  "tags": "elliptical, imperial, monumental",
-  "end": "late 4th CE",
-  "description": "The Elliptical Building discovered inside the legionary fortress of Deva Victrix is a unique structure whose unusual form has led to a wide range of interpretations, including a monumental temple connected to the Imperial Cult. Largely uncovered during rescue excavations in the late 1960s, it is a massive 60 x 30m building dressed with high-quality masonry. An internal courtyard contains a central fountain or monument, surrounded by twelve wedge-shaped rooms. These have been interpreted as possible shrines for the twelve major deities of the Roman pantheon (the _Dii Consentes_) or perhaps the twelve signs of the Zodiac.\n\nWhile the original excavations have been criticised for their poor quality, limiting our knowledge of the site, a lead water pipe was discovered with an inscription dating its manufacture to early 79 CE—only a few years after the fortress was founded. Construction appears to have been quickly abandoned, with the building only completed in the early 3rd century CE in a simplified form. The last known alterations date to around 375 CE, suggesting the building remained in use for some time after this."
+   "site": "Elliptical Building",
+   "start": "79",
+   "end": "late 4th CE",
+   "latitude": "53.19143544423611",
+   "longitude": "-2.893503211166202",
+   "status": "Possible",
+   "location": "England, Cheshire, Chester",
+   "tags": "elliptical, imperial, monumental",
+   "description": "The Elliptical Building discovered inside the legionary fortress of Deva Victrix is a unique structure whose unusual form has led to a wide range of interpretations, including a monumental temple connected to the Imperial Cult. Largely uncovered during rescue excavations in the late 1960s, it is a massive 60 x 30m building dressed with high-quality masonry. An internal courtyard contains a central fountain or monument, surrounded by twelve wedge-shaped rooms. These have been interpreted as possible shrines for the twelve major deities of the Roman pantheon (the _Dii Consentes_) or perhaps the twelve signs of the Zodiac.\n\nWhile the original excavations have been criticised for their poor quality, limiting our knowledge of the site, a lead water pipe was discovered with an inscription dating its manufacture to early 79 CE—only a few years after the fortress was founded. Construction appears to have been quickly abandoned, with the building only completed in the early 3rd century CE in a simplified form. The last known alterations date to around 375 CE, suggesting the building remained in use for some time after this.",
+   "bibliography": [
+      "Mason, D. “Chester the Elliptical Building.” Current Archaeology, 2000. https://archaeology.co.uk/articles/opinion/excavating-the-ca-archives-roman-chester.htm.",
+      "———. “The Roman Elliptical Building In Chester.” MASON WELLAND, 2020. https://web.archive.org/web/20200223000558/http://www.take27.co.uk/julianbaum/ChesterProject/EB/EB.html.",
+      "Mason, David J. P. Excavation at Chester, the Elliptical Building: An Image of the Roman World - Excavations in 1939 and 1963-9: No. 12. Chester: Chester Archaeological Society, 2001.",
+      "White, Roger. “Excavations at Chester. The Elliptical Building: An Image of the Roman World? Excavations in 1939 and 1963–9. By D.J.P. Mason. Chester Archaeology Excavation and Survey Report 12. Chester City Council. Chester, 2000. Pp. Xi + 187, Illus 129. Price: £25.00. ISBN 1 8725 8715 1.” Britannia 34 (2003): 389–90. https://doi.org/10.2307/3558559."
+   ]
 }

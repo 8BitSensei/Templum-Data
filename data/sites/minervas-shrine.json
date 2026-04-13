@@ -1,11 +1,19 @@
 {
-  "start": "late 1st CE",
-  "site": "Minerva's Shrine",
-  "latitude": "53.184307584716336",
-  "longitude": "-2.88933493561012",
-  "status": "Certain",
-  "location": "England, Cheshire, Chester, Handbridge, Edgar Place",
-  "tags": "minerva, quarry, shrine",
-  "end": "unknown",
-  "description": "A Roman quarry site south east of the Roman fort of Deva Victrix on the other side of the river Dee. A rock outcropping in the quarry has a carving of the goddess Minerva on the face of it, this is believed to have been carved while the quarry was in use, around the time the fort was being constructed. A small cave is cut into the rock behind the depiction of Minerva and this is believed to have been where votive offerings were placed.\nThe quarry went out of use some time in the early 2nd CE, and it is possible the shrine fell out of use at this time also if it was primarily used by labourers. But, the shrine has remained visible up until this day, and so may have continued to be used intermittently at any time between the present and its construction. The Historic England record for the quarry suggests it may have been adopted as a Christian shrine in later centuries to explain its survival, but there is no real evidence for this.\nThe stone structure surrounding the carving today was created in the 19th CE to protect it from damage."
+   "site": "Minerva's Shrine",
+   "start": "late 1st CE",
+   "end": "unknown",
+   "latitude": "53.184307584716336",
+   "longitude": "-2.88933493561012",
+   "status": "Certain",
+   "location": "England, Cheshire, Chester, Handbridge, Edgar Place",
+   "tags": "minerva, quarry, shrine",
+   "description": "A Roman quarry site south east of the Roman fort of Deva Victrix on the other side of the river Dee. A rock outcropping in the quarry has a carving of the goddess Minerva on the face of it, this is believed to have been carved while the quarry was in use, around the time the fort was being constructed. A small cave is cut into the rock behind the depiction of Minerva and this is believed to have been where votive offerings were placed.\nThe quarry went out of use some time in the early 2nd CE, and it is possible the shrine fell out of use at this time also if it was primarily used by labourers. But, the shrine has remained visible up until this day, and so may have continued to be used intermittently at any time between the present and its construction. The Historic England record for the quarry suggests it may have been adopted as a Christian shrine in later centuries to explain its survival, but there is no real evidence for this.\nThe stone structure surrounding the carving today was created in the 19th CE to protect it from damage.",
+   "bibliography": [
+      "Archaeo𝔡𝔢𝔞𝔱𝔥. “Chester’s Minerva Shrine to Get a Digital Afterlife?,” February 15, 2019. https://howardwilliamsblog.wordpress.com/2019/02/15/chesters-minerva-shrine-to-get-a-digital-afterlife/.",
+      "“Heritage Gateway - Results.” Accessed April 13, 2026. https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=69101\u0026resourceID=19191.",
+      "RogerLang. Minerva Shrine, Chester, 2019. https://vimeo.com/310318096.",
+      "“Roman Quarry Including Edgar’s Cave and the Rock-Cut Figure of Minerva on Edgar’s Field, 150m South West of Dee Bridge, Non Civil Parish - 1014718 | Historic England.” Accessed April 13, 2026. https://historicengland.org.uk/listing/the-list/list-entry/1014718.",
+      "“Roman Shrine to Minerva, Non Civil Parish - 1375783 | Historic England.” Accessed April 13, 2026. https://historicengland.org.uk/listing/the-list/list-entry/1375783.",
+      "Smith, C. Roach. “Notes on Roman Remains at Chester.” Journal of the British Archaeological Association 5, no. 3 (October 1, 1849): 207–33. https://doi.org/10.1080/00681288.1849.11886889."
+   ]
 }

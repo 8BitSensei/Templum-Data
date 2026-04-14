@@ -1,9 +1,18 @@
 {
-  "status": "Probable",
-  "site": "North East Temple",
-  "location": "England, Cheshire, Chester",
-  "description": "A partial inscription recovered from the north eastern part of the Roman wall surrounding Chester. Haverfield suggested in 1890 that it was from an *epistylium* and recorded the construction of a Temple and colonnade. As the inscription was found in the wall we cannot say where the temple was located, but it seems likely the inscription comes from an earlier period of Roman Chester, being recycled into the walls which were reconstructed in stone during the 2nd CE.",
-  "start": "late 1st CE",
-  "end": "unknown",
-  "tags": "inscription"
+   "site": "North East Temple",
+   "start": "late 1st CE",
+   "end": "unknown",
+   "latitude": "",
+   "longitude": "",
+   "status": "Probable",
+   "location": "England, Cheshire, Chester",
+   "tags": "inscription",
+   "description": "A partial inscription recovered from the north eastern part of the Roman wall surrounding Chester. Haverfield suggested in 1890 that it was from an *epistylium* and recorded the construction of a Temple and colonnade. As the inscription was found in the wall we cannot say where the temple was located, but it seems likely the inscription comes from an earlier period of Roman Chester, being recycled into the walls which were reconstructed in stone during the 2nd CE.",
+   "bibliography": [
+      "De Gray Birch, W. “The Inscribed Roman Stones Recently Found at Chester, during the Second Series of Repairs to the North Wall.” Journal of the Chester Archaeological Society 2 (1888): 126. https://doi.org/10.5284/1069885.",
+      "Haverfield, F J. “Roman Inscriptions in Britain, 1888-1890.” The Archaeological Journal 47 (1890): 245. https://doi.org/10.5284/1067877.",
+      "“RIB 466. Fragmentary Inscription | Roman Inscriptions of Britain.” Inscription. Accessed April 7, 2026. https://romaninscriptionsofbritain.org/inscriptions/466.",
+      "“SeriesInformation,” n.d.",
+      "“SeriesInformation,” n.d."
+   ]
 }

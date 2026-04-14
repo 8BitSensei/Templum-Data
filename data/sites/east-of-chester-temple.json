@@ -1,9 +1,14 @@
 {
-  "status": "Probable",
-  "site": "East of Chester Temple",
-  "location": "England, Cheshire, Chester",
-  "description": "Excavations in 2002 of an area known as the Bars revealed a dedicatory inscription interpreted as referencing a fulfilled vow to an unnamed god. Given that this occurred on a dedication slab usually reserved for buildings, this has been interpreted as a reference to the construction of a temple. It remains possible how ever that this could be a reference to some other kind of construction project.\n\nThe inscription was recovered from a robber trench, some time in the mid 2nd CE stone had been recovered from a gully and the inscription along with other material was used to fill in the trench. The location of the temple is thus uncertain, but it's construction must date between this time and the founding of Roman Chester.",
-  "start": "late 1st CE",
-  "end": "unknown",
-  "tags": "inscription, dedication"
+   "site": "East of Chester Temple",
+   "start": "late 1st CE",
+   "end": "unknown",
+   "latitude": "",
+   "longitude": "",
+   "status": "Probable",
+   "location": "England, Cheshire, Chester",
+   "tags": "inscription, dedication",
+   "description": "Excavations in 2002 of an area known as the Bars revealed a dedicatory inscription interpreted as referencing a fulfilled vow to an unnamed god. Given that this occurred on a dedication slab usually reserved for buildings, this has been interpreted as a reference to the construction of a temple. It remains possible how ever that this could be a reference to some other kind of construction project.\n\nThe inscription was recovered from a robber trench, some time in the mid 2nd CE stone had been recovered from a gully and the inscription along with other material was used to fill in the trench. The location of the temple is thus uncertain, but it's construction must date between this time and the founding of Roman Chester.",
+   "bibliography": [
+      "“Excavations at Chester, the Northern and Eastern Roman Extramural Settlements.” Accessed April 14, 2026. https://blackwells.co.uk/bookshop/product/Excavations-at-Chester-the-Northern-and-Eastern-Roman-Extramural-Settlements-by-Leigh-Dodd/9781789696271."
+   ]
 }

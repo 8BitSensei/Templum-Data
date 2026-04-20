@@ -1,0 +1,11 @@
+{
+  "start": "80",
+  "site": "Castra Exploratorum Temple",
+  "latitude": "55.03568438237085",
+  "longitude": "-2.945027906623563",
+  "status": "Certain",
+  "location": "England, Cumbria, Carlisle, Netherby Hall",
+  "tags": "inscription, roman, fort, legionary",
+  "end": "unknown",
+  "description": "An inscription from Netherby Hall dated to the year 222 CE references restoring a temple that had fallen through excessive age. Its exact location is not known, but it will have stood somewhere in the vicinity of Netherby Hall.\n\nThe date of the temple cannot be presumed from this inscription, but if it is old by the time of its reconstruction it may be as old as the fort itself if we assume no prior sanctuary or shrine was present. This would place its construction sometime not long after 80 CE, it may have then gone out of use in the 4th CE but I will not assume this."
+}

@@ -1,11 +1,17 @@
 {
-  "start": "early 2nd CE",
-  "site": "Fanum Cocidi",
-  "latitude": "55.06428081775831",
-  "longitude": "-2.6819710843133135",
-  "status": "Certain",
-  "location": "England, Cumbria, Bewcastle Roman Fort",
-  "tags": "roman, cocidius, shrine, fanum",
-  "end": "late 4th CE",
-  "description": "A location identified solely in the Ravenna Cosmography, the place name is interpreted as \"Shrine of Cocidius\". It has been identified as the Roman fort at Bewcastle based on its position in the Ravenna Cosmography and high concentration of dedications to Cocidius in and around the site.\n\nNo specific religious architecture such as a shrine or temple is known from the fort. The fact that a latin word 'fanum' is used rather than a local term (c.f. Medionemeton) may suggest that any such shrine were a Roman project rather than appropriation of a pre-Roman sacred space. If we assume the fanum is co-terminus with the fort that places it in an early 2nd CE to mid or late 4th CE range."
+   "site": "Fanum Cocidi",
+   "start": "early 2nd CE",
+   "end": "late 4th CE",
+   "latitude": "55.06428081775831",
+   "longitude": "-2.6819710843133135",
+   "status": "Certain",
+   "location": "England, Cumbria, Bewcastle Roman Fort",
+   "tags": "roman, cocidius, shrine, fanum",
+   "description": "A location identified solely in the Ravenna Cosmography, the place name is interpreted as \"Shrine of Cocidius\". It has been identified as the Roman fort at Bewcastle based on its position in the Ravenna Cosmography and high concentration of dedications to Cocidius in and around the site.\n\nNo specific religious architecture such as a shrine or temple is known from the fort. The fact that a latin word 'fanum' is used rather than a local term (c.f. Medionemeton) may suggest that any such shrine were a Roman project rather than appropriation of a pre-Roman sacred space. If we assume the fanum is co-terminus with the fort that places it in an early 2nd CE to mid or late 4th CE range.",
+   "bibliography": [
+      "A. L. F, Rivet, and Smith C. “Fanum Cocidi,” 363. The Place-Names of Roman Britain, 1979.",
+      "“BRITANNIA IN THE RAVENNA COSMOGRAPHY: A REASSESSMENT.” Accessed April 24, 2026. https://www.academia.edu/4175080/BRITANNIA_IN_THE_RAVENNA_COSMOGRAPHY_A_REASSESSMENT.",
+      "E, Birley. Research on Hadrian’s Wall, 1961.",
+      "“Heritage Gateway - Results.” Accessed April 24, 2026. https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=13013\u0026resourceID=19191."
+   ]
 }

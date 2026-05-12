@@ -1,11 +1,14 @@
 {
-  "start": "early 2nd CE",
-  "site": "Bewcastle Jupiter Temple",
-  "latitude": "55.0639514310841",
-  "longitude": "-2.6823368700425254",
-  "status": "Certain",
-  "location": "England, Cumbria, Bewcastle",
-  "tags": "jupiter, roman, jupiter dolichenus, inscription, millitary",
-  "end": "late 4th Ce",
-  "description": "A Roman inscription found in the mid 19th CE at the Roman fort of Bewcastle (identified as Fanum Cocidii). The inscription had been used in the field wall between the north-west corner of the church yard and Demesne far, where it was recovered by Maughan. It references the construction of a temple for Jupiter Optimus Maximus of Doliche (Jupiter Dolichenus). The original location of the temple is unknown, presumably its use was co-terminus with that of the fort, placing it in an early 2nd CE - late 4th CE date range."
+   "site": "Bewcastle Jupiter Temple",
+   "start": "early 2nd CE",
+   "end": "late 4th Ce",
+   "latitude": "55.0639514310841",
+   "longitude": "-2.6823368700425254",
+   "status": "Certain",
+   "location": "England, Cumbria, Bewcastle",
+   "tags": "jupiter, roman, jupiter dolichenus, inscription, millitary",
+   "description": "A Roman inscription found in the mid 19th CE at the Roman fort of Bewcastle (identified as Fanum Cocidii). The inscription had been used in the field wall between the north-west corner of the church yard and Demesne far, where it was recovered by Maughan. It references the construction of a temple for Jupiter Optimus Maximus of Doliche (Jupiter Dolichenus). The original location of the temple is unknown, presumably its use was co-terminus with that of the fort, placing it in an early 2nd CE - late 4th CE date range.",
+   "bibliography": [
+      "“RIB 992. Dedication to Jupiter Optimus Maximus of Doliche | Roman Inscriptions of Britain.” Inscription. Accessed April 7, 2026. https://romaninscriptionsofbritain.org/inscriptions/992."
+   ]
 }

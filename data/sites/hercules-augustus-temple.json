@@ -1,11 +1,14 @@
 {
-  "start": "mid 2nd CE",
-  "site": "Hercules Augustus Temple",
-  "latitude": "53.33958067682948",
-  "longitude": "-1.7225424660151034",
-  "status": "Certain",
-  "location": "England, Derbyshire, Hope Valley, Brough",
-  "tags": "roman, hercules, civil",
-  "end": "mid 4th CE",
-  "description": "An inscribed altar discovered in 1979. It is dedicated to Hercules Augustus and references the restoration of his temple. It was found around 225m south-east of the Roman fort of Navio and the referenced temple is thought to have been apart of the surrounding vicus. No associated temple structure has yet been discovered so we cannot provide an exact location or close dating. The fort was built around 80 CE, and was briefly abandoned before being re-established in the mid 2nd CE, Historic England reports that the vicus declined in the 4th CE along with the fort. We are forced to assume that the temple existed somewhere in this timeframe, possibly from the late 1st CE or perhaps more likely the mid 2nd CE, until decline in the 4th CE."
+   "site": "Hercules Augustus Temple",
+   "start": "mid 2nd CE",
+   "end": "mid 4th CE",
+   "latitude": "53.33958067682948",
+   "longitude": "-1.7225424660151034",
+   "status": "Certain",
+   "location": "England, Derbyshire, Hope Valley, Brough",
+   "tags": "roman, hercules, civil",
+   "description": "An inscribed altar discovered in 1979. It is dedicated to Hercules Augustus and references the restoration of his temple. It was found around 225m south-east of the Roman fort of Navio and the referenced temple is thought to have been apart of the surrounding vicus. No associated temple structure has yet been discovered so we cannot provide an exact location or close dating. The fort was built around 80 CE, and was briefly abandoned before being re-established in the mid 2nd CE, Historic England reports that the vicus declined in the 4th CE along with the fort. We are forced to assume that the temple existed somewhere in this timeframe, possibly from the late 1st CE or perhaps more likely the mid 2nd CE, until decline in the 4th CE.",
+   "bibliography": [
+      "“RIB 3181. Altar Dedicated to Hercules Augustus | Roman Inscriptions of Britain.” Inscription. Accessed April 7, 2026. https://romaninscriptionsofbritain.org/inscriptions/3181."
+   ]
 }

@@ -1,11 +1,16 @@
 {
-  "start": "mid 5th CE",
-  "site": "Dewlish Roman Villa",
-  "latitude": "50.77404381503655",
-  "longitude": "-2.330796670724247",
-  "status": "Possible",
-  "location": "England, Dorset",
-  "tags": "villa, shrine, domestic",
-  "end": "early 5th CE",
-  "description": "A Roman villa on the grounds of Dewlish house, primarily excavated between 1969 and 1979 by Putnam. A building constructed in the fourth phase of the villa has been variously identified as 'shrine-like' or even explicitly as a 'temple' (building 5), an associated building (building 6) was described by Putnam as a 'priest's house'. The villa went through a phase of aggrandisement in the early 4th CE which ultimately lead to the construction of the shrine-like building, probably around the mid 4th CE. The villa seems to have been in some state of disrepair by the early 5th CE but was still in use. "
+   "site": "Dewlish Roman Villa",
+   "start": "mid 5th CE",
+   "end": "early 5th CE",
+   "latitude": "50.77404381503655",
+   "longitude": "-2.330796670724247",
+   "status": "Possible",
+   "location": "England, Dorset",
+   "tags": "villa, shrine, domestic",
+   "description": "A Roman villa on the grounds of Dewlish house, primarily excavated between 1969 and 1979 by Putnam. A building constructed in the fourth phase of the villa has been variously identified as 'shrine-like' or even explicitly as a 'temple' (building 5), an associated building (building 6) was described by Putnam as a 'priest's house'. The villa went through a phase of aggrandisement in the early 4th CE which ultimately lead to the construction of the shrine-like building, probably around the mid 4th CE. The villa seems to have been in some state of disrepair by the early 5th CE but was still in use. ",
+   "bibliography": [
+      "Hewitt, Iain. Dewlish Roman Villa Dorset: Bill Putnam’s Excavations 1969-1979, 2021.",
+      "Hewitt, Iain, and Tilia Cammegh. “Dewlish Roman Villa, Dorset.” Bournemouth University, 2015. https://eprints.bournemouth.ac.uk/23454/1/ARA%20News%2034%20-%20Dewlish_v2.pdf.",
+      "Rippon, Stephen, and David Gould, eds. “Regional Identities in the Roman Period: Dumnonia and the Wider South-West of Britain.” In Roman and Medieval Exeter and Their Hinterlands: From Isca to Escanceaster: Exeter, A Place in Time Volume I. Oxbow Books, 2021. https://doi.org/10.2307/j.ctv2npq99t."
+   ]
 }

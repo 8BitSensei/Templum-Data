@@ -1,11 +1,17 @@
 {
-  "start": "mid 4th CE",
-  "site": "Frampton Villa",
-  "latitude": "50.75651675404421",
-  "longitude": "-2.546146942733657",
-  "status": "Possible",
-  "location": "England, Dorset, Maiden Newton",
-  "tags": "roman, villa, gnostic, mosaics",
-  "end": "unknown",
-  "description": "A probable Roman villa, first excavated in 1749 and well known for its mosaics. It has long been suggested that it may be a religious sanctuary rather than a domestic villa, and Perring has interpreted the famous mosaics as expressing late antique Gnostic beliefs. Dating is uncertain, the mosaics have been argued to have been lain around the mid 4th CE, but the origin of the building is uncertain, it may originate from the same time period. When the structure fell out of use is also uncertain."
+   "site": "Frampton Villa",
+   "start": "mid 4th CE",
+   "end": "unknown",
+   "latitude": "50.75651675404421",
+   "longitude": "-2.546146942733657",
+   "status": "Possible",
+   "location": "England, Dorset, Maiden Newton",
+   "tags": "roman, villa, gnostic, mosaics",
+   "description": "A probable Roman villa, first excavated in 1749 and well known for its mosaics. It has long been suggested that it may be a religious sanctuary rather than a domestic villa, and Perring has interpreted the famous mosaics as expressing late antique Gnostic beliefs. Dating is uncertain, the mosaics have been argued to have been lain around the mid 4th CE, but the origin of the building is uncertain, it may originate from the same time period. When the structure fell out of use is also uncertain.",
+   "bibliography": [
+      "Cheetham, Paul, Miles Russell, and Dave Stewart. “The Temple or Room? The Interpretation of Frampton Roman Temple/Villa Site in the LIght of Recent Geophysical Survey Results.” edited by P. LInford. The Geological Society, Burlington House, London, 2018. http://www.archprospection.org/sites/archprospection.org/files/ArchGeo18_abstracts.pdf.",
+      "Perring, Dominic. “Deconstructing the Frampton Pavements: Gnostic Dialectic in Roman Britain?,” 2003.",
+      "———. “‘Gnosticism’ in Fourth-Century Britain: The Frampton Mosaics Reconsidered,” 2003.",
+      "Stewart, Dave, Miles Russell, Paul Cheetham, and Harry Manley. “Frampton Roman Villa: An Interim Statement on Excavations in 2019 \u0026 2020,” 2020. https://www.academia.edu/45121008/Frampton_Roman_Villa_an_interim_statement_on_excavations_in_2019_and_2020."
+   ]
 }

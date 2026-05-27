@@ -1,11 +1,22 @@
 {
-  "start": "late 1st CE",
-  "site": "Colchester 6",
-  "latitude": "51.883024848800666",
-  "longitude": "0.8794394612414477",
-  "status": "Certain",
-  "location": "England, Essex, Colchester",
-  "tags": "roman, wooden, silvanus",
-  "end": "early 3rd CE",
-  "description": "A square temple identified by cropmarks on the playing grounds of Colchester Royal Grammar School. Only partially excavated in 1947, it was revealed to be a square cella inside of a walled enclosure, in the southern section of the enclosure is a rectangular building taken to be a 'temple-hall' for feasting and other functions. The temple appears to have been South East facing and the entrance to the enclosure was aligned. \n\nA ditch inside the enclosure surrounds the temple building, this has been identified as an earlier boundary that may have held a stockade before a larger stone enclosure wall was built around it, the excavators suggested that in this earlier phase the temple may have been a wattle and daub structure rather than stone.\n\nTwo pits were identified in the enclosure, but outside of the ditched enclosure. The larger and more fully excavated of the two is just outside the ditch and just north of a metalled path leading into the enclosure. It appears to have been dug in the Hadrianic era, and was mostly filled with building material and what the excavators deemed 'rubbish'. Two dedications to Silvanus were also found (RIB 194 and 195), as well as a bronze figure of a stag (though this may have been from a later phase). \n\nBased on pottery and coins use of the temple appears to have waned at the end of the 2nd CE or perhaps the early 3rd CE, but no evidence was found that would tell us when the temple fell into ruin or was totally abandoned."
+   "site": "Colchester 6",
+   "start": "late 1st CE",
+   "end": "early 3rd CE",
+   "latitude": "51.883024848800666",
+   "longitude": "0.8794394612414477",
+   "status": "Certain",
+   "location": "England, Essex, Colchester",
+   "tags": "roman, wooden, silvanus",
+   "description": "A square temple identified by cropmarks on the playing grounds of Colchester Royal Grammar School. Only partially excavated in 1947, it was revealed to be a square cella inside of a walled enclosure, in the southern section of the enclosure is a rectangular building taken to be a 'temple-hall' for feasting and other functions. The temple appears to have been South East facing and the entrance to the enclosure was aligned. \n\nA ditch inside the enclosure surrounds the temple building, this has been identified as an earlier boundary that may have held a stockade before a larger stone enclosure wall was built around it, the excavators suggested that in this earlier phase the temple may have been a wattle and daub structure rather than stone.\n\nTwo pits were identified in the enclosure, but outside of the ditched enclosure. The larger and more fully excavated of the two is just outside the ditch and just north of a metalled path leading into the enclosure. It appears to have been dug in the Hadrianic era, and was mostly filled with building material and what the excavators deemed 'rubbish'. Two dedications to Silvanus were also found (RIB 194 and 195), as well as a bronze figure of a stag (though this may have been from a later phase). \n\nBased on pottery and coins use of the temple appears to have waned at the end of the 2nd CE or perhaps the early 3rd CE, but no evidence was found that would tell us when the temple fell into ruin or was totally abandoned.",
+   "bibliography": [
+      "Hull, M. R. “The Temple on the Grammar School Field.” In Roman Colchester, 236 ff. Society of Antiquaries, 1958.",
+      "———. In Roman Colchester (Guide), 48, 1961.",
+      "Lewis. Temples in Roman Britain, 1966.",
+      "“MCC1968 - Roman Building within Temple Precinct, Royal Grammar School Playing Field, Colchester - Colchester Heritage Explorer.” Accessed May 21, 2026. https://www.colchesterheritage.co.uk/Monument/MCC1968.",
+      "Parmenter, Pip. “Archaeological Evaluation on the Colchester Royal Grammar School Playing Fields,” 2019. https://catuk.org/wp-content/uploads/2025/05/CAT-report-1501.pdf.",
+      "“RIB 194. Dedication to Silvanus Callirius | Roman Inscriptions of Britain.” Inscription. Accessed May 27, 2026. https://romaninscriptionsofbritain.org/inscriptions/194.",
+      "“RIB 195. Dedication to Silvanus | Roman Inscriptions of Britain.” Inscription. Accessed May 27, 2026. https://romaninscriptionsofbritain.org/inscriptions/195.",
+      "Wright, R. P. “Roman Britain in 1946: I. Sites Explored: II. Inscriptions.” Journal of Roman Studies 37 (1947): 178.",
+      "———. “Roman Britain in 1947: I. Sites Explored: II. Inscriptions.” Journal of Roman Studies 38 (1948): 100."
+   ]
 }

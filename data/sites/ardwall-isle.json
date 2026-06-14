@@ -1,11 +1,15 @@
 {
-  "start": "late 5th CE",
-  "site": "Ardwall Isle",
-  "latitude": "54.82053411662089",
-  "longitude": "-4.22301837963859",
-  "status": "Certain",
-  "location": "Scotland, Galloway",
-  "tags": "chapel, oratory, slab-shrine, christian",
-  "end": "mid 13th CE",
-  "description": "A 6th or late 5th CE enclose cemetery that shows evidence of an early 'slab-shrine' from around this date. At some point a timber chapel or oratory was built on the location which was replaced by a much larger stone built chapel by the early 8th CE. This chapel continued in place for some time but ultimately it appears to have been destroyed and a hall-house constructed over it in the mid 13th CE.\n"
+   "site": "Ardwall Isle",
+   "start": "late 5th CE",
+   "end": "mid 13th CE",
+   "latitude": "54.82053411662089",
+   "longitude": "-4.22301837963859",
+   "status": "Certain",
+   "location": "Scotland, Galloway",
+   "tags": "chapel, oratory, slab-shrine, christian",
+   "description": "A 6th or late 5th CE enclose cemetery that shows evidence of an early 'slab-shrine' from around this date. At some point a timber chapel or oratory was built on the location which was replaced by a much larger stone built chapel by the early 8th CE. This chapel continued in place for some time but ultimately it appears to have been destroyed and a hall-house constructed over it in the mid 13th CE.\n",
+   "bibliography": [
+      "Farewell, and Molleson. “Excavations at Poundbury 1966-1980.” In Dorset Natural History and Archaeological Society Monograph Series, 2:219. 11, 1993.",
+      "Thomas, Charles. “An Early Christian Cemetery and Chapel on Ardwall Isle, Kirkcudbright.” Medieval Archaeology 11, no. 1 (1967): 127–88. https://doi.org/10.1080/00766097.1967.11735294."
+   ]
 }
